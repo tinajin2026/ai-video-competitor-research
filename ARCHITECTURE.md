@@ -15,3 +15,7 @@ TabAPI 原始响应保留在上一级采集目录，不进入公开源仓库。�
 ## 更新与回滚
 
 build.py 确定性生成 public；test_site.py 校验覆盖、数值、引用、页面链接与数据边界。GitHub workflow 在提交后校验构建；Pages workflow 需仓库 owner 在 Settings 开启 GitHub Actions 源后使用。Sites 本次为显式快照部署，GitHub 提交不会自动更新 Sites。回滚用历史 Git commit 构建或重新发布已有 Sites version。无自动采集和定时任务。
+
+## Sites 发布目录
+
+本地与 GitHub Pages 的构建目录为 `public/`。Sites 托管协议只接受其指定目录，因此发布归档将该目录逐文件映射为 `dist/`，并使用 `.openai/hosting.json` 的 `static: "dist"`。这仅改变归档路径，不改变页面内容或链接；无需在仓库维护第二份构建产物。
