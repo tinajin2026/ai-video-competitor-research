@@ -47,11 +47,13 @@ python3 -m http.server 8770 --directory public
 
 没有账号的产品先经人工确认更新 accounts.json 再采集。Seedance 与 Dreamina 保持两个产品 ID；不要自动把全部 @dreamina_ai 帖子算给两者。Higgsfield 用户清单 handle 与官网社交元数据有差异，应接入前核对。OpenAI、xAI 等母账号必须提供产品相关性依据。当前工具只校验格式/映射，不能证明原帖真实；BOT 必须从原帖/API 获取并保留出处。
 
-## 建立 GitHub 仓库并持续更新
+## GitHub 仓库与持续更新
 
-此目录可直接作为仓库根目录，已准备 CI 与 Pages 工作流。初始化/推送时只推本目录，不要把上一级 `.secrets` 或完整采集工作区放进去。无需把 TabAPI/X/Grok 密钥写入网页或仓库。
+仓库：[tinajin2026/ai-video-competitor-research](https://github.com/tinajin2026/ai-video-competitor-research)。机器人执行说明见 [GROK.md](GROK.md)。
 
-1. 创建自己的 GitHub 仓库，将本目录文件推送到 main。
+此目录为仓库根目录，已准备 CI 与 Pages 工作流。初始化/推送时只推本目录，不要把上一级 `.secrets` 或完整采集工作区放进去。无需把 TabAPI/X/Grok 密钥写入网页或仓库。
+
+1. 克隆上述仓库，从 main 创建数据更新分支。
 2. Settings → Pages 将 Source 设为 GitHub Actions。已提供 `pages.yml`，main 提交后校验并发布 `public/`。
 3. 给 Grok BOT 最小的目标仓库内容写权限，建议提交 PR；机器人只提交 data/inbox 文件，不改页面代码。
 4. 工作流重放 inbox、校验并生成所有独立页面。失败时阻止新部署，保留上一版本。
