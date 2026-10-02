@@ -1,0 +1,145 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "klingai.com",
+  "measurement": "第三方域名级估算",
+  "data": {
+    "domain": "klingai.com",
+    "overview": {
+      "global_rank": 29560,
+      "country_rank": {
+        "country": "CN",
+        "rank": 1400
+      },
+      "visits": 1895728,
+      "bounce_rate": 0.5196028315595145,
+      "pages_per_visit": 3.3456103410486846,
+      "time_on_site_seconds": 177.38663610801316,
+      "month": "2026-08"
+    },
+    "monthly_visits": [
+      {
+        "month": "2025-09",
+        "visits": 11509628
+      },
+      {
+        "month": "2025-10",
+        "visits": 10425744
+      },
+      {
+        "month": "2025-11",
+        "visits": 10063049
+      },
+      {
+        "month": "2025-12",
+        "visits": 13463117
+      },
+      {
+        "month": "2026-01",
+        "visits": 14627387
+      },
+      {
+        "month": "2026-02",
+        "visits": 13946132
+      },
+      {
+        "month": "2026-03",
+        "visits": 13947033
+      },
+      {
+        "month": "2026-04",
+        "visits": 3948473
+      },
+      {
+        "month": "2026-05",
+        "visits": 3046486
+      },
+      {
+        "month": "2026-06",
+        "visits": 2623453
+      },
+      {
+        "month": "2026-07",
+        "visits": 1986612
+      },
+      {
+        "month": "2026-08",
+        "visits": 1895728
+      }
+    ],
+    "traffic_sources": {
+      "direct": 0.5523,
+      "search": 0.3076,
+      "search_organic": 0.1938,
+      "search_paid": 0.1138,
+      "social": 0.0247,
+      "social_organic": 0.0243,
+      "social_paid": 0.0005,
+      "referrals": 0.0944,
+      "paid_referrals": 0.0074,
+      "mail": 0.0049,
+      "gen_ai": 0.0087,
+      "affiliate": 0.0001,
+      "other": 0
+    },
+    "top_keywords": [
+      {
+        "name": "可灵",
+        "volume": 51820,
+        "cpc": 0.61,
+        "estimated_value": 102140
+      },
+      {
+        "name": "kling ai",
+        "volume": 1451150,
+        "cpc": 0.48,
+        "estimated_value": 36870
+      },
+      {
+        "name": "可灵ai",
+        "volume": 21340,
+        "cpc": 0.66,
+        "estimated_value": 29750
+      },
+      {
+        "name": "kling",
+        "volume": 496310,
+        "cpc": 1.13,
+        "estimated_value": 5620
+      },
+      {
+        "name": "可灵 ai",
+        "volume": 3180,
+        "cpc": 0.92,
+        "estimated_value": 4940
+      }
+    ],
+    "top_regions": [
+      {
+        "country": "CN",
+        "name": "China",
+        "share": 0.7463
+      },
+      {
+        "country": "US",
+        "name": "United States",
+        "share": 0.0544
+      },
+      {
+        "country": "SG",
+        "name": "Singapore",
+        "share": 0.0162
+      },
+      {
+        "country": "HK",
+        "name": "Hong Kong",
+        "share": 0.014
+      },
+      {
+        "country": "TW",
+        "name": "Taiwan",
+        "share": 0.014
+      }
+    ]
+  }
+}

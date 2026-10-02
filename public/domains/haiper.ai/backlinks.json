@@ -1,0 +1,158 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "haiper.ai",
+  "measurement": "第三方外链样本",
+  "data": {
+    "domain": "haiper.ai",
+    "overview": {
+      "domain_rating": 64,
+      "backlinks": 16655,
+      "referring_domains": 4300,
+      "dofollow_backlinks_pct": 55,
+      "dofollow_referring_domains_pct": 72
+    },
+    "backlinks": [
+      {
+        "from_url": "https://www.thewindowsclub.com/best-free-ai-video-generators",
+        "to_url": "https://haiper.ai/",
+        "title": "Best Free AI Video Generators",
+        "anchor": "haiper.ai",
+        "domain_rating": 78
+      },
+      {
+        "from_url": "https://www.lummi.ai/blog/best-ai-video-generators",
+        "to_url": "https://haiper.ai/",
+        "title": "We tested out the 14 best AI video generators for creatives | Lummi",
+        "anchor": "Haiper AI",
+        "domain_rating": 75
+      },
+      {
+        "from_url": "https://www.media.io/comparison/haiper-ai-review.html",
+        "to_url": "https://docs.haiper.ai/introduction",
+        "title": "Haiper AI Review 2026: Text-to-Video, Credits & Exports",
+        "anchor": "Official source: Haiper AI introduction and usage documentation",
+        "domain_rating": 74
+      },
+      {
+        "from_url": "https://clideo.com/resources/best-ai-video-generators",
+        "to_url": "https://haiper.ai/",
+        "title": "Best AI Video Generators You Can Try for Free — Clideo",
+        "anchor": "Haiper.ai",
+        "domain_rating": 77
+      },
+      {
+        "from_url": "https://www.whytryai.com/p/free-ai-image-to-video-tools-tested",
+        "to_url": "https://haiper.ai/",
+        "title": "20 Free Image-to-Video AI Models: Tested & Ranked",
+        "anchor": "Haiper AI front page screenshot. AI video tool with image-to-video capabilities.",
+        "domain_rating": 37
+      },
+      {
+        "from_url": "https://curiousrefuge.com/blog/the-best-ai-video-generator",
+        "to_url": "https://haiper.ai/",
+        "title": "Which AI Video Generator is the Best? | A Breakdown of the Top AI Video Tools — Curious Refuge",
+        "anchor": "AI Video Generator | Haiper Landing Page",
+        "domain_rating": 54
+      },
+      {
+        "from_url": "https://www.encuentra-ia.com/",
+        "to_url": "https://haiper.ai/",
+        "title": "EncuentraIA | Descubre las mejores herramientas de Inteligencia Artificial",
+        "anchor": "🌐 Visitar página",
+        "domain_rating": 0
+      },
+      {
+        "from_url": "https://note.com/onemorevision/n/n0bcf27fa0b89",
+        "to_url": "https://haiper.ai/spotlight",
+        "title": "建築ビジュアルCG × AI活用法⑪｜動画生成AIが切り拓く未来のコンテンツ制作：Haiper、Runway Gen-2/Gen-3 Alpha、Soraで進化するリアル系動画生成AI｜One More Vision",
+        "anchor": "スポットライト",
+        "domain_rating": 92
+      },
+      {
+        "from_url": "https://www.awwwards.com/awwwards/collections/ai-tools-for-designers/",
+        "to_url": "https://haiper.ai/",
+        "title": "AI Tools For Designers - Awwwards",
+        "anchor": "",
+        "domain_rating": 89
+      },
+      {
+        "from_url": "https://gooodbro.com/cpa_news/fresh_news/lighten_photo_remove_background",
+        "to_url": "https://haiper.ai/home",
+        "title": "Осветлить фото и убрать фон онлайн. Простые и быстрые способы для ярких изображений | Gooodbro",
+        "anchor": "Haiper",
+        "domain_rating": 7
+      },
+      {
+        "from_url": "https://www.truefan.ai/blogs/genmo-ai-review-india-free",
+        "to_url": "https://book.haiper.ai/haiper-video-generator",
+        "title": "Genmo AI Review India Free: Best No-Cost Video Tools 2026",
+        "anchor": "Haiper AI Documentation",
+        "domain_rating": 36
+      },
+      {
+        "from_url": "https://pxz.ai/ko/blog/best-free-image-to-video-ai-tools",
+        "to_url": "https://haiper.ai/",
+        "title": "2025년 테스트 순위 선정, 무료 이미지 to 비디오 AI 도구 15선",
+        "anchor": "https://haiper.ai/",
+        "domain_rating": 38
+      },
+      {
+        "from_url": "https://www.toolify.ai/tool/ltx-studio",
+        "to_url": "https://haiper.ai/",
+        "title": "LTX Studio: AI-driven filmmaking platform for visual storytelling from concept to delivery.",
+        "anchor": "Open site",
+        "domain_rating": 73
+      },
+      {
+        "from_url": "https://medium.com/the-ai-entrepreneurs/unlocking-the-power-of-haiper-ai-your-ultimate-guide-to-video-generation-f33cb574f334",
+        "to_url": "https://haiper.ai/creation/66b62cb511b25e2a2b5b7966?source=post_page-----f33cb574f334---------------------------------------",
+        "title": "Unlocking the Power of Haiper AI: Your Ultimate Guide to Video Generation | The AI Entrepreneurs",
+        "anchor": "Haiper - AI Video Generatora nature documentary scene to capture the full migration of birds.haiper.ai",
+        "domain_rating": 94
+      },
+      {
+        "from_url": "https://fptshop.com.vn/tin-tuc/danh-gia/haiper-ai-la-gi-166159",
+        "to_url": "https://haiper.ai/",
+        "title": "Haiper AI là gì? Tính năng và hướng dẫn cách sử dụng chi tiết",
+        "anchor": "địa chỉ này",
+        "domain_rating": 76
+      },
+      {
+        "from_url": "https://heysoyselene.com/7-herramientas-ia-animar-imagenes-gratis/",
+        "to_url": "https://haiper.ai/",
+        "title": "7-herramientas-ia-animar-imagenes-gratis -",
+        "anchor": "1. Haiper",
+        "domain_rating": 6
+      },
+      {
+        "from_url": "https://www.tomsguide.com/features/5-best-ai-video-generators-tested-and-compared",
+        "to_url": "https://haiper.ai/creations",
+        "title": "I've spent 200 hours testing the best AI video generators — here's my top picks | Tom's Guide",
+        "anchor": "View at haiper.ai",
+        "domain_rating": 87
+      },
+      {
+        "from_url": "https://haiper-ai.en.softonic.com/web-apps",
+        "to_url": "https://haiper.ai/",
+        "title": "Haiper AI for AI Video generator & editor: review, features & use cases",
+        "anchor": "haiper",
+        "domain_rating": 86
+      },
+      {
+        "from_url": "https://prismindmedia.com/en-iyi-yapay-zeka-uygulamalari/",
+        "to_url": "https://haiper.ai/",
+        "title": "En İyi Yapay Zeka Araçları 2026: Ücretsiz +30 Araç!",
+        "anchor": "İncele",
+        "domain_rating": 30
+      },
+      {
+        "from_url": "https://jens.marketing/tool/haiper-fuer-ki-videos/",
+        "to_url": "https://haiper.ai/",
+        "title": "Haiper AI für KI-Videos — Tool-Test · jens.marketing",
+        "anchor": "Direkt zum Tool",
+        "domain_rating": 45
+      }
+    ]
+  }
+}

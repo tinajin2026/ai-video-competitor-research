@@ -1,0 +1,158 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "x.ai",
+  "measurement": "第三方外链样本",
+  "data": {
+    "domain": "x.ai",
+    "overview": {
+      "domain_rating": 88,
+      "backlinks": 8110240,
+      "referring_domains": 42323,
+      "dofollow_backlinks_pct": 28,
+      "dofollow_referring_domains_pct": 83
+    },
+    "backlinks": [
+      {
+        "from_url": "https://chatx.ai/",
+        "to_url": "https://x.ai/",
+        "title": "ChatX - ChatGPT, Gemini, Claude, DeepSeek, Grok",
+        "anchor": "xAI",
+        "domain_rating": 44
+      },
+      {
+        "from_url": "https://help.x.com/en/forms/account-access/regain-access",
+        "to_url": "https://x.ai/careers",
+        "title": "Regain access",
+        "anchor": "Jobs and internships",
+        "domain_rating": 97
+      },
+      {
+        "from_url": "https://play.google.com/store/apps/details?id=ai.x.grok&hl=tr",
+        "to_url": "https://x.ai/legal/privacy-policy",
+        "title": "Grok - Yapay Zeka Asistanı - Google Play'de Uygulamalar",
+        "anchor": "shieldGizlilik Politikası",
+        "domain_rating": 100
+      },
+      {
+        "from_url": "https://primo.ai/index.php/ChatGPT",
+        "to_url": "https://x.ai/",
+        "title": "ChatGPT - ChatGPT",
+        "anchor": "xAI",
+        "domain_rating": 28
+      },
+      {
+        "from_url": "https://cursor.com/",
+        "to_url": "https://x.ai/bot",
+        "title": "AI Coding Agent for Building Ambitious Software | Cursor",
+        "anchor": "Grok Bot ↗",
+        "domain_rating": 90
+      },
+      {
+        "from_url": "https://en.wikipedia.org/wiki/Grok_(chatbot)",
+        "to_url": "https://x.ai/news/grok-imagine-api",
+        "title": "Grok (chatbot)",
+        "anchor": "\"Grok Imagine API | xAI\"",
+        "domain_rating": 97
+      },
+      {
+        "from_url": "https://www.investopedia.com/articles/investing/012715/5-richest-people-world.asp",
+        "to_url": "https://x.ai/legal/privacy-policy",
+        "title": "The 10 Richest People in the World",
+        "anchor": "Privacy Policy",
+        "domain_rating": 92
+      },
+      {
+        "from_url": "https://www.igmguru.com/blog/what-is-grok-ai",
+        "to_url": "https://x.ai/news/grok-1.5",
+        "title": "What is Grok AI: How Does It Work and Useful Features",
+        "anchor": "Grok 1.5",
+        "domain_rating": 58
+      },
+      {
+        "from_url": "https://builtin.com/articles/grok",
+        "to_url": "https://x.ai/news/grok-4-1",
+        "title": "What Is Grok? What We Know About Musk’s AI Chatbot. | Built In",
+        "anchor": "Grok 4.1",
+        "domain_rating": 86
+      },
+      {
+        "from_url": "https://omarchy.org/",
+        "to_url": "https://x.ai/",
+        "title": "Omarchy - Beautiful, fun & agentic Linux by DHH",
+        "anchor": "",
+        "domain_rating": 73
+      },
+      {
+        "from_url": "https://www.soft4fun.net/tech/ai/xai-grok-4-7-coding-knowledge-work-model.htm",
+        "to_url": "https://x.ai/news/grok-4-7",
+        "title": "xAI 發表 Grok 4.7：主打程式設計與知識工作效能新王，價格打平 Grok 4.6 - 硬是要學",
+        "anchor": "xAI 官方公告",
+        "domain_rating": 57
+      },
+      {
+        "from_url": "https://www.inside.com.tw/article/42456-grok-47-xai-launch-api-github-copilot-sept-2026",
+        "to_url": "https://docs.x.ai/developers/release-notes",
+        "title": "對標 Claude Fable 5！旗艦模型 Grok 4.7 正式上線，開發者可透過 API 與 GitHub Copilot 使用 - INSIDE",
+        "anchor": "xAI 官方文件",
+        "domain_rating": 71
+      },
+      {
+        "from_url": "https://grokipedia.com/page/rGoneWildAudio",
+        "to_url": "https://accounts.x.ai/check-login?redirect=grokipedia-com&return_to=%2Fpage%2FrGoneWildAudio",
+        "title": "r/GoneWildAudio — Grokipedia",
+        "anchor": "Sign in",
+        "domain_rating": 78
+      },
+      {
+        "from_url": "https://www.socialmediatoday.com/",
+        "to_url": "https://x.ai/bot",
+        "title": "Social Media News | Social Media Today",
+        "anchor": "xAI",
+        "domain_rating": 88
+      },
+      {
+        "from_url": "https://www.coursera.org/articles/what-is-grok",
+        "to_url": "https://x.ai/news/grok-4/",
+        "title": "What is Grok? Understanding the AI Chatbot from xAI | Coursera",
+        "anchor": "Grok 4",
+        "domain_rating": 91
+      },
+      {
+        "from_url": "https://chatx.de/",
+        "to_url": "https://x.ai/",
+        "title": "ChatX - ChatGPT, Gemini, Claude, DeepSeek, Grok",
+        "anchor": "xAI",
+        "domain_rating": 53
+      },
+      {
+        "from_url": "https://www.truefoundry.com/de/blog/grok-4-1",
+        "to_url": "https://x.ai/news/grok-4/",
+        "title": "Grok 4.1 Überblick: Funktionen, Leistung und Anwendungsfälle",
+        "anchor": "xAi",
+        "domain_rating": 72
+      },
+      {
+        "from_url": "https://www.syedgakbar.com/projects/dst",
+        "to_url": "https://x.ai/news/grok-4-1/",
+        "title": "Subtitle Translator - Translate & Edit Subtitles",
+        "anchor": "Grok 4.1",
+        "domain_rating": 31
+      },
+      {
+        "from_url": "https://composio.dev/",
+        "to_url": "https://x.ai/?cta_placement=faq",
+        "title": "Composio",
+        "anchor": "Grok Bot",
+        "domain_rating": 77
+      },
+      {
+        "from_url": "https://omarchy.fr/",
+        "to_url": "https://x.ai/",
+        "title": "Omarchy — Un Linux beau, ludique et agentique par DHH",
+        "anchor": "",
+        "domain_rating": 21
+      }
+    ]
+  }
+}

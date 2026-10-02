@@ -1,0 +1,408 @@
+{
+  "schema_version": 1,
+  "product": {
+    "id": "vidu",
+    "name": "Vidu",
+    "x_handle": "ViduAI_official",
+    "homepage": "https://www.vidu.com/",
+    "ads_priority": false,
+    "traffic_domain": "vidu.com",
+    "additional_domains": [],
+    "scope_note": "域名级流量估算，非付费用户、收入或模型调用量。",
+    "shared_scope": false,
+    "domain_data": {
+      "domain": "vidu.com",
+      "traffic": {
+        "domain": "vidu.com",
+        "overview": {
+          "global_rank": 18714,
+          "country_rank": {
+            "country": "JP",
+            "rank": 5790
+          },
+          "visits": 3323188,
+          "bounce_rate": 0.28997822370892307,
+          "pages_per_visit": 4.122480280983201,
+          "time_on_site_seconds": 440.82907171924916,
+          "month": "2026-08"
+        },
+        "monthly_visits": [
+          {
+            "month": "2025-09",
+            "visits": 1829865
+          },
+          {
+            "month": "2025-10",
+            "visits": 1827646
+          },
+          {
+            "month": "2025-11",
+            "visits": 1906183
+          },
+          {
+            "month": "2025-12",
+            "visits": 1602536
+          },
+          {
+            "month": "2026-01",
+            "visits": 1610516
+          },
+          {
+            "month": "2026-02",
+            "visits": 1678882
+          },
+          {
+            "month": "2026-03",
+            "visits": 2028133
+          },
+          {
+            "month": "2026-04",
+            "visits": 2689330
+          },
+          {
+            "month": "2026-05",
+            "visits": 3269552
+          },
+          {
+            "month": "2026-06",
+            "visits": 3659615
+          },
+          {
+            "month": "2026-07",
+            "visits": 3836994
+          },
+          {
+            "month": "2026-08",
+            "visits": 3323188
+          }
+        ],
+        "traffic_sources": {
+          "direct": 0.4764,
+          "search": 0.3666,
+          "search_organic": 0.3223,
+          "search_paid": 0.0443,
+          "social": 0.0545,
+          "social_organic": 0.05,
+          "social_paid": 0.0045,
+          "referrals": 0.0558,
+          "paid_referrals": 0.0098,
+          "mail": 0.0136,
+          "gen_ai": 0.0229,
+          "affiliate": 0.0005,
+          "other": 0
+        },
+        "top_keywords": [
+          {
+            "name": "vidu",
+            "volume": 58220,
+            "cpc": 1.23,
+            "estimated_value": 107940
+          },
+          {
+            "name": "vidu ai",
+            "volume": 54270,
+            "cpc": 0.6,
+            "estimated_value": 98830
+          },
+          {
+            "name": "image to video",
+            "volume": 62000,
+            "cpc": 0.67,
+            "estimated_value": 13660
+          },
+          {
+            "name": "image to video ai",
+            "volume": 65150,
+            "cpc": 0.55,
+            "estimated_value": 3800
+          },
+          {
+            "name": "vidu studio",
+            "volume": 1170,
+            "cpc": 0.09,
+            "estimated_value": 2910
+          }
+        ],
+        "top_regions": [
+          {
+            "country": "US",
+            "name": "United States",
+            "share": 0.1553
+          },
+          {
+            "country": "JP",
+            "name": "Japan",
+            "share": 0.1206
+          },
+          {
+            "country": "IN",
+            "name": "India",
+            "share": 0.0607
+          },
+          {
+            "country": "MX",
+            "name": "Mexico",
+            "share": 0.0572
+          },
+          {
+            "country": "GB",
+            "name": "United Kingdom",
+            "share": 0.0453
+          }
+        ]
+      },
+      "traffic_evidence": "domains/vidu.com/traffic.json",
+      "traffic_status": "ok",
+      "registration_date": "1999-06-22T02:48:22Z",
+      "backlinks": {
+        "domain": "vidu.com",
+        "overview": {
+          "domain_rating": 72,
+          "backlinks": 74518,
+          "referring_domains": 7201,
+          "dofollow_backlinks_pct": 57,
+          "dofollow_referring_domains_pct": 63
+        },
+        "backlinks": [
+          {
+            "from_url": "https://codimd.apps.education.fr/s/r1H5nglAY",
+            "to_url": "https://www.vidu.com/",
+            "title": "Une sélection d’IA génératives gratuites en ligne - CodiMD",
+            "anchor": "Vidu.Studio",
+            "domain_rating": 85
+          },
+          {
+            "from_url": "https://play.google.com/store/apps/details?id=com.vidu.oversea&hl=en_IN",
+            "to_url": "https://vidu.com/",
+            "title": "Vidu - AI Video Generator – Apps on Google Play",
+            "anchor": "publicWebsite",
+            "domain_rating": 100
+          },
+          {
+            "from_url": "https://www.ai-tool.co.il/aitools/%D7%A8%D7%95%D7%91%D7%99-%D7%94%D7%91%D7%95%D7%98/",
+            "to_url": "https://www.vidu.com/",
+            "title": "הכירו את רובי הבוט - פתרון בינה מלאכותית בעברית",
+            "anchor": "",
+            "domain_rating": 1
+          },
+          {
+            "from_url": "https://vidu.en.uptodown.com/android",
+            "to_url": "https://www.vidu.com/",
+            "title": "Vidu for Android - Download the APK from Uptodown",
+            "anchor": "ShengShu AI HK Limited",
+            "domain_rating": 83
+          },
+          {
+            "from_url": "https://webcatalog.io/pt/apps/vidu-ai",
+            "to_url": "https://vidu.com/",
+            "title": "Vidu AI - Aplicativo para desktop - Mac, Windows - WebCatalog",
+            "anchor": "Website",
+            "domain_rating": 58
+          },
+          {
+            "from_url": "http://tratu.soha.vn/dict/vn_vn/B%E1%BA%A3o",
+            "to_url": "https://vidu.com/",
+            "title": "Nghĩa của từ Bảo - Từ điển Việt - Việt",
+            "anchor": "liên kết ngoài",
+            "domain_rating": 76
+          },
+          {
+            "from_url": "https://filmora.wondershare.de/trending-topic/vidu-studio-review.html",
+            "to_url": "https://www.vidu.com/create",
+            "title": "Vidu Studio Review – Verschiedene KI-Videos einfach erstellen",
+            "anchor": "Zahlungsseite",
+            "domain_rating": 61
+          },
+          {
+            "from_url": "https://iaempresa.com/6-ias-gratis-de-china",
+            "to_url": "https://platform.vidu.com/",
+            "title": "7 IAs chinas gratis en español: comparativa 2026",
+            "anchor": "Vidu S1: documentación oficial de la API",
+            "domain_rating": 0
+          },
+          {
+            "from_url": "https://www.whytryai.com/p/free-ai-image-to-video-tools-tested",
+            "to_url": "https://www.vidu.com/",
+            "title": "20 Free Image-to-Video AI Models: Tested & Ranked",
+            "anchor": "www.vidu.studio",
+            "domain_rating": 37
+          },
+          {
+            "from_url": "https://moodime.com/vgai/vidu/vidu-2-guide/",
+            "to_url": "https://www.vidu.com/pricing",
+            "title": "Vidu 2.0の使い方｜次世代動画生成AIの新機能と活用法【2026年最新】 - ReeX Japan",
+            "anchor": "Vidu 公式料金ページ",
+            "domain_rating": 6
+          },
+          {
+            "from_url": "https://www.hitpaw.com/ai-model-tips/vidu-ai.html",
+            "to_url": "https://www.vidu.com/",
+            "title": "Vidu AI Review: Fast AI Video Generator with Realistic Movements",
+            "anchor": "Vidu AI",
+            "domain_rating": 72
+          },
+          {
+            "from_url": "https://www.vidu.studio/",
+            "to_url": "https://www.vidu.com/",
+            "title": "",
+            "anchor": "",
+            "domain_rating": 59
+          },
+          {
+            "from_url": "https://dupple.com/reviews/vidu-ai",
+            "to_url": "https://www.vidu.com/",
+            "title": "Vidu AI Review 2026: Features, Pricing & Alternatives",
+            "anchor": "Try Vidu's Free AI Video Generator Get started →",
+            "domain_rating": 50
+          },
+          {
+            "from_url": "https://letsai.co.il/aitools/",
+            "to_url": "https://vidu.com/",
+            "title": "כלי בינה מלאכותית מומלצים | Let's AI בינה מלאכותית",
+            "anchor": "מעבר לכלי",
+            "domain_rating": 47
+          },
+          {
+            "from_url": "https://blog.104.com.tw/ai_tools/",
+            "to_url": "https://www.vidu.com/zh",
+            "title": "【AI懶人包】看這篇就夠！2026推薦AI免費vs訂閱工具大全，提高工作生產力&職場競爭力！（持續更新)｜104職場力",
+            "anchor": "Vidu",
+            "domain_rating": 89
+          },
+          {
+            "from_url": "https://www.atlascloud.ai/zh-TW/blog/tips/10-best-ai-video-generators-free-no-subscription-in-2026",
+            "to_url": "https://vidu.com/",
+            "title": "2026 年 10 大最佳 AI 影片產生器（免費、付費與免訂閱方案） - Atlas Cloud Blog",
+            "anchor": "Vidu.com",
+            "domain_rating": 64
+          },
+          {
+            "from_url": "https://dreamina.capcut.com/ai-video/realistic-photo-motion-image-to-video-generators-2026",
+            "to_url": "https://go.vidu.com/ai-image-to-video",
+            "title": "Dreamina vs Runway, Kling, Luma & Pika: AI Image-to-Video Generators",
+            "anchor": "image-to-video page",
+            "domain_rating": 87
+          },
+          {
+            "from_url": "https://comfyuiweb.com/es/m/vidu-ai",
+            "to_url": "https://platform.vidu.com/docs/model-map",
+            "title": "Vidu AI Generador de Video — de prueba Online con ComfyUI Web",
+            "anchor": "platform.vidu.com",
+            "domain_rating": 21
+          },
+          {
+            "from_url": "https://www.timesofai.com/top-ai-tools/ai-video-generators/",
+            "to_url": "https://vidu.com/",
+            "title": "9 Best AI Video Generators for 2026: Must-Try AI Tools",
+            "anchor": "VISIT HERE",
+            "domain_rating": 64
+          },
+          {
+            "from_url": "https://aitools.aiting.com/ja/ai/vidu",
+            "to_url": "https://www.vidu.com/",
+            "title": "Vidu AI：文章・画像から3ステップで一貫した動画生成 | AiTing AI",
+            "anchor": "ウェブサイトを開く",
+            "domain_rating": 38
+          }
+        ]
+      },
+      "backlinks_evidence": "domains/vidu.com/backlinks.json"
+    },
+    "pages": [
+      {
+        "kind": "home",
+        "label": "首页",
+        "path": "products/vidu/pages/home.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://www.vidu.com/",
+          "resolved_url": "https://www.vidu.com/",
+          "http_status": 200
+        },
+        "page": {
+          "title": "AI Video Generator for Text, Image & Reference Videos | Vidu AI"
+        },
+        "content": "首页结合影视叙事、参考生成及创作者评价，提供社区入口。"
+      },
+      {
+        "kind": "pricing",
+        "label": "定价资料",
+        "path": "products/vidu/pages/pricing.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://www.vidu.com/pricing",
+          "resolved_url": "https://www.vidu.com/pricing",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Vidu Pricing Plans for AI Video Generation | Vidu AI"
+        },
+        "content": "价格页要求查看平台消息了解升级详情；本次没有取得升级后的规则。"
+      }
+    ],
+    "searches": [],
+    "issues": [],
+    "screenshot": null,
+    "product_entry_links": []
+  },
+  "metrics": {
+    "visits": 3323188,
+    "mom": -0.1339084710583337,
+    "change3": 0.016404693976422413,
+    "rolling3": 0.3546734293099487,
+    "recent_average": 3606599.0,
+    "prior_average": 2662338.3333333335,
+    "up_streak": 0,
+    "derived_channels": {
+      "search_paid_visits": 147217.2284,
+      "social_paid_visits": 14954.346,
+      "search_organic_visits": 1071063.4923999999,
+      "social_organic_visits": 166159.40000000002,
+      "direct_visits": 1583166.7632
+    },
+    "scope": "site",
+    "profile": "首页强调影视叙事、参考生成与实时模型；站点访问不等同模型调用量。",
+    "profile_source": "products/vidu/pages/home.json"
+  },
+  "editorial": {
+    "thesis": "影视叙事与参考生成形成明确需求入口，套餐升级是接下来可跟踪的商业化事件。",
+    "focus": "8 月涨跌要放进此前月份一起看；10 月 6 日套餐升级尚未取得完整规则，不能使用未公布价格进行竞品比较。",
+    "experiment": "用一致角色的多镜头故事验证参考生成价值，并为套餐调整前后的使用成本保留同规格测算。",
+    "measure": "角色一致性、每镜头重试次数、项目成功率及单位交付成本。",
+    "watch": "10 月 6 日套餐规则、参考生成限制与社区作品主题。"
+  },
+  "activities": [
+    {
+      "product_id": "vidu",
+      "type": "community",
+      "title": "影视叙事定位与创作者社区",
+      "detail": "首页结合影视叙事、参考生成及创作者评价，提供社区入口。",
+      "anchors": [
+        "Storytelling",
+        "Join the Creative Community"
+      ],
+      "source": "products/vidu/pages/home.json",
+      "event_date": null,
+      "id": "activity-20",
+      "source_url": "https://www.vidu.com/",
+      "observed_at": "2026-10-02"
+    },
+    {
+      "product_id": "vidu",
+      "type": "operation",
+      "title": "预告 10 月 6 日套餐升级",
+      "detail": "价格页要求查看平台消息了解升级详情；本次没有取得升级后的规则。",
+      "anchors": [
+        "Plans will be upgraded on October 6"
+      ],
+      "source": "products/vidu/pages/pricing.json",
+      "event_date": null,
+      "id": "activity-60",
+      "source_url": "https://www.vidu.com/pricing",
+      "observed_at": "2026-10-02"
+    }
+  ],
+  "x_posts": []
+}

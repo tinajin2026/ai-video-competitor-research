@@ -1,0 +1,145 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "leonardo.ai",
+  "measurement": "第三方域名级估算",
+  "data": {
+    "domain": "leonardo.ai",
+    "overview": {
+      "global_rank": 4341,
+      "country_rank": {
+        "country": "IN",
+        "rank": 2323
+      },
+      "visits": 7958541,
+      "bounce_rate": 0.31427658502435624,
+      "pages_per_visit": 10.398854064920174,
+      "time_on_site_seconds": 437.8061364263297,
+      "month": "2026-08"
+    },
+    "monthly_visits": [
+      {
+        "month": "2025-09",
+        "visits": 10703167
+      },
+      {
+        "month": "2025-10",
+        "visits": 10318144
+      },
+      {
+        "month": "2025-11",
+        "visits": 9113413
+      },
+      {
+        "month": "2025-12",
+        "visits": 10006860
+      },
+      {
+        "month": "2026-01",
+        "visits": 11161545
+      },
+      {
+        "month": "2026-02",
+        "visits": 9346422
+      },
+      {
+        "month": "2026-03",
+        "visits": 11270311
+      },
+      {
+        "month": "2026-04",
+        "visits": 10728034
+      },
+      {
+        "month": "2026-05",
+        "visits": 10906491
+      },
+      {
+        "month": "2026-06",
+        "visits": 9931072
+      },
+      {
+        "month": "2026-07",
+        "visits": 8828345
+      },
+      {
+        "month": "2026-08",
+        "visits": 7958541
+      }
+    ],
+    "traffic_sources": {
+      "direct": 0.4888,
+      "search": 0.3255,
+      "search_organic": 0.3241,
+      "search_paid": 0.0014,
+      "social": 0.0428,
+      "social_organic": 0.0427,
+      "social_paid": 0.0001,
+      "referrals": 0.0781,
+      "paid_referrals": 0.0052,
+      "mail": 0.0156,
+      "gen_ai": 0.0439,
+      "affiliate": 0.0001,
+      "other": 0
+    },
+    "top_keywords": [
+      {
+        "name": "leonardo ai",
+        "volume": 731610,
+        "cpc": 0.32,
+        "estimated_value": 947040
+      },
+      {
+        "name": "leonardo",
+        "volume": 155910,
+        "cpc": 0.61,
+        "estimated_value": 97600
+      },
+      {
+        "name": "leonardo ia",
+        "volume": 35970,
+        "cpc": 0.64,
+        "estimated_value": 40160
+      },
+      {
+        "name": "ai video generator",
+        "volume": 468640,
+        "cpc": 0.79,
+        "estimated_value": 30960
+      },
+      {
+        "name": "free ai image generator",
+        "volume": 116760,
+        "cpc": 1.38,
+        "estimated_value": 25140
+      }
+    ],
+    "top_regions": [
+      {
+        "country": "US",
+        "name": "United States",
+        "share": 0.1527
+      },
+      {
+        "country": "IN",
+        "name": "India",
+        "share": 0.0994
+      },
+      {
+        "country": "RU",
+        "name": "Russia",
+        "share": 0.0928
+      },
+      {
+        "country": "ID",
+        "name": "Indonesia",
+        "share": 0.0479
+      },
+      {
+        "country": "BR",
+        "name": "Brazil",
+        "share": 0.0356
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "synthesia.io",
+  "measurement": "第三方外链样本",
+  "data": {
+    "domain": "synthesia.io",
+    "overview": {
+      "domain_rating": 85,
+      "backlinks": 1026015,
+      "referring_domains": 36253,
+      "dofollow_backlinks_pct": 85,
+      "dofollow_referring_domains_pct": 80
+    },
+    "backlinks": [
+      {
+        "from_url": "https://blog.ithillel.ua/articles/what-is-chatgpt-and-how-to-use-it",
+        "to_url": "https://www.synthesia.io/",
+        "title": "ChatGPT: що це таке і як його використовувати",
+        "anchor": "Synthesia",
+        "domain_rating": 52
+      },
+      {
+        "from_url": "https://generativeai.net/",
+        "to_url": "https://www.synthesia.io/",
+        "title": "Generative AI",
+        "anchor": "Synthesia",
+        "domain_rating": 54
+      },
+      {
+        "from_url": "https://www.truefan.ai/blogs/ai-image-to-video-generator",
+        "to_url": "https://www.synthesia.io/",
+        "title": "Beyond Free Tools: Guide to AI Image to Video Generator",
+        "anchor": "Synthesia",
+        "domain_rating": 36
+      },
+      {
+        "from_url": "https://ausjournal.com/view_article.php?id=108",
+        "to_url": "https://www.synthesia.io/",
+        "title": "Top 10 AI video Generator Tools 2025 | ausjournal.com",
+        "anchor": "Visit Synthesia →",
+        "domain_rating": 17
+      },
+      {
+        "from_url": "https://www.elancer.co.kr/blog/detail/1028",
+        "to_url": "https://www.synthesia.io/?r=0",
+        "title": "딥페이크 사이트 TOP 5 추천, 합법적 사용 기준까지 정리해서 알려드립니다. I 이랜서 블로그",
+        "anchor": "Synthesia 홈페이지",
+        "domain_rating": 39
+      },
+      {
+        "from_url": "https://en.wikipedia.org/wiki/Speech_synthesis",
+        "to_url": "https://www.synthesia.io/text-to-speech",
+        "title": "Speech synthesis",
+        "anchor": "the original",
+        "domain_rating": 97
+      },
+      {
+        "from_url": "https://readyforjob.in/pages/ai.html",
+        "to_url": "https://www.synthesia.io/",
+        "title": "Free AI Tools 2026 — Complete List | No Credit Card",
+        "anchor": "Visit Tool",
+        "domain_rating": 0
+      },
+      {
+        "from_url": "https://www.datacamp.com/blog/free-ai-tools",
+        "to_url": "https://www.synthesia.io/",
+        "title": "The 40 Best Free AI Tools in 2026: A Complete Guide | DataCamp",
+        "anchor": "Synthesia",
+        "domain_rating": 85
+      },
+      {
+        "from_url": "https://www.mux.com/",
+        "to_url": "https://www.synthesia.io/",
+        "title": "Video API for developers | Mux",
+        "anchor": "Jake GillespieEngineering Manager, Synthesia Synthesia logo",
+        "domain_rating": 81
+      },
+      {
+        "from_url": "https://base.vn/blog/cong-cu-ai/",
+        "to_url": "https://www.synthesia.io/",
+        "title": "Top 20+ các công cụ AI miễn phí được sử dụng phổ biến nhất hiện nay",
+        "anchor": "https://www.synthesia.io",
+        "domain_rating": 66
+      },
+      {
+        "from_url": "https://blog.videorock.com/best-free-ai-video-generator",
+        "to_url": "https://www.synthesia.io/",
+        "title": "Discover the Best Free AI Video Generator",
+        "anchor": "https://www.synthesia.io/",
+        "domain_rating": 18
+      },
+      {
+        "from_url": "https://ai4k.eu/content/free-ai-tools-online/",
+        "to_url": "https://www.synthesia.io/",
+        "title": "Over 100 FREE AI Tools: 2025 Update » ai4k",
+        "anchor": "synthesia.io",
+        "domain_rating": 1
+      },
+      {
+        "from_url": "https://blog.aintellitech.com/best-free-ai-video-generators/",
+        "to_url": "https://www.synthesia.io/",
+        "title": "Best FREE AI Video Generators that you should never miss - Blogs AIntelliTech",
+        "anchor": "Synthesia",
+        "domain_rating": 0
+      },
+      {
+        "from_url": "https://www.ispring.ru/elearning-insights/dipfejk",
+        "to_url": "https://www.synthesia.io/post/internal-communication-videos",
+        "title": "Что такое дипфейк и почему это тренд в обучении",
+        "anchor": "Synthesia Create",
+        "domain_rating": 69
+      },
+      {
+        "from_url": "https://aitrovex.com/ko/tool/veed",
+        "to_url": "https://www.synthesia.io/?ref=aitrovex.com",
+        "title": "VEED: AI 온라인 동영상 편집기와 자동 자막",
+        "anchor": "열기 ↗",
+        "domain_rating": 42
+      },
+      {
+        "from_url": "https://www.juniorgolfscoreboard.com/",
+        "to_url": "https://share.synthesia.io/embeds/videos/76b7d555-5e63-4a00-885f-a282d55ff2b5",
+        "title": "Junior Golf Scoreboard Rankings and Tournaments",
+        "anchor": "",
+        "domain_rating": 48
+      },
+      {
+        "from_url": "https://newstyle-mag.com/chatgpt-neyroset-kotoraya-mozhet-vso/",
+        "to_url": "https://www.synthesia.io/",
+        "title": "ChatGPT. Нейросеть, которая может всё",
+        "anchor": "https://www.synthesia.io",
+        "domain_rating": 29
+      },
+      {
+        "from_url": "https://async.com/blog/best-free-ai-video-generators/",
+        "to_url": "https://www.synthesia.io/",
+        "title": "Best free AI generator that can make videos in 2026",
+        "anchor": "Synthesia",
+        "domain_rating": 76
+      },
+      {
+        "from_url": "https://swiftask.ai/blog/video-creator",
+        "to_url": "https://www.synthesia.io/",
+        "title": "Video creator: top 20 AI tools for your professional content",
+        "anchor": "Synthesia",
+        "domain_rating": 37
+      },
+      {
+        "from_url": "https://partnerkin.com/blog/articles/neiroseti-text-art-video-audio",
+        "to_url": "https://www.synthesia.io/",
+        "title": "101 нейросеть 🔥 список нейросетей для рисования, улучшения фото, видео и написания текстов",
+        "anchor": "Официальный сайт",
+        "domain_rating": 70
+      }
+    ]
+  }
+}

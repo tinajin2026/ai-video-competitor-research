@@ -1,0 +1,145 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "sora.com",
+  "measurement": "第三方域名级估算",
+  "data": {
+    "domain": "sora.com",
+    "overview": {
+      "global_rank": 136074,
+      "country_rank": {
+        "country": "IN",
+        "rank": 79098
+      },
+      "visits": 436439,
+      "bounce_rate": 0.43097685662099267,
+      "pages_per_visit": 1.5448938070551672,
+      "time_on_site_seconds": 18.12640602320358,
+      "month": "2026-08"
+    },
+    "monthly_visits": [
+      {
+        "month": "2025-09",
+        "visits": 1009210
+      },
+      {
+        "month": "2025-10",
+        "visits": 4462222
+      },
+      {
+        "month": "2025-11",
+        "visits": 2876788
+      },
+      {
+        "month": "2025-12",
+        "visits": 2095953
+      },
+      {
+        "month": "2026-01",
+        "visits": 2367654
+      },
+      {
+        "month": "2026-02",
+        "visits": 1812943
+      },
+      {
+        "month": "2026-03",
+        "visits": 1846324
+      },
+      {
+        "month": "2026-04",
+        "visits": 1443520
+      },
+      {
+        "month": "2026-05",
+        "visits": 810795
+      },
+      {
+        "month": "2026-06",
+        "visits": 568836
+      },
+      {
+        "month": "2026-07",
+        "visits": 509964
+      },
+      {
+        "month": "2026-08",
+        "visits": 436439
+      }
+    ],
+    "traffic_sources": {
+      "direct": 0.2628,
+      "search": 0.6361,
+      "search_organic": 0.6289,
+      "search_paid": 0.0073,
+      "social": 0.0083,
+      "social_organic": 0.0083,
+      "social_paid": 0,
+      "referrals": 0.0383,
+      "paid_referrals": 0,
+      "mail": 0,
+      "gen_ai": 0.0545,
+      "affiliate": 0,
+      "other": 0
+    },
+    "top_keywords": [
+      {
+        "name": "sora",
+        "volume": 651610,
+        "cpc": 1.1,
+        "estimated_value": 191250
+      },
+      {
+        "name": "sora ai",
+        "volume": 112220,
+        "cpc": 0.96,
+        "estimated_value": 54080
+      },
+      {
+        "name": "sora 2",
+        "volume": 115520,
+        "cpc": 1.03,
+        "estimated_value": 29810
+      },
+      {
+        "name": "sora ai video generator",
+        "volume": 23040,
+        "cpc": 1.92,
+        "estimated_value": 3940
+      },
+      {
+        "name": "sora2",
+        "volume": 30500,
+        "cpc": 1.24,
+        "estimated_value": 3620
+      }
+    ],
+    "top_regions": [
+      {
+        "country": "US",
+        "name": "United States",
+        "share": 0.0423
+      },
+      {
+        "country": "BR",
+        "name": "Brazil",
+        "share": 0.0368
+      },
+      {
+        "country": "RU",
+        "name": "Russia",
+        "share": 0.034
+      },
+      {
+        "country": "VN",
+        "name": "Vietnam",
+        "share": 0.032
+      },
+      {
+        "country": "TH",
+        "name": "Thailand",
+        "share": 0.0215
+      }
+    ]
+  }
+}

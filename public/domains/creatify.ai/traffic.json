@@ -1,0 +1,145 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "creatify.ai",
+  "measurement": "第三方域名级估算",
+  "data": {
+    "domain": "creatify.ai",
+    "overview": {
+      "global_rank": 49146,
+      "country_rank": {
+        "country": "US",
+        "rank": 56370
+      },
+      "visits": 821630,
+      "bounce_rate": 0.4006934691496079,
+      "pages_per_visit": 5.679808443009628,
+      "time_on_site_seconds": 292.4944097923606,
+      "month": "2026-08"
+    },
+    "monthly_visits": [
+      {
+        "month": "2025-09",
+        "visits": 1055330
+      },
+      {
+        "month": "2025-10",
+        "visits": 1026214
+      },
+      {
+        "month": "2025-11",
+        "visits": 924744
+      },
+      {
+        "month": "2025-12",
+        "visits": 904834
+      },
+      {
+        "month": "2026-01",
+        "visits": 1004955
+      },
+      {
+        "month": "2026-02",
+        "visits": 899696
+      },
+      {
+        "month": "2026-03",
+        "visits": 992132
+      },
+      {
+        "month": "2026-04",
+        "visits": 857523
+      },
+      {
+        "month": "2026-05",
+        "visits": 852569
+      },
+      {
+        "month": "2026-06",
+        "visits": 803708
+      },
+      {
+        "month": "2026-07",
+        "visits": 823362
+      },
+      {
+        "month": "2026-08",
+        "visits": 821630
+      }
+    ],
+    "traffic_sources": {
+      "direct": 0.328,
+      "search": 0.5038,
+      "search_organic": 0.3419,
+      "search_paid": 0.1619,
+      "social": 0.0564,
+      "social_organic": 0.0479,
+      "social_paid": 0.0085,
+      "referrals": 0.047,
+      "paid_referrals": 0.0237,
+      "mail": 0.0112,
+      "gen_ai": 0.0299,
+      "affiliate": 0,
+      "other": 0
+    },
+    "top_keywords": [
+      {
+        "name": "creatify",
+        "volume": 85020,
+        "cpc": 5.69,
+        "estimated_value": 55280
+      },
+      {
+        "name": "creatify ai",
+        "volume": 30560,
+        "cpc": 5.73,
+        "estimated_value": 28560
+      },
+      {
+        "name": "opus clip",
+        "volume": 365640,
+        "cpc": 0.36,
+        "estimated_value": 10890
+      },
+      {
+        "name": "instagram",
+        "volume": 79445230,
+        "cpc": 0.4,
+        "estimated_value": 10420
+      },
+      {
+        "name": "arcads",
+        "volume": 150960,
+        "cpc": 2.56,
+        "estimated_value": 10140
+      }
+    ],
+    "top_regions": [
+      {
+        "country": "US",
+        "name": "United States",
+        "share": 0.1917
+      },
+      {
+        "country": "PH",
+        "name": "Philippines",
+        "share": 0.0778
+      },
+      {
+        "country": "BR",
+        "name": "Brazil",
+        "share": 0.0684
+      },
+      {
+        "country": "IN",
+        "name": "India",
+        "share": 0.0615
+      },
+      {
+        "country": "GB",
+        "name": "United Kingdom",
+        "share": 0.0364
+      }
+    ]
+  }
+}

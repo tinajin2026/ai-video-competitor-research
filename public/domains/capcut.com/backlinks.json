@@ -1,0 +1,158 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "capcut.com",
+  "measurement": "第三方外链样本",
+  "data": {
+    "domain": "capcut.com",
+    "overview": {
+      "domain_rating": 87,
+      "backlinks": 2463801,
+      "referring_domains": 40412,
+      "dofollow_backlinks_pct": 78,
+      "dofollow_referring_domains_pct": 78
+    },
+    "backlinks": [
+      {
+        "from_url": "https://play.google.com/store/apps/details?id=com.lemon.lvoverseas&hl=fr",
+        "to_url": "https://www.capcut.com/",
+        "title": "CapCut - Video Editor – Applications sur Google Play",
+        "anchor": "publicSite Web",
+        "domain_rating": 100
+      },
+      {
+        "from_url": "https://viamaker.en.uptodown.com/android",
+        "to_url": "https://www.capcut.com/",
+        "title": "CapCut for Android - Download the APK from Uptodown",
+        "anchor": "Bytedance Pte. Ltd.",
+        "domain_rating": 83
+      },
+      {
+        "from_url": "https://www.apkmirror.com/apk/bytedance-pte-ltd/capcut/",
+        "to_url": "https://www.capcut.com/clause/terms-of-service",
+        "title": "Download CapCut - Video Editor APKs for Android - APKMirror",
+        "anchor": "www.capcut.com/clause/terms-of-service",
+        "domain_rating": 79
+      },
+      {
+        "from_url": "https://www.getapkmods.com/capcut-pro-apk/",
+        "to_url": "https://www.capcut.com/",
+        "title": "CapCut Pro APK v18.5.0 Download – Pro MOD for Android",
+        "anchor": "official CapCut website",
+        "domain_rating": 9
+      },
+      {
+        "from_url": "https://zapier.com/blog/best-free-video-editing-software/",
+        "to_url": "https://www.capcut.com/",
+        "title": "The best free video editing software | Zapier",
+        "anchor": "CapCut",
+        "domain_rating": 91
+      },
+      {
+        "from_url": "https://seeklogo.com/vector-logo/437025/capcut",
+        "to_url": "https://www.capcut.com/",
+        "title": "Capcut Logo PNG Vector (EPS, SVG) Free Download",
+        "anchor": "capcut.net",
+        "domain_rating": 66
+      },
+      {
+        "from_url": "https://capcut.sooftware.com/windows",
+        "to_url": "https://www.capcut.com/",
+        "title": "CapCut Desktop - Download",
+        "anchor": "Bytedance Pte. Ltd.",
+        "domain_rating": 58
+      },
+      {
+        "from_url": "https://capcut-apk.en.softmany.com/",
+        "to_url": "https://www.capcut.com/",
+        "title": "CapCut APK for Android - Download",
+        "anchor": "ByteDance Pte. Ltd",
+        "domain_rating": 52
+      },
+      {
+        "from_url": "https://www.pippit.ai/create/resume-maker",
+        "to_url": "https://www.capcut.com/legal/webform/privacy-request/en",
+        "title": "Free Resume Maker: Build Professional Resumes in Minutes",
+        "anchor": "Privacy Center",
+        "domain_rating": 75
+      },
+      {
+        "from_url": "https://codimd.apps.education.fr/s/r1H5nglAY",
+        "to_url": "https://dreamina.capcut.com/ai-tool/generate",
+        "title": "Une sélection d’IA génératives gratuites en ligne - CodiMD",
+        "anchor": "Dreamina",
+        "domain_rating": 85
+      },
+      {
+        "from_url": "https://anydownloader.com/en/online-capcut-video-downloader-without-watermark/",
+        "to_url": "https://www.capcut.com/template",
+        "title": "Online CapCut Video Downloader without Watermark - AnyDownloader",
+        "anchor": "CapCut",
+        "domain_rating": 24
+      },
+      {
+        "from_url": "https://brandfetch.com/capcut.com",
+        "to_url": "https://www.capcut.com/",
+        "title": "CapCut Logo & Brand Assets (SVG, PNG and vector) - Brandfetch",
+        "anchor": "capcut.com",
+        "domain_rating": 73
+      },
+      {
+        "from_url": "https://www.qustodio.com/en/blog/is-capcut-safe-for-kids/",
+        "to_url": "https://www.capcut.com/clause/community-guideline?lang=en",
+        "title": "Is CapCut safe for kids? An app safety guide for parents | Qustodio",
+        "anchor": "community guidelines",
+        "domain_rating": 79
+      },
+      {
+        "from_url": "https://finevoice.ai/",
+        "to_url": "https://www.capcut.com/resource/free-online-voice-changer",
+        "title": "Free AI Voice Generator – No Sign-up, Instant Creation",
+        "anchor": "trust link",
+        "domain_rating": 52
+      },
+      {
+        "from_url": "https://blog.onlyfans.com/creator-center/",
+        "to_url": "https://www.capcut.com/",
+        "title": "Creator Center - OnlyFans Blog",
+        "anchor": "",
+        "domain_rating": 90
+      },
+      {
+        "from_url": "https://capcutguide.com/capcut-web-editor/",
+        "to_url": "https://www.capcut.com/clause/material-license-agreement",
+        "title": "CapCut Web Editor: Use CapCut Online Without Downloading",
+        "anchor": "Materials License Agreement",
+        "domain_rating": 52
+      },
+      {
+        "from_url": "https://www.prnewswire.com/news-releases/best-ai-content-creation-tools-2026-capcut-recognized-for-ai-powered-video-and-image-creation-by-software-experts-302817472.html",
+        "to_url": "https://tools.capcut.com/tools/seedmusic",
+        "title": "Best AI Content Creation Tools (2026): CapCut Recognized for AI-Powered Video and Image Creation by Software Experts",
+        "anchor": "Seedmusic 1.0",
+        "domain_rating": 92
+      },
+      {
+        "from_url": "https://en.wikipedia.org/wiki/CapCut",
+        "to_url": "https://capcut.com/",
+        "title": "CapCut",
+        "anchor": "Official website",
+        "domain_rating": 97
+      },
+      {
+        "from_url": "https://seller-id.tokopedia.com/account/register",
+        "to_url": "https://www.capcut.com/creative-suite",
+        "title": "Sell More on Tokopedia & Shop | Become An Indonesia Seller",
+        "anchor": "Suite kreatif CapCut",
+        "domain_rating": 90
+      },
+      {
+        "from_url": "https://capcutproapkap.com/",
+        "to_url": "https://www.capcut.com/",
+        "title": "CapCut APK Download For Android Latest 2026 [Full Pro]",
+        "anchor": "CapCut Free",
+        "domain_rating": 25
+      }
+    ]
+  }
+}

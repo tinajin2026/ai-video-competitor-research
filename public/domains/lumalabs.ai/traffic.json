@@ -1,0 +1,145 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "lumalabs.ai",
+  "measurement": "第三方域名级估算",
+  "data": {
+    "domain": "lumalabs.ai",
+    "overview": {
+      "global_rank": 14442,
+      "country_rank": {
+        "country": "US",
+        "rank": 17718
+      },
+      "visits": 2466349,
+      "bounce_rate": 0.37916795845190215,
+      "pages_per_visit": 8.890435631128376,
+      "time_on_site_seconds": 361.68342552696083,
+      "month": "2026-08"
+    },
+    "monthly_visits": [
+      {
+        "month": "2025-09",
+        "visits": 1869592
+      },
+      {
+        "month": "2025-10",
+        "visits": 1840970
+      },
+      {
+        "month": "2025-11",
+        "visits": 1553408
+      },
+      {
+        "month": "2025-12",
+        "visits": 2049934
+      },
+      {
+        "month": "2026-01",
+        "visits": 2409304
+      },
+      {
+        "month": "2026-02",
+        "visits": 2282922
+      },
+      {
+        "month": "2026-03",
+        "visits": 4896648
+      },
+      {
+        "month": "2026-04",
+        "visits": 5668105
+      },
+      {
+        "month": "2026-05",
+        "visits": 4890504
+      },
+      {
+        "month": "2026-06",
+        "visits": 2784483
+      },
+      {
+        "month": "2026-07",
+        "visits": 2843208
+      },
+      {
+        "month": "2026-08",
+        "visits": 2466349
+      }
+    ],
+    "traffic_sources": {
+      "direct": 0.3307,
+      "search": 0.4742,
+      "search_organic": 0.4153,
+      "search_paid": 0.0589,
+      "social": 0.0647,
+      "social_organic": 0.0444,
+      "social_paid": 0.0204,
+      "referrals": 0.042,
+      "paid_referrals": 0.0125,
+      "mail": 0.009,
+      "gen_ai": 0.0666,
+      "affiliate": 0.0004,
+      "other": 0
+    },
+    "top_keywords": [
+      {
+        "name": "luma dream machine",
+        "volume": 223840,
+        "cpc": 0.64,
+        "estimated_value": 178800
+      },
+      {
+        "name": "luma ai",
+        "volume": 129120,
+        "cpc": 0.49,
+        "estimated_value": 163020
+      },
+      {
+        "name": "luma",
+        "volume": 291870,
+        "cpc": 1.07,
+        "estimated_value": 67040
+      },
+      {
+        "name": "lumalabs ai",
+        "volume": 8210,
+        "cpc": 0.41,
+        "estimated_value": 12780
+      },
+      {
+        "name": "lumalabs",
+        "volume": 11390,
+        "cpc": 0.8,
+        "estimated_value": 11030
+      }
+    ],
+    "top_regions": [
+      {
+        "country": "US",
+        "name": "United States",
+        "share": 0.1647
+      },
+      {
+        "country": "IN",
+        "name": "India",
+        "share": 0.0961
+      },
+      {
+        "country": "GB",
+        "name": "United Kingdom",
+        "share": 0.0443
+      },
+      {
+        "country": "DE",
+        "name": "Germany",
+        "share": 0.0368
+      },
+      {
+        "country": "RU",
+        "name": "Russia",
+        "share": 0.035
+      }
+    ]
+  }
+}

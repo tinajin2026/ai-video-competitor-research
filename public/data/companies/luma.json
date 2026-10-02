@@ -1,0 +1,443 @@
+{
+  "schema_version": 1,
+  "product": {
+    "id": "luma",
+    "name": "Luma",
+    "x_handle": "LumaLabsAI",
+    "homepage": "https://lumalabs.ai/",
+    "ads_priority": false,
+    "traffic_domain": "lumalabs.ai",
+    "additional_domains": [],
+    "scope_note": "域名级流量估算，非付费用户、收入或模型调用量。 已排除同名活动平台 luma.com。",
+    "shared_scope": false,
+    "domain_data": {
+      "domain": "lumalabs.ai",
+      "traffic": {
+        "domain": "lumalabs.ai",
+        "overview": {
+          "global_rank": 14442,
+          "country_rank": {
+            "country": "US",
+            "rank": 17718
+          },
+          "visits": 2466349,
+          "bounce_rate": 0.37916795845190215,
+          "pages_per_visit": 8.890435631128376,
+          "time_on_site_seconds": 361.68342552696083,
+          "month": "2026-08"
+        },
+        "monthly_visits": [
+          {
+            "month": "2025-09",
+            "visits": 1869592
+          },
+          {
+            "month": "2025-10",
+            "visits": 1840970
+          },
+          {
+            "month": "2025-11",
+            "visits": 1553408
+          },
+          {
+            "month": "2025-12",
+            "visits": 2049934
+          },
+          {
+            "month": "2026-01",
+            "visits": 2409304
+          },
+          {
+            "month": "2026-02",
+            "visits": 2282922
+          },
+          {
+            "month": "2026-03",
+            "visits": 4896648
+          },
+          {
+            "month": "2026-04",
+            "visits": 5668105
+          },
+          {
+            "month": "2026-05",
+            "visits": 4890504
+          },
+          {
+            "month": "2026-06",
+            "visits": 2784483
+          },
+          {
+            "month": "2026-07",
+            "visits": 2843208
+          },
+          {
+            "month": "2026-08",
+            "visits": 2466349
+          }
+        ],
+        "traffic_sources": {
+          "direct": 0.3307,
+          "search": 0.4742,
+          "search_organic": 0.4153,
+          "search_paid": 0.0589,
+          "social": 0.0647,
+          "social_organic": 0.0444,
+          "social_paid": 0.0204,
+          "referrals": 0.042,
+          "paid_referrals": 0.0125,
+          "mail": 0.009,
+          "gen_ai": 0.0666,
+          "affiliate": 0.0004,
+          "other": 0
+        },
+        "top_keywords": [
+          {
+            "name": "luma dream machine",
+            "volume": 223840,
+            "cpc": 0.64,
+            "estimated_value": 178800
+          },
+          {
+            "name": "luma ai",
+            "volume": 129120,
+            "cpc": 0.49,
+            "estimated_value": 163020
+          },
+          {
+            "name": "luma",
+            "volume": 291870,
+            "cpc": 1.07,
+            "estimated_value": 67040
+          },
+          {
+            "name": "lumalabs ai",
+            "volume": 8210,
+            "cpc": 0.41,
+            "estimated_value": 12780
+          },
+          {
+            "name": "lumalabs",
+            "volume": 11390,
+            "cpc": 0.8,
+            "estimated_value": 11030
+          }
+        ],
+        "top_regions": [
+          {
+            "country": "US",
+            "name": "United States",
+            "share": 0.1647
+          },
+          {
+            "country": "IN",
+            "name": "India",
+            "share": 0.0961
+          },
+          {
+            "country": "GB",
+            "name": "United Kingdom",
+            "share": 0.0443
+          },
+          {
+            "country": "DE",
+            "name": "Germany",
+            "share": 0.0368
+          },
+          {
+            "country": "RU",
+            "name": "Russia",
+            "share": 0.035
+          }
+        ]
+      },
+      "traffic_evidence": "domains/lumalabs.ai/traffic.json",
+      "traffic_status": "ok",
+      "registration_date": "2021-06-19T21:39:03Z",
+      "backlinks": {
+        "domain": "lumalabs.ai",
+        "overview": {
+          "domain_rating": 80,
+          "backlinks": 720146,
+          "referring_domains": 16633,
+          "dofollow_backlinks_pct": 43,
+          "dofollow_referring_domains_pct": 74
+        },
+        "backlinks": [
+          {
+            "from_url": "https://zapier.com/blog/best-ai-image-generator/",
+            "to_url": "https://lumalabs.ai/dream-machine",
+            "title": "The 8 best AI image generators in 2026 | Zapier",
+            "anchor": "Dream Machine",
+            "domain_rating": 91
+          },
+          {
+            "from_url": "https://threejs.org/",
+            "to_url": "https://lumalabs.ai/luma-web-library/",
+            "title": "Three.js – JavaScript 3D Library",
+            "anchor": "",
+            "domain_rating": 85
+          },
+          {
+            "from_url": "https://codimd.apps.education.fr/s/r1H5nglAY",
+            "to_url": "https://lumalabs.ai/app",
+            "title": "Une sélection d’IA génératives gratuites en ligne - CodiMD",
+            "anchor": "LumaLabs Genie",
+            "domain_rating": 85
+          },
+          {
+            "from_url": "https://aihub.promptpack.net/tool/luma-ai",
+            "to_url": "https://lumalabs.ai/dream-machine",
+            "title": "Luma AI - AI Productivity Tools | AI Productivity Tools",
+            "anchor": "Visit Website",
+            "domain_rating": 4
+          },
+          {
+            "from_url": "https://apps.apple.com/us/app/luma-dream-machine/id6478852867",
+            "to_url": "https://lumalabs.ai/legal/privacy",
+            "title": "‎Luma Dream Machine App - App Store",
+            "anchor": "developer’s privacy policy",
+            "domain_rating": 97
+          },
+          {
+            "from_url": "https://readyforjob.in/pages/ai.html",
+            "to_url": "https://lumalabs.ai/dream-machine",
+            "title": "Free AI Tools 2026 — Complete List | No Credit Card",
+            "anchor": "Visit Tool",
+            "domain_rating": 0
+          },
+          {
+            "from_url": "https://www.aixploria.com/",
+            "to_url": "https://lumalabs.ai/app",
+            "title": "Liste des Meilleures IA Gratuites & Top 10 par Catégorie | AIxploria",
+            "anchor": "Luma Dream Machine",
+            "domain_rating": 56
+          },
+          {
+            "from_url": "https://en.wikipedia.org/wiki/Dream_Machine_(text-to-video_model)",
+            "to_url": "https://lumalabs.ai/app",
+            "title": "Dream Machine (text-to-video model)",
+            "anchor": "Official website",
+            "domain_rating": 97
+          },
+          {
+            "from_url": "https://thefactoryschool.com/blog/10-mejores-ia-para-crear-imagenes/",
+            "to_url": "https://lumalabs.ai/photon",
+            "title": "10 mejores IA para crear imágenes en 2026 | The Factory School",
+            "anchor": "Luma Photon",
+            "domain_rating": 40
+          },
+          {
+            "from_url": "https://1min.ai/",
+            "to_url": "https://lumalabs.ai/",
+            "title": "1minAI | Free All-in-one AI App for Text, Image, Audio, Video",
+            "anchor": "Luma AI Luma AI",
+            "domain_rating": 60
+          },
+          {
+            "from_url": "https://medium.com/@fadimantium/why-pixverse-ai-is-the-best-video-generator-for-now-8d6df6297191",
+            "to_url": "https://lumalabs.ai/app",
+            "title": "Why Pixverse.ai is the Best Video Generator (for now). | by Erik Fadiman | Medium",
+            "anchor": "Dream Machine",
+            "domain_rating": 94
+          },
+          {
+            "from_url": "https://www.selecthub.com/p/ai-video-generator-software/luma-dream-machine/",
+            "to_url": "https://lumalabs.ai/dream-machine",
+            "title": "Luma Dream Machine Reviews 2026: Pricing, Features & More",
+            "anchor": "Request for Free",
+            "domain_rating": 74
+          },
+          {
+            "from_url": "https://pictory.ai/text-to-video",
+            "to_url": "https://lumalabs.ai/dream-machine",
+            "title": "AI Video Editor - Text To Video - Pictory",
+            "anchor": "Luma Dream Machine",
+            "domain_rating": 80
+          },
+          {
+            "from_url": "https://sendfame.com/blog/ai-video-generator-free",
+            "to_url": "https://lumalabs.ai/",
+            "title": "The 12 Best AI Video Generator Free Tools of 2025",
+            "anchor": "https://lumalabs.ai",
+            "domain_rating": 53
+          },
+          {
+            "from_url": "https://axiom.co/",
+            "to_url": "https://lumalabs.ai/",
+            "title": "Axiom - The modern machine data platform",
+            "anchor": "",
+            "domain_rating": 72
+          },
+          {
+            "from_url": "https://apps.make.com/luma-labs-ai-dbgg76",
+            "to_url": "https://lumalabs.ai/contact-sales",
+            "title": "LumaLabs AI by Maxmel Tech - Apps Documentation",
+            "anchor": "LumaLabs AI",
+            "domain_rating": 90
+          },
+          {
+            "from_url": "https://www.eweek.com/news/ai-pricing-cheat-sheet-2026/",
+            "to_url": "https://lumalabs.ai/pricing",
+            "title": "OpenAI Agent Accessed Australian Government Site: What Went Wrong",
+            "anchor": "Pricing snapshot",
+            "domain_rating": 83
+          },
+          {
+            "from_url": "https://digital-gorilla.co.jp/ai-lab/ai-video-generation-free/",
+            "to_url": "https://lumalabs.ai/app",
+            "title": "【2026年最新】ai動画生成 無料おすすめ10選｜使い方・商用利用・日本語対応を比較 – ゴリラのAI研究所",
+            "anchor": "Luma AI公式サイト",
+            "domain_rating": 27
+          },
+          {
+            "from_url": "https://iamakasi.substack.com/p/claude-reunit-le-chat-cowork-et-ses",
+            "to_url": "https://lumalabs.ai/app",
+            "title": "Claude réunit le chat, Cowork et ses outils créatifs",
+            "anchor": "Luma Dream Machine",
+            "domain_rating": 94
+          },
+          {
+            "from_url": "https://aitoolsandplugins.com/video-and-audio/pika-labs/",
+            "to_url": "https://lumalabs.ai/dream-machine",
+            "title": "Pika Labs - AI Tools and Plugins",
+            "anchor": "Website",
+            "domain_rating": 0
+          }
+        ]
+      },
+      "backlinks_evidence": "domains/lumalabs.ai/backlinks.json"
+    },
+    "pages": [
+      {
+        "kind": "home",
+        "label": "首页",
+        "path": "products/luma/pages/home.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://lumalabs.ai/",
+          "resolved_url": "https://lumalabs.ai/",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Luma | AI Agents for Creative Work"
+        },
+        "content": "首页以创意任务和 Agent 工作流组织产品入口。"
+      },
+      {
+        "kind": "pricing",
+        "label": "定价资料",
+        "path": "products/luma/pages/pricing.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://lumalabs.ai/pricing",
+          "resolved_url": "https://lumalabs.ai/pricing",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Plans & Pricing | Luma"
+        },
+        "content": "已保存官网来源；本公开版不转载页面全文。"
+      },
+      {
+        "kind": "blog",
+        "label": "博客 / 新闻",
+        "path": "products/luma/pages/blog.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://lumalabs.ai/news",
+          "resolved_url": "https://lumalabs.ai/news",
+          "http_status": 200
+        },
+        "page": {
+          "title": "News | Luma"
+        },
+        "content": "已保存官网来源；本公开版不转载页面全文。"
+      },
+      {
+        "kind": "action-skills",
+        "label": "官方动态",
+        "path": "products/luma/pages/action-skills.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://lumalabs.ai/news/luma-skills",
+          "resolved_url": "https://lumalabs.ai/news/luma-skills",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Introducing Luma Skills: Build a Creative Workflow Once, Run It Forever | Luma"
+        },
+        "content": "把创意方法封装成可重复执行的 Agent 工作流，并可在团队中共享。"
+      }
+    ],
+    "searches": [],
+    "issues": [],
+    "screenshot": null,
+    "product_entry_links": [
+      "https://app.lumalabs.ai/"
+    ]
+  },
+  "metrics": {
+    "visits": 2466349,
+    "mom": -0.13254710875883857,
+    "change3": -0.4956861296913365,
+    "rolling3": -0.4762921121272846,
+    "recent_average": 2698013.3333333335,
+    "prior_average": 5151752.333333333,
+    "up_streak": 0,
+    "derived_channels": {
+      "search_paid_visits": 145267.9561,
+      "social_paid_visits": 50313.51960000001,
+      "search_organic_visits": 1024274.7397,
+      "social_organic_visits": 109505.8956,
+      "direct_visits": 815621.6143
+    },
+    "scope": "site",
+    "profile": "首页定位为创意工作伙伴与 AI Agent；lumalabs.ai 是本次统计域名。",
+    "profile_source": "products/luma/pages/home.json"
+  },
+  "editorial": {
+    "thesis": "Skills 将创作方法变成可复用工作流，适合观察从一次生成到重复生产的转变。",
+    "focus": "创意伙伴和可共享 Skills 为工作流复用提供了官方依据。网站访问下行与产品方向变化可并列观察，当前没有证据证明两者存在因果。",
+    "experiment": "把一条多镜头广告流程做成可保存、复跑、团队共享的模板，记录每次手工干预。",
+    "measure": "复跑率、单次交付耗时、人工修改步骤数与合格成片成本。",
+    "watch": "Skills 目录、共享方式、Agent 执行能力与套餐限制。"
+  },
+  "activities": [
+    {
+      "product_id": "luma",
+      "type": "workflow",
+      "title": "从生成工具延伸到创意工作伙伴",
+      "detail": "首页以创意任务和 Agent 工作流组织产品入口。",
+      "anchors": [
+        "Luma is your creative partner",
+        "Where ideas become the work"
+      ],
+      "source": "products/luma/pages/home.json",
+      "event_date": null,
+      "id": "activity-15",
+      "source_url": "https://lumalabs.ai/",
+      "observed_at": "2026-10-02"
+    },
+    {
+      "product_id": "luma",
+      "type": "workflow",
+      "title": "推出可复用的 Luma Skills",
+      "detail": "把创意方法封装成可重复执行的 Agent 工作流，并可在团队中共享。",
+      "anchors": [
+        "repeatable workflow",
+        "whole team"
+      ],
+      "source": "products/luma/pages/action-skills.json",
+      "event_date": null,
+      "id": "activity-50",
+      "source_url": "https://lumalabs.ai/news/luma-skills",
+      "observed_at": "2026-10-02"
+    }
+  ],
+  "x_posts": []
+}

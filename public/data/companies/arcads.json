@@ -1,0 +1,396 @@
+{
+  "schema_version": 1,
+  "product": {
+    "id": "arcads",
+    "name": "Arcads",
+    "x_handle": "arcads_ai",
+    "homepage": "https://www.arcads.ai/",
+    "ads_priority": false,
+    "traffic_domain": "arcads.ai",
+    "additional_domains": [],
+    "scope_note": "域名级流量估算，非付费用户、收入或模型调用量。",
+    "shared_scope": false,
+    "domain_data": {
+      "domain": "arcads.ai",
+      "traffic": {
+        "domain": "arcads.ai",
+        "overview": {
+          "global_rank": 85968,
+          "country_rank": {
+            "country": "US",
+            "rank": 72338
+          },
+          "visits": 496495,
+          "bounce_rate": 0.3955293276563699,
+          "pages_per_visit": 3.9669720925521337,
+          "time_on_site_seconds": 90.06566424055546,
+          "month": "2026-08"
+        },
+        "monthly_visits": [
+          {
+            "month": "2025-09",
+            "visits": 419768
+          },
+          {
+            "month": "2025-10",
+            "visits": 475891
+          },
+          {
+            "month": "2025-11",
+            "visits": 560825
+          },
+          {
+            "month": "2025-12",
+            "visits": 660135
+          },
+          {
+            "month": "2026-01",
+            "visits": 609185
+          },
+          {
+            "month": "2026-02",
+            "visits": 675304
+          },
+          {
+            "month": "2026-03",
+            "visits": 670159
+          },
+          {
+            "month": "2026-04",
+            "visits": 720178
+          },
+          {
+            "month": "2026-05",
+            "visits": 591967
+          },
+          {
+            "month": "2026-06",
+            "visits": 462162
+          },
+          {
+            "month": "2026-07",
+            "visits": 478123
+          },
+          {
+            "month": "2026-08",
+            "visits": 496495
+          }
+        ],
+        "traffic_sources": {
+          "direct": 0.3579,
+          "search": 0.4017,
+          "search_organic": 0.2842,
+          "search_paid": 0.1174,
+          "social": 0.1414,
+          "social_organic": 0.1219,
+          "social_paid": 0.0195,
+          "referrals": 0.0316,
+          "paid_referrals": 0.0268,
+          "mail": 0.0159,
+          "gen_ai": 0.0234,
+          "affiliate": 0.0012,
+          "other": 0
+        },
+        "top_keywords": [
+          {
+            "name": "arcads",
+            "volume": 150960,
+            "cpc": 2.56,
+            "estimated_value": 140880
+          },
+          {
+            "name": "arcads ai",
+            "volume": 40520,
+            "cpc": 1.07,
+            "estimated_value": 45110
+          },
+          {
+            "name": "arc ads",
+            "volume": 6520,
+            "cpc": 24.06,
+            "estimated_value": 3790
+          },
+          {
+            "name": "arcards",
+            "volume": 4940,
+            "cpc": 1.52,
+            "estimated_value": 3610
+          },
+          {
+            "name": "arcads pricing",
+            "volume": 7570,
+            "cpc": 10.25,
+            "estimated_value": 2990
+          }
+        ],
+        "top_regions": [
+          {
+            "country": "US",
+            "name": "United States",
+            "share": 0.2381
+          },
+          {
+            "country": "IN",
+            "name": "India",
+            "share": 0.0776
+          },
+          {
+            "country": "GB",
+            "name": "United Kingdom",
+            "share": 0.0729
+          },
+          {
+            "country": "DE",
+            "name": "Germany",
+            "share": 0.0573
+          },
+          {
+            "country": "FR",
+            "name": "France",
+            "share": 0.0419
+          }
+        ]
+      },
+      "traffic_evidence": "domains/arcads.ai/traffic.json",
+      "traffic_status": "ok",
+      "registration_date": "2023-12-12T16:42:44.000Z",
+      "backlinks": {
+        "domain": "arcads.ai",
+        "overview": {
+          "domain_rating": 71,
+          "backlinks": 34525,
+          "referring_domains": 4282,
+          "dofollow_backlinks_pct": 50,
+          "dofollow_referring_domains_pct": 58
+        },
+        "backlinks": [
+          {
+            "from_url": "https://topapps.fr/apps/histovec",
+            "to_url": "https://arcads.ai/?via=tomguich",
+            "title": "HistoVec : l'historique officiel d'un véhicule (gratuit) | TopApps",
+            "anchor": "Visiter le site",
+            "domain_rating": 5
+          },
+          {
+            "from_url": "https://www.dixmilleheures.fr/comparateur/video-ia",
+            "to_url": "https://www.arcads.ai/",
+            "title": "Les 13 meilleurs générateurs de vidéo IA gratuits pour entrepreneurs en 2026 | Comparatif & Avis",
+            "anchor": "Essayer",
+            "domain_rating": 33
+          },
+          {
+            "from_url": "https://www.nereo.io/blog/ezcreate-review",
+            "to_url": "https://www.arcads.ai/",
+            "title": "EZCreate Review: Is It Worth It in 2026?",
+            "anchor": "Arcads",
+            "domain_rating": 30
+          },
+          {
+            "from_url": "https://www.marketermilk.com/blog/arcads-review",
+            "to_url": "https://get.arcads.ai/hook-generator",
+            "title": "Arcads review: My honest thoughts about this AI ad maker | Marketer Milk",
+            "anchor": "hook generator tool",
+            "domain_rating": 67
+          },
+          {
+            "from_url": "https://frontiervisionsmarketing.com/directory/arcads",
+            "to_url": "https://www.arcads.ai/",
+            "title": "Arcads review (2026) — Pricing, pros, cons, alternatives",
+            "anchor": "Official site (arcads.ai) ↗",
+            "domain_rating": 3
+          },
+          {
+            "from_url": "https://www.eesel.ai/blog/arcads-ai",
+            "to_url": "https://www.arcads.ai/",
+            "title": "Arcads AI review: Features, pricing, and limits | eesel AI",
+            "anchor": "Arcads AI",
+            "domain_rating": 74
+          },
+          {
+            "from_url": "https://www.youtube.com/watch?v=4RaxcH_f1Vs",
+            "to_url": "https://arcads.ai/?via=zoco",
+            "title": "How to Run Instagram Ads in 2026 (Step-By-Step for Beginners) - YouTube",
+            "anchor": "https://arcads.ai/?via=zoco",
+            "domain_rating": 99
+          },
+          {
+            "from_url": "https://www.kimaventures.com/portfolio",
+            "to_url": "https://arcads.ai/",
+            "title": "Kima Ventures - Our awesome family",
+            "anchor": "Arcads Helping growth teams craft winning ads",
+            "domain_rating": 57
+          },
+          {
+            "from_url": "https://www.mailsoar.com/",
+            "to_url": "https://www.arcads.ai/",
+            "title": "MailSoar | Email Deliverability Agency & Experts",
+            "anchor": "",
+            "domain_rating": 31
+          },
+          {
+            "from_url": "https://www.rplg.io/blog/ai-ugc",
+            "to_url": "https://www.arcads.ai/article/what-is-ai-ugc",
+            "title": "AI UGC Videos in App Marketing: Benefits, Challenges, and Best Practices",
+            "anchor": "brands should blend AI UGC",
+            "domain_rating": 48
+          },
+          {
+            "from_url": "https://ppc.io/blog/ai-tools-paid-ads",
+            "to_url": "https://www.arcads.ai/",
+            "title": "35+ AI Tools for Paid Ads in 2026 (Reviewed)",
+            "anchor": "Arcads.ai",
+            "domain_rating": 57
+          },
+          {
+            "from_url": "https://dodropshipping.com/best-dropshipping-ai-tools/",
+            "to_url": "https://www.arcads.ai/",
+            "title": "Dropshipping AI Tools: 20 Best, Tested + Ranked (2026)",
+            "anchor": "Arcads",
+            "domain_rating": 65
+          },
+          {
+            "from_url": "https://v4v.ai/blog/arcads-pricing-2026/",
+            "to_url": "https://www.arcads.ai/",
+            "title": "Arcads Pricing 2026: Plans, Credits and Cost per Ad | v4v.ai",
+            "anchor": "official Arcads site",
+            "domain_rating": 23
+          },
+          {
+            "from_url": "https://www.producthunt.com/products/arcads",
+            "to_url": "https://arcads.ai/?ref=producthunt",
+            "title": "Arcads: AI Video Ads | Product Hunt",
+            "anchor": "Visit website",
+            "domain_rating": 91
+          },
+          {
+            "from_url": "https://trycrush.ai/compare/crush-vs-arcads",
+            "to_url": "https://www.arcads.ai/terms",
+            "title": "Crush vs Arcads: AI UGC Videos or Managed Meta Ads",
+            "anchor": "Arcads terms (opens in a new tab)",
+            "domain_rating": 33
+          },
+          {
+            "from_url": "https://vivatech.com/news/top-100-rising-startups-of-2026",
+            "to_url": "https://www.arcads.ai/fr",
+            "title": "Top 100 Rising Startups of 2026",
+            "anchor": "Arcads",
+            "domain_rating": 78
+          },
+          {
+            "from_url": "https://www.airpost.ai/blog/arcads-features-pricing-and-alternatives",
+            "to_url": "https://www.arcads.ai/features/ai-video-generator",
+            "title": "Arcads Review",
+            "anchor": "",
+            "domain_rating": 17
+          },
+          {
+            "from_url": "https://www.codingem.com/i-tried-21-ugc-ai-ad-generators-this-one-is-the-best/",
+            "to_url": "https://www.arcads.ai/?via=artturi-jalli",
+            "title": "I Tried 21 UGC AI Ad Generators. This One Is The Best - codingem.com",
+            "anchor": "Try Arcads",
+            "domain_rating": 31
+          },
+          {
+            "from_url": "https://ugcfy.ai/review/arcads-ai",
+            "to_url": "https://www.arcads.ai/",
+            "title": "Arcads AI Review: Features, Pricing Checks & Alternative",
+            "anchor": "Arcads homepageUsed to verify Arcads positioning around AI ads, AI actors, avatars, ad presets, editing tools, and workflows.",
+            "domain_rating": 25
+          },
+          {
+            "from_url": "https://aifinderz.com/tool/arcads/",
+            "to_url": "https://www.arcads.ai/",
+            "title": "Arcads review: features, pricing & alternatives | AI Finderz",
+            "anchor": "Visit official site ↗",
+            "domain_rating": 0
+          }
+        ]
+      },
+      "backlinks_evidence": "domains/arcads.ai/backlinks.json"
+    },
+    "pages": [
+      {
+        "kind": "home",
+        "label": "首页",
+        "path": "products/arcads/pages/home.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://www.arcads.ai/",
+          "resolved_url": "https://www.arcads.ai/",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Arcads - Create winning ads with AI"
+        },
+        "content": "首页展示 7 天不限量和免费试用文案；未取得独立结算条款。\n首页展示 Create Workflow、AI 演员、视频编辑、情绪控制和本地化。"
+      }
+    ],
+    "searches": [],
+    "issues": [],
+    "screenshot": null,
+    "product_entry_links": [
+      "https://app.arcads.ai/login?utm_source=site&utm_medium=banner&utm_campaign=seedance25_unlimited&comet_token_override=3971958983266872136526450189748674743521307136437&lj_click_id=6f53e1da-bc5d-4f50-bd47-ce6eede240c9",
+      "https://app.arcads.ai/login?comet_token_override=3971958983266872136526450189748674743521307136437&lj_click_id=6f53e1da-bc5d-4f50-bd47-ce6eede240c9"
+    ]
+  },
+  "metrics": {
+    "visits": 496495,
+    "mom": 0.03842525877232417,
+    "change3": -0.1612792604993184,
+    "rolling3": -0.2751969425476617,
+    "recent_average": 478926.6666666667,
+    "prior_average": 660768.0,
+    "up_streak": 2,
+    "derived_channels": {
+      "search_paid_visits": 58288.513,
+      "social_paid_visits": 9681.6525,
+      "search_organic_visits": 141103.87900000002,
+      "social_organic_visits": 60522.7405,
+      "direct_visits": 177695.5605
+    },
+    "scope": "site",
+    "profile": "面向视频广告的 AI 演员与工作流；本次未取得独立套餐页。",
+    "profile_source": "products/arcads/pages/home.json"
+  },
+  "editorial": {
+    "thesis": "演员、情绪和本地化切中广告表达需求，促销不应掩盖长期成本。",
+    "focus": "7 天不限量和免费试用只是入口文案，未取得独立结算条款。要比较的是同一脚本制作多个演员与语言版本的成本和质量。",
+    "experiment": "对同一广告脚本制作演员、情绪、语言三类变体，先验证表达一致再测试效果。",
+    "measure": "人工审核通过率、每版本制作耗时与真实投放后的变体差异。",
+    "watch": "促销到期、演员素材库、本地化能力和结算条款。"
+  },
+  "activities": [
+    {
+      "product_id": "arcads",
+      "type": "promotion",
+      "title": "7 天 Seedance 2.5 不限量入口",
+      "detail": "首页展示 7 天不限量和免费试用文案；未取得独立结算条款。",
+      "anchors": [
+        "7 days unlimited",
+        "Free trial available"
+      ],
+      "source": "products/arcads/pages/home.json",
+      "event_date": null,
+      "id": "activity-34",
+      "source_url": "https://www.arcads.ai/",
+      "observed_at": "2026-10-02"
+    },
+    {
+      "product_id": "arcads",
+      "type": "workflow",
+      "title": "演员生成、编辑、本地化与工作流",
+      "detail": "首页展示 Create Workflow、AI 演员、视频编辑、情绪控制和本地化。",
+      "anchors": [
+        "Create Workflow",
+        "Localize in every language"
+      ],
+      "source": "products/arcads/pages/home.json",
+      "event_date": null,
+      "id": "activity-35",
+      "source_url": "https://www.arcads.ai/",
+      "observed_at": "2026-10-02"
+    }
+  ],
+  "x_posts": []
+}

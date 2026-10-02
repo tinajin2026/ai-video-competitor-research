@@ -1,0 +1,145 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "haiper.ai",
+  "measurement": "第三方域名级估算",
+  "data": {
+    "domain": "haiper.ai",
+    "overview": {
+      "global_rank": 419228,
+      "country_rank": {
+        "country": "ID",
+        "rank": 57892
+      },
+      "visits": 103028,
+      "bounce_rate": 0.46329984077664027,
+      "pages_per_visit": 1.5732316069464625,
+      "time_on_site_seconds": 30.885524849044998,
+      "month": "2026-08"
+    },
+    "monthly_visits": [
+      {
+        "month": "2025-09",
+        "visits": 202344
+      },
+      {
+        "month": "2025-10",
+        "visits": 179043
+      },
+      {
+        "month": "2025-11",
+        "visits": 128499
+      },
+      {
+        "month": "2025-12",
+        "visits": 105802
+      },
+      {
+        "month": "2026-01",
+        "visits": 133852
+      },
+      {
+        "month": "2026-02",
+        "visits": 144614
+      },
+      {
+        "month": "2026-03",
+        "visits": 122403
+      },
+      {
+        "month": "2026-04",
+        "visits": 110091
+      },
+      {
+        "month": "2026-05",
+        "visits": 138461
+      },
+      {
+        "month": "2026-06",
+        "visits": 140818
+      },
+      {
+        "month": "2026-07",
+        "visits": 147005
+      },
+      {
+        "month": "2026-08",
+        "visits": 103028
+      }
+    ],
+    "traffic_sources": {
+      "direct": 0.3317,
+      "search": 0.5159,
+      "search_organic": 0.5095,
+      "search_paid": 0.0064,
+      "social": 0.0285,
+      "social_organic": 0.0284,
+      "social_paid": 0.0001,
+      "referrals": 0.0364,
+      "paid_referrals": 0.0043,
+      "mail": 0.0011,
+      "gen_ai": 0.0819,
+      "affiliate": 0.0002,
+      "other": 0
+    },
+    "top_keywords": [
+      {
+        "name": "haiper ai",
+        "volume": 15190,
+        "cpc": 0.39,
+        "estimated_value": 15620
+      },
+      {
+        "name": "haiper",
+        "volume": 3390,
+        "cpc": 0.17,
+        "estimated_value": 3110
+      },
+      {
+        "name": "hyper ai",
+        "volume": 2330,
+        "cpc": 0.11,
+        "estimated_value": 520
+      },
+      {
+        "name": "haiper ai video",
+        "volume": 150,
+        "cpc": 0,
+        "estimated_value": 340
+      },
+      {
+        "name": "haiper 2.0",
+        "volume": 320,
+        "cpc": 0,
+        "estimated_value": 300
+      }
+    ],
+    "top_regions": [
+      {
+        "country": "IN",
+        "name": "India",
+        "share": 0.1435
+      },
+      {
+        "country": "VN",
+        "name": "Vietnam",
+        "share": 0.1078
+      },
+      {
+        "country": "US",
+        "name": "United States",
+        "share": 0.1049
+      },
+      {
+        "country": "ES",
+        "name": "Spain",
+        "share": 0.0935
+      },
+      {
+        "country": "BR",
+        "name": "Brazil",
+        "share": 0.0596
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "pixverse.ai",
+  "measurement": "第三方外链样本",
+  "data": {
+    "domain": "pixverse.ai",
+    "overview": {
+      "domain_rating": 74,
+      "backlinks": 492621,
+      "referring_domains": 9138,
+      "dofollow_backlinks_pct": 93,
+      "dofollow_referring_domains_pct": 75
+    },
+    "backlinks": [
+      {
+        "from_url": "https://codimd.apps.education.fr/s/r1H5nglAY",
+        "to_url": "https://pixverse.ai/",
+        "title": "Une sélection d’IA génératives gratuites en ligne - CodiMD",
+        "anchor": "PixVerse",
+        "domain_rating": 85
+      },
+      {
+        "from_url": "https://justdeleteme.xyz/",
+        "to_url": "https://app.pixverse.ai/home",
+        "title": "Just Delete Me | A directory of direct links to delete your account from web services.",
+        "anchor": "PixVerse URL",
+        "domain_rating": 55
+      },
+      {
+        "from_url": "https://github.com/zebbern/no-cost-ai",
+        "to_url": "https://app.pixverse.ai/",
+        "title": "GitHub - zebbern/no-cost-ai: 80+ free AI services for chat, image, video, voice & APIs (may sometimes include access to lead gen ai models for free) · GitHub",
+        "anchor": "app.pixverse.ai",
+        "domain_rating": 97
+      },
+      {
+        "from_url": "https://medium.com/@fadimantium/why-pixverse-ai-is-the-best-video-generator-for-now-8d6df6297191",
+        "to_url": "https://pixverse.ai/",
+        "title": "Why Pixverse.ai is the Best Video Generator (for now). | by Erik Fadiman | Medium",
+        "anchor": "pixverse.ai",
+        "domain_rating": 94
+      },
+      {
+        "from_url": "https://www.atlascloud.ai/blog/tips/pixverse-ai-image-to-video",
+        "to_url": "https://docs.platform.pixverse.ai/model-pricing-796039m0",
+        "title": "PixVerse AI Image to Video (2026): Official Features, Free Tier & Pricing",
+        "anchor": "PixVerse Platform Docs",
+        "domain_rating": 64
+      },
+      {
+        "from_url": "https://sendfame.com/blog/ai-video-generator-free",
+        "to_url": "https://app.pixverse.ai/",
+        "title": "The 12 Best AI Video Generator Free Tools of 2025",
+        "anchor": "https://app.pixverse.ai",
+        "domain_rating": 53
+      },
+      {
+        "from_url": "https://play.google.com/store/apps/details?id=com.pixverseai.pixverse&hl=en_IN",
+        "to_url": "https://app.pixverse.ai/",
+        "title": "PixVerse: AI Video Generator – Apps on Google Play",
+        "anchor": "publicWebsite",
+        "domain_rating": 100
+      },
+      {
+        "from_url": "https://www.youtube.com/watch?v=nKX8c2VQM5E",
+        "to_url": "https://app.pixverse.ai/onboard",
+        "title": "🚀 PixVerse AI: Create Stunning AI-Generated Videos in Seconds! 🎥🤖 - YouTube",
+        "anchor": "https://app.pixverse.ai/onboard",
+        "domain_rating": 99
+      },
+      {
+        "from_url": "https://t-j.ru/short/ai-for-all/",
+        "to_url": "https://app.pixverse.ai/onboard",
+        "title": "Бесплатные нейросети онлайн: 50 лучших ИИ-сервисов",
+        "anchor": "Попробовать",
+        "domain_rating": 77
+      },
+      {
+        "from_url": "https://www.dixmilleheures.fr/comparateur/video-ia",
+        "to_url": "https://app.pixverse.ai/",
+        "title": "Les 13 meilleurs générateurs de vidéo IA gratuits pour entrepreneurs en 2026 | Comparatif & Avis",
+        "anchor": "Essayer",
+        "domain_rating": 33
+      },
+      {
+        "from_url": "https://www.ferramentasai.com.br/ia/pixverse",
+        "to_url": "https://pixverse.ai/",
+        "title": "PixVerse: Vídeo e Animação com IA (freemium)",
+        "anchor": "Site oficial usado como fonte",
+        "domain_rating": 6
+      },
+      {
+        "from_url": "https://www.media.io/ai-video-generator/pixverse-ai.html",
+        "to_url": "https://app.pixverse.ai/",
+        "title": "PixVerse AI : Create Romantic AI Kissing Video in Minutes",
+        "anchor": "PixVerse AI",
+        "domain_rating": 74
+      },
+      {
+        "from_url": "https://cyber.sports.ru/tech/blogs/3358598.html",
+        "to_url": "https://app.pixverse.ai/",
+        "title": "Как оживить старые фото с помощью нейросети, топ ИИ для оживления фото",
+        "anchor": "браузере",
+        "domain_rating": 76
+      },
+      {
+        "from_url": "https://pixverse.en.uptodown.com/android",
+        "to_url": "https://app.pixverse.ai/",
+        "title": "PixVerse for Android - Download the APK from Uptodown",
+        "anchor": "PixVerse",
+        "domain_rating": 83
+      },
+      {
+        "from_url": "https://arena.ai/leaderboard/text-to-video",
+        "to_url": "https://app.pixverse.ai/onboard",
+        "title": "Text-to-Video Leaderboard - Best AI Video Generators",
+        "anchor": "pixverse-v5.6",
+        "domain_rating": 82
+      },
+      {
+        "from_url": "https://www.benchmarksixsigma.com/forum/topic/40201-text-to-animation-creative-video-art/",
+        "to_url": "https://app.pixverse.ai/onboard",
+        "title": "Text-to-Animation & Creative Video Art - AI for Text-to-Video - Generator Tools - Benchmark Six Sigma Forum",
+        "anchor": "Pixverse",
+        "domain_rating": 39
+      },
+      {
+        "from_url": "https://www.apkmirror.com/apk/pixverse/pixverse-ai-video-generator/pixverse-ai-video-generator-3-16-12-release/",
+        "to_url": "https://pixverse.ai/en/privacy-policy",
+        "title": "PixVerse: AI Video Generator 3.16.12 APK Download by PixVerse - APKMirror",
+        "anchor": "pixverse.ai/en/privacy-policy",
+        "domain_rating": 79
+      },
+      {
+        "from_url": "https://crystal-method.com/blog/ai-video/",
+        "to_url": "https://pixverse.ai/ja/blog/best-ai-video-generators",
+        "title": "AI動画とは？種類・仕組み・活用事例を早見表で解説【2026年版】",
+        "anchor": "PixVerse「2026年AI動画生成ツールおすすめ10選」",
+        "domain_rating": 46
+      },
+      {
+        "from_url": "https://www.whytryai.com/p/free-ai-image-to-video-tools-tested",
+        "to_url": "https://pixverse.ai/",
+        "title": "20 Free Image-to-Video AI Models: Tested & Ranked",
+        "anchor": "Check out PixVerse",
+        "domain_rating": 37
+      },
+      {
+        "from_url": "https://curiousrefuge.com/blog/the-best-ai-video-generator",
+        "to_url": "https://pixverse.ai/en",
+        "title": "Which AI Video Generator is the Best? | A Breakdown of the Top AI Video Tools — Curious Refuge",
+        "anchor": "AI Video Generator | Pixverse Ranking",
+        "domain_rating": 54
+      }
+    ]
+  }
+}

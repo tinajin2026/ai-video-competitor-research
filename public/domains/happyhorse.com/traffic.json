@@ -1,0 +1,145 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "happyhorse.com",
+  "measurement": "第三方域名级估算",
+  "data": {
+    "domain": "happyhorse.com",
+    "overview": {
+      "global_rank": 56405,
+      "country_rank": {
+        "country": "US",
+        "rank": 22016
+      },
+      "visits": 522031,
+      "bounce_rate": 0.48775268274673783,
+      "pages_per_visit": 10.507724827474352,
+      "time_on_site_seconds": 355.7994245853334,
+      "month": "2026-08"
+    },
+    "monthly_visits": [
+      {
+        "month": "2025-09",
+        "visits": 0
+      },
+      {
+        "month": "2025-10",
+        "visits": 0
+      },
+      {
+        "month": "2025-11",
+        "visits": 0
+      },
+      {
+        "month": "2025-12",
+        "visits": 0
+      },
+      {
+        "month": "2026-01",
+        "visits": 0
+      },
+      {
+        "month": "2026-02",
+        "visits": 0
+      },
+      {
+        "month": "2026-03",
+        "visits": 0
+      },
+      {
+        "month": "2026-04",
+        "visits": 4093
+      },
+      {
+        "month": "2026-05",
+        "visits": 172012
+      },
+      {
+        "month": "2026-06",
+        "visits": 259367
+      },
+      {
+        "month": "2026-07",
+        "visits": 483144
+      },
+      {
+        "month": "2026-08",
+        "visits": 522031
+      }
+    ],
+    "traffic_sources": {
+      "direct": 0.451,
+      "search": 0.4226,
+      "search_organic": 0.095,
+      "search_paid": 0.3276,
+      "social": 0.0319,
+      "social_organic": 0.0298,
+      "social_paid": 0.0022,
+      "referrals": 0.0464,
+      "paid_referrals": 0.0365,
+      "mail": 0.0047,
+      "gen_ai": 0.0069,
+      "affiliate": 0,
+      "other": 0
+    },
+    "top_keywords": [
+      {
+        "name": "happy horse",
+        "volume": 16050,
+        "cpc": 0.89,
+        "estimated_value": 10490
+      },
+      {
+        "name": "happyhorse",
+        "volume": 13810,
+        "cpc": 1.31,
+        "estimated_value": 7940
+      },
+      {
+        "name": "happy horse ai",
+        "volume": 6910,
+        "cpc": 1.76,
+        "estimated_value": 4930
+      },
+      {
+        "name": "kling ai",
+        "volume": 1451150,
+        "cpc": 0.48,
+        "estimated_value": 2720
+      },
+      {
+        "name": "ai video generator",
+        "volume": 468640,
+        "cpc": 0.79,
+        "estimated_value": 2550
+      }
+    ],
+    "top_regions": [
+      {
+        "country": "US",
+        "name": "United States",
+        "share": 0.2538
+      },
+      {
+        "country": "BR",
+        "name": "Brazil",
+        "share": 0.1964
+      },
+      {
+        "country": "MX",
+        "name": "Mexico",
+        "share": 0.1148
+      },
+      {
+        "country": "AZ",
+        "name": "Azerbaijan",
+        "share": 0.0497
+      },
+      {
+        "country": "IT",
+        "name": "Italy",
+        "share": 0.0389
+      }
+    ]
+  }
+}

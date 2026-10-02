@@ -1,0 +1,158 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "skyreels.ai",
+  "measurement": "第三方外链样本",
+  "data": {
+    "domain": "skyreels.ai",
+    "overview": {
+      "domain_rating": 54,
+      "backlinks": 23746,
+      "referring_domains": 1509,
+      "dofollow_backlinks_pct": 28,
+      "dofollow_referring_domains_pct": 50
+    },
+    "backlinks": [
+      {
+        "from_url": "https://codimd.apps.education.fr/s/r1H5nglAY",
+        "to_url": "https://skyreels.ai/",
+        "title": "Une sélection d’IA génératives gratuites en ligne - CodiMD",
+        "anchor": "SkyReels",
+        "domain_rating": 85
+      },
+      {
+        "from_url": "https://github.com/skyworkai/skyreels-v2",
+        "to_url": "https://www.skyreels.ai/",
+        "title": "GitHub - SkyworkAI/SkyReels-V2: SkyReels-V2: Infinite-length Film Generative model · GitHub",
+        "anchor": "Playground",
+        "domain_rating": 97
+      },
+      {
+        "from_url": "https://aitools.aiting.com/ai/katalist",
+        "to_url": "https://www.skyreels.ai/",
+        "title": "Katalist AI: Storyboards and Visual Stories Made Easy | AiTing AI",
+        "anchor": "",
+        "domain_rating": 38
+      },
+      {
+        "from_url": "https://moge.ai/es/best",
+        "to_url": "https://skyreels.ai/",
+        "title": "Mejor IA para el Trabajo - MOGE",
+        "anchor": "SkyReels AI SkyReels AIPlataforma de generación de video de IA de código abierto centrada en el humano, especializada en cortometrajes de calidad cinematográfica y animación facial expresiva.",
+        "domain_rating": 31
+      },
+      {
+        "from_url": "https://webcatalog.io/en/apps/skyreels",
+        "to_url": "https://skyreels.ai/",
+        "title": "SkyReels - Desktop App for Mac & Windows - WebCatalog",
+        "anchor": "skyreels.ai",
+        "domain_rating": 58
+      },
+      {
+        "from_url": "https://note.com/natty_zephyr3481/n/n877d92c7fb16",
+        "to_url": "https://skyreels.ai/",
+        "title": "Grok Imagine の無料版は終了？原因と無料代替ツール 14 選を徹底解説｜スマホ&AI活用サロン",
+        "anchor": "SkyReels",
+        "domain_rating": 92
+      },
+      {
+        "from_url": "https://futuretoolai.com/",
+        "to_url": "https://skyreels.ai/?ref=futuretoolai.com",
+        "title": "Discover the Best AI Tools",
+        "anchor": "",
+        "domain_rating": 12
+      },
+      {
+        "from_url": "https://www.radionica.rocks/mundo-geek/tecnologia/9-herramientas-de-inteligencia-artifical-para-crear-comics",
+        "to_url": "https://skyreels.ai/es/",
+        "title": "9 IA para crear cómics | Radiónica",
+        "anchor": "Skyreels (ComicAI)",
+        "domain_rating": 57
+      },
+      {
+        "from_url": "https://skyworkai.github.io/skyreels-audio.github.io/",
+        "to_url": "https://skyreels.ai/",
+        "title": "SkyReels-Audio",
+        "anchor": "SkyReels-Audio",
+        "domain_rating": 94
+      },
+      {
+        "from_url": "https://bestaitoolspot.com/tools/pictory-ai/",
+        "to_url": "https://skyreels.ai/",
+        "title": "Pictory AI: Easy AI Video Creation & Editing with Alternatives - Best AI Tool Spot",
+        "anchor": "Visit",
+        "domain_rating": 2
+      },
+      {
+        "from_url": "https://www.aigc.cn/favorites/ai-video-generation",
+        "to_url": "https://skyreels.ai/beta",
+        "title": "AI视频生成免费 - 最新在线AI生成视频工具大全 | AIGC工具导航",
+        "anchor": "SkyReels SkyReels SkyReels是一个创新的视频创作工具，特别适合那些寻求通过技术简化创作流程并实现创意的用户。它通过结合3D引擎和AI技术，为用户提供了一个强大而易于使用的平台，以实现从创意到短片的快速转化。",
+        "domain_rating": 59
+      },
+      {
+        "from_url": "https://skywork.ai/blog/ai-video/what-is-skyreels-ai",
+        "to_url": "https://skyreels.ai/",
+        "title": "What Is SkyReels.ai? Complete Guide to the AI Video Generator 2025",
+        "anchor": "SkyReels.ai",
+        "domain_rating": 74
+      },
+      {
+        "from_url": "https://aiforeveryone.org/ai-category/ai-text-to-speech",
+        "to_url": "https://www.skyreels.ai/",
+        "title": "Free AI Text To Speech Tools 2026 - AiforEveryone",
+        "anchor": "Visit SkyReels",
+        "domain_rating": 60
+      },
+      {
+        "from_url": "https://www.toolify.ai/vi/free-ai-tools/video-animation",
+        "to_url": "https://www.skyreels.ai/",
+        "title": "Công cụ AI miễn phí tốt nhất cho Video & Hoạt hình năm 2026 - Toolify",
+        "anchor": "",
+        "domain_rating": 73
+      },
+      {
+        "from_url": "https://story321.com/disclaimer",
+        "to_url": "https://skyreels.ai/",
+        "title": "Free Disclaimer - Story321.com",
+        "anchor": "https://skyreels.ai",
+        "domain_rating": 40
+      },
+      {
+        "from_url": "https://www.ideepercomputeredinternet.com/2025/08/creare-film-in-italiano-con-la-ia.html",
+        "to_url": "https://www.skyreels.ai/",
+        "title": "Creare film in italiano con la IA | IdpCeIn",
+        "anchor": "Home di SkyReels",
+        "domain_rating": 62
+      },
+      {
+        "from_url": "http://www.dnidn.com/ekl.html",
+        "to_url": "https://skyreels.ai/",
+        "title": "易快链-AI快连，eKuaiLink",
+        "anchor": "SkyReels昆仑万维AI短剧创作平台",
+        "domain_rating": 42
+      },
+      {
+        "from_url": "https://www.passionfroot.me/ai-buzz",
+        "to_url": "https://www.skyreels.ai/",
+        "title": "AI Buzz! | Passionfroot",
+        "anchor": "SkyReels",
+        "domain_rating": 69
+      },
+      {
+        "from_url": "https://noisedh.cn/",
+        "to_url": "https://www.skyreels.ai/home",
+        "title": "Noise导航 & 收录值得珍藏的网站",
+        "anchor": "直达",
+        "domain_rating": 24
+      },
+      {
+        "from_url": "https://smmbot.net/blog/top-15-nejrosetej-dla-sozdania-video-v-instagram-214.html",
+        "to_url": "https://www.skyreels.ai/",
+        "title": "AI-видео: 15 мощных нейросетей для креаторов и SMM | SMMBOT.net",
+        "anchor": "нейросеть",
+        "domain_rating": 47
+      }
+    ]
+  }
+}

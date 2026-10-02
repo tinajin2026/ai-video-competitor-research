@@ -1,0 +1,158 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "magnific.com",
+  "measurement": "第三方外链样本",
+  "data": {
+    "domain": "magnific.com",
+    "overview": {
+      "domain_rating": 92,
+      "backlinks": 214224056,
+      "referring_domains": 142915,
+      "dofollow_backlinks_pct": 93,
+      "dofollow_referring_domains_pct": 88
+    },
+    "backlinks": [
+      {
+        "from_url": "https://slidesgo.com/",
+        "to_url": "https://www.magnific.com/company/about-us",
+        "title": "Free Google Slides themes and Powerpoint templates | Slidesgo",
+        "anchor": "About us",
+        "domain_rating": 79
+      },
+      {
+        "from_url": "https://www.flaticon.com/",
+        "to_url": "https://www.magnific.com/legal/privacy",
+        "title": "Vector Icons and Stickers - PNG, SVG, EPS, PSD and CSS",
+        "anchor": "Privacy policy",
+        "domain_rating": 92
+      },
+      {
+        "from_url": "https://www.myinstants.com/en/index/us/",
+        "to_url": "https://www.magnific.com/",
+        "title": "Myinstants | The largest instant sound buttons website in United States!",
+        "anchor": "Freepik",
+        "domain_rating": 67
+      },
+      {
+        "from_url": "https://play.google.com/store/apps/dev?id=4939368531501527037&hl=en_SG",
+        "to_url": "https://www.magnific.com/",
+        "title": "Android Apps by Freepik Company on Google Play",
+        "anchor": "Visit website",
+        "domain_rating": 100
+      },
+      {
+        "from_url": "https://www.flaticon.es/",
+        "to_url": "https://www.magnific.com/es",
+        "title": "Iconos vectoriales y stickers - PNG, SVG, EPS, PSD y CSS",
+        "anchor": "Magnific Vectores, fotos y PSD gratuitos",
+        "domain_rating": 77
+      },
+      {
+        "from_url": "https://www.rainmeter.net/",
+        "to_url": "https://www.magnific.com/",
+        "title": "Rainmeter, desktop customization tool",
+        "anchor": "Freepik",
+        "domain_rating": 65
+      },
+      {
+        "from_url": "https://www.fuvest.br/",
+        "to_url": "https://www.magnific.com/br",
+        "title": "Fuvest – Fundação Universitária para o Vestibular",
+        "anchor": "Magnific",
+        "domain_rating": 61
+      },
+      {
+        "from_url": "https://elib.bapeten.go.id/index.php?p=show_detail&id=7915&keywords=",
+        "to_url": "https://www.magnific.com/",
+        "title": "INDONESIA – RADIATION DATA MONITORING SYSTEM (I-RDMS)-(PPT) | PERPUSTAKAAN BAPETEN",
+        "anchor": "Freepik",
+        "domain_rating": 51
+      },
+      {
+        "from_url": "https://hi-tech.mail.ru/news/145611-chto-segodnya-s-telegram/",
+        "to_url": "https://www.magnific.com/",
+        "title": "Сбой интернета МТС сегодня, 28 августа: что происходит и что делать",
+        "anchor": "Magnific",
+        "domain_rating": 92
+      },
+      {
+        "from_url": "https://foodsharing.de/",
+        "to_url": "https://www.magnific.com/de/psd-premium/laptop-mockup-design_11653801.htm",
+        "title": "foodsharing | Rette mit!",
+        "anchor": "Freepik, xvector",
+        "domain_rating": 74
+      },
+      {
+        "from_url": "https://www.freepik.com/",
+        "to_url": "https://www.magnific.com/",
+        "title": "",
+        "anchor": "",
+        "domain_rating": 93
+      },
+      {
+        "from_url": "https://codimd.apps.education.fr/s/r1H5nglAY",
+        "to_url": "https://www.magnific.com/fr",
+        "title": "Une sélection d’IA génératives gratuites en ligne - CodiMD",
+        "anchor": "Freepik",
+        "domain_rating": 85
+      },
+      {
+        "from_url": "https://replicate.com/home",
+        "to_url": "https://www.magnific.com/",
+        "title": "Replicate - Run AI with an API",
+        "anchor": "Magnific",
+        "domain_rating": 83
+      },
+      {
+        "from_url": "https://waqi.info/",
+        "to_url": "https://www.magnific.com/",
+        "title": "World's Air Pollution: Real-time Air Quality Index",
+        "anchor": "Freepik",
+        "domain_rating": 71
+      },
+      {
+        "from_url": "https://www.dumex.co.th/pregnancy/mom-nutrition-health/faq-pregnant-week-and-month.html",
+        "to_url": "https://www.magnific.com/",
+        "title": "ตารางเปรียบเทียบอายุครรภ์ เดือนและสัปดาห์",
+        "anchor": "ภาพจาก",
+        "domain_rating": 33
+      },
+      {
+        "from_url": "https://www.hifamilyclub.com/babynaming/english-name-son.html",
+        "to_url": "https://www.magnific.com/",
+        "title": "รวม 400 ชื่อภาษาอังกฤษ ผู้ชาย ที่มีความหมายดี และทันสมัย อัปเดตปี 2025",
+        "anchor": "Freepik",
+        "domain_rating": 31
+      },
+      {
+        "from_url": "https://juiceonline.com/public-holidays-2024/",
+        "to_url": "https://www.magnific.com/free-photo/woman-with-hat-sitting-chairs-beach-beautiful-tropical-beach-woman-relaxing-tropical-beach-koh-nangyuan-island_13250006.htm",
+        "title": "Public Holidays in Malaysia for the Year 2024",
+        "anchor": "freepik",
+        "domain_rating": 52
+      },
+      {
+        "from_url": "https://www.gamedle.wtf/",
+        "to_url": "https://www.magnific.com/",
+        "title": "Gamedle - Guess the Game from Covers, Characters & Clues",
+        "anchor": "Freepik",
+        "domain_rating": 32
+      },
+      {
+        "from_url": "https://www.toghigipaper.com/buonanotte-immagini-whatsapp/",
+        "to_url": "https://www.magnific.com/it",
+        "title": "Buonanotte immagini WhatsApp ⋆ Toghigi♥Paper",
+        "anchor": "Freepik",
+        "domain_rating": 3
+      },
+      {
+        "from_url": "https://graphicmama.com/blog/free-stock-photos-websites/",
+        "to_url": "https://www.magnific.com/",
+        "title": "The Best 55 Free Image Websites for Free Stock Photos | GM Blog",
+        "anchor": "Freepik.com",
+        "domain_rating": 66
+      }
+    ]
+  }
+}

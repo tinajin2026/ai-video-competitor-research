@@ -1,0 +1,393 @@
+{
+  "schema_version": 1,
+  "product": {
+    "id": "sora",
+    "name": "OpenAI Sora",
+    "x_handle": "OpenAI",
+    "homepage": "https://openai.com/sora/",
+    "ads_priority": false,
+    "traffic_domain": "sora.com",
+    "additional_domains": [],
+    "scope_note": "官方页面已重定向停服公告；仅作为历史对象保留。sora.com 流量不是 OpenAI 全站流量。",
+    "shared_scope": false,
+    "domain_data": {
+      "domain": "sora.com",
+      "traffic": {
+        "domain": "sora.com",
+        "overview": {
+          "global_rank": 136074,
+          "country_rank": {
+            "country": "IN",
+            "rank": 79098
+          },
+          "visits": 436439,
+          "bounce_rate": 0.43097685662099267,
+          "pages_per_visit": 1.5448938070551672,
+          "time_on_site_seconds": 18.12640602320358,
+          "month": "2026-08"
+        },
+        "monthly_visits": [
+          {
+            "month": "2025-09",
+            "visits": 1009210
+          },
+          {
+            "month": "2025-10",
+            "visits": 4462222
+          },
+          {
+            "month": "2025-11",
+            "visits": 2876788
+          },
+          {
+            "month": "2025-12",
+            "visits": 2095953
+          },
+          {
+            "month": "2026-01",
+            "visits": 2367654
+          },
+          {
+            "month": "2026-02",
+            "visits": 1812943
+          },
+          {
+            "month": "2026-03",
+            "visits": 1846324
+          },
+          {
+            "month": "2026-04",
+            "visits": 1443520
+          },
+          {
+            "month": "2026-05",
+            "visits": 810795
+          },
+          {
+            "month": "2026-06",
+            "visits": 568836
+          },
+          {
+            "month": "2026-07",
+            "visits": 509964
+          },
+          {
+            "month": "2026-08",
+            "visits": 436439
+          }
+        ],
+        "traffic_sources": {
+          "direct": 0.2628,
+          "search": 0.6361,
+          "search_organic": 0.6289,
+          "search_paid": 0.0073,
+          "social": 0.0083,
+          "social_organic": 0.0083,
+          "social_paid": 0,
+          "referrals": 0.0383,
+          "paid_referrals": 0,
+          "mail": 0,
+          "gen_ai": 0.0545,
+          "affiliate": 0,
+          "other": 0
+        },
+        "top_keywords": [
+          {
+            "name": "sora",
+            "volume": 651610,
+            "cpc": 1.1,
+            "estimated_value": 191250
+          },
+          {
+            "name": "sora ai",
+            "volume": 112220,
+            "cpc": 0.96,
+            "estimated_value": 54080
+          },
+          {
+            "name": "sora 2",
+            "volume": 115520,
+            "cpc": 1.03,
+            "estimated_value": 29810
+          },
+          {
+            "name": "sora ai video generator",
+            "volume": 23040,
+            "cpc": 1.92,
+            "estimated_value": 3940
+          },
+          {
+            "name": "sora2",
+            "volume": 30500,
+            "cpc": 1.24,
+            "estimated_value": 3620
+          }
+        ],
+        "top_regions": [
+          {
+            "country": "US",
+            "name": "United States",
+            "share": 0.0423
+          },
+          {
+            "country": "BR",
+            "name": "Brazil",
+            "share": 0.0368
+          },
+          {
+            "country": "RU",
+            "name": "Russia",
+            "share": 0.034
+          },
+          {
+            "country": "VN",
+            "name": "Vietnam",
+            "share": 0.032
+          },
+          {
+            "country": "TH",
+            "name": "Thailand",
+            "share": 0.0215
+          }
+        ]
+      },
+      "traffic_evidence": "domains/sora.com/traffic.json",
+      "traffic_status": "ok",
+      "registration_date": "1995-09-22T04:00:00Z",
+      "backlinks": {
+        "domain": "sora.com",
+        "overview": {
+          "domain_rating": 72,
+          "backlinks": 40567,
+          "referring_domains": 7872,
+          "dofollow_backlinks_pct": 85,
+          "dofollow_referring_domains_pct": 80
+        },
+        "backlinks": [
+          {
+            "from_url": "https://en.wikipedia.org/wiki/AI_art",
+            "to_url": "https://sora.com/",
+            "title": "AI art",
+            "anchor": "\"Sora\"",
+            "domain_rating": 97
+          },
+          {
+            "from_url": "https://openai.com/index/sora-2/",
+            "to_url": "http://sora.com/",
+            "title": "Sora 2 is here | OpenAI",
+            "anchor": "sora.com⁠(opens in a new window)",
+            "domain_rating": 93
+          },
+          {
+            "from_url": "https://chatgopenai.com/",
+            "to_url": "https://sora.com/",
+            "title": "ChatGPT Português | Usar o Chat GPT Gratuito",
+            "anchor": "Sora",
+            "domain_rating": 4
+          },
+          {
+            "from_url": "https://zapier.com/blog/sora-ai/",
+            "to_url": "https://sora.com/",
+            "title": "What is Sora? OpenAI's text-to-video model | Zapier",
+            "anchor": "Sora's sample videos",
+            "domain_rating": 91
+          },
+          {
+            "from_url": "https://www.mismama.com/blog/icerik/en-iyi-kedi-mamasi-nasil-secilir",
+            "to_url": "https://sora.com/",
+            "title": "Kedi Maması Seçimi: Etiketi Nasıl Okursunuz? Veteriner Onaylı Eksiksiz Rehber | Mismama",
+            "anchor": "Sora",
+            "domain_rating": 24
+          },
+          {
+            "from_url": "https://www.ainauten.com/top-ki-tools-liste",
+            "to_url": "https://sora.com/",
+            "title": "Beste KI Tools 2026: Die große Übersicht (handverlesen) | AINAUTEN",
+            "anchor": "sora.com",
+            "domain_rating": 29
+          },
+          {
+            "from_url": "https://phongvu.vn/cong-nghe/cach-su-dung-openai-sora-2-de-tao-video-ai/",
+            "to_url": "https://sora.com/",
+            "title": "Hướng dẫn sử dụng Sora 2 tạo video AI chân thực, dễ dàng",
+            "anchor": "Sora",
+            "domain_rating": 72
+          },
+          {
+            "from_url": "https://www.youtube.com/watch?v=lHhHEw-Nkg0",
+            "to_url": "https://sora.com/",
+            "title": "How to Use Sora 2 (Step-by-Step Tutorial) - YouTube",
+            "anchor": "https://www.sora.com",
+            "domain_rating": 99
+          },
+          {
+            "from_url": "https://www.datacamp.com/es/tutorial/sora-ai",
+            "to_url": "https://sora.com/",
+            "title": "Cómo utilizar Sora AI: Una guía con 10 ejemplos prácticos | DataCamp",
+            "anchor": "https://sora.com/",
+            "domain_rating": 85
+          },
+          {
+            "from_url": "https://www.numerama.com/tech/1862652-premier-test-de-sora-des-videos-pleines-derreurs-et-plusieurs-limites-techniques.html",
+            "to_url": "https://sora.com/",
+            "title": "Premier test de Sora : on a généré des vidéos avec l'IA et il y a beaucoup trop d'erreurs - Numerama",
+            "anchor": "sora.com",
+            "domain_rating": 79
+          },
+          {
+            "from_url": "https://www.bluehost.com/es-es/blog/los-mejores-generadores-de-videos-de-ia-en-2025-las-mejores-herramientas-para-creadores/",
+            "to_url": "https://sora.com/",
+            "title": "Los mejores generadores de videos de IA en 2025: las mejores herramientas para creadores",
+            "anchor": "Sora",
+            "domain_rating": 91
+          },
+          {
+            "from_url": "https://tproger.ru/news/vywla-openai-sora-2---ii--kotoryj-simuliruet-mir--ponimaya-fiziku--i-generiruet-video-so-zvukom",
+            "to_url": "https://sora.com/",
+            "title": "Вышла OpenAI Sora 2: ИИ, который симулирует мир «понимая физику» и генерирует видео со звуком — Tproger",
+            "anchor": "sora.com",
+            "domain_rating": 69
+          },
+          {
+            "from_url": "https://github.com/JimmyLv/awesome-nano-banana",
+            "to_url": "https://sora.com/g/gen_01jsfxrdpjfpebnyed8yaz42nf",
+            "title": "GitHub - JimmyLv/awesome-nano-banana: Awesome curated collection of images and prompts generated by gemini-2.5-flash-image (aka Nano Banana) state-of-the-art image generation and editing model. Explore AI generated visuals created with Gemini, showcasing Google’s advanced image generation capabilities. · GitHub",
+            "anchor": "Source Link",
+            "domain_rating": 97
+          },
+          {
+            "from_url": "https://www.skillsbridge.vn/blogs/all-posts/tu-dong-hoa-tao-video-tu-a-z",
+            "to_url": "https://sora.com/",
+            "title": "Tự Động Hoá TẠO VIDEO Từ A-Z (Hướng Dẫn Từng Bước)",
+            "anchor": "sora.com,",
+            "domain_rating": 35
+          },
+          {
+            "from_url": "https://www.shopify.com/my/blog/ai-image-generator",
+            "to_url": "https://sora.com/",
+            "title": "AI Image Generators for Ecommerce: Top Tools (2025) - Shopify Malaysia",
+            "anchor": "Sora",
+            "domain_rating": 96
+          },
+          {
+            "from_url": "https://brunch.co.kr/@skychang44/654",
+            "to_url": "https://sora.com/",
+            "title": "드디어 공개된 OpenAI Sora(소라) 사용법",
+            "anchor": "https://sora.com/",
+            "domain_rating": 79
+          },
+          {
+            "from_url": "https://www.xataka.com/basics/sora-espana-precio-como-usar-inteligencia-artificial-para-crear-videos-openai",
+            "to_url": "https://sora.com/",
+            "title": "Sora en España: precio y cómo usar la inteligencia artificial para crear vídeos de OpenAi",
+            "anchor": "sora.com",
+            "domain_rating": 81
+          },
+          {
+            "from_url": "https://tenshoku.mynavi.jp/engineer/guide/articles/Z2Uk-REAACEAAgCX",
+            "to_url": "https://sora.com/",
+            "title": "動画生成AI「Sora」の使い方は？登録方法や無料版でできることを解説 - アンドエンジニア - エンジニアのこと、エンジニアから。",
+            "anchor": "sora",
+            "domain_rating": 92
+          },
+          {
+            "from_url": "https://gptko.co.kr/minireport_detail/%EB%AC%B4%EB%A3%8C-%EB%B2%84%EC%A0%84%EB%A7%8C%EC%9C%BC%EB%A1%9C-%EC%B6%A9%EB%B6%84%ED%95%A0%EA%B9%8C-chatgpt-%EB%AC%B4%EB%A3%8C-vs-%EC%9C%A0%EB%A3%8C-%EB%B2%84%EC%A0%84-%EC%A0%9C%EB%8C%80%EB%A1%9C-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0",
+            "to_url": "https://sora.com/",
+            "title": "",
+            "anchor": "Sora",
+            "domain_rating": 0
+          },
+          {
+            "from_url": "https://www.analyticsinsight.net/artificial-intelligence/best-ai-animation-generators-in-2026-for-quick-video-creation",
+            "to_url": "https://sora.com/",
+            "title": "AI and Data Analytics: Transforming Modern Cricket",
+            "anchor": "Sora",
+            "domain_rating": 80
+          }
+        ]
+      },
+      "backlinks_evidence": "domains/sora.com/backlinks.json"
+    },
+    "pages": [
+      {
+        "kind": "home",
+        "label": "首页",
+        "path": "products/sora/pages/home.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://openai.com/sora/",
+          "resolved_url": "https://help.openai.com/en/articles/20001152-what-to-know-about-the-sora-discontinuation",
+          "http_status": 200
+        },
+        "page": {
+          "title": "What to know about the Sora discontinuation | OpenAI Help Center"
+        },
+        "content": "官网入口已转到停服说明；历史流量仍保留，移出活跃样本。"
+      },
+      {
+        "kind": "status",
+        "label": "运营状态公告",
+        "path": "products/sora/pages/status.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://help.openai.com/en/articles/20001152-what-to-know-about-the-sora-discontinuation",
+          "resolved_url": "https://help.openai.com/en/articles/20001152-what-to-know-about-the-sora-discontinuation",
+          "http_status": 200
+        },
+        "page": {
+          "title": "What to know about the Sora discontinuation | OpenAI Help Center"
+        },
+        "content": "已保存官网来源；本公开版不转载页面全文。"
+      }
+    ],
+    "searches": [],
+    "issues": [],
+    "screenshot": null,
+    "product_entry_links": []
+  },
+  "metrics": {
+    "visits": 436439,
+    "mom": -0.14417684385564467,
+    "change3": -0.4617147367707004,
+    "rolling3": -0.6304871021321311,
+    "recent_average": 505079.6666666667,
+    "prior_average": 1366879.6666666667,
+    "up_streak": 0,
+    "derived_channels": {
+      "search_paid_visits": 3186.0047,
+      "social_paid_visits": 0,
+      "search_organic_visits": 274476.4871,
+      "social_organic_visits": 3622.4437000000003,
+      "direct_visits": 114696.16919999999
+    },
+    "scope": "discontinued",
+    "profile": "官方入口已转到停服说明；保留历史域名数据，不进入增长优先级判断。",
+    "profile_source": "products/sora/pages/home.json"
+  },
+  "editorial": {
+    "thesis": "当前应作为停服和迁移案例研究，退出活跃增长比较。",
+    "focus": "官方入口已转到停服说明，残留访问可能来自历史需求或帮助查询。历史趋势不能代表仍在运营的生成服务。",
+    "experiment": "研究用户项目和素材迁移的真实需求，为迁移导入、格式兼容和替代工作流提供说明。",
+    "measure": "成功导入率、迁移后首次输出率与转换失败类型。",
+    "watch": "官方停服、数据导出与兼容说明；不采纳第三方假冒入口。"
+  },
+  "activities": [
+    {
+      "product_id": "sora",
+      "type": "operation",
+      "title": "Sora 停服公告",
+      "detail": "官网入口已转到停服说明；历史流量仍保留，移出活跃样本。",
+      "anchors": [
+        "What to know about the Sora discontinuation"
+      ],
+      "source": "products/sora/pages/home.json",
+      "event_date": null,
+      "id": "activity-16",
+      "source_url": "https://help.openai.com/en/articles/20001152-what-to-know-about-the-sora-discontinuation",
+      "observed_at": "2026-10-02"
+    }
+  ],
+  "x_posts": []
+}

@@ -1,0 +1,158 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "imagine.art",
+  "measurement": "第三方外链样本",
+  "data": {
+    "domain": "imagine.art",
+    "overview": {
+      "domain_rating": 75,
+      "backlinks": 162344,
+      "referring_domains": 9165,
+      "dofollow_backlinks_pct": 38,
+      "dofollow_referring_domains_pct": 70
+    },
+    "backlinks": [
+      {
+        "from_url": "https://codimd.apps.education.fr/s/r1H5nglAY",
+        "to_url": "https://www.imagine.art/",
+        "title": "Une sélection d’IA génératives gratuites en ligne - CodiMD",
+        "anchor": "Imagine.art",
+        "domain_rating": 85
+      },
+      {
+        "from_url": "https://aitools.aiting.com/ja/ai/artbreeder",
+        "to_url": "https://www.imagine.art/",
+        "title": "Artbreeder AI：共同制作できる画像生成ツール｜キャラクター制作 | AiTing AI",
+        "anchor": "",
+        "domain_rating": 38
+      },
+      {
+        "from_url": "https://din-studio.com/layout-design-explained/",
+        "to_url": "https://www.imagine.art/ai-image-generator",
+        "title": "Layout Design Explained: Definition, Elements & Basic Principles - Din Studio",
+        "anchor": "AI image generator",
+        "domain_rating": 50
+      },
+      {
+        "from_url": "https://play.google.com/store/apps/details?id=com.vyroai.aiart&hl=en_IN",
+        "to_url": "https://www.imagine.art/",
+        "title": "ImagineArt: AI Image Generator – Apps on Google Play",
+        "anchor": "publicWebsite",
+        "domain_rating": 100
+      },
+      {
+        "from_url": "https://www.gartner.com/peer-community/post/some-best-ai-platforms-generating-images-complement-text",
+        "to_url": "https://www.imagine.art/ai-image-generator",
+        "title": "What are some of the best AI platforms for generating images that complement text? | Gartner Peer Community",
+        "anchor": "https://www.imagine.art/ai-image-generator",
+        "domain_rating": 92
+      },
+      {
+        "from_url": "https://ai4k.eu/content/free-ai-tools-online/",
+        "to_url": "https://www.imagine.art/",
+        "title": "Over 100 FREE AI Tools: 2025 Update » ai4k",
+        "anchor": "Imagine Art",
+        "domain_rating": 1
+      },
+      {
+        "from_url": "https://aimadesimple0.substack.com/p/i-tested-tons-of-ai-image-generators",
+        "to_url": "https://www.imagine.art/",
+        "title": "I Tested Tons of AI Image Generators - These 10 Are the Best by Far",
+        "anchor": "ImagineArt",
+        "domain_rating": 94
+      },
+      {
+        "from_url": "https://venngage.com/blog/presentation-ideas/",
+        "to_url": "https://www.imagine.art/ai-video-generator",
+        "title": "120+ Presentation Ideas, Topics & Example - Venngage Blog",
+        "anchor": "AI video generator",
+        "domain_rating": 84
+      },
+      {
+        "from_url": "https://chatlyai.app/blog/chatly-vs-arena-ai",
+        "to_url": "https://www.imagine.art/",
+        "title": "Chatly vs Arena AI",
+        "anchor": "ImagineArt",
+        "domain_rating": 53
+      },
+      {
+        "from_url": "https://www.falkonsms.com/post/enable-imessage-on-iphone-guide",
+        "to_url": "https://www.imagine.art/ai-video-generator",
+        "title": "How to Enable iMessage on Your iPhone: A Step-by-Step Guide",
+        "anchor": "AI video generator",
+        "domain_rating": 61
+      },
+      {
+        "from_url": "https://www.logoai.com/blog/tesla-logo-evolution",
+        "to_url": "https://www.imagine.art/ai-video-generator",
+        "title": "The Tesla Logo Evolution: What does the Tesla symbol mean? — LogoAI",
+        "anchor": "AI Video Generator",
+        "domain_rating": 74
+      },
+      {
+        "from_url": "https://recruiterflow.com/blog/social-media-recruiting/",
+        "to_url": "https://www.imagine.art/ai-video-generator",
+        "title": "Guide to Social Media Recruiting - Recruiterflow Blog",
+        "anchor": "AI Video Generator",
+        "domain_rating": 76
+      },
+      {
+        "from_url": "https://www.truedigitalacademy.com/blog/free-ai-infographic-tools",
+        "to_url": "https://www.imagine.art/blogs/nano-banana-pro-ai-infographics-guide",
+        "title": "5 AI ทำอินโฟกราฟิกฟรี 2026: สรุปข้อมูลซับซ้อนให้เข้าใจง่ายสำหรับผู้บริหาร - True Digital Academy",
+        "anchor": "https://www.imagine.art/blogs/nano-banana-pro-ai-infographics-guide",
+        "domain_rating": 32
+      },
+      {
+        "from_url": "https://insighto.ai/blog/character-ai/",
+        "to_url": "https://www.imagine.art/ai-image-generator",
+        "title": "What is Character AI: Features, Benefits, Uses & Top Alternatives",
+        "anchor": "AI Image Generator",
+        "domain_rating": 50
+      },
+      {
+        "from_url": "https://www.studiobinder.com/blog/best-storyboard-software-free-storyboard-templates/",
+        "to_url": "https://www.imagine.art/insights/how-to-create-a-film-storyboard",
+        "title": "25 Best Storyboard Software in 2026 [Ultimate Guide]",
+        "anchor": "Imagine.art",
+        "domain_rating": 78
+      },
+      {
+        "from_url": "https://www.designevo.com/blog/best-restaurant-logos.html",
+        "to_url": "https://www.imagine.art/ai-image-generator",
+        "title": "Best 41+ Restaurant Logos",
+        "anchor": "free AI image generator",
+        "domain_rating": 75
+      },
+      {
+        "from_url": "https://blog.hubspot.com/marketing/ai-video-generator",
+        "to_url": "https://www.imagine.art/ai-video-generator",
+        "title": "16 best AI video generators to use",
+        "anchor": "ImagineArt",
+        "domain_rating": 93
+      },
+      {
+        "from_url": "https://async.com/blog/how-to-edit-a-tiktok-video-after-posting/",
+        "to_url": "https://www.imagine.art/apps/video-object-removal",
+        "title": "How to Edit a TikTok Video After Posting (Yes, There's Hope)",
+        "anchor": "remove objects from video",
+        "domain_rating": 76
+      },
+      {
+        "from_url": "https://saasmarket.ru/categories/iskusstvennyj-intellekt/ii-dlja-raboty-s-izobrazeniem",
+        "to_url": "https://www.imagine.art/?ref=mthmywu",
+        "title": "ИИ генератор изображений | Создать картинку по описанию с помощью нейросети",
+        "anchor": "Перейти на сайт",
+        "domain_rating": 14
+      },
+      {
+        "from_url": "https://www.hostgator.bo/blog/herramientas-ia-crear-imagenes/",
+        "to_url": "https://www.imagine.art/",
+        "title": "Herramientas de IA para crear imágenes: las mejores opciones",
+        "anchor": "MidJourney",
+        "domain_rating": 1
+      }
+    ]
+  }
+}

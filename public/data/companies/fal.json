@@ -1,0 +1,411 @@
+{
+  "schema_version": 1,
+  "product": {
+    "id": "fal",
+    "name": "fal.ai",
+    "x_handle": "fal",
+    "homepage": "https://fal.ai/",
+    "ads_priority": false,
+    "traffic_domain": "fal.ai",
+    "additional_domains": [],
+    "scope_note": "域名级流量估算，非付费用户、收入或模型调用量。",
+    "shared_scope": false,
+    "domain_data": {
+      "domain": "fal.ai",
+      "traffic": {
+        "domain": "fal.ai",
+        "overview": {
+          "global_rank": 16609,
+          "country_rank": {
+            "country": "US",
+            "rank": 13505
+          },
+          "visits": 2679176,
+          "bounce_rate": 0.3937348377479597,
+          "pages_per_visit": 6.082086590622422,
+          "time_on_site_seconds": 322.91869217806953,
+          "month": "2026-08"
+        },
+        "monthly_visits": [
+          {
+            "month": "2025-09",
+            "visits": 2142934
+          },
+          {
+            "month": "2025-10",
+            "visits": 2054913
+          },
+          {
+            "month": "2025-11",
+            "visits": 1979375
+          },
+          {
+            "month": "2025-12",
+            "visits": 2610258
+          },
+          {
+            "month": "2026-01",
+            "visits": 2402894
+          },
+          {
+            "month": "2026-02",
+            "visits": 2243121
+          },
+          {
+            "month": "2026-03",
+            "visits": 2556690
+          },
+          {
+            "month": "2026-04",
+            "visits": 2595836
+          },
+          {
+            "month": "2026-05",
+            "visits": 2300237
+          },
+          {
+            "month": "2026-06",
+            "visits": 2416291
+          },
+          {
+            "month": "2026-07",
+            "visits": 2380154
+          },
+          {
+            "month": "2026-08",
+            "visits": 2679176
+          }
+        ],
+        "traffic_sources": {
+          "direct": 0.5762,
+          "search": 0.2635,
+          "search_organic": 0.2499,
+          "search_paid": 0.0136,
+          "social": 0.069,
+          "social_organic": 0.0679,
+          "social_paid": 0.0011,
+          "referrals": 0.0449,
+          "paid_referrals": 0.0033,
+          "mail": 0.0108,
+          "gen_ai": 0.0321,
+          "affiliate": 0.0001,
+          "other": 0
+        },
+        "top_keywords": [
+          {
+            "name": "fal ai",
+            "volume": 133390,
+            "cpc": 1.57,
+            "estimated_value": 148770
+          },
+          {
+            "name": "minimax h3",
+            "volume": 926660,
+            "cpc": 0,
+            "estimated_value": 39380
+          },
+          {
+            "name": "fal",
+            "volume": 79850,
+            "cpc": 0.31,
+            "estimated_value": 33380
+          },
+          {
+            "name": "elevenlabs",
+            "volume": 3401750,
+            "cpc": 0.21,
+            "estimated_value": 31080
+          },
+          {
+            "name": "fal.ai",
+            "volume": 17690,
+            "cpc": 1.55,
+            "estimated_value": 20410
+          }
+        ],
+        "top_regions": [
+          {
+            "country": "US",
+            "name": "United States",
+            "share": 0.2313
+          },
+          {
+            "country": "IN",
+            "name": "India",
+            "share": 0.0549
+          },
+          {
+            "country": "DE",
+            "name": "Germany",
+            "share": 0.0548
+          },
+          {
+            "country": "CN",
+            "name": "China",
+            "share": 0.043
+          },
+          {
+            "country": "TR",
+            "name": "Turkey",
+            "share": 0.0377
+          }
+        ]
+      },
+      "traffic_evidence": "domains/fal.ai/traffic.json",
+      "traffic_status": "ok",
+      "registration_date": "2020-11-13T00:24:34Z",
+      "backlinks": {
+        "domain": "fal.ai",
+        "overview": {
+          "domain_rating": 82,
+          "backlinks": 273583,
+          "referring_domains": 12221,
+          "dofollow_backlinks_pct": 74,
+          "dofollow_referring_domains_pct": 75
+        },
+        "backlinks": [
+          {
+            "from_url": "https://codimd.apps.education.fr/s/r1H5nglAY",
+            "to_url": "https://fal.ai/",
+            "title": "Une sélection d’IA génératives gratuites en ligne - CodiMD",
+            "anchor": "Fal.ai",
+            "domain_rating": 85
+          },
+          {
+            "from_url": "https://www.eesel.ai/pt/blog/chatgpt-images-20-gpt-image-2-what-is-new",
+            "to_url": "https://fal.ai/models/openai/gpt-image-2",
+            "title": "ChatGPT Images 2.0 (GPT-Image-2): O que é e o que há de realmente novo | eesel AI",
+            "anchor": "compreensão mais profunda das propriedades de iluminação e material",
+            "domain_rating": 74
+          },
+          {
+            "from_url": "https://topai.tools/s/dacmef-ai",
+            "to_url": "https://fal.ai/?via=topaitools",
+            "title": "Dacmef AI - TopAI.Tools",
+            "anchor": "",
+            "domain_rating": 64
+          },
+          {
+            "from_url": "https://www.eweek.com/news/gemini-flash-general-availability/",
+            "to_url": "https://fal.ai/models/fal-ai/gemini-25-flash-image/edit",
+            "title": "Dataiku Says It Can Track AI Agents Across Platforms: What Can It See?",
+            "anchor": "fal.ai is bringing it",
+            "domain_rating": 83
+          },
+          {
+            "from_url": "https://en.wikipedia.org/wiki/Recraft",
+            "to_url": "https://fal.ai/models/fal-ai/recraft/v3/text-to-image",
+            "title": "Recraft",
+            "anchor": "\"fal.ai: Recraft V3\"",
+            "domain_rating": 97
+          },
+          {
+            "from_url": "https://developer.nvidia.com/topics/ai/nemotron",
+            "to_url": "http://fal.ai/nemotron",
+            "title": "Nemotron AI Models | NVIDIA Developer",
+            "anchor": "fal.ai",
+            "domain_rating": 92
+          },
+          {
+            "from_url": "https://zimage.run/blog/zi-029-z-image-vs-flux2-dev-en-20260509",
+            "to_url": "https://fal.ai/",
+            "title": "Z-Image vs Flux.2 Dev In-Depth Comparison: The Best Open-Source Image Generation Models of 2026 | Blog",
+            "anchor": "Fal.ai",
+            "domain_rating": 19
+          },
+          {
+            "from_url": "https://www.ogimage.gallery/",
+            "to_url": "https://fal.ai/",
+            "title": "OGimage.gallery | The finest hand-picked OG Images ✨",
+            "anchor": "↗",
+            "domain_rating": 35
+          },
+          {
+            "from_url": "https://www.moonvalley.com/",
+            "to_url": "https://blog.fal.ai/moonvalleys-marey-realism-v1-5-is-now-on-fal-the-most-advanced-generative-filmmaking-yet/",
+            "title": "moonvalley - the imagination research company",
+            "anchor": "",
+            "domain_rating": 56
+          },
+          {
+            "from_url": "https://eksisozluk.com/fal-ai--8011188",
+            "to_url": "https://fal.ai/about",
+            "title": "fal.ai - ekşi sözlük",
+            "anchor": "şirket bağlantısı",
+            "domain_rating": 78
+          },
+          {
+            "from_url": "https://arena.ai/leaderboard/text-to-video",
+            "to_url": "https://fal.ai/models/fal-ai/kling-video/v2.1/master/text-to-video",
+            "title": "Text-to-Video Leaderboard - Best AI Video Generators",
+            "anchor": "kling-v2.1-master",
+            "domain_rating": 82
+          },
+          {
+            "from_url": "https://curiousrefuge.com/blog/how-to-make-realistic-ai-videos",
+            "to_url": "https://fal.ai/",
+            "title": "How to Make Realistic AI Videos (Step-by-Step) — Curious Refuge",
+            "anchor": "fal.ai.",
+            "domain_rating": 54
+          },
+          {
+            "from_url": "https://getdeploying.com/gpus",
+            "to_url": "https://fal.ai/pricing",
+            "title": "Cloud GPU Pricing - Compare 68 Providers (2026)",
+            "anchor": "Visit website ↗",
+            "domain_rating": 53
+          },
+          {
+            "from_url": "https://tool.lifehacker.tw/background-remover",
+            "to_url": "https://fal.ai/models/fal-ai/birefnet",
+            "title": "AI 去背工具｜免費一鍵去除圖片背景｜雷蒙三十工具集",
+            "anchor": "RMBG-2.0",
+            "domain_rating": 26
+          },
+          {
+            "from_url": "https://docs.digitalocean.com/",
+            "to_url": "https://fal.ai/models/fal-ai/wan/v2.2-a14b/text-to-video",
+            "title": "DigitalOcean Docs | DigitalOcean Documentation",
+            "anchor": "Wan2.2-T2V-A14B",
+            "domain_rating": 91
+          },
+          {
+            "from_url": "https://gen-api.ru/model/sd35",
+            "to_url": "https://fal.ai/",
+            "title": "Нейросеть Stable Diffusion 3.5 онлайн | GenAPI",
+            "anchor": "Авторы",
+            "domain_rating": 39
+          },
+          {
+            "from_url": "https://zapier.com/blog/ai-art-generator/",
+            "to_url": "https://fal.ai/",
+            "title": "The 20+ top AI art generators in 2026 | Zapier",
+            "anchor": "fal",
+            "domain_rating": 91
+          },
+          {
+            "from_url": "https://marketing4ecommerce.net/top-ia-generadoras-de-imagenes/",
+            "to_url": "https://fal.ai/models/fal-ai/flux-pro",
+            "title": "Top: las mejores IA generadoras de imágenes",
+            "anchor": "Fal.AI",
+            "domain_rating": 75
+          },
+          {
+            "from_url": "https://github.com/sczhou/codeformer",
+            "to_url": "https://fal.ai/models/fal-ai/codeformer",
+            "title": "GitHub - sczhou/CodeFormer: [NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer · GitHub",
+            "anchor": "https://fal.ai/models/fal-ai/codeformer",
+            "domain_rating": 97
+          },
+          {
+            "from_url": "https://parkpadel.com/",
+            "to_url": "https://fal.ai/",
+            "title": "Park Padel - Padel in San Francisco, South SF & Sacramento",
+            "anchor": "fal",
+            "domain_rating": 28
+          }
+        ]
+      },
+      "backlinks_evidence": "domains/fal.ai/backlinks.json"
+    },
+    "pages": [
+      {
+        "kind": "home",
+        "label": "首页",
+        "path": "products/fal/pages/home.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://fal.ai/",
+          "resolved_url": "https://fal.ai/",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Generative AI | Run Image, Video, 3D and Audio Models | fal"
+        },
+        "content": "首页以模型调用、部署、训练和专属算力服务开发者与企业。"
+      },
+      {
+        "kind": "pricing",
+        "label": "定价资料",
+        "path": "products/fal/pages/pricing.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://fal.ai/pricing",
+          "resolved_url": "https://fal.ai/pricing",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Pricing: Pay-Per-Use AI Model APIs and Serverless GPUs | fal"
+        },
+        "content": "已保存官网来源；本公开版不转载页面全文。"
+      },
+      {
+        "kind": "docs",
+        "label": "文档",
+        "path": "products/fal/pages/docs.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://fal.ai/docs/documentation",
+          "resolved_url": "https://fal.ai/docs/documentation",
+          "http_status": 200
+        },
+        "page": {
+          "title": "fal Docs"
+        },
+        "content": "已保存官网来源；本公开版不转载页面全文。"
+      }
+    ],
+    "searches": [],
+    "issues": [],
+    "screenshot": null,
+    "product_entry_links": []
+  },
+  "metrics": {
+    "visits": 2679176,
+    "mom": 0.12563136670988517,
+    "change3": 0.1647391116654502,
+    "rolling3": 0.0030670504348522254,
+    "recent_average": 2491873.6666666665,
+    "prior_average": 2484254.3333333335,
+    "up_streak": 1,
+    "derived_channels": {
+      "search_paid_visits": 36436.7936,
+      "social_paid_visits": 2947.0936,
+      "search_organic_visits": 669526.0824000001,
+      "social_organic_visits": 181916.0504,
+      "direct_visits": 1543741.2112
+    },
+    "scope": "site",
+    "profile": "面向开发者的生成媒体模型与计算基础设施；不与终端创作工具混排效率。",
+    "profile_source": "products/fal/pages/home.json"
+  },
+  "editorial": {
+    "thesis": "开发者的模型接入与生产基础设施是核心竞争维度，站点规模不等于推理用量。",
+    "focus": "模型 API、部署、训练与算力服务对应不同采购阶段。关键词中的模型名称属于生态需求，不能全记为 fal 品牌搜索。",
+    "experiment": "为一个视频工作流准备可运行 API 样例、错误处理和同规格成本页。",
+    "measure": "开发者首次成功调用时间、失败重试率、持续调用比例与生成成本。",
+    "watch": "模型上线速度、API 单价、推理能力与生产案例。"
+  },
+  "activities": [
+    {
+      "product_id": "fal",
+      "type": "developer",
+      "title": "模型 API、无服务器与算力分层",
+      "detail": "首页以模型调用、部署、训练和专属算力服务开发者与企业。",
+      "anchors": [
+        "Build,",
+        "serverless",
+        "Dedicated clusters"
+      ],
+      "source": "products/fal/pages/home.json",
+      "event_date": null,
+      "id": "activity-24",
+      "source_url": "https://fal.ai/",
+      "observed_at": "2026-10-02"
+    }
+  ],
+  "x_posts": []
+}

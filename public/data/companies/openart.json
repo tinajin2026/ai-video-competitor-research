@@ -1,0 +1,441 @@
+{
+  "schema_version": 1,
+  "product": {
+    "id": "openart",
+    "name": "OpenArt",
+    "x_handle": "openart_ai",
+    "homepage": "https://openart.ai/",
+    "ads_priority": false,
+    "traffic_domain": "openart.ai",
+    "additional_domains": [],
+    "scope_note": "域名级流量估算，非付费用户、收入或模型调用量。",
+    "shared_scope": false,
+    "domain_data": {
+      "domain": "openart.ai",
+      "traffic": {
+        "domain": "openart.ai",
+        "overview": {
+          "global_rank": 5217,
+          "country_rank": {
+            "country": "US",
+            "rank": 4315
+          },
+          "visits": 8861371,
+          "bounce_rate": 0.37363862594148234,
+          "pages_per_visit": 5.5216410638665945,
+          "time_on_site_seconds": 327.1406501268644,
+          "month": "2026-08"
+        },
+        "monthly_visits": [
+          {
+            "month": "2025-09",
+            "visits": 8761279
+          },
+          {
+            "month": "2025-10",
+            "visits": 9118330
+          },
+          {
+            "month": "2025-11",
+            "visits": 8879879
+          },
+          {
+            "month": "2025-12",
+            "visits": 8723468
+          },
+          {
+            "month": "2026-01",
+            "visits": 10026718
+          },
+          {
+            "month": "2026-02",
+            "visits": 8892653
+          },
+          {
+            "month": "2026-03",
+            "visits": 9091257
+          },
+          {
+            "month": "2026-04",
+            "visits": 9137972
+          },
+          {
+            "month": "2026-05",
+            "visits": 10913009
+          },
+          {
+            "month": "2026-06",
+            "visits": 9275883
+          },
+          {
+            "month": "2026-07",
+            "visits": 8835724
+          },
+          {
+            "month": "2026-08",
+            "visits": 8861371
+          }
+        ],
+        "traffic_sources": {
+          "direct": 0.3641,
+          "search": 0.4438,
+          "search_organic": 0.2377,
+          "search_paid": 0.2061,
+          "social": 0.0794,
+          "social_organic": 0.0459,
+          "social_paid": 0.0334,
+          "referrals": 0.0319,
+          "paid_referrals": 0.0426,
+          "mail": 0.0105,
+          "gen_ai": 0.0207,
+          "affiliate": 0.0069,
+          "other": 0
+        },
+        "top_keywords": [
+          {
+            "name": "gemini ai",
+            "volume": 17213170,
+            "cpc": 0.25,
+            "estimated_value": 298900
+          },
+          {
+            "name": "openart",
+            "volume": 271990,
+            "cpc": 0.94,
+            "estimated_value": 257530
+          },
+          {
+            "name": "openart ai",
+            "volume": 146940,
+            "cpc": 0.72,
+            "estimated_value": 152460
+          },
+          {
+            "name": "kling ai",
+            "volume": 1451150,
+            "cpc": 0.48,
+            "estimated_value": 133880
+          },
+          {
+            "name": "open art",
+            "volume": 86060,
+            "cpc": 1.06,
+            "estimated_value": 80020
+          }
+        ],
+        "top_regions": [
+          {
+            "country": "US",
+            "name": "United States",
+            "share": 0.2808
+          },
+          {
+            "country": "IN",
+            "name": "India",
+            "share": 0.1048
+          },
+          {
+            "country": "CA",
+            "name": "Canada",
+            "share": 0.0369
+          },
+          {
+            "country": "GB",
+            "name": "United Kingdom",
+            "share": 0.0359
+          },
+          {
+            "country": "DE",
+            "name": "Germany",
+            "share": 0.0279
+          }
+        ]
+      },
+      "traffic_evidence": "domains/openart.ai/traffic.json",
+      "traffic_status": "ok",
+      "registration_date": "2022-08-13T15:42:52Z",
+      "backlinks": {
+        "domain": "openart.ai",
+        "overview": {
+          "domain_rating": 77,
+          "backlinks": 2233005,
+          "referring_domains": 12354,
+          "dofollow_backlinks_pct": 89,
+          "dofollow_referring_domains_pct": 65
+        },
+        "backlinks": [
+          {
+            "from_url": "https://fish.audio/",
+            "to_url": "https://openart.ai/",
+            "title": "Best AI Text To Speech & Free Voice Cloning | Fish Audio",
+            "anchor": "",
+            "domain_rating": 73
+          },
+          {
+            "from_url": "https://en.wikipedia.org/wiki/AI_art",
+            "to_url": "https://cdn.openart.ai/assets/Stable%20Diffusion%20Prompt%20Book%20From%20OpenArt%2011-13.pdf",
+            "title": "AI art",
+            "anchor": "\"Stable Diffusion Prompt Book\"",
+            "domain_rating": 97
+          },
+          {
+            "from_url": "https://www.techloy.com/top-10-seedance-2-5-use-cases-for-ai-video-creation/",
+            "to_url": "https://openart.ai/ai-model/seedance-2-5/",
+            "title": "Top 10 Seedance 2.5 Use Cases for AI Video Creation",
+            "anchor": "Seedance 2.5",
+            "domain_rating": 67
+          },
+          {
+            "from_url": "https://www.coursebox.ai/pt/blog/gerador-de-imagens-de-ia",
+            "to_url": "https://openart.ai/home",
+            "title": "Comparativo de 10 poderosos geradores de imagens com IA | Coursebox AI",
+            "anchor": "Difusão estável",
+            "domain_rating": 70
+          },
+          {
+            "from_url": "https://www.ifoto.ai/blog/fr/best-buzz-cut-filter/",
+            "to_url": "https://openart.ai/features/buzz-cut-hair-filter/",
+            "title": "À quoi ressemblerais-je avec un filtre Buzz Cut gratuit ? - Blog d'iFoto",
+            "anchor": "Art Ouvert",
+            "domain_rating": 42
+          },
+          {
+            "from_url": "https://seo.ai/blog/best-ai-image-generator",
+            "to_url": "https://openart.ai/",
+            "title": "The Best 9 AI Image Generators: New Reviews 2025",
+            "anchor": "https://openart.ai/",
+            "domain_rating": 77
+          },
+          {
+            "from_url": "https://www.toools.design/",
+            "to_url": "https://openart.ai/home",
+            "title": "Design Resources & Tools for Designers | TOOOLS.design",
+            "anchor": "OpenArtTurns imagination into visual stories—from idea to final frame.Freemium",
+            "domain_rating": 48
+          },
+          {
+            "from_url": "https://refto.one/tools/design-rails-free-ai-logo-generator-brand-builder--5d353e9d-c8e9-4292-97a9-6bb172cdd773",
+            "to_url": "https://openart.ai/?ref=refto.one",
+            "title": "Design Rails - Free AI Logo Generator & Brand Builder Tool Profile | Refto",
+            "anchor": "https://openart.ai",
+            "domain_rating": 9
+          },
+          {
+            "from_url": "https://www.creativepadmedia.com/the-best-free-alternatives-to-higgsfield-ai-full-demonstrations/",
+            "to_url": "https://openart.ai/",
+            "title": "The Best Free Alternatives to Higgsfield AI - With Full Demonstrations - Creative Pad Media",
+            "anchor": "OpenArt AI",
+            "domain_rating": 13
+          },
+          {
+            "from_url": "https://budgetpixel.com/",
+            "to_url": "https://openart.ai/blog/best-ai-generators/",
+            "title": "AI Image, Video and Music Generator | Design Studio & Canvas | BudgetPixel",
+            "anchor": "OpenArt, \"12 best AI image, video and audio generators (2026)\"",
+            "domain_rating": 36
+          },
+          {
+            "from_url": "https://github.com/mahseema/awesome-ai-tools",
+            "to_url": "https://openart.ai/",
+            "title": "GitHub - mahseema/awesome-ai-tools: A curated list of Artificial Intelligence Top Tools · GitHub",
+            "anchor": "OpenArt",
+            "domain_rating": 97
+          },
+          {
+            "from_url": "https://aitubo.ai/blog/post/ideogram-the-best-poster-generation-ai-tool/",
+            "to_url": "https://openart.ai/home",
+            "title": "AI Can Now Directly Generate Posters: Ideogram Emerges as the New King",
+            "anchor": "DALL·E 3",
+            "domain_rating": 51
+          },
+          {
+            "from_url": "https://topai.tools/s/completely-free-nudeify-ai",
+            "to_url": "https://openart.ai/?via=topaitools",
+            "title": "70 Completely Free Nudeify Ai - Free AI Tools",
+            "anchor": "",
+            "domain_rating": 64
+          },
+          {
+            "from_url": "https://jobs.ashbyhq.com/openart",
+            "to_url": "https://openart.ai/",
+            "title": "OpenArt AI Jobs",
+            "anchor": "OpenArt AI",
+            "domain_rating": 89
+          },
+          {
+            "from_url": "https://www.hububble.co/blog/best-ai-image-generator",
+            "to_url": "https://openart.ai/home",
+            "title": "14 個 AI 繪圖網站推薦！含 7 個 AI 生成圖免費網站！",
+            "anchor": "OpenArt 官網",
+            "domain_rating": 43
+          },
+          {
+            "from_url": "https://sacra.com/c/openart/",
+            "to_url": "https://www.openart.ai/",
+            "title": "OpenArt revenue, funding & news | Sacra",
+            "anchor": "openart.ai",
+            "domain_rating": 73
+          },
+          {
+            "from_url": "https://www.nexusai-tech.com/es/ai-apps/open-art-ai-image-generation-and-editing-platform",
+            "to_url": "https://openart.ai/",
+            "title": "OpenArt: Plataforma de generación y edición de imágenes con IA | NexusAi",
+            "anchor": "Visitar OpenArt",
+            "domain_rating": 21
+          },
+          {
+            "from_url": "https://ai4how.com/blog/ai-image-generator-no-restrictions/",
+            "to_url": "https://openart.ai/ai-image-generator/",
+            "title": "Top 5 Best AI Image Generator No Restrictions in 2026",
+            "anchor": "OpenArt’s AI image generator",
+            "domain_rating": 2
+          },
+          {
+            "from_url": "https://thimpress.com/best-free-ai-art-generators/",
+            "to_url": "https://openart.ai/",
+            "title": "8+ Best Free AI Art Generators for 2026 | ThimPress",
+            "anchor": "Learn More",
+            "domain_rating": 88
+          },
+          {
+            "from_url": "https://cyber.sports.ru/tech/blogs/3336037.html",
+            "to_url": "https://openart.ai/apps/remove-watermark",
+            "title": "Как убрать водяной знак с видео и фото: как удалить вотермарку онлайн бесплатно",
+            "anchor": "Сервис доступен по ссылке.",
+            "domain_rating": 76
+          }
+        ]
+      },
+      "backlinks_evidence": "domains/openart.ai/backlinks.json"
+    },
+    "pages": [
+      {
+        "kind": "home",
+        "label": "首页",
+        "path": "products/openart/pages/home.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://openart.ai/",
+          "resolved_url": "https://openart.ai/",
+          "http_status": 200
+        },
+        "page": {
+          "title": "AI Art Generator: Free AI Image, Video & Audio Generator"
+        },
+        "content": "首页以聊天导演、角色、世界生成、视频编辑工具承接故事创作需求。"
+      },
+      {
+        "kind": "pricing",
+        "label": "定价资料",
+        "path": "products/openart/pages/pricing.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://openart.ai/suite/pricing",
+          "resolved_url": "https://openart.ai/suite/pricing",
+          "http_status": 200
+        },
+        "page": {
+          "title": "OpenArt Pricing - AI Creator Studio for Video & Images"
+        },
+        "content": "价目页显示 Seedance 折扣和 Flux 不限量，另有升级套餐的 MiniMax H3 限时折扣；各方案截止时间不同。"
+      },
+      {
+        "kind": "blog",
+        "label": "博客 / 新闻",
+        "path": "products/openart/pages/blog.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://openart.ai/blog",
+          "resolved_url": "https://openart.ai/blog/",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Blog — OpenArt"
+        },
+        "content": "已保存官网来源；本公开版不转载页面全文。"
+      },
+      {
+        "kind": "features",
+        "label": "功能",
+        "path": "products/openart/pages/features.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://openart.ai/features/",
+          "resolved_url": "https://openart.ai/features/",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Features — OpenArt"
+        },
+        "content": "已保存官网来源；本公开版不转载页面全文。"
+      }
+    ],
+    "searches": [],
+    "issues": [],
+    "screenshot": null,
+    "product_entry_links": []
+  },
+  "metrics": {
+    "visits": 8861371,
+    "mom": 0.002902648385123774,
+    "change3": -0.1879992951531516,
+    "rolling3": -0.0744369735776641,
+    "recent_average": 8990992.666666666,
+    "prior_average": 9714079.333333334,
+    "up_streak": 1,
+    "derived_channels": {
+      "search_paid_visits": 1826328.5631000001,
+      "social_paid_visits": 295969.7914,
+      "search_organic_visits": 2106347.8867,
+      "social_organic_visits": 406736.92890000006,
+      "direct_visits": 3226425.1810999997
+    },
+    "scope": "site",
+    "profile": "首页强调视觉故事、对话式视频导演、图像和音频生成。",
+    "profile_source": "products/openart/pages/home.json"
+  },
+  "editorial": {
+    "thesis": "故事工作流与模型套餐促销并行，适合拆分持续产品价值与短期促销刺激。",
+    "focus": "对话导演、角色和世界生成是产品线索；模型折扣各有期限，不能把限时不限量解释为永久套餐权益。",
+    "experiment": "比较故事项目入口与单模型入口的完整成片率，折扣用户独立成组。",
+    "measure": "故事完成率、项目内角色复用率、折扣结束后的再次付费率。",
+    "watch": "10 月促销截止、套餐权益、对话导演与角色工作流。"
+  },
+  "activities": [
+    {
+      "product_id": "openart",
+      "type": "workflow",
+      "title": "对话式导演与故事创作工作流",
+      "detail": "首页以聊天导演、角色、世界生成、视频编辑工具承接故事创作需求。",
+      "anchors": [
+        "Vibe direct your videos by chatting",
+        "Video Inpaint"
+      ],
+      "source": "products/openart/pages/home.json",
+      "event_date": null,
+      "id": "activity-23",
+      "source_url": "https://openart.ai/",
+      "observed_at": "2026-10-02"
+    },
+    {
+      "product_id": "openart",
+      "type": "promotion",
+      "title": "以模型折扣推动套餐升级",
+      "detail": "价目页显示 Seedance 折扣和 Flux 不限量，另有升级套餐的 MiniMax H3 限时折扣；各方案截止时间不同。",
+      "anchors": [
+        "Until Oct 7",
+        "October 4"
+      ],
+      "source": "products/openart/pages/pricing.json",
+      "event_date": null,
+      "id": "activity-59",
+      "source_url": "https://openart.ai/suite/pricing",
+      "observed_at": "2026-10-02"
+    }
+  ],
+  "x_posts": []
+}

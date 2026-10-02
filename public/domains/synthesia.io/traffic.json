@@ -1,0 +1,145 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "synthesia.io",
+  "measurement": "第三方域名级估算",
+  "data": {
+    "domain": "synthesia.io",
+    "overview": {
+      "global_rank": 19043,
+      "country_rank": {
+        "country": "US",
+        "rank": 16736
+      },
+      "visits": 1809313,
+      "bounce_rate": 0.4024284277066611,
+      "pages_per_visit": 9.335536036036238,
+      "time_on_site_seconds": 404.65700266815907,
+      "month": "2026-08"
+    },
+    "monthly_visits": [
+      {
+        "month": "2025-09",
+        "visits": 1883296
+      },
+      {
+        "month": "2025-10",
+        "visits": 2017198
+      },
+      {
+        "month": "2025-11",
+        "visits": 1921586
+      },
+      {
+        "month": "2025-12",
+        "visits": 2164555
+      },
+      {
+        "month": "2026-01",
+        "visits": 2029505
+      },
+      {
+        "month": "2026-02",
+        "visits": 1670303
+      },
+      {
+        "month": "2026-03",
+        "visits": 1762930
+      },
+      {
+        "month": "2026-04",
+        "visits": 1677217
+      },
+      {
+        "month": "2026-05",
+        "visits": 1853798
+      },
+      {
+        "month": "2026-06",
+        "visits": 1949507
+      },
+      {
+        "month": "2026-07",
+        "visits": 1817879
+      },
+      {
+        "month": "2026-08",
+        "visits": 1809313
+      }
+    ],
+    "traffic_sources": {
+      "direct": 0.3716,
+      "search": 0.4543,
+      "search_organic": 0.3676,
+      "search_paid": 0.0868,
+      "social": 0.0599,
+      "social_organic": 0.0385,
+      "social_paid": 0.0214,
+      "referrals": 0.0679,
+      "paid_referrals": 0.0085,
+      "mail": 0.0208,
+      "gen_ai": 0.0166,
+      "affiliate": 0.0004,
+      "other": 0
+    },
+    "top_keywords": [
+      {
+        "name": "synthesia",
+        "volume": 207920,
+        "cpc": 1.01,
+        "estimated_value": 176270
+      },
+      {
+        "name": "free ai video generator",
+        "volume": 248970,
+        "cpc": 0.75,
+        "estimated_value": 21870
+      },
+      {
+        "name": "ai video generator free",
+        "volume": 157070,
+        "cpc": 0.48,
+        "estimated_value": 13490
+      },
+      {
+        "name": "heygen",
+        "volume": 1672920,
+        "cpc": 0.63,
+        "estimated_value": 12940
+      },
+      {
+        "name": "synthesia ai",
+        "volume": 16470,
+        "cpc": 0.83,
+        "estimated_value": 11180
+      }
+    ],
+    "top_regions": [
+      {
+        "country": "US",
+        "name": "United States",
+        "share": 0.2273
+      },
+      {
+        "country": "IN",
+        "name": "India",
+        "share": 0.0957
+      },
+      {
+        "country": "GB",
+        "name": "United Kingdom",
+        "share": 0.0924
+      },
+      {
+        "country": "DE",
+        "name": "Germany",
+        "share": 0.0357
+      },
+      {
+        "country": "CA",
+        "name": "Canada",
+        "share": 0.0336
+      }
+    ]
+  }
+}

@@ -1,0 +1,475 @@
+{
+  "schema_version": 1,
+  "product": {
+    "id": "pika",
+    "name": "Pika",
+    "x_handle": "pika_labs",
+    "homepage": "https://pika.art/",
+    "ads_priority": false,
+    "traffic_domain": "pika.art",
+    "additional_domains": [],
+    "scope_note": "域名级流量估算，非付费用户、收入或模型调用量。",
+    "shared_scope": false,
+    "domain_data": {
+      "domain": "pika.art",
+      "traffic": {
+        "domain": "pika.art",
+        "overview": {
+          "global_rank": 25753,
+          "country_rank": {
+            "country": "IN",
+            "rank": 11030
+          },
+          "visits": 1637698,
+          "bounce_rate": 0.33594756164202233,
+          "pages_per_visit": 5.752632760276142,
+          "time_on_site_seconds": 332.6562498801785,
+          "month": "2026-08"
+        },
+        "monthly_visits": [
+          {
+            "month": "2025-09",
+            "visits": 1791997
+          },
+          {
+            "month": "2025-10",
+            "visits": 2022511
+          },
+          {
+            "month": "2025-11",
+            "visits": 1771308
+          },
+          {
+            "month": "2025-12",
+            "visits": 1716501
+          },
+          {
+            "month": "2026-01",
+            "visits": 2154377
+          },
+          {
+            "month": "2026-02",
+            "visits": 1750411
+          },
+          {
+            "month": "2026-03",
+            "visits": 1822058
+          },
+          {
+            "month": "2026-04",
+            "visits": 1873554
+          },
+          {
+            "month": "2026-05",
+            "visits": 2241267
+          },
+          {
+            "month": "2026-06",
+            "visits": 2025188
+          },
+          {
+            "month": "2026-07",
+            "visits": 1809280
+          },
+          {
+            "month": "2026-08",
+            "visits": 1637698
+          }
+        ],
+        "traffic_sources": {
+          "direct": 0.3918,
+          "search": 0.3746,
+          "search_organic": 0.3745,
+          "search_paid": 0,
+          "social": 0.0397,
+          "social_organic": 0.0368,
+          "social_paid": 0.0029,
+          "referrals": 0.0936,
+          "paid_referrals": 0.0122,
+          "mail": 0.0121,
+          "gen_ai": 0.0762,
+          "affiliate": 0,
+          "other": 0
+        },
+        "top_keywords": [
+          {
+            "name": "pika",
+            "volume": 274880,
+            "cpc": 0.8,
+            "estimated_value": 207050
+          },
+          {
+            "name": "pika ai",
+            "volume": 66870,
+            "cpc": 0.53,
+            "estimated_value": 64870
+          },
+          {
+            "name": "pika labs",
+            "volume": 58320,
+            "cpc": 0.44,
+            "estimated_value": 50330
+          },
+          {
+            "name": "pika art",
+            "volume": 6420,
+            "cpc": 0.33,
+            "estimated_value": 7120
+          },
+          {
+            "name": "pika ai video generator",
+            "volume": 3880,
+            "cpc": 0.07,
+            "estimated_value": 3720
+          }
+        ],
+        "top_regions": [
+          {
+            "country": "IN",
+            "name": "India",
+            "share": 0.1368
+          },
+          {
+            "country": "US",
+            "name": "United States",
+            "share": 0.104
+          },
+          {
+            "country": "RU",
+            "name": "Russia",
+            "share": 0.0518
+          },
+          {
+            "country": "MX",
+            "name": "Mexico",
+            "share": 0.0365
+          },
+          {
+            "country": "SE",
+            "name": "Sweden",
+            "share": 0.0356
+          }
+        ]
+      },
+      "traffic_evidence": "domains/pika.art/traffic.json",
+      "traffic_status": "ok",
+      "registration_date": "2023-06-29T00:11:57.000Z",
+      "backlinks": {
+        "domain": "pika.art",
+        "overview": {
+          "domain_rating": 78,
+          "backlinks": 285960,
+          "referring_domains": 15412,
+          "dofollow_backlinks_pct": 88,
+          "dofollow_referring_domains_pct": 77
+        },
+        "backlinks": [
+          {
+            "from_url": "https://zapier.com/blog/best-ai-video-generator/",
+            "to_url": "https://pika.art/login",
+            "title": "The 17 best AI video generators in 2026 | Zapier",
+            "anchor": "Pika",
+            "domain_rating": 91
+          },
+          {
+            "from_url": "https://codimd.apps.education.fr/s/r1H5nglAY",
+            "to_url": "https://pika.art/",
+            "title": "Une sélection d’IA génératives gratuites en ligne - CodiMD",
+            "anchor": "Pika.art",
+            "domain_rating": 85
+          },
+          {
+            "from_url": "https://www.alura.com.br/podcast/105-openai-o3-chatgpt-gratis-no-whatsapp-meta-mata-os-tokens-a9610",
+            "to_url": "https://pika.art/login",
+            "title": "Podcast: 105: OpenAI o3, ChatGPT grátis no WhatsApp, Meta mata os tokens, | Alura",
+            "anchor": "Pika chega à versão 2.0",
+            "domain_rating": 75
+          },
+          {
+            "from_url": "https://readyforjob.in/pages/ai.html",
+            "to_url": "https://pika.art/",
+            "title": "Free AI Tools 2026 — Complete List | No Credit Card",
+            "anchor": "Visit Tool",
+            "domain_rating": 0
+          },
+          {
+            "from_url": "https://www.datacamp.com/blog/free-ai-tools",
+            "to_url": "https://pika.art/index",
+            "title": "The 40 Best Free AI Tools in 2026: A Complete Guide | DataCamp",
+            "anchor": "Pika",
+            "domain_rating": 85
+          },
+          {
+            "from_url": "https://www.eesel.ai/blog/pika-ai",
+            "to_url": "https://pika.art/",
+            "title": "What is Pika AI? A deep dive into the AI video generator | eesel AI",
+            "anchor": "Pika AI",
+            "domain_rating": 74
+          },
+          {
+            "from_url": "https://www.tomsguide.com/features/i-got-access-to-pika-labs-new-ai-video-tool-and-couldnt-believe-the-quality-of-the-videos-it-produced",
+            "to_url": "https://pika.art/",
+            "title": "I got access to Pika Labs new AI video tool and couldn't believe the quality of the videos it produced | Tom's Guide",
+            "anchor": "Pika 1.0",
+            "domain_rating": 87
+          },
+          {
+            "from_url": "https://github.com/zebbern/no-cost-ai",
+            "to_url": "https://pika.art/",
+            "title": "GitHub - zebbern/no-cost-ai: 80+ free AI services for chat, image, video, voice & APIs (may sometimes include access to lead gen ai models for free) · GitHub",
+            "anchor": "pika.art",
+            "domain_rating": 97
+          },
+          {
+            "from_url": "https://pictory.ai/text-to-video",
+            "to_url": "https://pika.art/",
+            "title": "AI Video Editor - Text To Video - Pictory",
+            "anchor": "Pika 2.2 — Pika Labs",
+            "domain_rating": 80
+          },
+          {
+            "from_url": "https://sendfame.com/blog/ai-video-generator-free",
+            "to_url": "https://pika.art/",
+            "title": "The 12 Best AI Video Generator Free Tools of 2025",
+            "anchor": "https://pika.art",
+            "domain_rating": 53
+          },
+          {
+            "from_url": "https://www.therundown.ai/articles/dario-amodei-logs-on-to-answer-the-critics",
+            "to_url": "https://experiment.pika.art/blog/pika-audio-models",
+            "title": "Dario Amodei logs on to answer the critics | The Rundown AI",
+            "anchor": "released",
+            "domain_rating": 71
+          },
+          {
+            "from_url": "https://www.creativepadmedia.com/the-best-free-alternatives-to-higgsfield-ai-full-demonstrations/",
+            "to_url": "https://pika.art/",
+            "title": "The Best Free Alternatives to Higgsfield AI - With Full Demonstrations - Creative Pad Media",
+            "anchor": "Pika AI",
+            "domain_rating": 13
+          },
+          {
+            "from_url": "https://pixverse.ai/en/blog/best-free-ai-video-generator",
+            "to_url": "https://pika.art/login",
+            "title": "Best Free AI Video Generator Online: 8 Tools Compared | PixVerse",
+            "anchor": "Pika pricing",
+            "domain_rating": 74
+          },
+          {
+            "from_url": "https://www.eweek.com/news/ai-pricing-cheat-sheet-2026/",
+            "to_url": "https://pika.art/pricing",
+            "title": "OpenAI Agent Accessed Australian Government Site: What Went Wrong",
+            "anchor": "Pricing snapshot",
+            "domain_rating": 83
+          },
+          {
+            "from_url": "https://skillbox.ru/media/design/live_photos/",
+            "to_url": "https://pika.art/login",
+            "title": "Нейросети для оживления фото: топ-7 бесплатных сервисов для анимации картинок / Skillbox Media",
+            "anchor": "Pika Labs",
+            "domain_rating": 78
+          },
+          {
+            "from_url": "https://digital-gorilla.co.jp/ai-lab/ai-video-generation-free/",
+            "to_url": "https://pika.art/pricing",
+            "title": "【2026年最新】ai動画生成 無料おすすめ10選｜使い方・商用利用・日本語対応を比較 – ゴリラのAI研究所",
+            "anchor": "Pika",
+            "domain_rating": 27
+          },
+          {
+            "from_url": "https://aitoolsandplugins.com/video-and-audio/pika-labs/",
+            "to_url": "https://pika.art/",
+            "title": "Pika Labs - AI Tools and Plugins",
+            "anchor": "Confirm at https://pika.art/ →",
+            "domain_rating": 0
+          },
+          {
+            "from_url": "https://t-j.ru/short/ai-for-all/",
+            "to_url": "https://pika.art/login",
+            "title": "Бесплатные нейросети онлайн: 50 лучших ИИ-сервисов",
+            "anchor": "Попробовать",
+            "domain_rating": 77
+          },
+          {
+            "from_url": "https://www.thewindowsclub.com/best-free-ai-video-generators",
+            "to_url": "https://pika.art/",
+            "title": "Best Free AI Video Generators",
+            "anchor": "pika.art",
+            "domain_rating": 78
+          },
+          {
+            "from_url": "https://research.contrary.com/company/krea",
+            "to_url": "https://pika.art/home",
+            "title": "Report: Krea Business Breakdown & Founding Story | Contrary Research",
+            "anchor": "Pika Labs",
+            "domain_rating": 71
+          }
+        ]
+      },
+      "backlinks_evidence": "domains/pika.art/backlinks.json"
+    },
+    "pages": [
+      {
+        "kind": "home",
+        "label": "首页",
+        "path": "products/pika/pages/home.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://pika.art/",
+          "resolved_url": "https://pika.art/",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Pika"
+        },
+        "content": "首页将视频、调色、延展、音乐等工具分场景展示，并提供开发者入口。"
+      },
+      {
+        "kind": "pricing",
+        "label": "定价资料",
+        "path": "products/pika/pages/pricing.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://pika.art/pricing",
+          "resolved_url": "https://pika.art/pricing",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Pricing — Pika"
+        },
+        "content": "已保存官网来源；本公开版不转载页面全文。"
+      },
+      {
+        "kind": "blog",
+        "label": "博客 / 新闻",
+        "path": "products/pika/pages/blog.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://pika.art/blog",
+          "resolved_url": "https://pika.art/blog",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Blog — Pika"
+        },
+        "content": "已保存官网来源；本公开版不转载页面全文。"
+      },
+      {
+        "kind": "action-developers",
+        "label": "官方动态",
+        "path": "products/pika/pages/action-developers.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://pika.art/blog/api-member-spotlights",
+          "resolved_url": "https://pika.art/blog/api-member-spotlights",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Pika API Club Member Spotlights — Pika Blog"
+        },
+        "content": "以 Vuvie、AI-Bridge 和 Secret Level 的工作流与费用案例推广 API Club。"
+      },
+      {
+        "kind": "action-relaunch",
+        "label": "官方动态",
+        "path": "products/pika/pages/action-relaunch.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://pika.art/blog/welcome-to-the-new-pika",
+          "resolved_url": "https://pika.art/blog/welcome-to-the-new-pika",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Welcome to the New Pika — Pika Blog"
+        },
+        "content": "将视频、图像、声音模型组织成任务应用，支持自动选模和手动选择。"
+      }
+    ],
+    "searches": [],
+    "issues": [],
+    "screenshot": null,
+    "product_entry_links": [
+      "https://create.pika.art/signup",
+      "https://create.pika.art/apps"
+    ]
+  },
+  "metrics": {
+    "visits": 1637698,
+    "mom": -0.09483440926777498,
+    "change3": -0.26929812467680114,
+    "rolling3": -0.07827563943951021,
+    "recent_average": 1824055.3333333333,
+    "prior_average": 1978959.6666666667,
+    "up_streak": 0,
+    "derived_channels": {
+      "search_paid_visits": 0,
+      "social_paid_visits": 4749.3242,
+      "search_organic_visits": 613317.901,
+      "social_organic_visits": 60267.2864,
+      "direct_visits": 641650.0764
+    },
+    "scope": "site",
+    "profile": "首页面向创意工作，展示视频、调色、图像和角色等工具。",
+    "profile_source": "products/pika/pages/home.json"
+  },
+  "editorial": {
+    "thesis": "从单一生成入口向任务应用组合与 API 客户案例扩展。",
+    "focus": "9 月 17 日新版与 9 月 24 日 API Club 案例有明确日期，可作为后续观察锚点；它们发生在当前 8 月流量窗口之后。",
+    "experiment": "把最常见的三个生成任务包装成独立应用页，每页使用相同的生成成功定义。",
+    "measure": "各应用启动率、跨应用使用率与每周重复完成任务的用户比例。",
+    "watch": "25+ 应用的增减、API Club 案例与 9 月后新增流量数据。"
+  },
+  "activities": [
+    {
+      "product_id": "pika",
+      "type": "developer",
+      "title": "创意工具组合与开发者入口",
+      "detail": "首页将视频、调色、延展、音乐等工具分场景展示，并提供开发者入口。",
+      "anchors": [
+        "For Creative Developers",
+        "Color Grading"
+      ],
+      "source": "products/pika/pages/home.json",
+      "event_date": null,
+      "id": "activity-14",
+      "source_url": "https://pika.art/",
+      "observed_at": "2026-10-02"
+    },
+    {
+      "product_id": "pika",
+      "type": "launch",
+      "title": "发布新版 Pika，聚合 25+ 创意应用",
+      "detail": "将视频、图像、声音模型组织成任务应用，支持自动选模和手动选择。",
+      "anchors": [
+        "September 17, 2026",
+        "25+ creative apps"
+      ],
+      "source": "products/pika/pages/action-relaunch.json",
+      "event_date": "2026-09-17",
+      "id": "activity-48",
+      "source_url": "https://pika.art/blog/welcome-to-the-new-pika",
+      "observed_at": "2026-10-02"
+    },
+    {
+      "product_id": "pika",
+      "type": "content",
+      "title": "用 API Club 客户案例拓展开发者",
+      "detail": "以 Vuvie、AI-Bridge 和 Secret Level 的工作流与费用案例推广 API Club。",
+      "anchors": [
+        "September 24, 2026",
+        "API Club"
+      ],
+      "source": "products/pika/pages/action-developers.json",
+      "event_date": "2026-09-24",
+      "id": "activity-49",
+      "source_url": "https://pika.art/blog/api-member-spotlights",
+      "observed_at": "2026-10-02"
+    }
+  ],
+  "x_posts": []
+}

@@ -1,0 +1,486 @@
+{
+  "schema_version": 1,
+  "product": {
+    "id": "higgsfield",
+    "name": "Higgsfield",
+    "x_handle": "higgsfield",
+    "homepage": "https://higgsfield.ai/",
+    "ads_priority": true,
+    "traffic_domain": "higgsfield.ai",
+    "additional_domains": [],
+    "scope_note": "域名级流量估算，非付费用户、收入或模型调用量。",
+    "shared_scope": false,
+    "domain_data": {
+      "domain": "higgsfield.ai",
+      "traffic": {
+        "domain": "higgsfield.ai",
+        "overview": {
+          "global_rank": 1228,
+          "country_rank": {
+            "country": "US",
+            "rank": 1716
+          },
+          "visits": 32138314,
+          "bounce_rate": 0.3017019257274032,
+          "pages_per_visit": 7.060505502802447,
+          "time_on_site_seconds": 588.3365252791776,
+          "month": "2026-08"
+        },
+        "monthly_visits": [
+          {
+            "month": "2025-09",
+            "visits": 7774051
+          },
+          {
+            "month": "2025-10",
+            "visits": 11724841
+          },
+          {
+            "month": "2025-11",
+            "visits": 11706772
+          },
+          {
+            "month": "2025-12",
+            "visits": 17251171
+          },
+          {
+            "month": "2026-01",
+            "visits": 23555390
+          },
+          {
+            "month": "2026-02",
+            "visits": 27076120
+          },
+          {
+            "month": "2026-03",
+            "visits": 24714261
+          },
+          {
+            "month": "2026-04",
+            "visits": 25429359
+          },
+          {
+            "month": "2026-05",
+            "visits": 24244640
+          },
+          {
+            "month": "2026-06",
+            "visits": 26814672
+          },
+          {
+            "month": "2026-07",
+            "visits": 31318735
+          },
+          {
+            "month": "2026-08",
+            "visits": 32138314
+          }
+        ],
+        "traffic_sources": {
+          "direct": 0.5875,
+          "search": 0.2112,
+          "search_organic": 0.1928,
+          "search_paid": 0.0184,
+          "social": 0.0902,
+          "social_organic": 0.0593,
+          "social_paid": 0.0309,
+          "referrals": 0.0653,
+          "paid_referrals": 0.0072,
+          "mail": 0.0113,
+          "gen_ai": 0.0258,
+          "affiliate": 0.0014,
+          "other": 0
+        },
+        "top_keywords": [
+          {
+            "name": "higgsfield",
+            "volume": 3169500,
+            "cpc": 0.38,
+            "estimated_value": 4970070
+          },
+          {
+            "name": "higgsfield ai",
+            "volume": 604380,
+            "cpc": 0.29,
+            "estimated_value": 1357900
+          },
+          {
+            "name": "힉스필드",
+            "volume": 222240,
+            "cpc": 0.36,
+            "estimated_value": 248870
+          },
+          {
+            "name": "higsfield",
+            "volume": 178790,
+            "cpc": 0.55,
+            "estimated_value": 207910
+          },
+          {
+            "name": "higgsfield mcp",
+            "volume": 86160,
+            "cpc": 0.7,
+            "estimated_value": 99630
+          }
+        ],
+        "top_regions": [
+          {
+            "country": "US",
+            "name": "United States",
+            "share": 0.1824
+          },
+          {
+            "country": "IN",
+            "name": "India",
+            "share": 0.0915
+          },
+          {
+            "country": "KR",
+            "name": "Korea, Republic of",
+            "share": 0.0608
+          },
+          {
+            "country": "BR",
+            "name": "Brazil",
+            "share": 0.0365
+          },
+          {
+            "country": "DE",
+            "name": "Germany",
+            "share": 0.0363
+          }
+        ]
+      },
+      "traffic_evidence": "domains/higgsfield.ai/traffic.json",
+      "traffic_status": "ok",
+      "registration_date": "2023-06-07T09:52:43Z",
+      "backlinks": {
+        "domain": "higgsfield.ai",
+        "overview": {
+          "domain_rating": 81,
+          "backlinks": 237911,
+          "referring_domains": 13523,
+          "dofollow_backlinks_pct": 48,
+          "dofollow_referring_domains_pct": 77
+        },
+        "backlinks": [
+          {
+            "from_url": "https://www.selecthub.com/p/ai-video-generator-software/higgsfield-ai/",
+            "to_url": "https://higgsfield.ai/",
+            "title": "Higgsfield AI Reviews 2026: Pricing, Features & More",
+            "anchor": "Request for Free",
+            "domain_rating": 74
+          },
+          {
+            "from_url": "https://www.gumloop.com/blog/best-ai-apps",
+            "to_url": "https://higgsfield.ai/",
+            "title": "15 best AI apps I can't live without in 2026 (free + paid)",
+            "anchor": "Higgsfield",
+            "domain_rating": 75
+          },
+          {
+            "from_url": "https://www.youtube.com/watch?v=Mf_XcAH1R4U",
+            "to_url": "https://higgsfield.ai/",
+            "title": "왕초보를 위한 힉스필드 사용법 ｜이미지 생성부터 영상 변환까지 - YouTube",
+            "anchor": "https://higgsfield.ai/",
+            "domain_rating": 99
+          },
+          {
+            "from_url": "https://godofprompt.ai/blog/chatgpt-for-beginners/",
+            "to_url": "https://higgsfield.ai/gpt-2",
+            "title": "What is ChatGBT? (ChatGPT for Beginners) | God of Prompt",
+            "anchor": "GPT Image 2",
+            "domain_rating": 54
+          },
+          {
+            "from_url": "https://creatify.ai/id/blog/higgsfield-soul-prompts-for-product-ads",
+            "to_url": "https://higgsfield.ai/creator-hub/help-center/troubleshooting/my-generation-blocked-for-copyright-or-ip",
+            "title": "Higgsfield Soul Guide dan Prompt",
+            "anchor": "Artikel blokir IP",
+            "domain_rating": 73
+          },
+          {
+            "from_url": "https://artdaily.com/news/178590/Best-YouTube-Downloaders-for-4K---HD-Video-Downloads",
+            "to_url": "https://higgsfield.ai/ai-video-upscaler",
+            "title": "Best YouTube Downloaders for 4K & HD Video Downloads",
+            "anchor": "AI video upscaler",
+            "domain_rating": 75
+          },
+          {
+            "from_url": "https://codimd.apps.education.fr/s/r1H5nglAY",
+            "to_url": "https://higgsfield.ai/",
+            "title": "Une sélection d’IA génératives gratuites en ligne - CodiMD",
+            "anchor": "HiggsField",
+            "domain_rating": 85
+          },
+          {
+            "from_url": "https://www.marketermilk.com/blog/ai-marketing-tools",
+            "to_url": "https://higgsfield.ai/",
+            "title": "30 best AI marketing tools I'm using to get ahead in 2026 | Marketer Milk",
+            "anchor": "Higgsfield",
+            "domain_rating": 67
+          },
+          {
+            "from_url": "https://www.media.io/id/comparison/higgsfield-ai.html",
+            "to_url": "https://higgsfield.ai/",
+            "title": "Ulasan Higgsfield AI: Gerakan Sinematik, Suite Kreatif, dan Alternatif Media.io",
+            "anchor": "Jelajahi Higgsfield AI",
+            "domain_rating": 74
+          },
+          {
+            "from_url": "https://www.aixploria.com/",
+            "to_url": "https://higgsfield.ai/",
+            "title": "Liste des Meilleures IA Gratuites & Top 10 par Catégorie | AIxploria",
+            "anchor": "Higgsfield AI",
+            "domain_rating": 56
+          },
+          {
+            "from_url": "https://pinggy.io/blog/best_free_open_source_ai_image_generators_to_self_host/",
+            "to_url": "https://higgsfield.ai/ai-image",
+            "title": "Best Free & Open-Source AI Image Generators to Self-Host | Pinggy Blog",
+            "anchor": "AI Image Generator",
+            "domain_rating": 54
+          },
+          {
+            "from_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a3293e129088191abf0875820e839da",
+            "to_url": "https://higgsfield.ai/privacy-policy",
+            "title": "ChatGPT - Higgsfield",
+            "anchor": "privacy policy",
+            "domain_rating": 93
+          },
+          {
+            "from_url": "https://www.libertyglobal.com/liberty-global-tech-ventures-higgsfield/",
+            "to_url": "https://higgsfield.ai/",
+            "title": "Liberty Global Tech Ventures Invests in AI Video Company, Higgsfield - Liberty Global",
+            "anchor": "Higgsfield",
+            "domain_rating": 72
+          },
+          {
+            "from_url": "https://techshark.io/tools/alternatives/deepfake-maker/",
+            "to_url": "https://higgsfield.ai/apps/face-swap",
+            "title": "Best Deepfake Maker Alternatives and Competitors in 2026 - TechShark | TechShark",
+            "anchor": "Visit",
+            "domain_rating": 12
+          },
+          {
+            "from_url": "https://topapps.fr/apps/histovec",
+            "to_url": "https://higgsfield.ai/?fpr=tomguich",
+            "title": "HistoVec : l'historique officiel d'un véhicule (gratuit) | TopApps",
+            "anchor": "Visiter le site",
+            "domain_rating": 5
+          },
+          {
+            "from_url": "https://www.synthesia.io/post/ai-tools",
+            "to_url": "https://higgsfield.ai/",
+            "title": "The 12 Best AI Tools for 2026 (That People Actually Use)",
+            "anchor": "https://higgsfield.ai/",
+            "domain_rating": 85
+          },
+          {
+            "from_url": "https://ru.wikipedia.org/wiki/Higgsfield_AI",
+            "to_url": "https://higgsfield.ai/",
+            "title": "Higgsfield AI",
+            "anchor": "higgsfield.ai",
+            "domain_rating": 97
+          },
+          {
+            "from_url": "https://www.creativepadmedia.com/the-best-free-alternatives-to-higgsfield-ai-full-demonstrations/",
+            "to_url": "https://higgsfield.ai/",
+            "title": "The Best Free Alternatives to Higgsfield AI - With Full Demonstrations - Creative Pad Media",
+            "anchor": "Higgsfield AI",
+            "domain_rating": 13
+          },
+          {
+            "from_url": "https://github.com/higgsfield-ai/higgsfield",
+            "to_url": "https://higgsfield.ai/",
+            "title": "GitHub - higgsfield-ai/higgsfield: Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters · GitHub",
+            "anchor": "Website",
+            "domain_rating": 97
+          },
+          {
+            "from_url": "https://budgetpixel.com/",
+            "to_url": "https://higgsfield.ai/blog/seedance-2-5-pricing-2026",
+            "title": "AI Image, Video and Music Generator | Design Studio & Canvas | BudgetPixel",
+            "anchor": "Higgsfield, \"Seedance 2.5 pricing\"",
+            "domain_rating": 36
+          }
+        ]
+      },
+      "backlinks_evidence": "domains/higgsfield.ai/backlinks.json"
+    },
+    "pages": [
+      {
+        "kind": "home",
+        "label": "首页",
+        "path": "products/higgsfield/pages/home.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://higgsfield.ai/",
+          "resolved_url": "https://higgsfield.ai/",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Higgsfield AI — AI-native creative suite"
+        },
+        "content": "官网引导浏览电影节投稿与创作者作品。\n首页展示注册额外折扣和 API Cashback 入口。"
+      },
+      {
+        "kind": "pricing",
+        "label": "定价资料",
+        "path": "products/higgsfield/pages/pricing.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://higgsfield.ai/pricing",
+          "resolved_url": "https://higgsfield.ai/pricing",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Pricing plans — Higgsfield AI Video & Image Generator"
+        },
+        "content": "Starter 展示年付折月 $19、每月 270 credits。部分不限量能力不适用于 MCP/CLI、Canvas 或 Supercomputer。"
+      },
+      {
+        "kind": "affiliate",
+        "label": "联盟计划",
+        "path": "products/higgsfield/pages/affiliate.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://higgsfield.ai/affiliate",
+          "resolved_url": "https://higgsfield.ai/affiliate",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Higgsfield Affiliate Program"
+        },
+        "content": "联盟计划最高 25% 佣金，最长 12 个月；另有 Earn 内容奖励。\n官网披露最高 25% 佣金、最长 12 个月；推荐用户可获得限时优惠。FAQ 明确禁止联盟成员通过付费广告及品牌竞价推广链接。"
+      },
+      {
+        "kind": "creator",
+        "label": "创作者合作",
+        "path": "products/higgsfield/pages/creator.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://higgsfield.ai/creator-partnership-program",
+          "resolved_url": "https://higgsfield.ai/creator-partnership-program",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Creator Partnership Program: Apply Now | Higgsfield"
+        },
+        "content": "合作计划提供套餐和创作额度、早期功能访问及社区支持，与 Earn 活动是不同机制。"
+      },
+      {
+        "kind": "earn",
+        "label": "创作者激励",
+        "path": "products/higgsfield/pages/earn.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://higgsfield.ai/earn",
+          "resolved_url": "https://higgsfield.ai/earn",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Earn Money with AI | Higgsfield Earn Creator Program"
+        },
+        "content": "官方 Earn 页面说明：创作者选择活动、领取素材并发布内容，经审核的视频可获得基础和阶段奖励。"
+      },
+      {
+        "kind": "marketing",
+        "label": "营销工作流",
+        "path": "products/higgsfield/pages/marketing.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://higgsfield.ai/marketing-studio-intro",
+          "resolved_url": "https://higgsfield.ai/marketing-studio-intro",
+          "http_status": 200
+        },
+        "page": {
+          "title": "AI Product Shots, UGC & Ads — Higgsfield Marketing Studio"
+        },
+        "content": "Marketing Studio 展示商品导入、模板复刻、图层编辑，以及产品图、UGC、广告等内容格式。"
+      }
+    ],
+    "searches": [],
+    "issues": [],
+    "screenshot": null,
+    "product_entry_links": []
+  },
+  "metrics": {
+    "visits": 32138314,
+    "mom": 0.026168968829679784,
+    "change3": 0.3255842940955196,
+    "rolling3": 0.21352107173900836,
+    "recent_average": 30090573.666666668,
+    "prior_average": 24796086.666666668,
+    "up_streak": 3,
+    "derived_channels": {
+      "search_paid_visits": 591344.9776,
+      "social_paid_visits": 993073.9026,
+      "search_organic_visits": 6196266.9392,
+      "social_organic_visits": 1905802.0202,
+      "direct_visits": 18881259.475
+    },
+    "scope": "site",
+    "profile": "首页定位为 AI 创意套件；Marketing Studio 覆盖产品导入、模板复刻、UGC 与广告素材。",
+    "profile_source": "products/higgsfield/pages/home.json"
+  },
+  "editorial": {
+    "thesis": "规模扩张与社区、联盟、API 分发并行，值得拆解的是多入口承接能力。",
+    "focus": "首页电影节、作品展示、联盟及 API Cashback 形成不同入口；Direct 份额高只能说明直接归类访问较多。优先核对付费社交素材的实际主体，再比较素材主题与落地页。",
+    "experiment": "选一个广告成片任务，串联作品案例、可复用模板与生成入口，分开标记创作者推荐和付费社交 UTM。",
+    "measure": "按渠道比较首次成功成片率、7 日再次生成率和付费率；追踪获客成本时同时计入佣金与投放费用。",
+    "watch": "官网促销到期、联盟条款、付费社交份额与新素材主题。"
+  },
+  "activities": [
+    {
+      "product_id": "higgsfield",
+      "type": "community",
+      "title": "全球电影节与作品展示",
+      "detail": "官网引导浏览电影节投稿与创作者作品。",
+      "anchors": [
+        "higgsfield-global-film-festival"
+      ],
+      "source": "products/higgsfield/pages/home.json",
+      "event_date": null,
+      "id": "activity-1",
+      "source_url": "https://higgsfield.ai/",
+      "observed_at": "2026-10-02"
+    },
+    {
+      "product_id": "higgsfield",
+      "type": "promotion",
+      "title": "注册折扣与 API Cashback",
+      "detail": "首页展示注册额外折扣和 API Cashback 入口。",
+      "anchors": [
+        "extra discount",
+        "API Cashback"
+      ],
+      "source": "products/higgsfield/pages/home.json",
+      "event_date": null,
+      "id": "activity-2",
+      "source_url": "https://higgsfield.ai/",
+      "observed_at": "2026-10-02"
+    },
+    {
+      "product_id": "higgsfield",
+      "type": "affiliate",
+      "title": "联盟推荐与创作者奖励",
+      "detail": "联盟计划最高 25% 佣金，最长 12 个月；另有 Earn 内容奖励。",
+      "anchors": [
+        "25%"
+      ],
+      "source": "products/higgsfield/pages/affiliate.json",
+      "event_date": null,
+      "id": "activity-3",
+      "source_url": "https://higgsfield.ai/affiliate",
+      "observed_at": "2026-10-02"
+    }
+  ],
+  "x_posts": []
+}

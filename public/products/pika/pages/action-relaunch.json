@@ -1,0 +1,8 @@
+{
+  "product_id": "pika",
+  "observed_at": "2026-10-02",
+  "source_url": "https://pika.art/blog/welcome-to-the-new-pika",
+  "status": "ok",
+  "research_note": "将视频、图像、声音模型组织成任务应用，支持自动选模和手动选择。",
+  "notice": "公开研究摘记；原始抓取保留在本地。"
+}

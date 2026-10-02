@@ -1,0 +1,158 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "topview.ai",
+  "measurement": "第三方外链样本",
+  "data": {
+    "domain": "topview.ai",
+    "overview": {
+      "domain_rating": 67,
+      "backlinks": 290773,
+      "referring_domains": 5805,
+      "dofollow_backlinks_pct": 75,
+      "dofollow_referring_domains_pct": 63
+    },
+    "backlinks": [
+      {
+        "from_url": "https://play.google.com/store/apps/details?id=com.topview.aigc&hl=en_IN",
+        "to_url": "https://www.topview.ai/",
+        "title": "Topview: Marketing Video Agent – Apps on Google Play",
+        "anchor": "publicWebsite",
+        "domain_rating": 100
+      },
+      {
+        "from_url": "https://aiagentstore.ai/ai-agent/topview-ai",
+        "to_url": "https://www.topview.ai/",
+        "title": "TopView AI - AI Agent | Pricing, Reviews & Alternatives",
+        "anchor": "AI Video Agent for Short Films & Marketing Videos | Topview",
+        "domain_rating": 55
+      },
+      {
+        "from_url": "https://topaitools.com/tools/topview",
+        "to_url": "https://www.topview.ai/",
+        "title": "Topview AI - Create Viral Product Videos with AI & Sora 2",
+        "anchor": "Try for free",
+        "domain_rating": 25
+      },
+      {
+        "from_url": "https://finance.yahoo.com/news/topview-ai-unveils-worlds-first-080600087.html",
+        "to_url": "https://topview.ai/",
+        "title": "Topview AI Unveils the World's First AI Avatar That Can Wear, Sit On, and Showcase Any Product -- Not Just Hold It.",
+        "anchor": "https://topview.ai",
+        "domain_rating": 94
+      },
+      {
+        "from_url": "https://www.vidmetoo.com/topview-ai-review/",
+        "to_url": "https://www.topview.ai/",
+        "title": "Topview AI Review 2026: Features, Performance & Alternatives",
+        "anchor": "Stop Editing, Start Selling – Create Your First Ad in 3 Minutes",
+        "domain_rating": 21
+      },
+      {
+        "from_url": "https://www.eesel.ai/blog/kaiber-overview",
+        "to_url": "https://www.topview.ai/blog/the-hidden-truth-about-kaiber-ai-before-you-buy1",
+        "title": "A complete Kaiber overview for 2026: Features, pricing, and limitations | eesel AI",
+        "anchor": "animations can miss important details",
+        "domain_rating": 74
+      },
+      {
+        "from_url": "https://www.producthunt.com/products/topview-ai",
+        "to_url": "https://www.topview.ai/?ref=producthunt",
+        "title": "Topview: The Agent OS for Marketing and Filmmaking | Product Hunt",
+        "anchor": "Visit website",
+        "domain_rating": 91
+      },
+      {
+        "from_url": "https://congdongai.vn/threads/huong-dan-su-dung-topview-ai-tao-video-trong-nhay-mat.405/",
+        "to_url": "https://topview.ai/",
+        "title": "Hướng dẫn sử dụng TopView.AI tạo video trong nháy mắt | Cộng đồng người yêu thích A.I tại Việt Nam",
+        "anchor": "https://topview.ai",
+        "domain_rating": 3
+      },
+      {
+        "from_url": "https://www.prnewswire.com/kr/news-releases/u0074u006Fu0070u0076u0069u0065u0077u002Du0061u0069u002Cu002DuC81CuD488uC744u002DuB2E8uC21CuD788u002DuB4E4u002DuBFD0uB9CCu002DuC544uB2C8uB77C-302498727.html",
+        "to_url": "https://www.topview.ai/",
+        "title": "Topview AI, 제품을 단순히 들 뿐만 아니라 착용하고, 앉고, 전시할 수 있는 세계 최초의 AI 아바타 공개",
+        "anchor": "https://topview.ai",
+        "domain_rating": 92
+      },
+      {
+        "from_url": "https://www.youtube.com/watch?v=iJImdJfhQn8",
+        "to_url": "https://www.topview.ai/?via=Arabianaischool",
+        "title": "أخيرا ذكاء اصطناعي مجاني بيصمم بالعربي؟ منافس Nano Banana وGPT Image - YouTube",
+        "anchor": "https://www.topview.ai/?via=Arabianaischool",
+        "domain_rating": 99
+      },
+      {
+        "from_url": "https://www.tkfff.com/",
+        "to_url": "https://www.topview.ai/",
+        "title": "TKFFF首页 | TIKTOK卖家门户网TK导航网【做TK就要TK发发发!】",
+        "anchor": "TopviewAI制作海外营销视频；输入链接/图片一键生成营销视频",
+        "domain_rating": 36
+      },
+      {
+        "from_url": "https://webcatalog.io/fr/apps/topview-ai",
+        "to_url": "https://www.topview.ai/",
+        "title": "TopView AI - Application de bureau pour Mac et Windows - WebCatalog",
+        "anchor": "Site web",
+        "domain_rating": 58
+      },
+      {
+        "from_url": "https://www.datahackers.news/p/como-usar-o-vidgenie-ai-de-gra-a-guia-completo-para-iniciantes-0b96",
+        "to_url": "https://www.topview.ai/",
+        "title": "Como usar o Vidgenie AI de graça: guia completo para iniciantes",
+        "anchor": "TopView.ai",
+        "domain_rating": 26
+      },
+      {
+        "from_url": "https://www.theceo.in/blogs/sandeep-maheshwari-complete-biography-and-life-journey",
+        "to_url": "https://www.topview.ai/wan-3",
+        "title": "Sandeep Maheshwari Biography and Life Journey",
+        "anchor": "Wan 3.0",
+        "domain_rating": 66
+      },
+      {
+        "from_url": "https://filmora.wondershare.kr/video-editor-review/topview-ai-review.html",
+        "to_url": "https://www.topview.ai/pricing",
+        "title": "Topview AI 인공지능 리뷰: 정말 가치 있을까? 과대평가된 서비스인가?",
+        "anchor": "Topview AI 요금제",
+        "domain_rating": 50
+      },
+      {
+        "from_url": "https://www.innospira.fr/index.php/2025/05/23/creer-des-videos-ugc-en-quelques-clics/",
+        "to_url": "https://www.topview.ai/?via=innospira",
+        "title": "Créer des vidéos UGC en quelques clics",
+        "anchor": "J’y vais !",
+        "domain_rating": 12
+      },
+      {
+        "from_url": "https://urltovideo.ai/blog/best-ai-influencer-generator-tools",
+        "to_url": "https://www.topview.ai/",
+        "title": "7 Best AI Influencer Generator Tools in 2026 (Free & Paid) | URL To Video",
+        "anchor": "Topview",
+        "domain_rating": 24
+      },
+      {
+        "from_url": "https://aitools.aiting.com/ai/topview",
+        "to_url": "https://www.topview.ai/account/signin?callbackUrl=%2Fhome",
+        "title": "Topview AI: One‑Click AI Video Editor for Scripts, Clips & Voice | AiTing AI",
+        "anchor": "Open Website",
+        "domain_rating": 38
+      },
+      {
+        "from_url": "https://www.unite.ai/vi/topview-ai-review/",
+        "to_url": "https://www.topview.ai/ai-avatar",
+        "title": "Đánh Giá Topview AI: Video 5 Phút Chuyển Đổi Thật Sự – Unite.AI",
+        "anchor": "Hình Đại Diện AI",
+        "domain_rating": 79
+      },
+      {
+        "from_url": "https://www.tabcut.com/",
+        "to_url": "https://www.topview.ai/ai-marketer",
+        "title": "TikTok Shop Analytics: Driving Shop Success Through Data Insights",
+        "anchor": "",
+        "domain_rating": 41
+      }
+    ]
+  }
+}

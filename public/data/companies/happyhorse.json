@@ -1,0 +1,378 @@
+{
+  "schema_version": 1,
+  "product": {
+    "id": "happyhorse",
+    "name": "Happy Horse",
+    "x_handle": null,
+    "homepage": "https://www.happyhorse.com/",
+    "ads_priority": false,
+    "traffic_domain": "happyhorse.com",
+    "additional_domains": [],
+    "scope_note": "官方 Alibaba Cloud 社交发布链接指向 happyhorse.com；排除同名第三方站。",
+    "shared_scope": false,
+    "domain_data": {
+      "domain": "happyhorse.com",
+      "traffic": {
+        "domain": "happyhorse.com",
+        "overview": {
+          "global_rank": 56405,
+          "country_rank": {
+            "country": "US",
+            "rank": 22016
+          },
+          "visits": 522031,
+          "bounce_rate": 0.48775268274673783,
+          "pages_per_visit": 10.507724827474352,
+          "time_on_site_seconds": 355.7994245853334,
+          "month": "2026-08"
+        },
+        "monthly_visits": [
+          {
+            "month": "2025-09",
+            "visits": 0
+          },
+          {
+            "month": "2025-10",
+            "visits": 0
+          },
+          {
+            "month": "2025-11",
+            "visits": 0
+          },
+          {
+            "month": "2025-12",
+            "visits": 0
+          },
+          {
+            "month": "2026-01",
+            "visits": 0
+          },
+          {
+            "month": "2026-02",
+            "visits": 0
+          },
+          {
+            "month": "2026-03",
+            "visits": 0
+          },
+          {
+            "month": "2026-04",
+            "visits": 4093
+          },
+          {
+            "month": "2026-05",
+            "visits": 172012
+          },
+          {
+            "month": "2026-06",
+            "visits": 259367
+          },
+          {
+            "month": "2026-07",
+            "visits": 483144
+          },
+          {
+            "month": "2026-08",
+            "visits": 522031
+          }
+        ],
+        "traffic_sources": {
+          "direct": 0.451,
+          "search": 0.4226,
+          "search_organic": 0.095,
+          "search_paid": 0.3276,
+          "social": 0.0319,
+          "social_organic": 0.0298,
+          "social_paid": 0.0022,
+          "referrals": 0.0464,
+          "paid_referrals": 0.0365,
+          "mail": 0.0047,
+          "gen_ai": 0.0069,
+          "affiliate": 0,
+          "other": 0
+        },
+        "top_keywords": [
+          {
+            "name": "happy horse",
+            "volume": 16050,
+            "cpc": 0.89,
+            "estimated_value": 10490
+          },
+          {
+            "name": "happyhorse",
+            "volume": 13810,
+            "cpc": 1.31,
+            "estimated_value": 7940
+          },
+          {
+            "name": "happy horse ai",
+            "volume": 6910,
+            "cpc": 1.76,
+            "estimated_value": 4930
+          },
+          {
+            "name": "kling ai",
+            "volume": 1451150,
+            "cpc": 0.48,
+            "estimated_value": 2720
+          },
+          {
+            "name": "ai video generator",
+            "volume": 468640,
+            "cpc": 0.79,
+            "estimated_value": 2550
+          }
+        ],
+        "top_regions": [
+          {
+            "country": "US",
+            "name": "United States",
+            "share": 0.2538
+          },
+          {
+            "country": "BR",
+            "name": "Brazil",
+            "share": 0.1964
+          },
+          {
+            "country": "MX",
+            "name": "Mexico",
+            "share": 0.1148
+          },
+          {
+            "country": "AZ",
+            "name": "Azerbaijan",
+            "share": 0.0497
+          },
+          {
+            "country": "IT",
+            "name": "Italy",
+            "share": 0.0389
+          }
+        ]
+      },
+      "traffic_evidence": "domains/happyhorse.com/traffic.json",
+      "traffic_status": "ok",
+      "registration_date": "1997-09-23T04:00:00Z",
+      "backlinks": {
+        "domain": "happyhorse.com",
+        "overview": {
+          "domain_rating": 44,
+          "backlinks": 1469,
+          "referring_domains": 1106,
+          "dofollow_backlinks_pct": 54,
+          "dofollow_referring_domains_pct": 50
+        },
+        "backlinks": [
+          {
+            "from_url": "https://modelstudio.alibabacloud.com/",
+            "to_url": "https://www.happyhorse.com/",
+            "title": "Alibaba Cloud Model Studio",
+            "anchor": "Happy Horse",
+            "domain_rating": 91
+          },
+          {
+            "from_url": "https://www.lambdafilms.co.uk/ai_video_production/",
+            "to_url": "https://www.happyhorse.com/",
+            "title": "A Guide To AI Video Production (2026)",
+            "anchor": "HAPPY HORSE",
+            "domain_rating": 52
+          },
+          {
+            "from_url": "https://www.filmcrux.com/blog/ai-tools",
+            "to_url": "https://www.happyhorse.com/",
+            "title": "The Best AI Tools for Filmmakers (2026) — FILM CRUX",
+            "anchor": "HappyHorse AI is an AI platform with a strong all-around video model",
+            "domain_rating": 43
+          },
+          {
+            "from_url": "https://www.kkaneko.jp/cs/s2.pdf",
+            "to_url": "https://www.happyhorse.com/",
+            "title": "aa-1. データサイエンス・AIでできること、社会の変化（人工知能社会の到来、最新の技術、産業の変化、社会や生活の変化など）（人工知能）",
+            "anchor": "https://www.happyhorse.com/",
+            "domain_rating": 34
+          },
+          {
+            "from_url": "https://qiita.com/official-columns/interview/202606-alibaba-happyhorse/",
+            "to_url": "https://www.happyhorse.com/",
+            "title": "単純なプロンプトでも高クオリティ。アリババ動画生成AI「Happy Horse」をQiitaデザイナーがレビュー - Qiita Zine",
+            "anchor": "Happy Horse公式サイトはこちら",
+            "domain_rating": 87
+          },
+          {
+            "from_url": "https://www.billboard.com/pro/alibaba-launched-ai-music-generator-happy-shrimp/",
+            "to_url": "https://www.happyhorse.com/?no_redirect=1",
+            "title": "Alibaba Launches Happy Shrimp, The World's Latest AI Music Creator",
+            "anchor": "Happy Horse",
+            "domain_rating": 90
+          },
+          {
+            "from_url": "https://www.corriere.it/tecnologia/26_maggio_29/la-cina-ha-gia-vinto-la-corsa-ai-video-generati-con-intelligenza-artificiali-996577d8-c299-4d6e-b608-31c867d78xlk.shtml",
+            "to_url": "https://www.happyhorse.com/",
+            "title": "La Cina ha già vinto la corsa ai video generati con intelligenza artificiali? | Corriere.it",
+            "anchor": "HappyHorse di Alibaba",
+            "domain_rating": 89
+          },
+          {
+            "from_url": "https://www.digitalizelife.com/top-20-ai-video-tools/",
+            "to_url": "https://www.happyhorse.com/",
+            "title": "Top 20 AI Video Tools I’ve Tested (Ranked by Use Case)",
+            "anchor": "",
+            "domain_rating": 20
+          },
+          {
+            "from_url": "https://quasa.io/media/alibaba-just-launched-happy-horse-1-0-a-serious-budget-challenger-to-seedance-2",
+            "to_url": "https://www.happyhorse.com/creation/generation",
+            "title": "Alibaba Just Launched Happy Horse 1.0 – A Serious Budget Challenger to Seedance 2",
+            "anchor": "https://www.happyhorse.com/creation/generation — new users get 66 renewable credits (enough for two free 720p generations)",
+            "domain_rating": 59
+          },
+          {
+            "from_url": "https://layswesternwearandfeed.com/products/2-medicated-chlorhexidine-shampoo",
+            "to_url": "https://www.happyhorse.com/product/organic-neem-oil",
+            "title": "2% Medicated Chlorhexidine Shampoo - Lakeland, FL - Lay's Western Wear and Feed",
+            "anchor": "",
+            "domain_rating": 4
+          },
+          {
+            "from_url": "https://fishercatscreech.com/caring-for-your-horses-the-top-horse-care-tips-you-need-to-know/",
+            "to_url": "https://www.happyhorse.com/product/sweat-resistant-fly-spray/",
+            "title": "The Top Horse Care Tips You Should Know",
+            "anchor": "best fly control spray for horses",
+            "domain_rating": 6
+          },
+          {
+            "from_url": "https://folou.co/internet/inteligencia-artificial/alibaba-lanza-happyhorse-1-1-modelo-de-ia-para-video-en-auge/",
+            "to_url": "https://www.happyhorse.com/",
+            "title": "Alibaba lanza HappyHorse 1.1: un modelo de IA para video - FOLOU",
+            "anchor": "su modelo de generación de video",
+            "domain_rating": 37
+          },
+          {
+            "from_url": "https://www.icom-giken.com/blog/happyhorse2608/",
+            "to_url": "https://www.happyhorse.com/",
+            "title": "HappyHorse（ハッピーホース）とは｜動画生成AIの特徴・性能・料金を詳しく解説 - iCOM技研ブログ",
+            "anchor": "HappyHorse（ハッピーホース）",
+            "domain_rating": 21
+          },
+          {
+            "from_url": "https://marketingtech.ai/ai-video-creation-editing/",
+            "to_url": "https://www.happyhorse.com/",
+            "title": "AI Video Creation & Editing Tools | Best AI Video Generators",
+            "anchor": "HappyHorse",
+            "domain_rating": 20
+          },
+          {
+            "from_url": "https://nocodefunctions.com/blog/list-of-ai-apps-for-visual-creation/",
+            "to_url": "https://www.happyhorse.com/",
+            "title": "List of AI apps for visual creation – The journey of an academic and app developer – Clément Levallois - blog",
+            "anchor": "Happy Horse",
+            "domain_rating": 24
+          },
+          {
+            "from_url": "https://kksmai.com/tools/happy-horse",
+            "to_url": "https://www.happyhorse.com/",
+            "title": "Happy Horse Review 2026: AI Video Generator for Cinematic Content",
+            "anchor": "Visit Website",
+            "domain_rating": 0
+          },
+          {
+            "from_url": "https://dauntlessperformance.com/about-chelsea/",
+            "to_url": "https://www.happyhorse.com/",
+            "title": "About Chelsea Kolman",
+            "anchor": "",
+            "domain_rating": 0
+          },
+          {
+            "from_url": "https://equito.cz/cisteni-na-kone/",
+            "to_url": "https://www.happyhorse.com/ultimate-guide-to-buying-grooming-brushes-for-your-horse/",
+            "title": "Čištění na koně: Nejlepší pomůcky + kompletní informace - equito",
+            "anchor": "Happyhorse",
+            "domain_rating": 15
+          },
+          {
+            "from_url": "https://techiexpert.com/alibaba-launches-happy-horse-1-1-to-deliver-unified-video-and-native-audio-generation/",
+            "to_url": "http://happyhorse.com/",
+            "title": "Alibaba Launches Happy Horse 1.1 to Deliver Unified Video and Native Audio Generation - Techiexpert.com",
+            "anchor": "happyhorse.com",
+            "domain_rating": 54
+          },
+          {
+            "from_url": "https://journaliststoolbox.ai/video-creation/",
+            "to_url": "https://www.happyhorse.com/",
+            "title": "Video creation | editing | Journalist's Toolbox",
+            "anchor": "HappyHorse",
+            "domain_rating": 28
+          }
+        ]
+      },
+      "backlinks_evidence": "domains/happyhorse.com/backlinks.json"
+    },
+    "pages": [
+      {
+        "kind": "home",
+        "label": "首页",
+        "path": "products/happyhorse/pages/home.json",
+        "status": "limited",
+        "reason": "正文较少，可能为动态页面；保留原始返回",
+        "source": {
+          "requested_url": "https://www.happyhorse.com/",
+          "resolved_url": "https://www.happyhorse.com/",
+          "http_status": 200
+        },
+        "page": {
+          "title": "HappyHorse AI Video Generator | Create AI Videos From Text & Images"
+        },
+        "content": "已保存官网来源；本公开版不转载页面全文。"
+      },
+      {
+        "kind": "pricing",
+        "label": "定价资料",
+        "path": "products/happyhorse/pages/pricing.json",
+        "status": "limited",
+        "reason": "正文较少，可能为动态页面；保留原始返回",
+        "source": {
+          "requested_url": "https://www.happyhorse.com/pricing",
+          "resolved_url": "https://www.happyhorse.com/pricing",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Happy Horse Pricing Plan"
+        },
+        "content": "已保存官网来源；本公开版不转载页面全文。"
+      }
+    ],
+    "searches": [],
+    "issues": [],
+    "screenshot": null,
+    "product_entry_links": []
+  },
+  "metrics": {
+    "visits": 522031,
+    "mom": 0.080487390922789,
+    "change3": 2.0348522196125853,
+    "rolling3": 6.180613838335084,
+    "recent_average": 421514.0,
+    "prior_average": 58701.666666666664,
+    "up_streak": 5,
+    "derived_channels": {
+      "search_paid_visits": 171017.3556,
+      "social_paid_visits": 1148.4682,
+      "search_organic_visits": 49592.945,
+      "social_organic_visits": 15556.5238,
+      "direct_visits": 235435.981
+    },
+    "scope": "site",
+    "profile": "首页显示文图生视频品牌入口，但正文过少；暂不形成完整功能和套餐判断。",
+    "profile_source": "products/happyhorse/pages/home.json"
+  },
+  "editorial": {
+    "thesis": "流量变动可以跟踪，现有官网内容还不足以解释增长机制。",
+    "focus": "已根据 Alibaba Cloud 官方社交链接识别主域；页面正文不足，不能从同名第三方站补齐价格或功能。较高的三月变化尤其需要结合起点绝对访问量。",
+    "experiment": "先建立官方身份、产品入口和版本的证据记录，待出现可使用产品后再做同任务对比。",
+    "measure": "连续月度访问与官方发布频次；产品开放后记录完成任务成本。",
+    "watch": "独立产品文档、定价、开放测试和官方账号归属。"
+  },
+  "activities": [],
+  "x_posts": []
+}

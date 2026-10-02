@@ -1,0 +1,158 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "hedra.com",
+  "measurement": "第三方外链样本",
+  "data": {
+    "domain": "hedra.com",
+    "overview": {
+      "domain_rating": 70,
+      "backlinks": 36896,
+      "referring_domains": 6281,
+      "dofollow_backlinks_pct": 66,
+      "dofollow_referring_domains_pct": 73
+    },
+    "backlinks": [
+      {
+        "from_url": "https://codimd.apps.education.fr/s/r1H5nglAY",
+        "to_url": "https://www.hedra.com/",
+        "title": "Une sélection d’IA génératives gratuites en ligne - CodiMD",
+        "anchor": "Hedra",
+        "domain_rating": 85
+      },
+      {
+        "from_url": "https://builtin.com/artificial-intelligence/ai-companies-roundup",
+        "to_url": "https://www.hedra.com/",
+        "title": "82 Artificial Intelligence (AI) Companies to Know | Built In",
+        "anchor": "Hedra",
+        "domain_rating": 86
+      },
+      {
+        "from_url": "https://max-productive.ai/ai-tools/hedra/",
+        "to_url": "https://hedra.com/?via=max-productive-ai&dub_id=I5OnfFl7Ej6o8gys",
+        "title": "Hedra AI Review 2026: Features, Pricing & Is It Worth It?",
+        "anchor": "Visit Hedra AI →",
+        "domain_rating": 43
+      },
+      {
+        "from_url": "https://www.therundown.ai/tools/hedra",
+        "to_url": "https://www.hedra.com/login",
+        "title": "Hedra: Features, Pricing & Alternatives (2026)",
+        "anchor": "Check current pricing at the source ↗",
+        "domain_rating": 71
+      },
+      {
+        "from_url": "https://www.builtinsf.com/articles/ai-companies-san-francisco-bay-area",
+        "to_url": "https://www.hedra.com/",
+        "title": "51 Top San Francisco Bay Area AI Companies to Know | Built In San Francisco",
+        "anchor": "Hedra",
+        "domain_rating": 65
+      },
+      {
+        "from_url": "https://www.builtinnyc.com/articles/saas-companies-nyc",
+        "to_url": "https://www.hedra.com/",
+        "title": "90 SaaS Companies in NYC You Need to Know 2026 | Built In NYC",
+        "anchor": "Hedra",
+        "domain_rating": 73
+      },
+      {
+        "from_url": "https://blog.104.com.tw/ai_tools/",
+        "to_url": "https://www.hedra.com/",
+        "title": "【AI懶人包】看這篇就夠！2026推薦AI免費vs訂閱工具大全，提高工作生產力&職場競爭力！（持續更新)｜104職場力",
+        "anchor": "Hedra",
+        "domain_rating": 89
+      },
+      {
+        "from_url": "https://standout.digital/post/create-stunning-ai-videos-and-images-with-hedra-labs/",
+        "to_url": "https://www.hedra.com/",
+        "title": "Create Stunning AI Videos and Images with Hedra Labs - STANDOUT DIGITAL",
+        "anchor": "Hedra Labs",
+        "domain_rating": 62
+      },
+      {
+        "from_url": "https://zygris.com/tool/hedra-ai/",
+        "to_url": "https://www.hedra.com/docs/pages/app/getting-started/overview",
+        "title": "Hedra AI Pricing, Review And Compare",
+        "anchor": "Docs",
+        "domain_rating": 0
+      },
+      {
+        "from_url": "https://meetcody.ai/pt-br/models/providers/hedra/",
+        "to_url": "https://www.hedra.com/",
+        "title": "Modelos, APIs e preços de IA Hedra | Cody",
+        "anchor": "Site oficial",
+        "domain_rating": 58
+      },
+      {
+        "from_url": "https://cases.media/article/bezkoshtovni-neiromerezhi-dlya-pochatku-roboti-v-ai",
+        "to_url": "https://www.hedra.com/",
+        "title": "Безкоштовні нейромережі для початку роботи в AI",
+        "anchor": "Hedra",
+        "domain_rating": 56
+      },
+      {
+        "from_url": "https://lume-studio.ai/",
+        "to_url": "https://hedra.com/",
+        "title": "Lume Studio — AI-Native Production Studio | AI Films, YouTube Series, Academy",
+        "anchor": "Hedra Hedra",
+        "domain_rating": 0
+      },
+      {
+        "from_url": "https://www.hedra-ai.com/ru",
+        "to_url": "https://www.hedra.com/login",
+        "title": "Hedra AI | Создавайте видео с говорящими и поющими персонажами.",
+        "anchor": "Попробуйте Hedra AI",
+        "domain_rating": 8
+      },
+      {
+        "from_url": "https://www.youtube.com/watch?v=wyw0qFkdkpA",
+        "to_url": "https://hedra.com/?via=boris&dub_id=QL4rmF7EGgkMaYlS",
+        "title": "Save photos and videos from an Instagram story - YouTube",
+        "anchor": "https://hedra.link/boris",
+        "domain_rating": 99
+      },
+      {
+        "from_url": "https://pollo.ai/hub/hedra-ai-review",
+        "to_url": "https://www.hedra.com/login",
+        "title": "Hedra AI Review: I Tested Hedra AI, But Does It Truly Deliver Quality AI Videos? | Pollo AI",
+        "anchor": "Hedra AI",
+        "domain_rating": 76
+      },
+      {
+        "from_url": "https://moge.ai/product/hedra",
+        "to_url": "https://www.hedra.com/",
+        "title": "Hedra:AI-powered content creation platform enabling users to generate high-quality videos, images, and audio with expressive, controllable human characters. - MOGE",
+        "anchor": "Visit Website",
+        "domain_rating": 31
+      },
+      {
+        "from_url": "https://www.theainavigator.com/blog/what-is-hedra-ai",
+        "to_url": "http://hedra.com/",
+        "title": "What is Hedra AI? - AI Tools",
+        "anchor": "hedra.com",
+        "domain_rating": 29
+      },
+      {
+        "from_url": "https://www.knowbe4.jp/blog/step-by-step-to-creating-realistic-deepfake-video-in-minutes",
+        "to_url": "https://www.hedra.com/",
+        "title": "数分でリアルなディープフェイク動画を作成する手順を紹介",
+        "anchor": "https://www.hedra.com/",
+        "domain_rating": 33
+      },
+      {
+        "from_url": "https://forosdeia.com/directorio-ia/seaart.39/",
+        "to_url": "https://www.hedra.com/app/home",
+        "title": "Seaart | Foro de Inteligencia Artificial: Comunidad ia en Español",
+        "anchor": "https://www.hedra.com/app/home",
+        "domain_rating": 1
+      },
+      {
+        "from_url": "https://aibusiness.pl/ozywianie-zdjec-ai-za-darmo-top-20-narzedzi-poradnik-2025/",
+        "to_url": "https://www.hedra.com/",
+        "title": "Ożywianie zdjęć AI za darmo: TOP 20 narzędzi [poradnik 2025]",
+        "anchor": "Hedra",
+        "domain_rating": 29
+      }
+    ]
+  }
+}

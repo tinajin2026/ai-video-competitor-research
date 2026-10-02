@@ -1,0 +1,145 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "grok.com",
+  "measurement": "第三方域名级估算",
+  "data": {
+    "domain": "grok.com",
+    "overview": {
+      "global_rank": 124,
+      "country_rank": {
+        "country": "US",
+        "rank": 126
+      },
+      "visits": 209593462,
+      "bounce_rate": 0.31772911539578125,
+      "pages_per_visit": 10.367525834378712,
+      "time_on_site_seconds": 649.6111554944066,
+      "month": "2026-08"
+    },
+    "monthly_visits": [
+      {
+        "month": "2025-09",
+        "visits": 176720499
+      },
+      {
+        "month": "2025-10",
+        "visits": 204306987
+      },
+      {
+        "month": "2025-11",
+        "visits": 234428108
+      },
+      {
+        "month": "2025-12",
+        "visits": 271154744
+      },
+      {
+        "month": "2026-01",
+        "visits": 314011020
+      },
+      {
+        "month": "2026-02",
+        "visits": 298572228
+      },
+      {
+        "month": "2026-03",
+        "visits": 326334487
+      },
+      {
+        "month": "2026-04",
+        "visits": 279258288
+      },
+      {
+        "month": "2026-05",
+        "visits": 244858316
+      },
+      {
+        "month": "2026-06",
+        "visits": 212330659
+      },
+      {
+        "month": "2026-07",
+        "visits": 210424374
+      },
+      {
+        "month": "2026-08",
+        "visits": 209593462
+      }
+    ],
+    "traffic_sources": {
+      "direct": 0.6588,
+      "search": 0.1598,
+      "search_organic": 0.1595,
+      "search_paid": 0.0003,
+      "social": 0.0828,
+      "social_organic": 0.0726,
+      "social_paid": 0.0102,
+      "referrals": 0.036,
+      "paid_referrals": 0.0017,
+      "mail": 0.011,
+      "gen_ai": 0.0499,
+      "affiliate": 0,
+      "other": 0
+    },
+    "top_keywords": [
+      {
+        "name": "grok",
+        "volume": 10071720,
+        "cpc": 0.82,
+        "estimated_value": 13343090
+      },
+      {
+        "name": "grok ai",
+        "volume": 1697470,
+        "cpc": 0.42,
+        "estimated_value": 2783100
+      },
+      {
+        "name": "그록",
+        "volume": 348850,
+        "cpc": 0.51,
+        "estimated_value": 425110
+      },
+      {
+        "name": "грок",
+        "volume": 247840,
+        "cpc": 0.32,
+        "estimated_value": 337220
+      },
+      {
+        "name": "grock",
+        "volume": 269430,
+        "cpc": 0.41,
+        "estimated_value": 309820
+      }
+    ],
+    "top_regions": [
+      {
+        "country": "US",
+        "name": "United States",
+        "share": 0.2792
+      },
+      {
+        "country": "IN",
+        "name": "India",
+        "share": 0.0602
+      },
+      {
+        "country": "BR",
+        "name": "Brazil",
+        "share": 0.0442
+      },
+      {
+        "country": "KR",
+        "name": "Korea, Republic of",
+        "share": 0.0346
+      },
+      {
+        "country": "DE",
+        "name": "Germany",
+        "share": 0.0305
+      }
+    ]
+  }
+}

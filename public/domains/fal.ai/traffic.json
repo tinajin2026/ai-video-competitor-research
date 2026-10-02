@@ -1,0 +1,145 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "fal.ai",
+  "measurement": "第三方域名级估算",
+  "data": {
+    "domain": "fal.ai",
+    "overview": {
+      "global_rank": 16609,
+      "country_rank": {
+        "country": "US",
+        "rank": 13505
+      },
+      "visits": 2679176,
+      "bounce_rate": 0.3937348377479597,
+      "pages_per_visit": 6.082086590622422,
+      "time_on_site_seconds": 322.91869217806953,
+      "month": "2026-08"
+    },
+    "monthly_visits": [
+      {
+        "month": "2025-09",
+        "visits": 2142934
+      },
+      {
+        "month": "2025-10",
+        "visits": 2054913
+      },
+      {
+        "month": "2025-11",
+        "visits": 1979375
+      },
+      {
+        "month": "2025-12",
+        "visits": 2610258
+      },
+      {
+        "month": "2026-01",
+        "visits": 2402894
+      },
+      {
+        "month": "2026-02",
+        "visits": 2243121
+      },
+      {
+        "month": "2026-03",
+        "visits": 2556690
+      },
+      {
+        "month": "2026-04",
+        "visits": 2595836
+      },
+      {
+        "month": "2026-05",
+        "visits": 2300237
+      },
+      {
+        "month": "2026-06",
+        "visits": 2416291
+      },
+      {
+        "month": "2026-07",
+        "visits": 2380154
+      },
+      {
+        "month": "2026-08",
+        "visits": 2679176
+      }
+    ],
+    "traffic_sources": {
+      "direct": 0.5762,
+      "search": 0.2635,
+      "search_organic": 0.2499,
+      "search_paid": 0.0136,
+      "social": 0.069,
+      "social_organic": 0.0679,
+      "social_paid": 0.0011,
+      "referrals": 0.0449,
+      "paid_referrals": 0.0033,
+      "mail": 0.0108,
+      "gen_ai": 0.0321,
+      "affiliate": 0.0001,
+      "other": 0
+    },
+    "top_keywords": [
+      {
+        "name": "fal ai",
+        "volume": 133390,
+        "cpc": 1.57,
+        "estimated_value": 148770
+      },
+      {
+        "name": "minimax h3",
+        "volume": 926660,
+        "cpc": 0,
+        "estimated_value": 39380
+      },
+      {
+        "name": "fal",
+        "volume": 79850,
+        "cpc": 0.31,
+        "estimated_value": 33380
+      },
+      {
+        "name": "elevenlabs",
+        "volume": 3401750,
+        "cpc": 0.21,
+        "estimated_value": 31080
+      },
+      {
+        "name": "fal.ai",
+        "volume": 17690,
+        "cpc": 1.55,
+        "estimated_value": 20410
+      }
+    ],
+    "top_regions": [
+      {
+        "country": "US",
+        "name": "United States",
+        "share": 0.2313
+      },
+      {
+        "country": "IN",
+        "name": "India",
+        "share": 0.0549
+      },
+      {
+        "country": "DE",
+        "name": "Germany",
+        "share": 0.0548
+      },
+      {
+        "country": "CN",
+        "name": "China",
+        "share": 0.043
+      },
+      {
+        "country": "TR",
+        "name": "Turkey",
+        "share": 0.0377
+      }
+    ]
+  }
+}

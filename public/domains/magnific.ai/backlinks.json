@@ -1,0 +1,158 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "magnific.ai",
+  "measurement": "第三方外链样本",
+  "data": {
+    "domain": "magnific.ai",
+    "overview": {
+      "domain_rating": 72,
+      "backlinks": 21832431,
+      "referring_domains": 3368,
+      "dofollow_backlinks_pct": 99,
+      "dofollow_referring_domains_pct": 67
+    },
+    "backlinks": [
+      {
+        "from_url": "https://www.magnific.com/",
+        "to_url": "https://magnific.ai/legacy/",
+        "title": "Magnific (formerly Freepik) | The AI Creative Platform",
+        "anchor": "magnific.ai",
+        "domain_rating": 92
+      },
+      {
+        "from_url": "https://replicate.com/home",
+        "to_url": "https://magnific.ai/",
+        "title": "Replicate - Run AI with an API",
+        "anchor": "Magnific",
+        "domain_rating": 83
+      },
+      {
+        "from_url": "https://tools.lhagi.com/sites/1667.html",
+        "to_url": "https://magnific.ai/",
+        "title": "Img.Upscaler官网 - Try our free online image upscaler tool, capable of upscaling images by 400% and up to 16000x16000 resolution. Enlarge your images without compromising quality. Supports JPG, PNG, WEBP, and JPEG formats | AI工具集官网",
+        "anchor": "",
+        "domain_rating": 0
+      },
+      {
+        "from_url": "https://libros.catedu.es/books/aplicacion-de-la-ia-en-el-aula-artes-plasticas/page/21-ia-para-la-generacion-de-imagenes",
+        "to_url": "https://magnific.ai/",
+        "title": "2.1. IA para la genera... | Librería CATEDU",
+        "anchor": "Captura de pantalla 2026-03-03 a las 11.49.04.png",
+        "domain_rating": 68
+      },
+      {
+        "from_url": "https://thefactoryschool.com/blog/que-es-magnific-ai/",
+        "to_url": "https://magnific.ai/",
+        "title": "Descubre qué es Magnific AI | The Factory School",
+        "anchor": "Magnific AI",
+        "domain_rating": 40
+      },
+      {
+        "from_url": "https://miccreative.vn/web-ai/",
+        "to_url": "https://magnific.ai/",
+        "title": "Top 20+ Web AI Miễn Phí & Trả Phí Tốt Nhất 2026 (Cập Nhật)",
+        "anchor": "Magnific AI",
+        "domain_rating": 35
+      },
+      {
+        "from_url": "https://www.freepik.com/vectors",
+        "to_url": "https://magnific.ai/",
+        "title": "Free Vector Images - Download & Edit Online | Freepik",
+        "anchor": "Magnific",
+        "domain_rating": 93
+      },
+      {
+        "from_url": "https://dreamstudio.com/start/",
+        "to_url": "https://magnific.ai/",
+        "title": "DreamStudio - Collaborative Data Science",
+        "anchor": "Magnific Upscaler",
+        "domain_rating": 48
+      },
+      {
+        "from_url": "https://logiciel.vkweb.fr/outils-ia/ameliorer-qualite-image-photo-ia/",
+        "to_url": "https://magnific.ai/",
+        "title": "Améliorez la qualité de vos photos et images avec l'IA",
+        "anchor": "Visiter le site",
+        "domain_rating": 28
+      },
+      {
+        "from_url": "https://curiousrefuge.com/blog/best-ai-image-upscalers-for-2026",
+        "to_url": "https://magnific.ai/",
+        "title": "Best AI Image Upscalers for 2026 — Curious Refuge",
+        "anchor": "Magnific",
+        "domain_rating": 54
+      },
+      {
+        "from_url": "https://www.creativepadmedia.com/best-ai-image-and-video-editing-tools-in-2025-complete-list/",
+        "to_url": "https://magnific.ai/",
+        "title": "Best AI Image and Video Editing Tools in 2025 - Complete List - Creative Pad Media",
+        "anchor": "Magnific AI",
+        "domain_rating": 13
+      },
+      {
+        "from_url": "https://visme.co/blog/ai-graphic-design-tools/",
+        "to_url": "https://magnific.ai/",
+        "title": "Top 12 AI Graphic Design Tools for 2026: Tested & Reviewed",
+        "anchor": "Magnific.ai",
+        "domain_rating": 86
+      },
+      {
+        "from_url": "https://www.awwwards.com/awwwards/collections/ai-tools-for-designers/",
+        "to_url": "https://magnific.ai/",
+        "title": "AI Tools For Designers - Awwwards",
+        "anchor": "",
+        "domain_rating": 89
+      },
+      {
+        "from_url": "https://visual-mapping.es/magnific-ai/",
+        "to_url": "https://magnific.ai/",
+        "title": "Magnific AI: la IA española que revoluciona el escalado y mejora de imágenes – Visual-Mapping.es",
+        "anchor": "Magnific AI",
+        "domain_rating": 12
+      },
+      {
+        "from_url": "https://lume-studio.ai/",
+        "to_url": "https://magnific.ai/",
+        "title": "Lume Studio — AI-Native Production Studio | AI Films, YouTube Series, Academy",
+        "anchor": "Magnific Magnific",
+        "domain_rating": 0
+      },
+      {
+        "from_url": "https://www.waimakers.com/nl/resources/ai-tools",
+        "to_url": "https://magnific.ai/",
+        "title": "AI Tools & Vergelijking - WAIMAKERS",
+        "anchor": "Magnific AI Magnific AIImagesUpscales and enhances images by reimagining details - turn low-res visuals into high-quality masterpieces.EnhancementImage Quality+1Bekijk tool",
+        "domain_rating": 14
+      },
+      {
+        "from_url": "https://narzedzia.horyzont.ai/narzedzia/magnific-ai",
+        "to_url": "https://magnific.ai/",
+        "title": "Magnific AI",
+        "anchor": "Przejdź Do Narzędzia",
+        "domain_rating": 17
+      },
+      {
+        "from_url": "https://giuseppetavera.it/aumentare-risoluzione-immagini/",
+        "to_url": "https://magnific.ai/",
+        "title": "Come aumentare la risoluzione delle immagini",
+        "anchor": "Magnific",
+        "domain_rating": 1
+      },
+      {
+        "from_url": "https://www.inventormiguel.com/tool/magnific-ai",
+        "to_url": "https://magnific.ai/",
+        "title": "Magnific.ai — Inventor Miguel",
+        "anchor": "Access Tool",
+        "domain_rating": 9
+      },
+      {
+        "from_url": "https://www.myarchitectai.com/it/blog/ai-tools-for-architects-and-interior-designers",
+        "to_url": "https://magnific.ai/",
+        "title": "18 Migliori Strumenti IA per Architetti e Interior Designer",
+        "anchor": "IA magnifica",
+        "domain_rating": 47
+      }
+    ]
+  }
+}

@@ -1,0 +1,372 @@
+{
+  "schema_version": 1,
+  "product": {
+    "id": "veo",
+    "name": "Google Veo",
+    "x_handle": null,
+    "homepage": "https://deepmind.google/models/veo/",
+    "ads_priority": false,
+    "traffic_domain": "deepmind.google",
+    "additional_domains": [],
+    "scope_note": "DeepMind 全站域名口径，不能当作 Veo 独立流量。",
+    "shared_scope": true,
+    "domain_data": {
+      "domain": "deepmind.google",
+      "traffic": {
+        "domain": "deepmind.google",
+        "overview": {
+          "global_rank": 19828,
+          "country_rank": {
+            "country": "US",
+            "rank": 19107
+          },
+          "visits": 3995721,
+          "bounce_rate": 0.6704427071913144,
+          "pages_per_visit": 1.5995567154888048,
+          "time_on_site_seconds": 74.26450902465069,
+          "month": "2026-08"
+        },
+        "monthly_visits": [
+          {
+            "month": "2026-03",
+            "visits": 4704834
+          },
+          {
+            "month": "2026-04",
+            "visits": 6668969
+          },
+          {
+            "month": "2026-05",
+            "visits": 6137498
+          },
+          {
+            "month": "2026-06",
+            "visits": 5128551
+          },
+          {
+            "month": "2026-07",
+            "visits": 4444838
+          },
+          {
+            "month": "2026-08",
+            "visits": 3995721
+          }
+        ],
+        "traffic_sources": {
+          "direct": 0.2013,
+          "search": 0.587,
+          "search_organic": 0.5865,
+          "search_paid": 0.0005,
+          "social": 0.0415,
+          "social_organic": 0.0381,
+          "social_paid": 0.0034,
+          "referrals": 0.1177,
+          "paid_referrals": 0.0038,
+          "mail": 0.0085,
+          "gen_ai": 0.0402,
+          "affiliate": 0,
+          "other": 0
+        },
+        "top_keywords": [
+          {
+            "name": "gemini",
+            "volume": 120293930,
+            "cpc": 0.3,
+            "estimated_value": 4822210
+          },
+          {
+            "name": "google gemini",
+            "volume": 8692630,
+            "cpc": 0.27,
+            "estimated_value": 893200
+          },
+          {
+            "name": "gemini ai",
+            "volume": 17213170,
+            "cpc": 0.25,
+            "estimated_value": 732100
+          },
+          {
+            "name": "gimini",
+            "volume": 1582110,
+            "cpc": 0.26,
+            "estimated_value": 69920
+          },
+          {
+            "name": "google deepmind",
+            "volume": 81500,
+            "cpc": 1.62,
+            "estimated_value": 65150
+          }
+        ],
+        "top_regions": [
+          {
+            "country": "US",
+            "name": "United States",
+            "share": 0.2126
+          },
+          {
+            "country": "IN",
+            "name": "India",
+            "share": 0.1369
+          },
+          {
+            "country": "CN",
+            "name": "China",
+            "share": 0.0574
+          },
+          {
+            "country": "GB",
+            "name": "United Kingdom",
+            "share": 0.0385
+          },
+          {
+            "country": "DE",
+            "name": "Germany",
+            "share": 0.0312
+          }
+        ]
+      },
+      "traffic_evidence": "domains/deepmind.google/traffic.json",
+      "traffic_status": "ok",
+      "registration_date": "2023-09-07T15:28:08.138Z",
+      "backlinks": {
+        "domain": "deepmind.google",
+        "overview": {
+          "domain_rating": 90,
+          "backlinks": 12808919,
+          "referring_domains": 66974,
+          "dofollow_backlinks_pct": 13,
+          "dofollow_referring_domains_pct": 85
+        },
+        "backlinks": [
+          {
+            "from_url": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+            "to_url": "https://deepmind.google/discover/blog/muzero-mastering-go-chess-shogi-and-atari-without-rules",
+            "title": "Artificial intelligence",
+            "anchor": "\"MuZero: Mastering Go, chess, shogi and Atari without rules\"",
+            "domain_rating": 97
+          },
+          {
+            "from_url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/google-gemini-ai-update-december-2024/",
+            "to_url": "https://deepmind.google/research/breakthroughs/alphago/",
+            "title": "Google introduces Gemini 2.0: A new AI model for the agentic era",
+            "anchor": "history",
+            "domain_rating": 92
+          },
+          {
+            "from_url": "https://openai.com/index/learning-to-reason-with-llms/",
+            "to_url": "https://deepmind.google/models/gemini/pro/",
+            "title": "Learning to reason with LLMs | OpenAI",
+            "anchor": "https://deepmind.google/technologies/gemini/pro⁠(opens in a new window)",
+            "domain_rating": 93
+          },
+          {
+            "from_url": "https://ai.google/",
+            "to_url": "https://deepmind.google/models/gemini/",
+            "title": "Google AI - How we're making AI helpful for everyone",
+            "anchor": "GeminiBuild intelligent agents",
+            "domain_rating": 86
+          },
+          {
+            "from_url": "https://gemini.google/overview/image-generation/",
+            "to_url": "https://deepmind.google/technologies/synthid/",
+            "title": "Nano Banana 2 - Gemini AI image generator & photo editor",
+            "anchor": "SynthID",
+            "domain_rating": 82
+          },
+          {
+            "from_url": "https://aistudio.google.com/models/nano-banana",
+            "to_url": "https://deepmind.google/models/synthid/",
+            "title": "Nano Banana | Google AI Studio",
+            "anchor": "docs Docs",
+            "domain_rating": 100
+          },
+          {
+            "from_url": "https://ai.google.dev/",
+            "to_url": "https://deepmind.google/gemini",
+            "title": "Gemini Developer API | Gemma open models | Google AI for Developers",
+            "anchor": "About",
+            "domain_rating": 90
+          },
+          {
+            "from_url": "https://lablab.ai/tech/google/gemini-ai",
+            "to_url": "https://deepmind.google/technologies/gemini/",
+            "title": "Introducing Gemini: The Future of AI",
+            "anchor": "Official Gemini Overview — Google DeepMind",
+            "domain_rating": 71
+          },
+          {
+            "from_url": "https://yoodli.ai/blog/what-is-chat-gpt-and-how-can-you-use-it",
+            "to_url": "https://deepmind.google/blog/building-safer-dialogue-agents",
+            "title": "What Is ChatGPT (And How Can You Use It)?",
+            "anchor": "Sparrow",
+            "domain_rating": 68
+          },
+          {
+            "from_url": "https://github.com/ggml-org/llama.cpp",
+            "to_url": "https://deepmind.google/models/gemma",
+            "title": "GitHub - ggml-org/llama.cpp: LLM inference in C/C++ · GitHub",
+            "anchor": "Gemma",
+            "domain_rating": 97
+          },
+          {
+            "from_url": "https://www.ibm.com/think/topics/google-gemini",
+            "to_url": "https://deepmind.google/models/gemini/",
+            "title": "What is Google Gemini? | IBM",
+            "anchor": "Gemini Models",
+            "domain_rating": 93
+          },
+          {
+            "from_url": "https://about.google/",
+            "to_url": "https://deepmind.google/models/?utm_content",
+            "title": "About Google: Our products, technology and company information - About Google",
+            "anchor": "A graphic representing AI models sits against a black background.",
+            "domain_rating": 91
+          },
+          {
+            "from_url": "https://developer.android.com/ai/gemini/developer-api?hl=ar",
+            "to_url": "https://deepmind.google/models/gemini-image/flash/?hl=ar",
+            "title": "Gemini Developer API | AI | Android Developers",
+            "anchor": "Gemini 3.1 Flash Image",
+            "domain_rating": 92
+          },
+          {
+            "from_url": "https://geminiwatermark.io/",
+            "to_url": "https://deepmind.google/models/synthid/",
+            "title": "Gemini Watermark Remover: Free, Video & Image",
+            "anchor": "Google DeepMind, SynthID",
+            "domain_rating": 10
+          },
+          {
+            "from_url": "https://hacktoberfest.com/",
+            "to_url": "https://deepmind.google/models/gemma",
+            "title": "Hacktoberfest 2026 | AI belongs to everyone",
+            "anchor": "",
+            "domain_rating": 78
+          },
+          {
+            "from_url": "https://experience-ai.org/en/",
+            "to_url": "https://deepmind.google/",
+            "title": "Experience AI",
+            "anchor": "Google DeepMind",
+            "domain_rating": 68
+          },
+          {
+            "from_url": "https://tldr.tech/",
+            "to_url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence",
+            "title": "TLDR - A Byte Sized Daily Tech Newsletter",
+            "anchor": "Gemini 4 Argon: our next era of frontier intelligence",
+            "domain_rating": 71
+          },
+          {
+            "from_url": "https://research.google/teams/cloud-ai-research/",
+            "to_url": "https://deepmind.google/about/",
+            "title": "Cloud AI Research",
+            "anchor": "About",
+            "domain_rating": 89
+          },
+          {
+            "from_url": "https://www.meshy.ai/free-3d-models",
+            "to_url": "https://deepmind.google/",
+            "title": "Download 580,000+ Free 3D Models — FBX, OBJ, GLB, STL | Meshy",
+            "anchor": "Google",
+            "domain_rating": 76
+          },
+          {
+            "from_url": "https://alphafold.ebi.ac.uk/",
+            "to_url": "https://deepmind.google/blog/putting-the-power-of-alphafold-into-the-worlds-hands/",
+            "title": "AlphaFold Protein Structure Database",
+            "anchor": "AlphaFold",
+            "domain_rating": 85
+          }
+        ]
+      },
+      "backlinks_evidence": "domains/deepmind.google/backlinks.json"
+    },
+    "pages": [
+      {
+        "kind": "home",
+        "label": "首页",
+        "path": "products/veo/pages/home.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://deepmind.google/models/veo/",
+          "resolved_url": "https://deepmind.google/models/veo/",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Veo 3.1 — Google DeepMind"
+        },
+        "content": "模型页展示 Primordial Soup 合作，并引导到 Google Flow 创作工具。"
+      },
+      {
+        "kind": "pricing",
+        "label": "定价资料",
+        "path": "products/veo/pages/pricing.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://aistudio.google.com/models/veo-3",
+          "resolved_url": "https://aistudio.google.com/models/veo",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Veo 3.1 | Google AI Studio"
+        },
+        "content": "已保存官网来源；本公开版不转载页面全文。"
+      }
+    ],
+    "searches": [],
+    "issues": [],
+    "screenshot": null,
+    "product_entry_links": [
+      "https://flow.google/?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content="
+    ]
+  },
+  "metrics": {
+    "visits": 3995721,
+    "mom": -0.10104237769745494,
+    "change3": -0.34896581636360613,
+    "rolling3": -0.2251226793486104,
+    "recent_average": 4523036.666666667,
+    "prior_average": 5837100.333333333,
+    "up_streak": 0,
+    "derived_channels": {
+      "search_paid_visits": 1997.8605,
+      "social_paid_visits": 13585.4514,
+      "search_organic_visits": 2343490.3665,
+      "social_organic_visits": 152236.9701,
+      "direct_visits": 804338.6373000001
+    },
+    "scope": "mixed",
+    "profile": "Google DeepMind 的视频模型页面；deepmind.google 流量不代表 Veo 独立使用量。",
+    "profile_source": "products/veo/pages/home.json"
+  },
+  "editorial": {
+    "thesis": "模型展示通过 Flow 承接创作需求，模型热度和母站流量是不同层次。",
+    "focus": "导演合作案例与 Flow 跳转构成已观察到的展示到工具链路。DeepMind 域名关键词包含 Gemini 等业务，不应用于推算 Veo 的品牌/非品牌访问比例。",
+    "experiment": "用可复现导演案例连接模型介绍与可运行模板，让用户从样片直接进入制作。",
+    "measure": "样片到工具启动率、参考素材复用率与多镜头完成率。",
+    "watch": "Veo 版本、Flow 入口、模型计价与导演案例更新。"
+  },
+  "activities": [
+    {
+      "product_id": "veo",
+      "type": "partnership",
+      "title": "导演合作与 Flow 产品承接",
+      "detail": "模型页展示 Primordial Soup 合作，并引导到 Google Flow 创作工具。",
+      "anchors": [
+        "Primordial Soup",
+        "Google Flow"
+      ],
+      "source": "products/veo/pages/home.json",
+      "event_date": null,
+      "id": "activity-17",
+      "source_url": "https://deepmind.google/models/veo/",
+      "observed_at": "2026-10-02"
+    }
+  ],
+  "x_posts": []
+}

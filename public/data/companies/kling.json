@@ -1,0 +1,396 @@
+{
+  "schema_version": 1,
+  "product": {
+    "id": "kling",
+    "name": "Kling",
+    "x_handle": "Kling_ai",
+    "homepage": "https://kling.ai/",
+    "ads_priority": false,
+    "traffic_domain": "kling.ai",
+    "additional_domains": [
+      "klingai.com"
+    ],
+    "scope_note": "官网为 kling.ai；另存旧域 klingai.com，不直接相加。",
+    "shared_scope": false,
+    "domain_data": {
+      "domain": "kling.ai",
+      "traffic": {
+        "domain": "kling.ai",
+        "overview": {
+          "global_rank": 4223,
+          "country_rank": {
+            "country": "IN",
+            "rank": 1699
+          },
+          "visits": 11703445,
+          "bounce_rate": 0.35432228161972656,
+          "pages_per_visit": 4.907781980940185,
+          "time_on_site_seconds": 343.43043917199935,
+          "month": "2026-08"
+        },
+        "monthly_visits": [
+          {
+            "month": "2025-09",
+            "visits": 7275
+          },
+          {
+            "month": "2025-10",
+            "visits": 9802
+          },
+          {
+            "month": "2025-11",
+            "visits": 2975
+          },
+          {
+            "month": "2025-12",
+            "visits": 5162
+          },
+          {
+            "month": "2026-01",
+            "visits": 9597
+          },
+          {
+            "month": "2026-02",
+            "visits": 45920
+          },
+          {
+            "month": "2026-03",
+            "visits": 1935779
+          },
+          {
+            "month": "2026-04",
+            "visits": 10681715
+          },
+          {
+            "month": "2026-05",
+            "visits": 12155327
+          },
+          {
+            "month": "2026-06",
+            "visits": 12300434
+          },
+          {
+            "month": "2026-07",
+            "visits": 12510056
+          },
+          {
+            "month": "2026-08",
+            "visits": 11703445
+          }
+        ],
+        "traffic_sources": {
+          "direct": 0.4173,
+          "search": 0.4022,
+          "search_organic": 0.321,
+          "search_paid": 0.0812,
+          "social": 0.0504,
+          "social_organic": 0.048,
+          "social_paid": 0.0023,
+          "referrals": 0.0579,
+          "paid_referrals": 0.0188,
+          "mail": 0.0107,
+          "gen_ai": 0.041,
+          "affiliate": 0.0017,
+          "other": 0
+        },
+        "top_keywords": [
+          {
+            "name": "kling ai",
+            "volume": 1451150,
+            "cpc": 0.48,
+            "estimated_value": 1601440
+          },
+          {
+            "name": "kling",
+            "volume": 496310,
+            "cpc": 1.13,
+            "estimated_value": 370100
+          },
+          {
+            "name": "kling 3.0",
+            "volume": 102290,
+            "cpc": 1.68,
+            "estimated_value": 58130
+          },
+          {
+            "name": "klingai",
+            "volume": 55000,
+            "cpc": 0.84,
+            "estimated_value": 40630
+          },
+          {
+            "name": "king ai",
+            "volume": 37860,
+            "cpc": 0.33,
+            "estimated_value": 35290
+          }
+        ],
+        "top_regions": [
+          {
+            "country": "US",
+            "name": "United States",
+            "share": 0.1288
+          },
+          {
+            "country": "IN",
+            "name": "India",
+            "share": 0.1039
+          },
+          {
+            "country": "KR",
+            "name": "Korea, Republic of",
+            "share": 0.0696
+          },
+          {
+            "country": "BR",
+            "name": "Brazil",
+            "share": 0.0579
+          },
+          {
+            "country": "RU",
+            "name": "Russia",
+            "share": 0.0474
+          }
+        ]
+      },
+      "traffic_evidence": "domains/kling.ai/traffic.json",
+      "traffic_status": "ok",
+      "registration_date": "2022-06-05T19:04:40.000Z",
+      "backlinks": {
+        "domain": "kling.ai",
+        "overview": {
+          "domain_rating": 79,
+          "backlinks": 317290,
+          "referring_domains": 17441,
+          "dofollow_backlinks_pct": 80,
+          "dofollow_referring_domains_pct": 78
+        },
+        "backlinks": [
+          {
+            "from_url": "https://www.seaart.ai/",
+            "to_url": "https://kling.ai/app/ai-shorts-video/magical-suitcase-short-story-animation/746573060388175930",
+            "title": "AI Creativity Community for Art, Video, Chat & Tools | SeaArt AI",
+            "anchor": "logo-2",
+            "domain_rating": 70
+          },
+          {
+            "from_url": "https://zapier.com/blog/best-ai-image-generator/",
+            "to_url": "https://kling.ai/app/image/new",
+            "title": "The 8 best AI image generators in 2026 | Zapier",
+            "anchor": "KlingAI Image 3.0",
+            "domain_rating": 91
+          },
+          {
+            "from_url": "https://ia.acs.org.au/article/2026/canva-cracks-down-on-ai-credit-fraud.html",
+            "to_url": "http://ww25.kling.ai/?subid1=20241104-0729-5736-8af9-e9e49ee28e74",
+            "title": "Canva cracks down on AI credit fraud | Information Age | ACS",
+            "anchor": "Kling",
+            "domain_rating": 77
+          },
+          {
+            "from_url": "https://en.wikipedia.org/wiki/Kling_AI",
+            "to_url": "https://kling.ai/",
+            "title": "Kling AI",
+            "anchor": "Official website",
+            "domain_rating": 97
+          },
+          {
+            "from_url": "https://codimd.apps.education.fr/s/r1H5nglAY",
+            "to_url": "http://ww25.kling.ai/?subid1=20241104-0729-5736-8af9-e9e49ee28e74",
+            "title": "Une sélection d’IA génératives gratuites en ligne - CodiMD",
+            "anchor": "Klingai",
+            "domain_rating": 85
+          },
+          {
+            "from_url": "https://www.techno-edge.net/article/2025/01/30/4061.html",
+            "to_url": "https://kling.ai/",
+            "title": "生成AIグラビアをグラビアカメラマンが作るとどうなる？第41回：外部サービスの生成AI画像はどんな感じ！？　そしてFLUX.1 [schnell] の逆襲（西川和久） | テクノエッジ TechnoEdge",
+            "anchor": "https://klingai.com",
+            "domain_rating": 53
+          },
+          {
+            "from_url": "https://www.marketermilk.com/blog/ai-marketing-tools",
+            "to_url": "https://kling.ai/",
+            "title": "30 best AI marketing tools I'm using to get ahead in 2026 | Marketer Milk",
+            "anchor": "Kling AI",
+            "domain_rating": 67
+          },
+          {
+            "from_url": "https://www.datacamp.com/blog/free-ai-tools",
+            "to_url": "http://ww25.kling.ai/?subid1=20241104-0729-5736-8af9-e9e49ee28e74",
+            "title": "The 40 Best Free AI Tools in 2026: A Complete Guide | DataCamp",
+            "anchor": "Kling AI",
+            "domain_rating": 85
+          },
+          {
+            "from_url": "https://readyforjob.in/pages/ai.html",
+            "to_url": "https://kling.ai/",
+            "title": "Free AI Tools 2026 — Complete List | No Credit Card",
+            "anchor": "Visit Tool",
+            "domain_rating": 0
+          },
+          {
+            "from_url": "https://1min.ai/",
+            "to_url": "http://ww25.kling.ai/?subid1=20241104-0729-5736-8af9-e9e49ee28e74",
+            "title": "1minAI | Free All-in-one AI App for Text, Image, Audio, Video",
+            "anchor": "Kling AI Kling AI",
+            "domain_rating": 60
+          },
+          {
+            "from_url": "https://skillbox.ru/media/code/30-moshchnykh-neyrosetey-dlya-lyubykh-zadach/",
+            "to_url": "https://kling.ai/",
+            "title": "Топ-36 нейросетей на все случаи жизни / Skillbox Media / Skillbox Media",
+            "anchor": "Попробовать",
+            "domain_rating": 78
+          },
+          {
+            "from_url": "https://www.eweek.com/news/ai-pricing-cheat-sheet-2026/",
+            "to_url": "http://kling.ai/app/membership/membership-plan",
+            "title": "OpenAI Agent Accessed Australian Government Site: What Went Wrong",
+            "anchor": "Pricing snapshot",
+            "domain_rating": 83
+          },
+          {
+            "from_url": "https://klingai.com/text-to-video/ai-avatar",
+            "to_url": "http://ww25.kling.ai/?subid1=20241104-0729-5736-8af9-e9e49ee28e74",
+            "title": "可灵 AI - 新一代 AI 创意生产力平台",
+            "anchor": "Kling AI",
+            "domain_rating": 79
+          },
+          {
+            "from_url": "https://github.com/mahseema/awesome-ai-tools",
+            "to_url": "https://kling.ai/app/",
+            "title": "GitHub - mahseema/awesome-ai-tools: A curated list of Artificial Intelligence Top Tools · GitHub",
+            "anchor": "klingai",
+            "domain_rating": 97
+          },
+          {
+            "from_url": "https://digital-gorilla.co.jp/ai-lab/ai-video-generation-free/",
+            "to_url": "https://kling.ai/",
+            "title": "【2026年最新】ai動画生成 無料おすすめ10選｜使い方・商用利用・日本語対応を比較 – ゴリラのAI研究所",
+            "anchor": "Kling AI公式サイト",
+            "domain_rating": 27
+          },
+          {
+            "from_url": "https://a16z.com/100-gen-ai-apps-6/",
+            "to_url": "http://ww25.kling.ai/?subid1=20241104-0729-5736-8af9-e9e49ee28e74",
+            "title": "The Top 100 Gen AI Consumer Apps — 6th Edition | Andreessen Horowitz",
+            "anchor": "Kling AI",
+            "domain_rating": 87
+          },
+          {
+            "from_url": "https://t-j.ru/short/ai-for-all/",
+            "to_url": "https://kling.ai/",
+            "title": "Бесплатные нейросети онлайн: 50 лучших ИИ-сервисов",
+            "anchor": "Попробовать",
+            "domain_rating": 77
+          },
+          {
+            "from_url": "https://phongvu.vn/cong-nghe/kling-ai-la-gi-huong-dan-su-dung-kling-ai-de-tao-anh-va-video/",
+            "to_url": "http://ww25.kling.ai/?subid1=20241104-0729-5736-8af9-e9e49ee28e74",
+            "title": "Kling AI là gì? Hướng dẫn sử dụng Kling AI để tạo ảnh và video",
+            "anchor": "https://klingai.com/",
+            "domain_rating": 72
+          },
+          {
+            "from_url": "https://aitoolsandplugins.com/video-and-audio/pika-labs/",
+            "to_url": "http://ww25.kling.ai/?subid1=20241104-0729-5736-8af9-e9e49ee28e74",
+            "title": "Pika Labs - AI Tools and Plugins",
+            "anchor": "Website",
+            "domain_rating": 0
+          },
+          {
+            "from_url": "https://arena.ai/leaderboard/text-to-video",
+            "to_url": "https://kling.ai/release-note/release-notes/zipxp988c2",
+            "title": "Text-to-Video Leaderboard - Best AI Video Generators",
+            "anchor": "kling-o1-pro",
+            "domain_rating": 82
+          }
+        ]
+      },
+      "backlinks_evidence": "domains/kling.ai/backlinks.json"
+    },
+    "pages": [
+      {
+        "kind": "home",
+        "label": "首页",
+        "path": "products/kling/pages/home.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://kling.ai/",
+          "resolved_url": "https://kling.ai/",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Kling AI: Next-Gen AI Video & Image Generator"
+        },
+        "content": "首页展示品牌影片、影视与电商案例及 Partnerships 入口；客户效果未独立核验。"
+      },
+      {
+        "kind": "pricing",
+        "label": "定价资料",
+        "path": "products/kling/pages/pricing.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://kling.ai/app/membership/membership-plan",
+          "resolved_url": "https://kling.ai/app/membership/membership-plan",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Kling AI: Membership Plans, Benefits & Account Options"
+        },
+        "content": "已保存官网来源；本公开版不转载页面全文。"
+      }
+    ],
+    "searches": [],
+    "issues": [],
+    "screenshot": null,
+    "product_entry_links": []
+  },
+  "metrics": {
+    "visits": 11703445,
+    "mom": -0.06447700953536895,
+    "change3": -0.03717563501171128,
+    "rolling3": 0.4739514324993508,
+    "recent_average": 12171311.666666666,
+    "prior_average": 8257607.0,
+    "up_streak": 0,
+    "derived_channels": {
+      "search_paid_visits": 950319.7339999999,
+      "social_paid_visits": 26917.9235,
+      "search_organic_visits": 3756805.845,
+      "social_organic_visits": 561765.36,
+      "direct_visits": 4883847.5985
+    },
+    "scope": "migration",
+    "profile": "首页覆盖视频、图像、Canvas 与行业应用；新旧域切换影响长周期趋势。",
+    "profile_source": "products/kling/pages/home.json"
+  },
+  "editorial": {
+    "thesis": "案例与行业应用体现商业场景定位，新旧域流量暂不宜用于单一增长排名。",
+    "focus": "品牌影视、电商与合作入口是可核验布局；首页客户案例的商业效果尚未独立验证。应把案例映射到输入要求、生产步骤和交付场景。",
+    "experiment": "为一个电商商品制作可重复的品牌一致性工作流，提供输入素材、生成步骤和成片案例。",
+    "measure": "参考一致性通过率、每个交付片返工次数和付费项目完成率。",
+    "watch": "新旧域承载变更、合作案例、可用模型及结算条件。"
+  },
+  "activities": [
+    {
+      "product_id": "kling",
+      "type": "partnership",
+      "title": "品牌影视案例与行业应用",
+      "detail": "首页展示品牌影片、影视与电商案例及 Partnerships 入口；客户效果未独立核验。",
+      "anchors": [
+        "Industry Applications",
+        "Partnerships"
+      ],
+      "source": "products/kling/pages/home.json",
+      "event_date": null,
+      "id": "activity-13",
+      "source_url": "https://kling.ai/",
+      "observed_at": "2026-10-02"
+    }
+  ],
+  "x_posts": []
+}

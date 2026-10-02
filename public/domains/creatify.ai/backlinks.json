@@ -1,0 +1,158 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "creatify.ai",
+  "measurement": "第三方外链样本",
+  "data": {
+    "domain": "creatify.ai",
+    "overview": {
+      "domain_rating": 73,
+      "backlinks": 142408,
+      "referring_domains": 6430,
+      "dofollow_backlinks_pct": 64,
+      "dofollow_referring_domains_pct": 67
+    },
+    "backlinks": [
+      {
+        "from_url": "https://www.g2.com/sellers/creatify-labs-inc",
+        "to_url": "https://creatify.ai/",
+        "title": "Creatify Labs Inc Products | Read 1492 Reviews on G2",
+        "anchor": "creatify.ai",
+        "domain_rating": 91
+      },
+      {
+        "from_url": "https://www.nereo.io/blog/ezcreate-review",
+        "to_url": "https://creatify.ai/",
+        "title": "EZCreate Review: Is It Worth It in 2026?",
+        "anchor": "Creatify",
+        "domain_rating": 31
+      },
+      {
+        "from_url": "https://www.cometly.com/post/ai-marketing-video-generator",
+        "to_url": "https://creatify.ai/",
+        "title": "9 Best AI Marketing Video Generators for Ads in 2026",
+        "anchor": "Creatify",
+        "domain_rating": 71
+      },
+      {
+        "from_url": "https://chatgpt.fr/ia/productivite",
+        "to_url": "https://creatify.ai/studio",
+        "title": "IA Productivité - Les Meilleurs Outils | ChatGPT.fr",
+        "anchor": "",
+        "domain_rating": 15
+      },
+      {
+        "from_url": "https://bestaito.com/blog/long-video-to-short-video/",
+        "to_url": "https://creatify.ai/",
+        "title": "Top 15 AI-Powered Tools for Convert Long Video to Short Video",
+        "anchor": "Start for Free",
+        "domain_rating": 19
+      },
+      {
+        "from_url": "https://www.synthesia.io/post/best-ai-video-generators",
+        "to_url": "https://creatify.ai/",
+        "title": "The 12 Best AI Video Generators in 2026 (Tried & Tested)",
+        "anchor": "Try Creatify",
+        "domain_rating": 85
+      },
+      {
+        "from_url": "https://www.eesel.ai/blog/arcads-ai",
+        "to_url": "https://creatify.ai/review/arcads-ai",
+        "title": "Arcads AI review: Features, pricing, and limits | eesel AI",
+        "anchor": "not a video editor",
+        "domain_rating": 74
+      },
+      {
+        "from_url": "https://maxaeo.ai/ai-tools/tool/invideo-ai/",
+        "to_url": "https://creatify.ai/",
+        "title": "InVideo AI Review (2026): Pricing, Features & Alternatives",
+        "anchor": "Visit ↗",
+        "domain_rating": 45
+      },
+      {
+        "from_url": "https://www.so-mc.nl/de-beste-ai-tools/",
+        "to_url": "https://creatify.ai/",
+        "title": "De beste AI Tools van 2025: een compleet overzicht -",
+        "anchor": "Creatify.AI",
+        "domain_rating": 28
+      },
+      {
+        "from_url": "https://ecomposer.io/blogs/tool-software/ai-face-generator",
+        "to_url": "https://creatify.ai/tool/ai-face-generator",
+        "title": "10+ Best Hyper Realistic AI Face Generator 2026 (Free & Paid) – EComposer",
+        "anchor": "Creatify AI Face Generator",
+        "domain_rating": 79
+      },
+      {
+        "from_url": "https://www.youtube.com/watch?v=bdKa9ag74AU",
+        "to_url": "https://creatify.ai/?via=corbin",
+        "title": "NEVER Use Instagram Boost Post! (Do this Instead) - YouTube",
+        "anchor": "https://creatify.ai/?via=corbin",
+        "domain_rating": 99
+      },
+      {
+        "from_url": "https://zeely.ai/blog/creatify-ai-features/",
+        "to_url": "https://creatify.ai/",
+        "title": "Creatify AI review: Features, pricing, pros and cons",
+        "anchor": "Creatify",
+        "domain_rating": 57
+      },
+      {
+        "from_url": "https://tugan.ai/blog/pippit-ai-review",
+        "to_url": "https://creatify.ai/pricing",
+        "title": "Pippit AI Review 2026: Pricing, Legit or Not | Tugan.ai",
+        "anchor": "Creatify Pricing (official)",
+        "domain_rating": 39
+      },
+      {
+        "from_url": "https://www.brouseai.com/",
+        "to_url": "https://creatify.ai/?ref=brouseai",
+        "title": "BroUseAI - Explore incredible AI for your everyday life!",
+        "anchor": "creatify",
+        "domain_rating": 12
+      },
+      {
+        "from_url": "https://affiliate.watch/promos",
+        "to_url": "https://creatify.ai/?via=affiliatewatch",
+        "title": "Best Promo Codes September 2026 | Save Today - Affiliate.Watch",
+        "anchor": "Get Promo",
+        "domain_rating": 53
+      },
+      {
+        "from_url": "https://www.monkeyaitools.com/",
+        "to_url": "https://creatify.ai/?ref=monkeyai",
+        "title": "Monkey Ai Tools: Premier AI Tools Directory 2024 | Your Ultimate Home for AI",
+        "anchor": "open-icon",
+        "domain_rating": 15
+      },
+      {
+        "from_url": "https://ppc.io/blog/ai-tools-paid-ads",
+        "to_url": "https://creatify.ai/",
+        "title": "35+ AI Tools for Paid Ads in 2026 (Reviewed)",
+        "anchor": "Creatify.ai",
+        "domain_rating": 56
+      },
+      {
+        "from_url": "https://dodropshipping.com/best-dropshipping-ai-tools/",
+        "to_url": "https://creatify.ai/pricing",
+        "title": "Dropshipping AI Tools: 20 Best, Tested + Ranked (2026)",
+        "anchor": "uses a credit-based pricing model",
+        "domain_rating": 65
+      },
+      {
+        "from_url": "https://www.blendnow.com/blog/top-10-tools-to-create-your-e-commerce-listing",
+        "to_url": "https://creatify.ai/",
+        "title": "Top 10 Tools to Create Your E-Commerce Listing",
+        "anchor": "Creatify",
+        "domain_rating": 53
+      },
+      {
+        "from_url": "https://www.creator.ventures/",
+        "to_url": "https://www.creatify.ai/",
+        "title": "Creator Ventures",
+        "anchor": "Creatify AI",
+        "domain_rating": 24
+      }
+    ]
+  }
+}

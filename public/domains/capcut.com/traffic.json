@@ -1,0 +1,145 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "capcut.com",
+  "measurement": "第三方域名级估算",
+  "data": {
+    "domain": "capcut.com",
+    "overview": {
+      "global_rank": 894,
+      "country_rank": {
+        "country": "ID",
+        "rank": 276
+      },
+      "visits": 49084797,
+      "bounce_rate": 0.4194771708065118,
+      "pages_per_visit": 3.9927792074790402,
+      "time_on_site_seconds": 202.19570254555404,
+      "month": "2026-08"
+    },
+    "monthly_visits": [
+      {
+        "month": "2025-09",
+        "visits": 39443562
+      },
+      {
+        "month": "2025-10",
+        "visits": 43152204
+      },
+      {
+        "month": "2025-11",
+        "visits": 54623761
+      },
+      {
+        "month": "2025-12",
+        "visits": 65058551
+      },
+      {
+        "month": "2026-01",
+        "visits": 63472059
+      },
+      {
+        "month": "2026-02",
+        "visits": 52668646
+      },
+      {
+        "month": "2026-03",
+        "visits": 53833871
+      },
+      {
+        "month": "2026-04",
+        "visits": 51216748
+      },
+      {
+        "month": "2026-05",
+        "visits": 53013540
+      },
+      {
+        "month": "2026-06",
+        "visits": 52468501
+      },
+      {
+        "month": "2026-07",
+        "visits": 49575671
+      },
+      {
+        "month": "2026-08",
+        "visits": 49084797
+      }
+    ],
+    "traffic_sources": {
+      "direct": 0.3132,
+      "search": 0.4608,
+      "search_organic": 0.3458,
+      "search_paid": 0.1149,
+      "social": 0.1091,
+      "social_organic": 0.0952,
+      "social_paid": 0.0139,
+      "referrals": 0.0602,
+      "paid_referrals": 0.0237,
+      "mail": 0.0062,
+      "gen_ai": 0.0211,
+      "affiliate": 0.0058,
+      "other": 0
+    },
+    "top_keywords": [
+      {
+        "name": "capcut",
+        "volume": 6023960,
+        "cpc": 0.29,
+        "estimated_value": 10188350
+      },
+      {
+        "name": "cap cut",
+        "volume": 327470,
+        "cpc": 0.28,
+        "estimated_value": 418240
+      },
+      {
+        "name": "capcut pro",
+        "volume": 176830,
+        "cpc": 0.28,
+        "estimated_value": 397470
+      },
+      {
+        "name": "capcut download",
+        "volume": 285290,
+        "cpc": 0.2,
+        "estimated_value": 382500
+      },
+      {
+        "name": "dreamina",
+        "volume": 329990,
+        "cpc": 0.55,
+        "estimated_value": 330700
+      }
+    ],
+    "top_regions": [
+      {
+        "country": "US",
+        "name": "United States",
+        "share": 0.1359
+      },
+      {
+        "country": "BR",
+        "name": "Brazil",
+        "share": 0.0883
+      },
+      {
+        "country": "ID",
+        "name": "Indonesia",
+        "share": 0.0621
+      },
+      {
+        "country": "VN",
+        "name": "Vietnam",
+        "share": 0.0607
+      },
+      {
+        "country": "IN",
+        "name": "India",
+        "share": 0.0393
+      }
+    ]
+  }
+}

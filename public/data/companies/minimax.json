@@ -1,0 +1,463 @@
+{
+  "schema_version": 1,
+  "product": {
+    "id": "minimax",
+    "name": "MiniMax",
+    "x_handle": "MiniMax_AI",
+    "homepage": "https://www.minimax.io/",
+    "ads_priority": false,
+    "traffic_domain": "minimax.io",
+    "additional_domains": [],
+    "scope_note": "域名级流量估算，非付费用户、收入或模型调用量。",
+    "shared_scope": false,
+    "domain_data": {
+      "domain": "minimax.io",
+      "traffic": {
+        "domain": "minimax.io",
+        "overview": {
+          "global_rank": 9090,
+          "country_rank": {
+            "country": "IN",
+            "rank": 3752
+          },
+          "visits": 6602945,
+          "bounce_rate": 0.4313708108503147,
+          "pages_per_visit": 4.167800860736288,
+          "time_on_site_seconds": 287.99149493741623,
+          "month": "2026-08"
+        },
+        "monthly_visits": [
+          {
+            "month": "2025-09",
+            "visits": 2607841
+          },
+          {
+            "month": "2025-10",
+            "visits": 3730792
+          },
+          {
+            "month": "2025-11",
+            "visits": 6966202
+          },
+          {
+            "month": "2025-12",
+            "visits": 5477261
+          },
+          {
+            "month": "2026-01",
+            "visits": 5500997
+          },
+          {
+            "month": "2026-02",
+            "visits": 6175167
+          },
+          {
+            "month": "2026-03",
+            "visits": 6959555
+          },
+          {
+            "month": "2026-04",
+            "visits": 6499174
+          },
+          {
+            "month": "2026-05",
+            "visits": 5251392
+          },
+          {
+            "month": "2026-06",
+            "visits": 6294024
+          },
+          {
+            "month": "2026-07",
+            "visits": 6211302
+          },
+          {
+            "month": "2026-08",
+            "visits": 6602945
+          }
+        ],
+        "traffic_sources": {
+          "direct": 0.5172,
+          "search": 0.3273,
+          "search_organic": 0.3125,
+          "search_paid": 0.0148,
+          "social": 0.0558,
+          "social_organic": 0.0548,
+          "social_paid": 0.001,
+          "referrals": 0.0621,
+          "paid_referrals": 0.0018,
+          "mail": 0.0068,
+          "gen_ai": 0.0282,
+          "affiliate": 0.0007,
+          "other": 0
+        },
+        "top_keywords": [
+          {
+            "name": "minimax",
+            "volume": 678510,
+            "cpc": 0.67,
+            "estimated_value": 653300
+          },
+          {
+            "name": "minimax h3",
+            "volume": 926660,
+            "cpc": 0,
+            "estimated_value": 276130
+          },
+          {
+            "name": "minimax audio",
+            "volume": 62040,
+            "cpc": 0.23,
+            "estimated_value": 168300
+          },
+          {
+            "name": "minimax ai",
+            "volume": 65420,
+            "cpc": 0.42,
+            "estimated_value": 122760
+          },
+          {
+            "name": "minimax m3",
+            "volume": 69370,
+            "cpc": 0.94,
+            "estimated_value": 40690
+          }
+        ],
+        "top_regions": [
+          {
+            "country": "US",
+            "name": "United States",
+            "share": 0.1219
+          },
+          {
+            "country": "IN",
+            "name": "India",
+            "share": 0.074
+          },
+          {
+            "country": "BR",
+            "name": "Brazil",
+            "share": 0.0678
+          },
+          {
+            "country": "VN",
+            "name": "Vietnam",
+            "share": 0.0675
+          },
+          {
+            "country": "CN",
+            "name": "China",
+            "share": 0.0567
+          }
+        ]
+      },
+      "traffic_evidence": "domains/minimax.io/traffic.json",
+      "traffic_status": "ok",
+      "registration_date": "2021-03-27T14:30:40.000Z",
+      "backlinks": {
+        "domain": "minimax.io",
+        "overview": {
+          "domain_rating": 80,
+          "backlinks": 317624,
+          "referring_domains": 13723,
+          "dofollow_backlinks_pct": 78,
+          "dofollow_referring_domains_pct": 79
+        },
+        "backlinks": [
+          {
+            "from_url": "https://www.talkie-ai.com/",
+            "to_url": "https://www.minimax.io/",
+            "title": "Talkie | Free AI Character Chat",
+            "anchor": "Powered by MiniMax",
+            "domain_rating": 61
+          },
+          {
+            "from_url": "https://hailuoai.video/",
+            "to_url": "https://www.minimax.io/audio",
+            "title": "Hailuo AI: MiniMax H3 LIVE NOW. Top-Tier Quality, Versatile References",
+            "anchor": "",
+            "domain_rating": 74
+          },
+          {
+            "from_url": "https://github.com/nousresearch/hermes-agent",
+            "to_url": "https://www.minimax.io/",
+            "title": "GitHub - NousResearch/hermes-agent: The agent that grows with you · GitHub",
+            "anchor": "MiniMax",
+            "domain_rating": 97
+          },
+          {
+            "from_url": "https://codimd.apps.education.fr/s/r1H5nglAY",
+            "to_url": "https://www.minimax.io/audio",
+            "title": "Une sélection d’IA génératives gratuites en ligne - CodiMD",
+            "anchor": "Minimax.io",
+            "domain_rating": 85
+          },
+          {
+            "from_url": "https://minimax-ai.chat/",
+            "to_url": "https://platform.minimax.io/docs/pricing/overview",
+            "title": "MiniMax AI",
+            "anchor": "official pricing overview",
+            "domain_rating": 5
+          },
+          {
+            "from_url": "https://openlm.ai/chatbot-arena/",
+            "to_url": "https://www.minimax.io/news/minimaxm1",
+            "title": "Chatbot Arena + | OpenLM.ai",
+            "anchor": "Minimax-M1",
+            "domain_rating": 45
+          },
+          {
+            "from_url": "https://topapps.fr/apps/histovec",
+            "to_url": "https://agent.minimax.io/?utm_media_source=IG",
+            "title": "HistoVec : l'historique officiel d'un véhicule (gratuit) | TopApps",
+            "anchor": "Visiter le site",
+            "domain_rating": 5
+          },
+          {
+            "from_url": "https://en.wikipedia.org/wiki/MiniMax_Group",
+            "to_url": "https://www.minimax.io/models/text/m27",
+            "title": "MiniMax Group",
+            "anchor": "\"MiniMax M2.7 - Model Self-Improvement, Driving Productivity Innovation Through Technological Breakthroughs\"",
+            "domain_rating": 97
+          },
+          {
+            "from_url": "https://arena.ai/leaderboard/text",
+            "to_url": "https://www.minimax.io/news/minimaxm1",
+            "title": "LLM Leaderboard - Best Text & Chat AI Models Compared",
+            "anchor": "minimax-m1",
+            "domain_rating": 82
+          },
+          {
+            "from_url": "https://svglogos.dev/",
+            "to_url": "https://www.minimax.io/",
+            "title": "SVG Logos: Thousands of free brand logos & icons",
+            "anchor": "MiniMax",
+            "domain_rating": 45
+          },
+          {
+            "from_url": "https://hailuoai.com/audio/doc/landing-page.html",
+            "to_url": "https://www.minimax.io/audio/text-to-speech/spanish",
+            "title": "MiniMax Audio",
+            "anchor": "Spanish Text to Speech",
+            "domain_rating": 65
+          },
+          {
+            "from_url": "https://www.inventormiguel.com/tool/minimax-io",
+            "to_url": "https://www.minimax.io/",
+            "title": "Minimax — Inventor Miguel",
+            "anchor": "Access Tool",
+            "domain_rating": 9
+          },
+          {
+            "from_url": "https://zapier.com/blog/best-llm/",
+            "to_url": "https://www.minimax.io/news/minimax-m25",
+            "title": "The best large language models (LLMs) in 2026",
+            "anchor": "MiniMax M2.5",
+            "domain_rating": 91
+          },
+          {
+            "from_url": "https://www.whytryai.com/p/free-ai-voice-cloning-tools",
+            "to_url": "https://www.minimax.io/audio/voices-cloning",
+            "title": "10 Best Free AI Voice Cloning Tools: Tested",
+            "anchor": "MiniMax",
+            "domain_rating": 37
+          },
+          {
+            "from_url": "https://www.ibm.com/think/topics/large-language-models-list",
+            "to_url": "https://www.minimax.io/news/minimax-m27-en",
+            "title": "A List of Large Language Models | IBM",
+            "anchor": "“MiniMax M2.7: Early Echoes of Self-Evolution,”",
+            "domain_rating": 93
+          },
+          {
+            "from_url": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
+            "to_url": "https://platform.minimax.io/docs/guides/models-intro",
+            "title": "MiniMaxAI/MiniMax-M3 · Hugging Face",
+            "anchor": "MiniMax API",
+            "domain_rating": 92
+          },
+          {
+            "from_url": "https://iaempresa.com/6-ias-gratis-de-china",
+            "to_url": "https://www.minimax.io/news/minimax-hailuo-23",
+            "title": "7 IAs chinas gratis en español: comparativa 2026",
+            "anchor": "MiniMax: anuncio oficial de Hailuo 2.3",
+            "domain_rating": 0
+          },
+          {
+            "from_url": "https://www.techinasia.com/news/warner-music-partners-ai-music-startup-suno",
+            "to_url": "https://www.minimax.io/",
+            "title": "Warner Music partners with AI music startup Suno",
+            "anchor": "MiniMax",
+            "domain_rating": 83
+          },
+          {
+            "from_url": "https://www.speechmatics.com/company/articles-and-news/best-tts-apis-in-2025-top-12-text-to-speech-services-for-developers",
+            "to_url": "https://www.minimax.io/audio/text-to-speech",
+            "title": "Best TTS APIs in 2026: ElevenLabs, Google, AWS & 9 More Compared",
+            "anchor": "MiniMax",
+            "domain_rating": 73
+          },
+          {
+            "from_url": "https://play.google.com/store/apps/details?id=com.minimax.ai&hl=en",
+            "to_url": "https://chat.minimax.io/doc/privacy-policy.html",
+            "title": "MiniMax - Your AI Agent - Apps on Google Play",
+            "anchor": "shieldPrivacy Policy",
+            "domain_rating": 100
+          }
+        ]
+      },
+      "backlinks_evidence": "domains/minimax.io/backlinks.json"
+    },
+    "pages": [
+      {
+        "kind": "home",
+        "label": "首页",
+        "path": "products/minimax/pages/home.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://www.minimax.io/",
+          "resolved_url": "https://www.minimax.io/",
+          "http_status": 200
+        },
+        "page": {
+          "title": "MiniMax"
+        },
+        "content": "公司首页同时推介模型与 Agent，覆盖编程、多模态和商用创作。"
+      },
+      {
+        "kind": "pricing",
+        "label": "定价资料",
+        "path": "products/minimax/pages/pricing.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://platform.minimax.io/docs/guides/pricing-paygo",
+          "resolved_url": "https://platform.minimax.io/docs/guides/pricing-paygo",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Pay as You Go - MiniMax API Docs"
+        },
+        "content": "已保存官网来源；本公开版不转载页面全文。"
+      },
+      {
+        "kind": "docs",
+        "label": "文档",
+        "path": "products/minimax/pages/docs.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://platform.minimax.io/docs/guides/text-generation",
+          "resolved_url": "https://platform.minimax.io/docs/guides/text-generation",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Model Invocation - MiniMax API Docs"
+        },
+        "content": "已保存官网来源；本公开版不转载页面全文。"
+      },
+      {
+        "kind": "blog",
+        "label": "博客 / 新闻",
+        "path": "products/minimax/pages/blog.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://www.minimax.io/news",
+          "resolved_url": "https://www.minimax.io/news",
+          "http_status": 200
+        },
+        "page": {
+          "title": "MiniMax AI | AGI Research, Product Updates & Partner News | MiniMax"
+        },
+        "content": "已保存官网来源；本公开版不转载页面全文。"
+      },
+      {
+        "kind": "action-h3",
+        "label": "官方动态",
+        "path": "products/minimax/pages/action-h3.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://www.minimax.io/blog/minimax-h3",
+          "resolved_url": "https://www.minimax.io/blog/minimax-h3",
+          "http_status": 200
+        },
+        "page": {
+          "title": "MiniMax H3: An Open Model Breaking the Boundaries Between Tasks and Modalities - MiniMax Research | MiniMax"
+        },
+        "content": "官方公告提供文本、图像、视频、音频联合上下文及海螺体验入口。"
+      }
+    ],
+    "searches": [],
+    "issues": [],
+    "screenshot": null,
+    "product_entry_links": [
+      "https://platform.minimax.io/contact-us",
+      "https://platform.minimax.io/docs/guides/text-generation",
+      "https://platform.minimax.io/docs/api-reference/video-generation-v2-create",
+      "https://platform.minimax.io/docs/guides/video-generation",
+      "https://platform.minimax.io/docs/guides/speech-voice-clone"
+    ]
+  },
+  "metrics": {
+    "visits": 6602945,
+    "mom": 0.06305328576842673,
+    "change3": 0.25737042673637767,
+    "rolling3": 0.02127992651677668,
+    "recent_average": 6369423.666666667,
+    "prior_average": 6236707.0,
+    "up_streak": 1,
+    "derived_channels": {
+      "search_paid_visits": 97723.58600000001,
+      "social_paid_visits": 6602.945,
+      "search_organic_visits": 2063420.3125,
+      "social_organic_visits": 361841.386,
+      "direct_visits": 3415043.154
+    },
+    "scope": "site",
+    "profile": "首页同时覆盖编程、Agent 与多模态；公司站流量不能等同视频业务。",
+    "profile_source": "products/minimax/pages/home.json"
+  },
+  "editorial": {
+    "thesis": "公司品牌与海螺产品相互导流，但公司站的增长包含 Agent、编程等需求。",
+    "focus": "H3 公告把多模态上下文与海螺体验相连；不能把公司站整体访问增量归属于视频。应把模型发布到产品体验的入口作为研究单位。",
+    "experiment": "发布模型支持说明时配套一个可直接运行的视频任务，避免只讲模型参数。",
+    "measure": "公告到生成页的点击率、API 试用完成率和持续调用开发者数。",
+    "watch": "H3 文档更新、海螺入口、模型单价与开发者案例。"
+  },
+  "activities": [
+    {
+      "product_id": "minimax",
+      "type": "developer",
+      "title": "模型、Agent 与商用工作流共同分发",
+      "detail": "公司首页同时推介模型与 Agent，覆盖编程、多模态和商用创作。",
+      "anchors": [
+        "Build Your Own Agent Team",
+        "Built for Commercial Creation"
+      ],
+      "source": "products/minimax/pages/home.json",
+      "event_date": null,
+      "id": "activity-8",
+      "source_url": "https://www.minimax.io/",
+      "observed_at": "2026-10-02"
+    },
+    {
+      "product_id": "minimax",
+      "type": "launch",
+      "title": "发布 H3 多模态生成模型",
+      "detail": "官方公告提供文本、图像、视频、音频联合上下文及海螺体验入口。",
+      "anchors": [
+        "launching MiniMax H3",
+        "hailuoai.video"
+      ],
+      "source": "products/minimax/pages/action-h3.json",
+      "event_date": null,
+      "id": "activity-52",
+      "source_url": "https://www.minimax.io/blog/minimax-h3",
+      "observed_at": "2026-10-02"
+    }
+  ],
+  "x_posts": []
+}

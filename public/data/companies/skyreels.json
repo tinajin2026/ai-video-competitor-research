@@ -1,0 +1,394 @@
+{
+  "schema_version": 1,
+  "product": {
+    "id": "skyreels",
+    "name": "SkyReels",
+    "x_handle": "SkyReels",
+    "homepage": "https://www.skyreels.ai/",
+    "ads_priority": false,
+    "traffic_domain": "skyreels.ai",
+    "additional_domains": [],
+    "scope_note": "域名级流量估算，非付费用户、收入或模型调用量。",
+    "shared_scope": false,
+    "domain_data": {
+      "domain": "skyreels.ai",
+      "traffic": {
+        "domain": "skyreels.ai",
+        "overview": {
+          "global_rank": 290366,
+          "country_rank": {
+            "country": "PK",
+            "rank": 10983
+          },
+          "visits": 161371,
+          "bounce_rate": 0.4572308570936343,
+          "pages_per_visit": 2.024052759042974,
+          "time_on_site_seconds": 51.89611768764216,
+          "month": "2026-08"
+        },
+        "monthly_visits": [
+          {
+            "month": "2025-09",
+            "visits": 291221
+          },
+          {
+            "month": "2025-10",
+            "visits": 268542
+          },
+          {
+            "month": "2025-11",
+            "visits": 378865
+          },
+          {
+            "month": "2025-12",
+            "visits": 298231
+          },
+          {
+            "month": "2026-01",
+            "visits": 296328
+          },
+          {
+            "month": "2026-02",
+            "visits": 231254
+          },
+          {
+            "month": "2026-03",
+            "visits": 253621
+          },
+          {
+            "month": "2026-04",
+            "visits": 190499
+          },
+          {
+            "month": "2026-05",
+            "visits": 132452
+          },
+          {
+            "month": "2026-06",
+            "visits": 114081
+          },
+          {
+            "month": "2026-07",
+            "visits": 122876
+          },
+          {
+            "month": "2026-08",
+            "visits": 161371
+          }
+        ],
+        "traffic_sources": {
+          "direct": 0.2113,
+          "search": 0.5465,
+          "search_organic": 0.5343,
+          "search_paid": 0.0122,
+          "social": 0.0108,
+          "social_organic": 0.0097,
+          "social_paid": 0.0011,
+          "referrals": 0.088,
+          "paid_referrals": 0.1171,
+          "mail": 0.0012,
+          "gen_ai": 0.0213,
+          "affiliate": 0.0038,
+          "other": 0
+        },
+        "top_keywords": [
+          {
+            "name": "skyreels",
+            "volume": 19130,
+            "cpc": 0.46,
+            "estimated_value": 29780
+          },
+          {
+            "name": "skyreels ai",
+            "volume": 7090,
+            "cpc": 0.12,
+            "estimated_value": 9460
+          },
+          {
+            "name": "skyreels v2",
+            "volume": 4390,
+            "cpc": 0.17,
+            "estimated_value": 3950
+          },
+          {
+            "name": "sky reels",
+            "volume": 1530,
+            "cpc": 0.17,
+            "estimated_value": 2270
+          },
+          {
+            "name": "skyreel",
+            "volume": 1050,
+            "cpc": 0.15,
+            "estimated_value": 980
+          }
+        ],
+        "top_regions": [
+          {
+            "country": "IN",
+            "name": "India",
+            "share": 0.239
+          },
+          {
+            "country": "US",
+            "name": "United States",
+            "share": 0.1535
+          },
+          {
+            "country": "PK",
+            "name": "Pakistan",
+            "share": 0.0842
+          },
+          {
+            "country": "ES",
+            "name": "Spain",
+            "share": 0.0505
+          },
+          {
+            "country": "NG",
+            "name": "Nigeria",
+            "share": 0.0494
+          }
+        ]
+      },
+      "traffic_evidence": "domains/skyreels.ai/traffic.json",
+      "traffic_status": "ok",
+      "registration_date": "2024-03-15T02:30:09.000Z",
+      "backlinks": {
+        "domain": "skyreels.ai",
+        "overview": {
+          "domain_rating": 54,
+          "backlinks": 23746,
+          "referring_domains": 1509,
+          "dofollow_backlinks_pct": 28,
+          "dofollow_referring_domains_pct": 50
+        },
+        "backlinks": [
+          {
+            "from_url": "https://codimd.apps.education.fr/s/r1H5nglAY",
+            "to_url": "https://skyreels.ai/",
+            "title": "Une sélection d’IA génératives gratuites en ligne - CodiMD",
+            "anchor": "SkyReels",
+            "domain_rating": 85
+          },
+          {
+            "from_url": "https://github.com/skyworkai/skyreels-v2",
+            "to_url": "https://www.skyreels.ai/",
+            "title": "GitHub - SkyworkAI/SkyReels-V2: SkyReels-V2: Infinite-length Film Generative model · GitHub",
+            "anchor": "Playground",
+            "domain_rating": 97
+          },
+          {
+            "from_url": "https://aitools.aiting.com/ai/katalist",
+            "to_url": "https://www.skyreels.ai/",
+            "title": "Katalist AI: Storyboards and Visual Stories Made Easy | AiTing AI",
+            "anchor": "",
+            "domain_rating": 38
+          },
+          {
+            "from_url": "https://moge.ai/es/best",
+            "to_url": "https://skyreels.ai/",
+            "title": "Mejor IA para el Trabajo - MOGE",
+            "anchor": "SkyReels AI SkyReels AIPlataforma de generación de video de IA de código abierto centrada en el humano, especializada en cortometrajes de calidad cinematográfica y animación facial expresiva.",
+            "domain_rating": 31
+          },
+          {
+            "from_url": "https://webcatalog.io/en/apps/skyreels",
+            "to_url": "https://skyreels.ai/",
+            "title": "SkyReels - Desktop App for Mac & Windows - WebCatalog",
+            "anchor": "skyreels.ai",
+            "domain_rating": 58
+          },
+          {
+            "from_url": "https://note.com/natty_zephyr3481/n/n877d92c7fb16",
+            "to_url": "https://skyreels.ai/",
+            "title": "Grok Imagine の無料版は終了？原因と無料代替ツール 14 選を徹底解説｜スマホ&AI活用サロン",
+            "anchor": "SkyReels",
+            "domain_rating": 92
+          },
+          {
+            "from_url": "https://futuretoolai.com/",
+            "to_url": "https://skyreels.ai/?ref=futuretoolai.com",
+            "title": "Discover the Best AI Tools",
+            "anchor": "",
+            "domain_rating": 12
+          },
+          {
+            "from_url": "https://www.radionica.rocks/mundo-geek/tecnologia/9-herramientas-de-inteligencia-artifical-para-crear-comics",
+            "to_url": "https://skyreels.ai/es/",
+            "title": "9 IA para crear cómics | Radiónica",
+            "anchor": "Skyreels (ComicAI)",
+            "domain_rating": 57
+          },
+          {
+            "from_url": "https://skyworkai.github.io/skyreels-audio.github.io/",
+            "to_url": "https://skyreels.ai/",
+            "title": "SkyReels-Audio",
+            "anchor": "SkyReels-Audio",
+            "domain_rating": 94
+          },
+          {
+            "from_url": "https://bestaitoolspot.com/tools/pictory-ai/",
+            "to_url": "https://skyreels.ai/",
+            "title": "Pictory AI: Easy AI Video Creation & Editing with Alternatives - Best AI Tool Spot",
+            "anchor": "Visit",
+            "domain_rating": 2
+          },
+          {
+            "from_url": "https://www.aigc.cn/favorites/ai-video-generation",
+            "to_url": "https://skyreels.ai/beta",
+            "title": "AI视频生成免费 - 最新在线AI生成视频工具大全 | AIGC工具导航",
+            "anchor": "SkyReels SkyReels SkyReels是一个创新的视频创作工具，特别适合那些寻求通过技术简化创作流程并实现创意的用户。它通过结合3D引擎和AI技术，为用户提供了一个强大而易于使用的平台，以实现从创意到短片的快速转化。",
+            "domain_rating": 59
+          },
+          {
+            "from_url": "https://skywork.ai/blog/ai-video/what-is-skyreels-ai",
+            "to_url": "https://skyreels.ai/",
+            "title": "What Is SkyReels.ai? Complete Guide to the AI Video Generator 2025",
+            "anchor": "SkyReels.ai",
+            "domain_rating": 74
+          },
+          {
+            "from_url": "https://aiforeveryone.org/ai-category/ai-text-to-speech",
+            "to_url": "https://www.skyreels.ai/",
+            "title": "Free AI Text To Speech Tools 2026 - AiforEveryone",
+            "anchor": "Visit SkyReels",
+            "domain_rating": 60
+          },
+          {
+            "from_url": "https://www.toolify.ai/vi/free-ai-tools/video-animation",
+            "to_url": "https://www.skyreels.ai/",
+            "title": "Công cụ AI miễn phí tốt nhất cho Video & Hoạt hình năm 2026 - Toolify",
+            "anchor": "",
+            "domain_rating": 73
+          },
+          {
+            "from_url": "https://story321.com/disclaimer",
+            "to_url": "https://skyreels.ai/",
+            "title": "Free Disclaimer - Story321.com",
+            "anchor": "https://skyreels.ai",
+            "domain_rating": 40
+          },
+          {
+            "from_url": "https://www.ideepercomputeredinternet.com/2025/08/creare-film-in-italiano-con-la-ia.html",
+            "to_url": "https://www.skyreels.ai/",
+            "title": "Creare film in italiano con la IA | IdpCeIn",
+            "anchor": "Home di SkyReels",
+            "domain_rating": 62
+          },
+          {
+            "from_url": "http://www.dnidn.com/ekl.html",
+            "to_url": "https://skyreels.ai/",
+            "title": "易快链-AI快连，eKuaiLink",
+            "anchor": "SkyReels昆仑万维AI短剧创作平台",
+            "domain_rating": 42
+          },
+          {
+            "from_url": "https://www.passionfroot.me/ai-buzz",
+            "to_url": "https://www.skyreels.ai/",
+            "title": "AI Buzz! | Passionfroot",
+            "anchor": "SkyReels",
+            "domain_rating": 69
+          },
+          {
+            "from_url": "https://noisedh.cn/",
+            "to_url": "https://www.skyreels.ai/home",
+            "title": "Noise导航 & 收录值得珍藏的网站",
+            "anchor": "直达",
+            "domain_rating": 24
+          },
+          {
+            "from_url": "https://smmbot.net/blog/top-15-nejrosetej-dla-sozdania-video-v-instagram-214.html",
+            "to_url": "https://www.skyreels.ai/",
+            "title": "AI-видео: 15 мощных нейросетей для креаторов и SMM | SMMBOT.net",
+            "anchor": "нейросеть",
+            "domain_rating": 47
+          }
+        ]
+      },
+      "backlinks_evidence": "domains/skyreels.ai/backlinks.json"
+    },
+    "pages": [
+      {
+        "kind": "home",
+        "label": "首页",
+        "path": "products/skyreels/pages/home.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://www.skyreels.ai/",
+          "resolved_url": "https://www.skyreels.ai/",
+          "http_status": 200
+        },
+        "page": {
+          "title": "SkyReels"
+        },
+        "content": "首页展示文图视频输入、参考控制、音频及镜头衔接。"
+      },
+      {
+        "kind": "pricing",
+        "label": "定价资料",
+        "path": "products/skyreels/pages/pricing.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://www.skyreels.ai/dev/pricing",
+          "resolved_url": "https://www.skyreels.ai/dev/pricing",
+          "http_status": 200
+        },
+        "page": {
+          "title": "SkyReels"
+        },
+        "content": "已保存官网来源；本公开版不转载页面全文。"
+      }
+    ],
+    "searches": [],
+    "issues": [],
+    "screenshot": null,
+    "product_entry_links": []
+  },
+  "metrics": {
+    "visits": 161371,
+    "mom": 0.3132833100035808,
+    "change3": 0.218335698970193,
+    "rolling3": -0.30914439133360616,
+    "recent_average": 132776.0,
+    "prior_average": 192190.66666666666,
+    "up_streak": 2,
+    "derived_channels": {
+      "search_paid_visits": 1968.7262,
+      "social_paid_visits": 177.5081,
+      "search_organic_visits": 86220.5253,
+      "social_organic_visits": 1565.2987,
+      "direct_visits": 34097.692299999995
+    },
+    "scope": "site",
+    "profile": "首页强调参考驱动、声音及叙事视频生成。",
+    "profile_source": "products/skyreels/pages/home.json"
+  },
+  "editorial": {
+    "thesis": "单月回升与近三月水平可能方向不同，需要判断回升能否持续。",
+    "focus": "参考控制、音频与镜头衔接对应叙事任务；目前官网动作不足以直接解释访问波动。模型能力与站点需求分别验证。",
+    "experiment": "以相同角色的多镜头叙事为测试，逐镜记录参考约束和可用片段。",
+    "measure": "镜头接续通过率、音画一致性、任务完成率和每个可用镜头成本。",
+    "watch": "参考控制更新、连续两个月趋势及可复现实例。"
+  },
+  "activities": [
+    {
+      "product_id": "skyreels",
+      "type": "workflow",
+      "title": "以多模态参考和叙事控制承接创作",
+      "detail": "首页展示文图视频输入、参考控制、音频及镜头衔接。",
+      "anchors": [
+        "Omni Reference to Video",
+        "Smarter Shot Transitions"
+      ],
+      "source": "products/skyreels/pages/home.json",
+      "event_date": null,
+      "id": "activity-42",
+      "source_url": "https://www.skyreels.ai/",
+      "observed_at": "2026-10-02"
+    }
+  ],
+  "x_posts": []
+}

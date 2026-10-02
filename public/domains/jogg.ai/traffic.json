@@ -1,0 +1,145 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "jogg.ai",
+  "measurement": "第三方域名级估算",
+  "data": {
+    "domain": "jogg.ai",
+    "overview": {
+      "global_rank": 111482,
+      "country_rank": {
+        "country": "PK",
+        "rank": 8127
+      },
+      "visits": 353645,
+      "bounce_rate": 0.3675582510725921,
+      "pages_per_visit": 4.168352731277661,
+      "time_on_site_seconds": 50.083621611316524,
+      "month": "2026-08"
+    },
+    "monthly_visits": [
+      {
+        "month": "2025-09",
+        "visits": 787089
+      },
+      {
+        "month": "2025-10",
+        "visits": 624240
+      },
+      {
+        "month": "2025-11",
+        "visits": 554439
+      },
+      {
+        "month": "2025-12",
+        "visits": 490493
+      },
+      {
+        "month": "2026-01",
+        "visits": 643606
+      },
+      {
+        "month": "2026-02",
+        "visits": 692339
+      },
+      {
+        "month": "2026-03",
+        "visits": 636471
+      },
+      {
+        "month": "2026-04",
+        "visits": 428770
+      },
+      {
+        "month": "2026-05",
+        "visits": 446766
+      },
+      {
+        "month": "2026-06",
+        "visits": 377622
+      },
+      {
+        "month": "2026-07",
+        "visits": 330177
+      },
+      {
+        "month": "2026-08",
+        "visits": 353645
+      }
+    ],
+    "traffic_sources": {
+      "direct": 0.3599,
+      "search": 0.505,
+      "search_organic": 0.505,
+      "search_paid": 0,
+      "social": 0.0378,
+      "social_organic": 0.0378,
+      "social_paid": 0,
+      "referrals": 0.0614,
+      "paid_referrals": 0.0044,
+      "mail": 0.0122,
+      "gen_ai": 0.0126,
+      "affiliate": 0.0067,
+      "other": 0
+    },
+    "top_keywords": [
+      {
+        "name": "jogg ai",
+        "volume": 5670,
+        "cpc": 0.51,
+        "estimated_value": 6000
+      },
+      {
+        "name": "joggai",
+        "volume": 2910,
+        "cpc": 4.31,
+        "estimated_value": 3100
+      },
+      {
+        "name": "face swap video",
+        "volume": 9450,
+        "cpc": 0.44,
+        "estimated_value": 2970
+      },
+      {
+        "name": "jogg",
+        "volume": 1790,
+        "cpc": 0.92,
+        "estimated_value": 1890
+      },
+      {
+        "name": "eromify",
+        "volume": 67830,
+        "cpc": 0.62,
+        "estimated_value": 1660
+      }
+    ],
+    "top_regions": [
+      {
+        "country": "US",
+        "name": "United States",
+        "share": 0.0945
+      },
+      {
+        "country": "BR",
+        "name": "Brazil",
+        "share": 0.0515
+      },
+      {
+        "country": "IN",
+        "name": "India",
+        "share": 0.0475
+      },
+      {
+        "country": "ID",
+        "name": "Indonesia",
+        "share": 0.0314
+      },
+      {
+        "country": "PK",
+        "name": "Pakistan",
+        "share": 0.0284
+      }
+    ]
+  }
+}

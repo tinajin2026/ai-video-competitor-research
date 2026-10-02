@@ -1,0 +1,145 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "krea.ai",
+  "measurement": "第三方域名级估算",
+  "data": {
+    "domain": "krea.ai",
+    "overview": {
+      "global_rank": 12768,
+      "country_rank": {
+        "country": "IN",
+        "rank": 5968
+      },
+      "visits": 4080389,
+      "bounce_rate": 0.41718284848877535,
+      "pages_per_visit": 4.467917546012893,
+      "time_on_site_seconds": 252.28520322782882,
+      "month": "2026-08"
+    },
+    "monthly_visits": [
+      {
+        "month": "2025-09",
+        "visits": 5335205
+      },
+      {
+        "month": "2025-10",
+        "visits": 6164348
+      },
+      {
+        "month": "2025-11",
+        "visits": 5570485
+      },
+      {
+        "month": "2025-12",
+        "visits": 5399041
+      },
+      {
+        "month": "2026-01",
+        "visits": 4693128
+      },
+      {
+        "month": "2026-02",
+        "visits": 4328851
+      },
+      {
+        "month": "2026-03",
+        "visits": 4411839
+      },
+      {
+        "month": "2026-04",
+        "visits": 4550178
+      },
+      {
+        "month": "2026-05",
+        "visits": 4922603
+      },
+      {
+        "month": "2026-06",
+        "visits": 4149640
+      },
+      {
+        "month": "2026-07",
+        "visits": 4220137
+      },
+      {
+        "month": "2026-08",
+        "visits": 4080389
+      }
+    ],
+    "traffic_sources": {
+      "direct": 0.4591,
+      "search": 0.3548,
+      "search_organic": 0.347,
+      "search_paid": 0.0078,
+      "social": 0.0737,
+      "social_organic": 0.0729,
+      "social_paid": 0.0008,
+      "referrals": 0.0591,
+      "paid_referrals": 0.0056,
+      "mail": 0.0121,
+      "gen_ai": 0.0355,
+      "affiliate": 0,
+      "other": 0
+    },
+    "top_keywords": [
+      {
+        "name": "krea ai",
+        "volume": 148630,
+        "cpc": 0.44,
+        "estimated_value": 414340
+      },
+      {
+        "name": "krea",
+        "volume": 131010,
+        "cpc": 0.56,
+        "estimated_value": 168820
+      },
+      {
+        "name": "krea 2",
+        "volume": 48670,
+        "cpc": 1.52,
+        "estimated_value": 35960
+      },
+      {
+        "name": "krea2",
+        "volume": 67520,
+        "cpc": 1.55,
+        "estimated_value": 21470
+      },
+      {
+        "name": "image enhancer",
+        "volume": 366090,
+        "cpc": 0.27,
+        "estimated_value": 16050
+      }
+    ],
+    "top_regions": [
+      {
+        "country": "US",
+        "name": "United States",
+        "share": 0.1389
+      },
+      {
+        "country": "RU",
+        "name": "Russia",
+        "share": 0.1363
+      },
+      {
+        "country": "IN",
+        "name": "India",
+        "share": 0.0809
+      },
+      {
+        "country": "BR",
+        "name": "Brazil",
+        "share": 0.0491
+      },
+      {
+        "country": "GB",
+        "name": "United Kingdom",
+        "share": 0.0392
+      }
+    ]
+  }
+}

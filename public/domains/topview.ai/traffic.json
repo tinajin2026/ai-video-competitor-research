@@ -1,0 +1,145 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "topview.ai",
+  "measurement": "第三方域名级估算",
+  "data": {
+    "domain": "topview.ai",
+    "overview": {
+      "global_rank": 28077,
+      "country_rank": {
+        "country": "US",
+        "rank": 29979
+      },
+      "visits": 1573519,
+      "bounce_rate": 0.3348886242137392,
+      "pages_per_visit": 6.390256502632467,
+      "time_on_site_seconds": 411.0840782357143,
+      "month": "2026-08"
+    },
+    "monthly_visits": [
+      {
+        "month": "2025-09",
+        "visits": 904335
+      },
+      {
+        "month": "2025-10",
+        "visits": 857038
+      },
+      {
+        "month": "2025-11",
+        "visits": 892627
+      },
+      {
+        "month": "2025-12",
+        "visits": 833922
+      },
+      {
+        "month": "2026-01",
+        "visits": 636130
+      },
+      {
+        "month": "2026-02",
+        "visits": 623615
+      },
+      {
+        "month": "2026-03",
+        "visits": 810655
+      },
+      {
+        "month": "2026-04",
+        "visits": 981501
+      },
+      {
+        "month": "2026-05",
+        "visits": 1065867
+      },
+      {
+        "month": "2026-06",
+        "visits": 1131557
+      },
+      {
+        "month": "2026-07",
+        "visits": 1242411
+      },
+      {
+        "month": "2026-08",
+        "visits": 1573519
+      }
+    ],
+    "traffic_sources": {
+      "direct": 0.4747,
+      "search": 0.2472,
+      "search_organic": 0.1336,
+      "search_paid": 0.1135,
+      "social": 0.1817,
+      "social_organic": 0.1191,
+      "social_paid": 0.0626,
+      "referrals": 0.03,
+      "paid_referrals": 0.0356,
+      "mail": 0.0103,
+      "gen_ai": 0.02,
+      "affiliate": 0.0006,
+      "other": 0
+    },
+    "top_keywords": [
+      {
+        "name": "topview ai",
+        "volume": 81290,
+        "cpc": 1.58,
+        "estimated_value": 99000
+      },
+      {
+        "name": "topview",
+        "volume": 64500,
+        "cpc": 1.23,
+        "estimated_value": 61590
+      },
+      {
+        "name": "seedance 2.5",
+        "volume": 833370,
+        "cpc": 2.91,
+        "estimated_value": 21340
+      },
+      {
+        "name": "top view",
+        "volume": 11460,
+        "cpc": 1.05,
+        "estimated_value": 9340
+      },
+      {
+        "name": "minimax h3",
+        "volume": 926660,
+        "cpc": 0,
+        "estimated_value": 4700
+      }
+    ],
+    "top_regions": [
+      {
+        "country": "US",
+        "name": "United States",
+        "share": 0.1714
+      },
+      {
+        "country": "BR",
+        "name": "Brazil",
+        "share": 0.083
+      },
+      {
+        "country": "KR",
+        "name": "Korea, Republic of",
+        "share": 0.0649
+      },
+      {
+        "country": "MY",
+        "name": "Malaysia",
+        "share": 0.0648
+      },
+      {
+        "country": "IN",
+        "name": "India",
+        "share": 0.0616
+      }
+    ]
+  }
+}

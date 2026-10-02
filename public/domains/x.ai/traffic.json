@@ -1,0 +1,145 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "x.ai",
+  "measurement": "第三方域名级估算",
+  "data": {
+    "domain": "x.ai",
+    "overview": {
+      "global_rank": 1691,
+      "country_rank": {
+        "country": "US",
+        "rank": 1462
+      },
+      "visits": 29496761,
+      "bounce_rate": 0.3011975648907997,
+      "pages_per_visit": 3.56787686398343,
+      "time_on_site_seconds": 155.7064255530246,
+      "month": "2026-08"
+    },
+    "monthly_visits": [
+      {
+        "month": "2025-09",
+        "visits": 15218791
+      },
+      {
+        "month": "2025-10",
+        "visits": 22366485
+      },
+      {
+        "month": "2025-11",
+        "visits": 29586135
+      },
+      {
+        "month": "2025-12",
+        "visits": 32830943
+      },
+      {
+        "month": "2026-01",
+        "visits": 48636064
+      },
+      {
+        "month": "2026-02",
+        "visits": 40530040
+      },
+      {
+        "month": "2026-03",
+        "visits": 44877692
+      },
+      {
+        "month": "2026-04",
+        "visits": 33068014
+      },
+      {
+        "month": "2026-05",
+        "visits": 33127926
+      },
+      {
+        "month": "2026-06",
+        "visits": 27558432
+      },
+      {
+        "month": "2026-07",
+        "visits": 29314510
+      },
+      {
+        "month": "2026-08",
+        "visits": 29496761
+      }
+    ],
+    "traffic_sources": {
+      "direct": 0.1659,
+      "search": 0.0956,
+      "search_organic": 0.0952,
+      "search_paid": 0.0004,
+      "social": 0.0541,
+      "social_organic": 0.0526,
+      "social_paid": 0.0015,
+      "referrals": 0.0339,
+      "paid_referrals": 0.0011,
+      "mail": 0.0081,
+      "gen_ai": 0.6414,
+      "affiliate": 0,
+      "other": 0
+    },
+    "top_keywords": [
+      {
+        "name": "grok bot",
+        "volume": 1038870,
+        "cpc": 0,
+        "estimated_value": 1216350
+      },
+      {
+        "name": "grok",
+        "volume": 10071720,
+        "cpc": 0.82,
+        "estimated_value": 386330
+      },
+      {
+        "name": "grokbot",
+        "volume": 323280,
+        "cpc": 0,
+        "estimated_value": 335820
+      },
+      {
+        "name": "xai",
+        "volume": 232650,
+        "cpc": 1.34,
+        "estimated_value": 204180
+      },
+      {
+        "name": "grok ai",
+        "volume": 1697470,
+        "cpc": 0.42,
+        "estimated_value": 161820
+      }
+    ],
+    "top_regions": [
+      {
+        "country": "US",
+        "name": "United States",
+        "share": 0.3296
+      },
+      {
+        "country": "KR",
+        "name": "Korea, Republic of",
+        "share": 0.0407
+      },
+      {
+        "country": "IN",
+        "name": "India",
+        "share": 0.0383
+      },
+      {
+        "country": "GB",
+        "name": "United Kingdom",
+        "share": 0.0319
+      },
+      {
+        "country": "DE",
+        "name": "Germany",
+        "share": 0.0297
+      }
+    ]
+  }
+}

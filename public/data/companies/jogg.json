@@ -1,0 +1,428 @@
+{
+  "schema_version": 1,
+  "product": {
+    "id": "jogg",
+    "name": "JoggAI",
+    "x_handle": "Jogg_ai",
+    "homepage": "https://www.jogg.ai/",
+    "ads_priority": false,
+    "traffic_domain": "jogg.ai",
+    "additional_domains": [],
+    "scope_note": "域名级流量估算，非付费用户、收入或模型调用量。",
+    "shared_scope": false,
+    "domain_data": {
+      "domain": "jogg.ai",
+      "traffic": {
+        "domain": "jogg.ai",
+        "overview": {
+          "global_rank": 111482,
+          "country_rank": {
+            "country": "PK",
+            "rank": 8127
+          },
+          "visits": 353645,
+          "bounce_rate": 0.3675582510725921,
+          "pages_per_visit": 4.168352731277661,
+          "time_on_site_seconds": 50.083621611316524,
+          "month": "2026-08"
+        },
+        "monthly_visits": [
+          {
+            "month": "2025-09",
+            "visits": 787089
+          },
+          {
+            "month": "2025-10",
+            "visits": 624240
+          },
+          {
+            "month": "2025-11",
+            "visits": 554439
+          },
+          {
+            "month": "2025-12",
+            "visits": 490493
+          },
+          {
+            "month": "2026-01",
+            "visits": 643606
+          },
+          {
+            "month": "2026-02",
+            "visits": 692339
+          },
+          {
+            "month": "2026-03",
+            "visits": 636471
+          },
+          {
+            "month": "2026-04",
+            "visits": 428770
+          },
+          {
+            "month": "2026-05",
+            "visits": 446766
+          },
+          {
+            "month": "2026-06",
+            "visits": 377622
+          },
+          {
+            "month": "2026-07",
+            "visits": 330177
+          },
+          {
+            "month": "2026-08",
+            "visits": 353645
+          }
+        ],
+        "traffic_sources": {
+          "direct": 0.3599,
+          "search": 0.505,
+          "search_organic": 0.505,
+          "search_paid": 0,
+          "social": 0.0378,
+          "social_organic": 0.0378,
+          "social_paid": 0,
+          "referrals": 0.0614,
+          "paid_referrals": 0.0044,
+          "mail": 0.0122,
+          "gen_ai": 0.0126,
+          "affiliate": 0.0067,
+          "other": 0
+        },
+        "top_keywords": [
+          {
+            "name": "jogg ai",
+            "volume": 5670,
+            "cpc": 0.51,
+            "estimated_value": 6000
+          },
+          {
+            "name": "joggai",
+            "volume": 2910,
+            "cpc": 4.31,
+            "estimated_value": 3100
+          },
+          {
+            "name": "face swap video",
+            "volume": 9450,
+            "cpc": 0.44,
+            "estimated_value": 2970
+          },
+          {
+            "name": "jogg",
+            "volume": 1790,
+            "cpc": 0.92,
+            "estimated_value": 1890
+          },
+          {
+            "name": "eromify",
+            "volume": 67830,
+            "cpc": 0.62,
+            "estimated_value": 1660
+          }
+        ],
+        "top_regions": [
+          {
+            "country": "US",
+            "name": "United States",
+            "share": 0.0945
+          },
+          {
+            "country": "BR",
+            "name": "Brazil",
+            "share": 0.0515
+          },
+          {
+            "country": "IN",
+            "name": "India",
+            "share": 0.0475
+          },
+          {
+            "country": "ID",
+            "name": "Indonesia",
+            "share": 0.0314
+          },
+          {
+            "country": "PK",
+            "name": "Pakistan",
+            "share": 0.0284
+          }
+        ]
+      },
+      "traffic_evidence": "domains/jogg.ai/traffic.json",
+      "traffic_status": "ok",
+      "registration_date": "2024-02-27T13:58:49.000Z",
+      "backlinks": {
+        "domain": "jogg.ai",
+        "overview": {
+          "domain_rating": 61,
+          "backlinks": 597782,
+          "referring_domains": 3586,
+          "dofollow_backlinks_pct": 94,
+          "dofollow_referring_domains_pct": 69
+        },
+        "backlinks": [
+          {
+            "from_url": "https://www.elancer.co.kr/blog/detail/1028",
+            "to_url": "https://app.jogg.ai/login",
+            "title": "딥페이크 사이트 TOP 5 추천, 합법적 사용 기준까지 정리해서 알려드립니다. I 이랜서 블로그",
+            "anchor": "JoggAI 홈페이지",
+            "domain_rating": 39
+          },
+          {
+            "from_url": "https://screenapp.io/pt/blog/best-free-ai-video-generators",
+            "to_url": "https://www.jogg.ai/features/ai-avatar/",
+            "title": "13 Melhores Geradores de Vídeo com IA Gratuitos Sem Marca D'água (2026)",
+            "anchor": "avatar de vídeo com IA",
+            "domain_rating": 71
+          },
+          {
+            "from_url": "https://topai.tools/s/jibyte-ai",
+            "to_url": "https://www.jogg.ai/",
+            "title": "Jibyte AI - TopAI.Tools",
+            "anchor": "",
+            "domain_rating": 64
+          },
+          {
+            "from_url": "https://zapier.com/blog/hubspot-certifications/",
+            "to_url": "https://www.jogg.ai/",
+            "title": "The 9 best HubSpot certifications, according to experts",
+            "anchor": "JoggAI",
+            "domain_rating": 91
+          },
+          {
+            "from_url": "https://appsumo.com/products/joggai/",
+            "to_url": "https://app.jogg.ai/terms-of-use",
+            "title": "JoggAI - Turn ideas into AI avatar videos fast | AppSumo",
+            "anchor": "JoggAI Terms & Conditions",
+            "domain_rating": 83
+          },
+          {
+            "from_url": "https://www.anangsha.me/ai-text-to-video-vs-image-to-video-what-to-use-in-2026/",
+            "to_url": "https://www.jogg.ai/",
+            "title": "AI Text-to-Video vs Image-to-Video: What to Use in 2026",
+            "anchor": "Jogg AI",
+            "domain_rating": 27
+          },
+          {
+            "from_url": "https://blog.podcast.co/inspire/new-ai-podcasts",
+            "to_url": "http://jogg.ai/",
+            "title": "A New Generation of AI Podcasts | Podcast.co",
+            "anchor": "Jogg.ai",
+            "domain_rating": 65
+          },
+          {
+            "from_url": "https://www.toools.design/ai-design-tools",
+            "to_url": "https://www.jogg.ai/",
+            "title": "Best AI Design Tools for Designers | TOOOLS.design",
+            "anchor": "JoggAITransform ideas into stunning AI avatar videos in minutes.Freemium",
+            "domain_rating": 48
+          },
+          {
+            "from_url": "https://urltovideo.ai/blog/best-ai-influencer-generator-tools",
+            "to_url": "https://www.jogg.ai/",
+            "title": "7 Best AI Influencer Generator Tools in 2026 (Free & Paid) | URL To Video",
+            "anchor": "Jogg",
+            "domain_rating": 24
+          },
+          {
+            "from_url": "https://www.perfectcorp.com/consumer/blog/online-photo-editing/animate-still-image-how",
+            "to_url": "https://www.jogg.ai/tools/image-to-video/",
+            "title": "6 Easy Ways to Animate Still Images in 2025",
+            "anchor": "JoggAI",
+            "domain_rating": 76
+          },
+          {
+            "from_url": "https://www.hi-light.ai/en/blog/free-ai-video-generators",
+            "to_url": "https://www.jogg.ai/pricing?source=blog&slug=free-ai-video-generators",
+            "title": "Best Free AI Video Generators in 2026 for Marketing Teams | inSai Hilight",
+            "anchor": "JoggAI",
+            "domain_rating": 8
+          },
+          {
+            "from_url": "https://kripeshadwani.com/joggai-review/",
+            "to_url": "https://updates.jogg.ai/roadmap",
+            "title": "JoggAI Review (2026) - Best AI Video Creator Right Now?",
+            "anchor": "JoggAI Roadmap",
+            "domain_rating": 66
+          },
+          {
+            "from_url": "https://www.on-magazine.co.uk/stuff/tech/ai-podcast-generator-revolutionizing-the-way-we-create-audio-content/",
+            "to_url": "https://www.jogg.ai/features/ai-podcast-generator/",
+            "title": "AI Podcast Generator: Revolutionizing the Way We Create Audio Content - On: Yorkshire Magazine",
+            "anchor": "JoggAI Podcast Generator",
+            "domain_rating": 49
+          },
+          {
+            "from_url": "https://webcatalog.io/en/apps/jogg-ai",
+            "to_url": "https://www.jogg.ai/",
+            "title": "Jogg AI - Desktop App - Mac, Windows - WebCatalog",
+            "anchor": "Website",
+            "domain_rating": 58
+          },
+          {
+            "from_url": "https://fatfrogmedia.com/black-friday-deals-for-bloggers",
+            "to_url": "https://www.jogg.ai/?fpr=aitoolsdirectory&fp_sid=ffmedia1",
+            "title": "Black Friday Deals for Marketers & Bloggers | Fat Frog Media",
+            "anchor": "Get deal",
+            "domain_rating": 41
+          },
+          {
+            "from_url": "https://www.youtube.com/watch?v=nigYIXP0KJc",
+            "to_url": "https://social.jogg.ai/HowToIn5Minutes",
+            "title": "This FREE AI Video Generator Just Released a MOVIE READY Anime Maker - YouTube",
+            "anchor": "https://social.jogg.ai/HowToIn5Minutes",
+            "domain_rating": 99
+          },
+          {
+            "from_url": "https://repairit.wondershare.com/online-video-enhance/ai-face-swap-video-free.html",
+            "to_url": "https://www.jogg.ai/features/face-swap/",
+            "title": "Explore Top AI Face Swap Video Free Tools for Realistic Creations",
+            "anchor": "Jogg.AI",
+            "domain_rating": 85
+          },
+          {
+            "from_url": "https://www.vidmetoo.com/jogg-ai-review/",
+            "to_url": "https://www.jogg.ai/",
+            "title": "Jogg.ai Review 2025: AI Avatars, URL to Video and More",
+            "anchor": "MAKE A VIDEO WITH JOGG.AI",
+            "domain_rating": 21
+          },
+          {
+            "from_url": "https://www.loudegg.com/jogg-ai-review/",
+            "to_url": "https://www.jogg.ai/features/talking-avatar/",
+            "title": "Jogg AI Review - AI Video Creation and Avatars | LoudEgg",
+            "anchor": "AI avatars",
+            "domain_rating": 38
+          },
+          {
+            "from_url": "https://screencloud.com/digital-signage/augmented-reality",
+            "to_url": "https://www.jogg.ai/features/ai-avatar/",
+            "title": "Using Augmented Reality (AR) in Digital Signage - ScreenCloud",
+            "anchor": "AI video avatar",
+            "domain_rating": 67
+          }
+        ]
+      },
+      "backlinks_evidence": "domains/jogg.ai/backlinks.json"
+    },
+    "pages": [
+      {
+        "kind": "home",
+        "label": "首页",
+        "path": "products/jogg/pages/home.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://www.jogg.ai/",
+          "resolved_url": "https://www.jogg.ai/",
+          "http_status": 200
+        },
+        "page": {
+          "title": "JoggAI - AI Video Generator with Lifelike AI Avatars"
+        },
+        "content": "首页提供 ChatGPT Plugin 和 OpenClaw 相关工具链接。"
+      },
+      {
+        "kind": "pricing",
+        "label": "定价资料",
+        "path": "products/jogg/pages/pricing.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://www.jogg.ai/pricing/",
+          "resolved_url": "https://www.jogg.ai/pricing/",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Plans & Pricing | JoggAI"
+        },
+        "content": "已保存官网来源；本公开版不转载页面全文。"
+      },
+      {
+        "kind": "action-affiliate",
+        "label": "官方动态",
+        "path": "products/jogg/pages/action-affiliate.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://www.jogg.ai/affiliate-program/",
+          "resolved_url": "https://www.jogg.ai/affiliate-program/",
+          "http_status": 200
+        },
+        "page": {
+          "title": "AI Video Affiliate Program | Earn Up to 30% with JoggAI"
+        },
+        "content": "联盟页面要求以自然、非付费内容推广；不把创作者案例视为 Jogg 官方付费投放。"
+      }
+    ],
+    "searches": [],
+    "issues": [],
+    "screenshot": null,
+    "product_entry_links": [
+      "https://app.jogg.ai/",
+      "https://app.jogg.ai/privacy-policy"
+    ]
+  },
+  "metrics": {
+    "visits": 353645,
+    "mom": 0.07107702838174679,
+    "change3": -0.20843349762515495,
+    "rolling3": -0.29799002253296447,
+    "recent_average": 353814.6666666667,
+    "prior_average": 504002.3333333333,
+    "up_streak": 1,
+    "derived_channels": {
+      "search_paid_visits": 0,
+      "social_paid_visits": 0,
+      "search_organic_visits": 178590.725,
+      "social_organic_visits": 13367.781,
+      "direct_visits": 127276.8355
+    },
+    "scope": "site",
+    "profile": "首页强调逼真数字人、头像视频和广告生成；用例与 Topview 有交集。",
+    "profile_source": "products/jogg/pages/home.json"
+  },
+  "editorial": {
+    "thesis": "Agent 分发和自然内容联盟提供增量入口，月度回升需要更长窗口确认。",
+    "focus": "ChatGPT Plugin 与工具链接是分发线索；最高 30% 佣金限定自然、非付费推广，因此创作者内容不能自动归为公司付费投放。",
+    "experiment": "将一个头像广告生成任务连接到 Agent 工具，同时追踪自然内容推荐路径。",
+    "measure": "Agent 调用到成功成片率、自然推荐转化和复用频次。",
+    "watch": "工具入口、联盟政策、头像广告场景与近三月趋势。"
+  },
+  "activities": [
+    {
+      "product_id": "jogg",
+      "type": "developer",
+      "title": "ChatGPT Plugin 与 Agent 工具入口",
+      "detail": "首页提供 ChatGPT Plugin 和 OpenClaw 相关工具链接。",
+      "anchors": [
+        "ChatGPT Plugin",
+        "jogg-lipsync-openclaw"
+      ],
+      "source": "products/jogg/pages/home.json",
+      "event_date": null,
+      "id": "activity-38",
+      "source_url": "https://www.jogg.ai/",
+      "observed_at": "2026-10-02"
+    },
+    {
+      "product_id": "jogg",
+      "type": "affiliate",
+      "title": "最高 30% 佣金，限定自然推广",
+      "detail": "联盟页面要求以自然、非付费内容推广；不把创作者案例视为 Jogg 官方付费投放。",
+      "anchors": [
+        "up to 30%",
+        "organic, unpaid content"
+      ],
+      "source": "products/jogg/pages/action-affiliate.json",
+      "event_date": null,
+      "id": "activity-56",
+      "source_url": "https://www.jogg.ai/affiliate-program/",
+      "observed_at": "2026-10-02"
+    }
+  ],
+  "x_posts": []
+}

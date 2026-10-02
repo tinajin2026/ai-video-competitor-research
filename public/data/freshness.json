@@ -1,0 +1,466 @@
+{
+  "checked_at": "2026-10-02T03:19:29.128414+00:00",
+  "domains_checked": 41,
+  "success_count": 41,
+  "latest_reporting_month": "2026-08",
+  "requested_trailing_months": 3,
+  "september_available": false,
+  "october_available": false,
+  "documentation": "https://tabapi.com/docs#traffic",
+  "supported_query_parameters": [
+    "months"
+  ],
+  "results": [
+    {
+      "domain": "arcads.ai",
+      "checked_at": "2026-10-02T03:19:26.659959+00:00",
+      "http_status": 200,
+      "reporting_month": "2026-08",
+      "history_months": [
+        "2026-06",
+        "2026-07",
+        "2026-08"
+      ]
+    },
+    {
+      "domain": "bytedance.com",
+      "checked_at": "2026-10-02T03:19:19.739557+00:00",
+      "http_status": 200,
+      "reporting_month": "2026-08",
+      "history_months": [
+        "2026-06",
+        "2026-07",
+        "2026-08"
+      ]
+    },
+    {
+      "domain": "capcut.com",
+      "checked_at": "2026-10-02T03:19:19.735914+00:00",
+      "http_status": 200,
+      "reporting_month": "2026-08",
+      "history_months": [
+        "2026-06",
+        "2026-07",
+        "2026-08"
+      ]
+    },
+    {
+      "domain": "creatify.ai",
+      "checked_at": "2026-10-02T03:19:26.264655+00:00",
+      "http_status": 200,
+      "reporting_month": "2026-08",
+      "history_months": [
+        "2026-06",
+        "2026-07",
+        "2026-08"
+      ]
+    },
+    {
+      "domain": "deepmind.google",
+      "checked_at": "2026-10-02T03:19:22.597555+00:00",
+      "http_status": 200,
+      "reporting_month": "2026-08",
+      "history_months": [
+        "2026-06",
+        "2026-07",
+        "2026-08"
+      ]
+    },
+    {
+      "domain": "fal.ai",
+      "checked_at": "2026-10-02T03:19:24.579132+00:00",
+      "http_status": 200,
+      "reporting_month": "2026-08",
+      "history_months": [
+        "2026-06",
+        "2026-07",
+        "2026-08"
+      ]
+    },
+    {
+      "domain": "google.com",
+      "checked_at": "2026-10-02T03:19:23.014785+00:00",
+      "http_status": 200,
+      "reporting_month": "2026-08",
+      "history_months": [
+        "2026-06",
+        "2026-07",
+        "2026-08"
+      ]
+    },
+    {
+      "domain": "grok.com",
+      "checked_at": "2026-10-02T03:19:28.998390+00:00",
+      "http_status": 200,
+      "reporting_month": "2026-08",
+      "history_months": [
+        "2026-06",
+        "2026-07",
+        "2026-08"
+      ]
+    },
+    {
+      "domain": "hailuoai.video",
+      "checked_at": "2026-10-02T03:19:20.672120+00:00",
+      "http_status": 200,
+      "reporting_month": "2026-08",
+      "history_months": [
+        "2026-06",
+        "2026-07",
+        "2026-08"
+      ]
+    },
+    {
+      "domain": "haiper.ai",
+      "checked_at": "2026-10-02T03:19:23.884851+00:00",
+      "http_status": 200,
+      "reporting_month": "2026-08",
+      "history_months": [
+        "2026-06",
+        "2026-07",
+        "2026-08"
+      ]
+    },
+    {
+      "domain": "happyhorse.com",
+      "checked_at": "2026-10-02T03:19:20.681250+00:00",
+      "http_status": 200,
+      "reporting_month": "2026-08",
+      "history_months": [
+        "2026-06",
+        "2026-07",
+        "2026-08"
+      ]
+    },
+    {
+      "domain": "hedra.com",
+      "checked_at": "2026-10-02T03:19:28.241366+00:00",
+      "http_status": 200,
+      "reporting_month": "2026-08",
+      "history_months": [
+        "2026-06",
+        "2026-07",
+        "2026-08"
+      ]
+    },
+    {
+      "domain": "heygen.com",
+      "checked_at": "2026-10-02T03:19:25.259841+00:00",
+      "http_status": 200,
+      "reporting_month": "2026-08",
+      "history_months": [
+        "2026-06",
+        "2026-07",
+        "2026-08"
+      ]
+    },
+    {
+      "domain": "higgsfield.ai",
+      "checked_at": "2026-10-02T03:18:27.253909+00:00",
+      "http_status": 200,
+      "reporting_month": "2026-08",
+      "history_months": [
+        "2026-06",
+        "2026-07",
+        "2026-08"
+      ]
+    },
+    {
+      "domain": "imagine.art",
+      "checked_at": "2026-10-02T03:19:27.577739+00:00",
+      "http_status": 200,
+      "reporting_month": "2026-08",
+      "history_months": [
+        "2026-06",
+        "2026-07",
+        "2026-08"
+      ]
+    },
+    {
+      "domain": "invideo.io",
+      "checked_at": "2026-10-02T03:19:25.741511+00:00",
+      "http_status": 200,
+      "reporting_month": "2026-08",
+      "history_months": [
+        "2026-06",
+        "2026-07",
+        "2026-08"
+      ]
+    },
+    {
+      "domain": "jogg.ai",
+      "checked_at": "2026-10-02T03:19:27.144996+00:00",
+      "http_status": 200,
+      "reporting_month": "2026-08",
+      "history_months": [
+        "2026-06",
+        "2026-07",
+        "2026-08"
+      ]
+    },
+    {
+      "domain": "kling.ai",
+      "checked_at": "2026-10-02T03:19:21.629428+00:00",
+      "http_status": 200,
+      "reporting_month": "2026-08",
+      "history_months": [
+        "2026-06",
+        "2026-07",
+        "2026-08"
+      ]
+    },
+    {
+      "domain": "klingai.com",
+      "checked_at": "2026-10-02T03:19:21.646334+00:00",
+      "http_status": 200,
+      "reporting_month": "2026-08",
+      "history_months": [
+        "2026-06",
+        "2026-07",
+        "2026-08"
+      ]
+    },
+    {
+      "domain": "krea.ai",
+      "checked_at": "2026-10-02T03:19:24.424436+00:00",
+      "http_status": 200,
+      "reporting_month": "2026-08",
+      "history_months": [
+        "2026-06",
+        "2026-07",
+        "2026-08"
+      ]
+    },
+    {
+      "domain": "labs.google",
+      "checked_at": "2026-10-02T03:19:23.505051+00:00",
+      "http_status": 200,
+      "reporting_month": "2026-08",
+      "history_months": [
+        "2026-06",
+        "2026-07",
+        "2026-08"
+      ]
+    },
+    {
+      "domain": "leonardo.ai",
+      "checked_at": "2026-10-02T03:19:24.757582+00:00",
+      "http_status": 200,
+      "reporting_month": "2026-08",
+      "history_months": [
+        "2026-06",
+        "2026-07",
+        "2026-08"
+      ]
+    },
+    {
+      "domain": "lumalabs.ai",
+      "checked_at": "2026-10-02T03:19:22.499205+00:00",
+      "http_status": 200,
+      "reporting_month": "2026-08",
+      "history_months": [
+        "2026-06",
+        "2026-07",
+        "2026-08"
+      ]
+    },
+    {
+      "domain": "magnific.ai",
+      "checked_at": "2026-10-02T03:19:28.619457+00:00",
+      "http_status": 200,
+      "reporting_month": "2026-08",
+      "history_months": [
+        "2026-06",
+        "2026-07",
+        "2026-08"
+      ]
+    },
+    {
+      "domain": "magnific.com",
+      "checked_at": "2026-10-02T03:19:28.452606+00:00",
+      "http_status": 200,
+      "reporting_month": "2026-08",
+      "history_months": [
+        "2026-06",
+        "2026-07",
+        "2026-08"
+      ]
+    },
+    {
+      "domain": "makeugc.ai",
+      "checked_at": "2026-10-02T03:19:26.677741+00:00",
+      "http_status": 200,
+      "reporting_month": "2026-08",
+      "history_months": [
+        "2026-06",
+        "2026-07",
+        "2026-08"
+      ]
+    },
+    {
+      "domain": "minimax.io",
+      "checked_at": "2026-10-02T03:19:19.739919+00:00",
+      "http_status": 200,
+      "reporting_month": "2026-08",
+      "history_months": [
+        "2026-06",
+        "2026-07",
+        "2026-08"
+      ]
+    },
+    {
+      "domain": "openart.ai",
+      "checked_at": "2026-10-02T03:19:24.531369+00:00",
+      "http_status": 200,
+      "reporting_month": "2026-08",
+      "history_months": [
+        "2026-06",
+        "2026-07",
+        "2026-08"
+      ]
+    },
+    {
+      "domain": "pika.art",
+      "checked_at": "2026-10-02T03:19:22.115974+00:00",
+      "http_status": 200,
+      "reporting_month": "2026-08",
+      "history_months": [
+        "2026-06",
+        "2026-07",
+        "2026-08"
+      ]
+    },
+    {
+      "domain": "pixverse.ai",
+      "checked_at": "2026-10-02T03:19:27.385408+00:00",
+      "http_status": 200,
+      "reporting_month": "2026-08",
+      "history_months": [
+        "2026-06",
+        "2026-07",
+        "2026-08"
+      ]
+    },
+    {
+      "domain": "pollo.ai",
+      "checked_at": "2026-10-02T03:19:19.739065+00:00",
+      "http_status": 200,
+      "reporting_month": "2026-08",
+      "history_months": [
+        "2026-06",
+        "2026-07",
+        "2026-08"
+      ]
+    },
+    {
+      "domain": "runway.com",
+      "checked_at": "2026-10-02T03:19:20.709800+00:00",
+      "http_status": 200,
+      "reporting_month": "2026-08",
+      "history_months": [
+        "2026-06",
+        "2026-07",
+        "2026-08"
+      ]
+    },
+    {
+      "domain": "runwayml.com",
+      "checked_at": "2026-10-02T03:19:21.585723+00:00",
+      "http_status": 200,
+      "reporting_month": "2026-08",
+      "history_months": [
+        "2026-06",
+        "2026-07",
+        "2026-08"
+      ]
+    },
+    {
+      "domain": "skyreels.ai",
+      "checked_at": "2026-10-02T03:19:28.107288+00:00",
+      "http_status": 200,
+      "reporting_month": "2026-08",
+      "history_months": [
+        "2026-06",
+        "2026-07",
+        "2026-08"
+      ]
+    },
+    {
+      "domain": "sora.com",
+      "checked_at": "2026-10-02T03:19:22.596766+00:00",
+      "http_status": 200,
+      "reporting_month": "2026-08",
+      "history_months": [
+        "2026-06",
+        "2026-07",
+        "2026-08"
+      ]
+    },
+    {
+      "domain": "synthesia.io",
+      "checked_at": "2026-10-02T03:19:25.551202+00:00",
+      "http_status": 200,
+      "reporting_month": "2026-08",
+      "history_months": [
+        "2026-06",
+        "2026-07",
+        "2026-08"
+      ]
+    },
+    {
+      "domain": "topview.ai",
+      "checked_at": "2026-10-02T03:19:25.741701+00:00",
+      "http_status": 200,
+      "reporting_month": "2026-08",
+      "history_months": [
+        "2026-06",
+        "2026-07",
+        "2026-08"
+      ]
+    },
+    {
+      "domain": "vidu.com",
+      "checked_at": "2026-10-02T03:19:23.643025+00:00",
+      "http_status": 200,
+      "reporting_month": "2026-08",
+      "history_months": [
+        "2026-06",
+        "2026-07",
+        "2026-08"
+      ]
+    },
+    {
+      "domain": "wan.video",
+      "checked_at": "2026-10-02T03:19:23.523041+00:00",
+      "http_status": 200,
+      "reporting_month": "2026-08",
+      "history_months": [
+        "2026-06",
+        "2026-07",
+        "2026-08"
+      ]
+    },
+    {
+      "domain": "x.ai",
+      "checked_at": "2026-10-02T03:19:29.128414+00:00",
+      "http_status": 200,
+      "reporting_month": "2026-08",
+      "history_months": [
+        "2026-06",
+        "2026-07",
+        "2026-08"
+      ]
+    },
+    {
+      "domain": "yoroll.ai",
+      "checked_at": "2026-10-02T03:19:20.690530+00:00",
+      "http_status": 200,
+      "reporting_month": "2026-08",
+      "history_months": [
+        "2026-06",
+        "2026-07",
+        "2026-08"
+      ]
+    }
+  ]
+}

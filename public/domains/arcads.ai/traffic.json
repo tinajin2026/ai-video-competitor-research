@@ -1,0 +1,145 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "arcads.ai",
+  "measurement": "第三方域名级估算",
+  "data": {
+    "domain": "arcads.ai",
+    "overview": {
+      "global_rank": 85968,
+      "country_rank": {
+        "country": "US",
+        "rank": 72338
+      },
+      "visits": 496495,
+      "bounce_rate": 0.3955293276563699,
+      "pages_per_visit": 3.9669720925521337,
+      "time_on_site_seconds": 90.06566424055546,
+      "month": "2026-08"
+    },
+    "monthly_visits": [
+      {
+        "month": "2025-09",
+        "visits": 419768
+      },
+      {
+        "month": "2025-10",
+        "visits": 475891
+      },
+      {
+        "month": "2025-11",
+        "visits": 560825
+      },
+      {
+        "month": "2025-12",
+        "visits": 660135
+      },
+      {
+        "month": "2026-01",
+        "visits": 609185
+      },
+      {
+        "month": "2026-02",
+        "visits": 675304
+      },
+      {
+        "month": "2026-03",
+        "visits": 670159
+      },
+      {
+        "month": "2026-04",
+        "visits": 720178
+      },
+      {
+        "month": "2026-05",
+        "visits": 591967
+      },
+      {
+        "month": "2026-06",
+        "visits": 462162
+      },
+      {
+        "month": "2026-07",
+        "visits": 478123
+      },
+      {
+        "month": "2026-08",
+        "visits": 496495
+      }
+    ],
+    "traffic_sources": {
+      "direct": 0.3579,
+      "search": 0.4017,
+      "search_organic": 0.2842,
+      "search_paid": 0.1174,
+      "social": 0.1414,
+      "social_organic": 0.1219,
+      "social_paid": 0.0195,
+      "referrals": 0.0316,
+      "paid_referrals": 0.0268,
+      "mail": 0.0159,
+      "gen_ai": 0.0234,
+      "affiliate": 0.0012,
+      "other": 0
+    },
+    "top_keywords": [
+      {
+        "name": "arcads",
+        "volume": 150960,
+        "cpc": 2.56,
+        "estimated_value": 140880
+      },
+      {
+        "name": "arcads ai",
+        "volume": 40520,
+        "cpc": 1.07,
+        "estimated_value": 45110
+      },
+      {
+        "name": "arc ads",
+        "volume": 6520,
+        "cpc": 24.06,
+        "estimated_value": 3790
+      },
+      {
+        "name": "arcards",
+        "volume": 4940,
+        "cpc": 1.52,
+        "estimated_value": 3610
+      },
+      {
+        "name": "arcads pricing",
+        "volume": 7570,
+        "cpc": 10.25,
+        "estimated_value": 2990
+      }
+    ],
+    "top_regions": [
+      {
+        "country": "US",
+        "name": "United States",
+        "share": 0.2381
+      },
+      {
+        "country": "IN",
+        "name": "India",
+        "share": 0.0776
+      },
+      {
+        "country": "GB",
+        "name": "United Kingdom",
+        "share": 0.0729
+      },
+      {
+        "country": "DE",
+        "name": "Germany",
+        "share": 0.0573
+      },
+      {
+        "country": "FR",
+        "name": "France",
+        "share": 0.0419
+      }
+    ]
+  }
+}

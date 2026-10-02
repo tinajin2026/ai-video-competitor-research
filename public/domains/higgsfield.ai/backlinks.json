@@ -1,0 +1,158 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "higgsfield.ai",
+  "measurement": "第三方外链样本",
+  "data": {
+    "domain": "higgsfield.ai",
+    "overview": {
+      "domain_rating": 81,
+      "backlinks": 237911,
+      "referring_domains": 13523,
+      "dofollow_backlinks_pct": 48,
+      "dofollow_referring_domains_pct": 77
+    },
+    "backlinks": [
+      {
+        "from_url": "https://www.selecthub.com/p/ai-video-generator-software/higgsfield-ai/",
+        "to_url": "https://higgsfield.ai/",
+        "title": "Higgsfield AI Reviews 2026: Pricing, Features & More",
+        "anchor": "Request for Free",
+        "domain_rating": 74
+      },
+      {
+        "from_url": "https://www.gumloop.com/blog/best-ai-apps",
+        "to_url": "https://higgsfield.ai/",
+        "title": "15 best AI apps I can't live without in 2026 (free + paid)",
+        "anchor": "Higgsfield",
+        "domain_rating": 75
+      },
+      {
+        "from_url": "https://www.youtube.com/watch?v=Mf_XcAH1R4U",
+        "to_url": "https://higgsfield.ai/",
+        "title": "왕초보를 위한 힉스필드 사용법 ｜이미지 생성부터 영상 변환까지 - YouTube",
+        "anchor": "https://higgsfield.ai/",
+        "domain_rating": 99
+      },
+      {
+        "from_url": "https://godofprompt.ai/blog/chatgpt-for-beginners/",
+        "to_url": "https://higgsfield.ai/gpt-2",
+        "title": "What is ChatGBT? (ChatGPT for Beginners) | God of Prompt",
+        "anchor": "GPT Image 2",
+        "domain_rating": 54
+      },
+      {
+        "from_url": "https://creatify.ai/id/blog/higgsfield-soul-prompts-for-product-ads",
+        "to_url": "https://higgsfield.ai/creator-hub/help-center/troubleshooting/my-generation-blocked-for-copyright-or-ip",
+        "title": "Higgsfield Soul Guide dan Prompt",
+        "anchor": "Artikel blokir IP",
+        "domain_rating": 73
+      },
+      {
+        "from_url": "https://artdaily.com/news/178590/Best-YouTube-Downloaders-for-4K---HD-Video-Downloads",
+        "to_url": "https://higgsfield.ai/ai-video-upscaler",
+        "title": "Best YouTube Downloaders for 4K & HD Video Downloads",
+        "anchor": "AI video upscaler",
+        "domain_rating": 75
+      },
+      {
+        "from_url": "https://codimd.apps.education.fr/s/r1H5nglAY",
+        "to_url": "https://higgsfield.ai/",
+        "title": "Une sélection d’IA génératives gratuites en ligne - CodiMD",
+        "anchor": "HiggsField",
+        "domain_rating": 85
+      },
+      {
+        "from_url": "https://www.marketermilk.com/blog/ai-marketing-tools",
+        "to_url": "https://higgsfield.ai/",
+        "title": "30 best AI marketing tools I'm using to get ahead in 2026 | Marketer Milk",
+        "anchor": "Higgsfield",
+        "domain_rating": 67
+      },
+      {
+        "from_url": "https://www.media.io/id/comparison/higgsfield-ai.html",
+        "to_url": "https://higgsfield.ai/",
+        "title": "Ulasan Higgsfield AI: Gerakan Sinematik, Suite Kreatif, dan Alternatif Media.io",
+        "anchor": "Jelajahi Higgsfield AI",
+        "domain_rating": 74
+      },
+      {
+        "from_url": "https://www.aixploria.com/",
+        "to_url": "https://higgsfield.ai/",
+        "title": "Liste des Meilleures IA Gratuites & Top 10 par Catégorie | AIxploria",
+        "anchor": "Higgsfield AI",
+        "domain_rating": 56
+      },
+      {
+        "from_url": "https://pinggy.io/blog/best_free_open_source_ai_image_generators_to_self_host/",
+        "to_url": "https://higgsfield.ai/ai-image",
+        "title": "Best Free & Open-Source AI Image Generators to Self-Host | Pinggy Blog",
+        "anchor": "AI Image Generator",
+        "domain_rating": 54
+      },
+      {
+        "from_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a3293e129088191abf0875820e839da",
+        "to_url": "https://higgsfield.ai/privacy-policy",
+        "title": "ChatGPT - Higgsfield",
+        "anchor": "privacy policy",
+        "domain_rating": 93
+      },
+      {
+        "from_url": "https://www.libertyglobal.com/liberty-global-tech-ventures-higgsfield/",
+        "to_url": "https://higgsfield.ai/",
+        "title": "Liberty Global Tech Ventures Invests in AI Video Company, Higgsfield - Liberty Global",
+        "anchor": "Higgsfield",
+        "domain_rating": 72
+      },
+      {
+        "from_url": "https://techshark.io/tools/alternatives/deepfake-maker/",
+        "to_url": "https://higgsfield.ai/apps/face-swap",
+        "title": "Best Deepfake Maker Alternatives and Competitors in 2026 - TechShark | TechShark",
+        "anchor": "Visit",
+        "domain_rating": 12
+      },
+      {
+        "from_url": "https://topapps.fr/apps/histovec",
+        "to_url": "https://higgsfield.ai/?fpr=tomguich",
+        "title": "HistoVec : l'historique officiel d'un véhicule (gratuit) | TopApps",
+        "anchor": "Visiter le site",
+        "domain_rating": 5
+      },
+      {
+        "from_url": "https://www.synthesia.io/post/ai-tools",
+        "to_url": "https://higgsfield.ai/",
+        "title": "The 12 Best AI Tools for 2026 (That People Actually Use)",
+        "anchor": "https://higgsfield.ai/",
+        "domain_rating": 85
+      },
+      {
+        "from_url": "https://ru.wikipedia.org/wiki/Higgsfield_AI",
+        "to_url": "https://higgsfield.ai/",
+        "title": "Higgsfield AI",
+        "anchor": "higgsfield.ai",
+        "domain_rating": 97
+      },
+      {
+        "from_url": "https://www.creativepadmedia.com/the-best-free-alternatives-to-higgsfield-ai-full-demonstrations/",
+        "to_url": "https://higgsfield.ai/",
+        "title": "The Best Free Alternatives to Higgsfield AI - With Full Demonstrations - Creative Pad Media",
+        "anchor": "Higgsfield AI",
+        "domain_rating": 13
+      },
+      {
+        "from_url": "https://github.com/higgsfield-ai/higgsfield",
+        "to_url": "https://higgsfield.ai/",
+        "title": "GitHub - higgsfield-ai/higgsfield: Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters · GitHub",
+        "anchor": "Website",
+        "domain_rating": 97
+      },
+      {
+        "from_url": "https://budgetpixel.com/",
+        "to_url": "https://higgsfield.ai/blog/seedance-2-5-pricing-2026",
+        "title": "AI Image, Video and Music Generator | Design Studio & Canvas | BudgetPixel",
+        "anchor": "Higgsfield, \"Seedance 2.5 pricing\"",
+        "domain_rating": 36
+      }
+    ]
+  }
+}

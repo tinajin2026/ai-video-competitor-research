@@ -1,0 +1,434 @@
+{
+  "schema_version": 1,
+  "product": {
+    "id": "pixverse",
+    "name": "PixVerse",
+    "x_handle": "PixVerse",
+    "homepage": "https://pixverse.ai/",
+    "ads_priority": false,
+    "traffic_domain": "pixverse.ai",
+    "additional_domains": [],
+    "scope_note": "域名级流量估算，非付费用户、收入或模型调用量。",
+    "shared_scope": false,
+    "domain_data": {
+      "domain": "pixverse.ai",
+      "traffic": {
+        "domain": "pixverse.ai",
+        "overview": {
+          "global_rank": 6260,
+          "country_rank": {
+            "country": "IN",
+            "rank": 3125
+          },
+          "visits": 5550505,
+          "bounce_rate": 0.3131728099206656,
+          "pages_per_visit": 10.89000616117198,
+          "time_on_site_seconds": 479.3890323660858,
+          "month": "2026-08"
+        },
+        "monthly_visits": [
+          {
+            "month": "2025-09",
+            "visits": 8993556
+          },
+          {
+            "month": "2025-10",
+            "visits": 7243453
+          },
+          {
+            "month": "2025-11",
+            "visits": 6212775
+          },
+          {
+            "month": "2025-12",
+            "visits": 6776961
+          },
+          {
+            "month": "2026-01",
+            "visits": 6841274
+          },
+          {
+            "month": "2026-02",
+            "visits": 5419041
+          },
+          {
+            "month": "2026-03",
+            "visits": 6738559
+          },
+          {
+            "month": "2026-04",
+            "visits": 6617173
+          },
+          {
+            "month": "2026-05",
+            "visits": 6253914
+          },
+          {
+            "month": "2026-06",
+            "visits": 6858245
+          },
+          {
+            "month": "2026-07",
+            "visits": 6417906
+          },
+          {
+            "month": "2026-08",
+            "visits": 5550505
+          }
+        ],
+        "traffic_sources": {
+          "direct": 0.4783,
+          "search": 0.342,
+          "search_organic": 0.1719,
+          "search_paid": 0.1701,
+          "social": 0.0679,
+          "social_organic": 0.0596,
+          "social_paid": 0.0083,
+          "referrals": 0.0452,
+          "paid_referrals": 0.0277,
+          "mail": 0.0083,
+          "gen_ai": 0.0297,
+          "affiliate": 0.0009,
+          "other": 0
+        },
+        "top_keywords": [
+          {
+            "name": "pixverse",
+            "volume": 312390,
+            "cpc": 0.29,
+            "estimated_value": 652170
+          },
+          {
+            "name": "pixverse ai",
+            "volume": 125080,
+            "cpc": 0.2,
+            "estimated_value": 506510
+          },
+          {
+            "name": "kling ai",
+            "volume": 1451150,
+            "cpc": 0.48,
+            "estimated_value": 14630
+          },
+          {
+            "name": "pix verse",
+            "volume": 7030,
+            "cpc": 0.25,
+            "estimated_value": 14370
+          },
+          {
+            "name": "free ai video generator",
+            "volume": 248970,
+            "cpc": 0.75,
+            "estimated_value": 14340
+          }
+        ],
+        "top_regions": [
+          {
+            "country": "IN",
+            "name": "India",
+            "share": 0.0953
+          },
+          {
+            "country": "US",
+            "name": "United States",
+            "share": 0.0695
+          },
+          {
+            "country": "BR",
+            "name": "Brazil",
+            "share": 0.0663
+          },
+          {
+            "country": "PK",
+            "name": "Pakistan",
+            "share": 0.0586
+          },
+          {
+            "country": "RU",
+            "name": "Russia",
+            "share": 0.0568
+          }
+        ]
+      },
+      "traffic_evidence": "domains/pixverse.ai/traffic.json",
+      "traffic_status": "ok",
+      "registration_date": "2023-10-20T07:00:52Z",
+      "backlinks": {
+        "domain": "pixverse.ai",
+        "overview": {
+          "domain_rating": 74,
+          "backlinks": 492621,
+          "referring_domains": 9138,
+          "dofollow_backlinks_pct": 93,
+          "dofollow_referring_domains_pct": 75
+        },
+        "backlinks": [
+          {
+            "from_url": "https://codimd.apps.education.fr/s/r1H5nglAY",
+            "to_url": "https://pixverse.ai/",
+            "title": "Une sélection d’IA génératives gratuites en ligne - CodiMD",
+            "anchor": "PixVerse",
+            "domain_rating": 85
+          },
+          {
+            "from_url": "https://justdeleteme.xyz/",
+            "to_url": "https://app.pixverse.ai/home",
+            "title": "Just Delete Me | A directory of direct links to delete your account from web services.",
+            "anchor": "PixVerse URL",
+            "domain_rating": 55
+          },
+          {
+            "from_url": "https://github.com/zebbern/no-cost-ai",
+            "to_url": "https://app.pixverse.ai/",
+            "title": "GitHub - zebbern/no-cost-ai: 80+ free AI services for chat, image, video, voice & APIs (may sometimes include access to lead gen ai models for free) · GitHub",
+            "anchor": "app.pixverse.ai",
+            "domain_rating": 97
+          },
+          {
+            "from_url": "https://medium.com/@fadimantium/why-pixverse-ai-is-the-best-video-generator-for-now-8d6df6297191",
+            "to_url": "https://pixverse.ai/",
+            "title": "Why Pixverse.ai is the Best Video Generator (for now). | by Erik Fadiman | Medium",
+            "anchor": "pixverse.ai",
+            "domain_rating": 94
+          },
+          {
+            "from_url": "https://www.atlascloud.ai/blog/tips/pixverse-ai-image-to-video",
+            "to_url": "https://docs.platform.pixverse.ai/model-pricing-796039m0",
+            "title": "PixVerse AI Image to Video (2026): Official Features, Free Tier & Pricing",
+            "anchor": "PixVerse Platform Docs",
+            "domain_rating": 64
+          },
+          {
+            "from_url": "https://sendfame.com/blog/ai-video-generator-free",
+            "to_url": "https://app.pixverse.ai/",
+            "title": "The 12 Best AI Video Generator Free Tools of 2025",
+            "anchor": "https://app.pixverse.ai",
+            "domain_rating": 53
+          },
+          {
+            "from_url": "https://play.google.com/store/apps/details?id=com.pixverseai.pixverse&hl=en_IN",
+            "to_url": "https://app.pixverse.ai/",
+            "title": "PixVerse: AI Video Generator – Apps on Google Play",
+            "anchor": "publicWebsite",
+            "domain_rating": 100
+          },
+          {
+            "from_url": "https://www.youtube.com/watch?v=nKX8c2VQM5E",
+            "to_url": "https://app.pixverse.ai/onboard",
+            "title": "🚀 PixVerse AI: Create Stunning AI-Generated Videos in Seconds! 🎥🤖 - YouTube",
+            "anchor": "https://app.pixverse.ai/onboard",
+            "domain_rating": 99
+          },
+          {
+            "from_url": "https://t-j.ru/short/ai-for-all/",
+            "to_url": "https://app.pixverse.ai/onboard",
+            "title": "Бесплатные нейросети онлайн: 50 лучших ИИ-сервисов",
+            "anchor": "Попробовать",
+            "domain_rating": 77
+          },
+          {
+            "from_url": "https://www.dixmilleheures.fr/comparateur/video-ia",
+            "to_url": "https://app.pixverse.ai/",
+            "title": "Les 13 meilleurs générateurs de vidéo IA gratuits pour entrepreneurs en 2026 | Comparatif & Avis",
+            "anchor": "Essayer",
+            "domain_rating": 33
+          },
+          {
+            "from_url": "https://www.ferramentasai.com.br/ia/pixverse",
+            "to_url": "https://pixverse.ai/",
+            "title": "PixVerse: Vídeo e Animação com IA (freemium)",
+            "anchor": "Site oficial usado como fonte",
+            "domain_rating": 6
+          },
+          {
+            "from_url": "https://www.media.io/ai-video-generator/pixverse-ai.html",
+            "to_url": "https://app.pixverse.ai/",
+            "title": "PixVerse AI : Create Romantic AI Kissing Video in Minutes",
+            "anchor": "PixVerse AI",
+            "domain_rating": 74
+          },
+          {
+            "from_url": "https://cyber.sports.ru/tech/blogs/3358598.html",
+            "to_url": "https://app.pixverse.ai/",
+            "title": "Как оживить старые фото с помощью нейросети, топ ИИ для оживления фото",
+            "anchor": "браузере",
+            "domain_rating": 76
+          },
+          {
+            "from_url": "https://pixverse.en.uptodown.com/android",
+            "to_url": "https://app.pixverse.ai/",
+            "title": "PixVerse for Android - Download the APK from Uptodown",
+            "anchor": "PixVerse",
+            "domain_rating": 83
+          },
+          {
+            "from_url": "https://arena.ai/leaderboard/text-to-video",
+            "to_url": "https://app.pixverse.ai/onboard",
+            "title": "Text-to-Video Leaderboard - Best AI Video Generators",
+            "anchor": "pixverse-v5.6",
+            "domain_rating": 82
+          },
+          {
+            "from_url": "https://www.benchmarksixsigma.com/forum/topic/40201-text-to-animation-creative-video-art/",
+            "to_url": "https://app.pixverse.ai/onboard",
+            "title": "Text-to-Animation & Creative Video Art - AI for Text-to-Video - Generator Tools - Benchmark Six Sigma Forum",
+            "anchor": "Pixverse",
+            "domain_rating": 39
+          },
+          {
+            "from_url": "https://www.apkmirror.com/apk/pixverse/pixverse-ai-video-generator/pixverse-ai-video-generator-3-16-12-release/",
+            "to_url": "https://pixverse.ai/en/privacy-policy",
+            "title": "PixVerse: AI Video Generator 3.16.12 APK Download by PixVerse - APKMirror",
+            "anchor": "pixverse.ai/en/privacy-policy",
+            "domain_rating": 79
+          },
+          {
+            "from_url": "https://crystal-method.com/blog/ai-video/",
+            "to_url": "https://pixverse.ai/ja/blog/best-ai-video-generators",
+            "title": "AI動画とは？種類・仕組み・活用事例を早見表で解説【2026年版】",
+            "anchor": "PixVerse「2026年AI動画生成ツールおすすめ10選」",
+            "domain_rating": 46
+          },
+          {
+            "from_url": "https://www.whytryai.com/p/free-ai-image-to-video-tools-tested",
+            "to_url": "https://pixverse.ai/",
+            "title": "20 Free Image-to-Video AI Models: Tested & Ranked",
+            "anchor": "Check out PixVerse",
+            "domain_rating": 37
+          },
+          {
+            "from_url": "https://curiousrefuge.com/blog/the-best-ai-video-generator",
+            "to_url": "https://pixverse.ai/en",
+            "title": "Which AI Video Generator is the Best? | A Breakdown of the Top AI Video Tools — Curious Refuge",
+            "anchor": "AI Video Generator | Pixverse Ranking",
+            "domain_rating": 54
+          }
+        ]
+      },
+      "backlinks_evidence": "domains/pixverse.ai/backlinks.json"
+    },
+    "pages": [
+      {
+        "kind": "home",
+        "label": "首页",
+        "path": "products/pixverse/pages/home.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://pixverse.ai/",
+          "resolved_url": "https://pixverse.ai/en",
+          "http_status": 200
+        },
+        "page": {
+          "title": "The Generative Core Behind Digital Worlds and Experiences | PixVerse"
+        },
+        "content": "首页展示可编辑图式工作流、命令行批量生成和商用场景。"
+      },
+      {
+        "kind": "pricing",
+        "label": "定价资料",
+        "path": "products/pixverse/pages/pricing.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://app.pixverse.ai/subscribe",
+          "resolved_url": "https://app.pixverse.ai/subscribe",
+          "http_status": 200
+        },
+        "page": {
+          "title": "PixVerse Pricing: Credits, Plans & AI Video Costs"
+        },
+        "content": "已保存官网来源；本公开版不转载页面全文。"
+      },
+      {
+        "kind": "action-r2",
+        "label": "官方动态",
+        "path": "products/pixverse/pages/action-r2.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://pixverse.ai/en/blog/pixverse-introduces-r2-real-time-world-model",
+          "resolved_url": "https://pixverse.ai/en/blog/pixverse-introduces-r2-real-time-world-model",
+          "http_status": 200
+        },
+        "page": {
+          "title": "PixVerse Introduces R2, Advancing Its Real-Time World Model Toward Persistent, Playable Worlds | PixVerse"
+        },
+        "content": "将生成扩展到持续、可互动的世界，强调更多数据、任务和输入类型。"
+      }
+    ],
+    "searches": [],
+    "issues": [],
+    "screenshot": null,
+    "product_entry_links": [
+      "https://app.pixverse.ai/",
+      "https://app.pixverse.ai/creation/video",
+      "https://app.pixverse.ai/?tab=template",
+      "https://app.pixverse.ai/cli",
+      "https://app.pixverse.ai/agent",
+      "https://app.pixverse.ai/mini-apps",
+      "https://app.pixverse.ai/marketing-hub",
+      "https://app.pixverse.ai/canvas"
+    ]
+  },
+  "metrics": {
+    "visits": 5550505,
+    "mom": -0.13515327273412858,
+    "change3": -0.11247500365371188,
+    "rolling3": -0.039928818704835334,
+    "recent_average": 6275552.0,
+    "prior_average": 6536548.666666667,
+    "up_streak": 0,
+    "derived_channels": {
+      "search_paid_visits": 944140.9005,
+      "social_paid_visits": 46069.1915,
+      "search_organic_visits": 954131.8095,
+      "social_organic_visits": 330810.098,
+      "direct_visits": 2654806.5415
+    },
+    "scope": "site",
+    "profile": "首页覆盖片段生成、影视制作及实时互动世界；不只是广告工具。",
+    "profile_source": "products/pixverse/pages/home.json"
+  },
+  "editorial": {
+    "thesis": "片段生成、Canvas 与实时互动世界拓展了不同需求，应该分别衡量。",
+    "focus": "9 月 22 日 R2 发布晚于流量窗口。不能用 8 月网站访问评价其发布效果，后续应将互动体验和制作工具入口分组。",
+    "experiment": "为持续互动故事与传统片段生成各建任务入口，比较首次可用输出和再次使用。",
+    "measure": "交互会话完成率、状态连续性、片段导出率与每次任务成本。",
+    "watch": "R2 更新、Canvas 流程、CLI 批量生成与新月份流量。"
+  },
+  "activities": [
+    {
+      "product_id": "pixverse",
+      "type": "workflow",
+      "title": "Canvas、命令行与行业应用",
+      "detail": "首页展示可编辑图式工作流、命令行批量生成和商用场景。",
+      "anchors": [
+        "Map Your Workflow",
+        "Ship from Terminal"
+      ],
+      "source": "products/pixverse/pages/home.json",
+      "event_date": null,
+      "id": "activity-39",
+      "source_url": "https://pixverse.ai/en",
+      "observed_at": "2026-10-02"
+    },
+    {
+      "product_id": "pixverse",
+      "type": "launch",
+      "title": "发布 R2 实时世界模型",
+      "detail": "将生成扩展到持续、可互动的世界，强调更多数据、任务和输入类型。",
+      "anchors": [
+        "September 22, 2026",
+        "real-time world model"
+      ],
+      "source": "products/pixverse/pages/action-r2.json",
+      "event_date": "2026-09-22",
+      "id": "activity-51",
+      "source_url": "https://pixverse.ai/en/blog/pixverse-introduces-r2-real-time-world-model",
+      "observed_at": "2026-10-02"
+    }
+  ],
+  "x_posts": []
+}

@@ -1,0 +1,409 @@
+{
+  "schema_version": 1,
+  "product": {
+    "id": "hailuo",
+    "name": "Hailuo",
+    "x_handle": "Hailuo_AI",
+    "homepage": "https://hailuoai.video/",
+    "ads_priority": false,
+    "traffic_domain": "hailuoai.video",
+    "additional_domains": [],
+    "scope_note": "域名级流量估算，非付费用户、收入或模型调用量。",
+    "shared_scope": false,
+    "domain_data": {
+      "domain": "hailuoai.video",
+      "traffic": {
+        "domain": "hailuoai.video",
+        "overview": {
+          "global_rank": 13861,
+          "country_rank": {
+            "country": "IN",
+            "rank": 4848
+          },
+          "visits": 2990838,
+          "bounce_rate": 0.37758849676156037,
+          "pages_per_visit": 7.154432218723516,
+          "time_on_site_seconds": 432.10888128515245,
+          "month": "2026-08"
+        },
+        "monthly_visits": [
+          {
+            "month": "2025-09",
+            "visits": 6001724
+          },
+          {
+            "month": "2025-10",
+            "visits": 6702106
+          },
+          {
+            "month": "2025-11",
+            "visits": 8640249
+          },
+          {
+            "month": "2025-12",
+            "visits": 7599849
+          },
+          {
+            "month": "2026-01",
+            "visits": 5190016
+          },
+          {
+            "month": "2026-02",
+            "visits": 2951045
+          },
+          {
+            "month": "2026-03",
+            "visits": 2641757
+          },
+          {
+            "month": "2026-04",
+            "visits": 2255779
+          },
+          {
+            "month": "2026-05",
+            "visits": 2550122
+          },
+          {
+            "month": "2026-06",
+            "visits": 2693721
+          },
+          {
+            "month": "2026-07",
+            "visits": 2866409
+          },
+          {
+            "month": "2026-08",
+            "visits": 2990838
+          }
+        ],
+        "traffic_sources": {
+          "direct": 0.5116,
+          "search": 0.3363,
+          "search_organic": 0.3271,
+          "search_paid": 0.0092,
+          "social": 0.0439,
+          "social_organic": 0.0394,
+          "social_paid": 0.0045,
+          "referrals": 0.0522,
+          "paid_referrals": 0.0021,
+          "mail": 0.0097,
+          "gen_ai": 0.0365,
+          "affiliate": 0.0078,
+          "other": 0
+        },
+        "top_keywords": [
+          {
+            "name": "hailuo ai",
+            "volume": 302770,
+            "cpc": 0.26,
+            "estimated_value": 630390
+          },
+          {
+            "name": "hailuo",
+            "volume": 77900,
+            "cpc": 0.57,
+            "estimated_value": 87290
+          },
+          {
+            "name": "hailou ai",
+            "volume": 26720,
+            "cpc": 0.39,
+            "estimated_value": 36920
+          },
+          {
+            "name": "hailuo ai (minimax)",
+            "volume": 21140,
+            "cpc": 0.3,
+            "estimated_value": 15370
+          },
+          {
+            "name": "minimax h3",
+            "volume": 926660,
+            "cpc": 0,
+            "estimated_value": 9060
+          }
+        ],
+        "top_regions": [
+          {
+            "country": "US",
+            "name": "United States",
+            "share": 0.1586
+          },
+          {
+            "country": "IN",
+            "name": "India",
+            "share": 0.096
+          },
+          {
+            "country": "KR",
+            "name": "Korea, Republic of",
+            "share": 0.0452
+          },
+          {
+            "country": "BR",
+            "name": "Brazil",
+            "share": 0.0411
+          },
+          {
+            "country": "IT",
+            "name": "Italy",
+            "share": 0.0395
+          }
+        ]
+      },
+      "traffic_evidence": "domains/hailuoai.video/traffic.json",
+      "traffic_status": "ok",
+      "registration_date": "2024-09-05T03:48:29.521Z",
+      "backlinks": {
+        "domain": "hailuoai.video",
+        "overview": {
+          "domain_rating": 74,
+          "backlinks": 87666,
+          "referring_domains": 9524,
+          "dofollow_backlinks_pct": 70,
+          "dofollow_referring_domains_pct": 74
+        },
+        "backlinks": [
+          {
+            "from_url": "https://www.seaart.ai/",
+            "to_url": "https://hailuoai.video/ja",
+            "title": "AI Creativity Community for Art, Video, Chat & Tools | SeaArt AI",
+            "anchor": "logo-5",
+            "domain_rating": 70
+          },
+          {
+            "from_url": "https://zapier.com/blog/best-ai-video-generator/",
+            "to_url": "https://hailuoai.video/",
+            "title": "The 17 best AI video generators in 2026 | Zapier",
+            "anchor": "MiniMax's Hailuo",
+            "domain_rating": 91
+          },
+          {
+            "from_url": "https://codimd.apps.education.fr/s/r1H5nglAY",
+            "to_url": "https://hailuoai.video/",
+            "title": "Une sélection d’IA génératives gratuites en ligne - CodiMD",
+            "anchor": "Hailuoai",
+            "domain_rating": 85
+          },
+          {
+            "from_url": "https://guardia.school/boite-a-outils/top-10-meilleures-ia-gratuites.html",
+            "to_url": "https://hailuoai.video/",
+            "title": "Top 10 des meilleures IA gratuites à découvrir en 2026",
+            "anchor": "Site officiel",
+            "domain_rating": 63
+          },
+          {
+            "from_url": "https://play.google.com/store/apps/details?id=ai.hailuo.video&hl=en",
+            "to_url": "https://hailuoai.video/doc/privacy-policy.html",
+            "title": "Hailuo AI: Image&Video Maker - Apps on Google Play",
+            "anchor": "shieldPrivacy Policy",
+            "domain_rating": 100
+          },
+          {
+            "from_url": "https://www.dreamega.ai/models/hailuo-ai",
+            "to_url": "https://hailuoai.video/create/image-to-video",
+            "title": "Hailuo AI: High-Quality AI Video Generator | Dreamega",
+            "anchor": "hailuoai.video/create/image-t…",
+            "domain_rating": 30
+          },
+          {
+            "from_url": "https://www.minimax.io/audio/text-to-speech/vietnamese/vi",
+            "to_url": "https://hailuoai.video/agent",
+            "title": "Công cụ Chuyển văn bản thành Giọng nói tiếng Việt Miễn phí với Giọng AI Tự nhiên | MiniMax Audio",
+            "anchor": "Agent",
+            "domain_rating": 80
+          },
+          {
+            "from_url": "https://digital-gorilla.co.jp/ai-lab/ai-video-generation-free/",
+            "to_url": "https://hailuoai.video/",
+            "title": "【2026年最新】ai動画生成 無料おすすめ10選｜使い方・商用利用・日本語対応を比較 – ゴリラのAI研究所",
+            "anchor": "Hailuo AI公式サイト",
+            "domain_rating": 27
+          },
+          {
+            "from_url": "https://t-j.ru/short/ai-for-all/",
+            "to_url": "https://hailuoai.video/",
+            "title": "Бесплатные нейросети онлайн: 50 лучших ИИ-сервисов",
+            "anchor": "Попробовать",
+            "domain_rating": 77
+          },
+          {
+            "from_url": "https://raylab.ru/blog/kak-ozhivit-fotografii-reyting-neyrosetey/",
+            "to_url": "http://hailuoai.video/",
+            "title": "Как оживить фотографии: рейтинг нейросетей",
+            "anchor": "Hailuo AI",
+            "domain_rating": 20
+          },
+          {
+            "from_url": "https://cads.com.vn/vi/top-10-cong-cu-tao-video-ai-mien-phi-tot-nhat-2026-nws275.html",
+            "to_url": "https://hailuoai.video/",
+            "title": "TOP 10 CÔNG CỤ TẠO VIDEO AI MIỄN PHÍ TỐT NHẤT 2026",
+            "anchor": "https://hailuoai.video/",
+            "domain_rating": 9
+          },
+          {
+            "from_url": "https://cyber.sports.ru/tech/blogs/3358598.html",
+            "to_url": "https://hailuoai.video/",
+            "title": "Как оживить старые фото с помощью нейросети, топ ИИ для оживления фото",
+            "anchor": "браузере",
+            "domain_rating": 76
+          },
+          {
+            "from_url": "https://www.veo3ai.io/blog/best-free-ai-video-generators-2026",
+            "to_url": "https://hailuoai.video/doc/payment-policy.html",
+            "title": "7 Best Free AI Video Generators 2026: Tested & Ranked (No Watermark)",
+            "anchor": "Hailuo AI Video subscription terms",
+            "domain_rating": 38
+          },
+          {
+            "from_url": "https://www.trazim.com/",
+            "to_url": "https://hailuoai.video/",
+            "title": "TRAZIM.com - Najposjećenije web stranice 2025✓ Najpopularniji web-sajtovi 2025✓ Top 100 najposjećenijih web sajtova 2025 TRAZIM.com vijesti✓ TRAZIM Novosti ✓ TRAZIM Stampu.",
+            "anchor": "Hailuai Video",
+            "domain_rating": 19
+          },
+          {
+            "from_url": "https://arena.ai/leaderboard/text-to-video",
+            "to_url": "https://hailuoai.video/",
+            "title": "Text-to-Video Leaderboard - Best AI Video Generators",
+            "anchor": "hailuo-2.3",
+            "domain_rating": 82
+          },
+          {
+            "from_url": "https://iaempresa.com/6-ias-gratis-de-china",
+            "to_url": "https://hailuoai.video/",
+            "title": "7 IAs chinas gratis en español: comparativa 2026",
+            "anchor": "hailuoai.video",
+            "domain_rating": 0
+          },
+          {
+            "from_url": "https://www.lummi.ai/blog/best-ai-video-generators",
+            "to_url": "https://hailuoai.video/doc/landing-page.html",
+            "title": "We tested out the 14 best AI video generators for creatives | Lummi",
+            "anchor": "Hailuo AI",
+            "domain_rating": 75
+          },
+          {
+            "from_url": "https://www.blackhatworld.com/seo/best-ai-video-voice-and-music-generator-all-together-please-help.1643909/",
+            "to_url": "https://hailuoai.video/",
+            "title": "Best AI Video, Voice and Music generator all together? Please help. | BlackHatWorld",
+            "anchor": "https://hailuoai.video/",
+            "domain_rating": 75
+          },
+          {
+            "from_url": "https://www.ibest.com.tw/news-detail/2025-ai-tools/",
+            "to_url": "https://hailuoai.video/zh-Hant",
+            "title": "2026 全球 19 款最強 AI 工具推薦！最新 Top100 AI 熱門榜這裡看！",
+            "anchor": "立即前往 海螺 AI",
+            "domain_rating": 75
+          },
+          {
+            "from_url": "https://www.motiontheagency.com/blog/top-generative-ai-video-tools",
+            "to_url": "https://hailuoai.video/",
+            "title": "Top AI video generation tools 2026: tested & ranked",
+            "anchor": "Hailuo",
+            "domain_rating": 33
+          }
+        ]
+      },
+      "backlinks_evidence": "domains/hailuoai.video/backlinks.json"
+    },
+    "pages": [
+      {
+        "kind": "home",
+        "label": "首页",
+        "path": "products/hailuo/pages/home.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://hailuoai.video/",
+          "resolved_url": "https://hailuoai.video/",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Hailuo AI: MiniMax H3 LIVE NOW. Top-Tier Quality, Versatile References"
+        },
+        "content": "首页同时出现新用户免费额度和问卷奖励入口。\n首页以 Ads Free、Trending、宠物、ASMR 等任务入口承接需求。"
+      },
+      {
+        "kind": "pricing",
+        "label": "定价资料",
+        "path": "products/hailuo/pages/pricing.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://hailuoai.video/doc/payment-policy.html",
+          "resolved_url": "https://hailuoai.video/doc/payment-policy.html",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Hailuo AI Video Subscription Service Terms"
+        },
+        "content": "已保存官网来源；本公开版不转载页面全文。"
+      }
+    ],
+    "searches": [],
+    "issues": [],
+    "screenshot": null,
+    "product_entry_links": []
+  },
+  "metrics": {
+    "visits": 2990838,
+    "mom": 0.04340936691170039,
+    "change3": 0.17282153559712055,
+    "rolling3": 0.14814187225031006,
+    "recent_average": 2850322.6666666665,
+    "prior_average": 2482552.6666666665,
+    "up_streak": 4,
+    "derived_channels": {
+      "search_paid_visits": 27515.7096,
+      "social_paid_visits": 13458.770999999999,
+      "search_organic_visits": 978303.1098,
+      "social_organic_visits": 117839.01719999999,
+      "direct_visits": 1530112.7208000002
+    },
+    "scope": "site",
+    "profile": "MiniMax 视频生成产品入口；与 MiniMax 公司站分别保存，不能直接相加。",
+    "profile_source": "products/hailuo/pages/home.json"
+  },
+  "editorial": {
+    "thesis": "免费额度与热点模板共同降低首次生成门槛。",
+    "focus": "新用户额度、问卷奖励和 Ads Free、Trending 入口并列；它们是可观察到的激活动作，尚无奖励后的留存或付费结果。",
+    "experiment": "分别测试额度奖励与任务模板，引导用户在一次会话内生成可下载的广告片。",
+    "measure": "领取到消耗率、首次合格片率、奖励后 7 日回访生成率与补贴占付费收入比例。",
+    "watch": "免费额度调整、热点模板更替以及广告入口的位置。"
+  },
+  "activities": [
+    {
+      "product_id": "hailuo",
+      "type": "promotion",
+      "title": "注册送额度，问卷换奖励",
+      "detail": "首页同时出现新用户免费额度和问卷奖励入口。",
+      "anchors": [
+        "Take the Survey, Earn Credits",
+        "New users receive free credits"
+      ],
+      "source": "products/hailuo/pages/home.json",
+      "event_date": null,
+      "id": "activity-9",
+      "source_url": "https://hailuoai.video/",
+      "observed_at": "2026-10-02"
+    },
+    {
+      "product_id": "hailuo",
+      "type": "template",
+      "title": "用广告和热点模板吸引生成",
+      "detail": "首页以 Ads Free、Trending、宠物、ASMR 等任务入口承接需求。",
+      "anchors": [
+        "ai-ad-generator",
+        "ai-asmr-generator"
+      ],
+      "source": "products/hailuo/pages/home.json",
+      "event_date": null,
+      "id": "activity-10",
+      "source_url": "https://hailuoai.video/",
+      "observed_at": "2026-10-02"
+    }
+  ],
+  "x_posts": []
+}

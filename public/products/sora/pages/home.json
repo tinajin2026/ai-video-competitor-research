@@ -1,0 +1,8 @@
+{
+  "product_id": "sora",
+  "observed_at": "2026-10-02",
+  "source_url": "https://help.openai.com/en/articles/20001152-what-to-know-about-the-sora-discontinuation",
+  "status": "ok",
+  "research_note": "官网入口已转到停服说明；历史流量仍保留，移出活跃样本。",
+  "notice": "公开研究摘记；原始抓取保留在本地。"
+}

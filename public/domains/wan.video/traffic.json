@@ -1,0 +1,145 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "wan.video",
+  "measurement": "第三方域名级估算",
+  "data": {
+    "domain": "wan.video",
+    "overview": {
+      "global_rank": 27932,
+      "country_rank": {
+        "country": "IN",
+        "rank": 8773
+      },
+      "visits": 1736088,
+      "bounce_rate": 0.3651806959122793,
+      "pages_per_visit": 5.0004372059609565,
+      "time_on_site_seconds": 327.9722247215117,
+      "month": "2026-08"
+    },
+    "monthly_visits": [
+      {
+        "month": "2025-09",
+        "visits": 3944103
+      },
+      {
+        "month": "2025-10",
+        "visits": 5459569
+      },
+      {
+        "month": "2025-11",
+        "visits": 3648779
+      },
+      {
+        "month": "2025-12",
+        "visits": 3044508
+      },
+      {
+        "month": "2026-01",
+        "visits": 3703558
+      },
+      {
+        "month": "2026-02",
+        "visits": 3114393
+      },
+      {
+        "month": "2026-03",
+        "visits": 2711760
+      },
+      {
+        "month": "2026-04",
+        "visits": 3091953
+      },
+      {
+        "month": "2026-05",
+        "visits": 3059292
+      },
+      {
+        "month": "2026-06",
+        "visits": 2368499
+      },
+      {
+        "month": "2026-07",
+        "visits": 2182344
+      },
+      {
+        "month": "2026-08",
+        "visits": 1736088
+      }
+    ],
+    "traffic_sources": {
+      "direct": 0.5217,
+      "search": 0.2374,
+      "search_organic": 0.2374,
+      "search_paid": 0,
+      "social": 0.0679,
+      "social_organic": 0.0673,
+      "social_paid": 0.0005,
+      "referrals": 0.1341,
+      "paid_referrals": 0.0057,
+      "mail": 0.0092,
+      "gen_ai": 0.024,
+      "affiliate": 0,
+      "other": 0
+    },
+    "top_keywords": [
+      {
+        "name": "wan ai",
+        "volume": 66340,
+        "cpc": 0.32,
+        "estimated_value": 132720
+      },
+      {
+        "name": "wan",
+        "volume": 102270,
+        "cpc": 0.73,
+        "estimated_value": 57720
+      },
+      {
+        "name": "wan 2.2",
+        "volume": 54190,
+        "cpc": 0.56,
+        "estimated_value": 36290
+      },
+      {
+        "name": "wan video",
+        "volume": 12890,
+        "cpc": 0.23,
+        "estimated_value": 20290
+      },
+      {
+        "name": "wan 2.5",
+        "volume": 13660,
+        "cpc": 0.09,
+        "estimated_value": 15240
+      }
+    ],
+    "top_regions": [
+      {
+        "country": "US",
+        "name": "United States",
+        "share": 0.1435
+      },
+      {
+        "country": "IN",
+        "name": "India",
+        "share": 0.124
+      },
+      {
+        "country": "RU",
+        "name": "Russia",
+        "share": 0.0564
+      },
+      {
+        "country": "BR",
+        "name": "Brazil",
+        "share": 0.0534
+      },
+      {
+        "country": "DE",
+        "name": "Germany",
+        "share": 0.0506
+      }
+    ]
+  }
+}

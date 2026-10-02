@@ -1,0 +1,158 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "leonardo.ai",
+  "measurement": "第三方外链样本",
+  "data": {
+    "domain": "leonardo.ai",
+    "overview": {
+      "domain_rating": 82,
+      "backlinks": 517567,
+      "referring_domains": 24260,
+      "dofollow_backlinks_pct": 64,
+      "dofollow_referring_domains_pct": 77
+    },
+    "backlinks": [
+      {
+        "from_url": "https://li.ntou.edu.tw/p/404-1029-107995.php?Lang=en",
+        "to_url": "https://leonardo.ai/",
+        "title": "Leonardo.Ai",
+        "anchor": "https://leonardo.ai/",
+        "domain_rating": 69
+      },
+      {
+        "from_url": "https://zapier.com/blog/best-ai-image-generator/",
+        "to_url": "https://leonardo.ai/",
+        "title": "The 8 best AI image generators in 2026 | Zapier",
+        "anchor": "Leonardo.Ai",
+        "domain_rating": 91
+      },
+      {
+        "from_url": "https://www.remove.bg/f/batch-editing",
+        "to_url": "https://leonardo.ai/news/removebg-api-leonardo",
+        "title": "Remove backgrounds in bulk – remove.bg",
+        "anchor": "Go to Leonardo.Ai",
+        "domain_rating": 83
+      },
+      {
+        "from_url": "https://en.wikipedia.org/wiki/Leonardo.ai",
+        "to_url": "https://leonardo.ai/",
+        "title": "Leonardo.ai",
+        "anchor": "Official website",
+        "domain_rating": 97
+      },
+      {
+        "from_url": "https://codimd.apps.education.fr/s/r1H5nglAY",
+        "to_url": "https://leonardo.ai/",
+        "title": "Une sélection d’IA génératives gratuites en ligne - CodiMD",
+        "anchor": "Leonardo",
+        "domain_rating": 85
+      },
+      {
+        "from_url": "https://sitios.cl/",
+        "to_url": "https://leonardo.ai/",
+        "title": "sitios.cl - Portal de sitios en Chile",
+        "anchor": "Leonardo",
+        "domain_rating": 38
+      },
+      {
+        "from_url": "https://www.byriwa.com/ai-image-generators/",
+        "to_url": "https://app.leonardo.ai/",
+        "title": "9 Best AI Image Generators: Free and Paid Tools",
+        "anchor": "7. Leonardo (Free)",
+        "domain_rating": 2
+      },
+      {
+        "from_url": "https://www.ionos.mx/digitalguide/paginas-web/creacion-de-paginas-web/las-mejores-paginas-web-de-ia-para-imagenes/",
+        "to_url": "https://leonardo.ai/ai-art-generator/",
+        "title": "IA en imágenes| 10 generadores de imágenes con IA - IONOS México",
+        "anchor": "Leonardo",
+        "domain_rating": 71
+      },
+      {
+        "from_url": "https://www.canva.com/pt_br/logo-ia/",
+        "to_url": "https://leonardo.ai/terms-of-service",
+        "title": "Gerador de Logo com IA Grátis (2026) | Canva",
+        "anchor": "Termos de Serviço",
+        "domain_rating": 93
+      },
+      {
+        "from_url": "https://guardia.school/boite-a-outils/top-10-meilleures-ia-gratuites.html",
+        "to_url": "https://leonardo.ai/",
+        "title": "Top 10 des meilleures IA gratuites à découvrir en 2026",
+        "anchor": "Site officiel",
+        "domain_rating": 63
+      },
+      {
+        "from_url": "https://play.google.com/store/apps/details?id=ai.leonardo.leonardo&hl=en",
+        "to_url": "https://leonardo.ai/privacy-policy/",
+        "title": "Leonardo.Ai - Image Generator - Apps on Google Play",
+        "anchor": "shieldPrivacy Policy",
+        "domain_rating": 100
+      },
+      {
+        "from_url": "https://apps.make.com/leonardo-ai",
+        "to_url": "https://leonardo.ai/pricing",
+        "title": "Leonardo.Ai - Apps Documentation",
+        "anchor": "Leonardo.Ai pricing page",
+        "domain_rating": 90
+      },
+      {
+        "from_url": "https://readyforjob.in/pages/ai.html",
+        "to_url": "https://leonardo.ai/",
+        "title": "Free AI Tools 2026 — Complete List | No Credit Card",
+        "anchor": "Visit Tool",
+        "domain_rating": 0
+      },
+      {
+        "from_url": "https://www.datacamp.com/blog/free-ai-tools",
+        "to_url": "https://leonardo.ai/",
+        "title": "The 40 Best Free AI Tools in 2026: A Complete Guide | DataCamp",
+        "anchor": "Leonardo.Ai",
+        "domain_rating": 85
+      },
+      {
+        "from_url": "https://saitebi.info/",
+        "to_url": "https://leonardo.ai/",
+        "title": "Saitebi.INFO - საიტების კატალოგი | saitebi",
+        "anchor": "<b>Leonardo.Ai</b> არის მოწინავე ხელოვნური ინტელექტის პლატფორმა, რომელიც გამოიყენება <b>სურათების გენერაციისთვის</b>, განსაკუთრებით თამაშების დიზაინში, ...",
+        "domain_rating": 28
+      },
+      {
+        "from_url": "https://www.youtube.com/watch?v=PioLaHXmuQM",
+        "to_url": "https://leonardo.ai/",
+        "title": "The Best of Vivaldi 🎵 Timeless works of Classical Music ✨ - YouTube",
+        "anchor": "https://leonardo.ai",
+        "domain_rating": 99
+      },
+      {
+        "from_url": "https://www.dixmilleheures.fr/comparateur/generateur-image-ia",
+        "to_url": "https://www.leonardo.ai/",
+        "title": "Les 13 meilleurs générateurs d'image IA en ligne pour entrepreneurs en 2026 | Comparatif & Avis",
+        "anchor": "Essayer",
+        "domain_rating": 33
+      },
+      {
+        "from_url": "https://www.coursebox.ai/pt/blog/gerador-de-imagens-de-ia",
+        "to_url": "https://leonardo.ai/ai-image-generator",
+        "title": "Comparativo de 10 poderosos geradores de imagens com IA | Coursebox AI",
+        "anchor": "Leonardo",
+        "domain_rating": 70
+      },
+      {
+        "from_url": "https://www.upv.es/contenidos/adigital/leonardo-ai/",
+        "to_url": "https://leonardo.ai/",
+        "title": "Leonardo.ai | ADIGITAL | UPV",
+        "anchor": "leonardo.ai >>",
+        "domain_rating": 83
+      },
+      {
+        "from_url": "https://justdeleteme.xyz/",
+        "to_url": "https://leonardo.ai/contact-us",
+        "title": "Just Delete Me | A directory of direct links to delete your account from web services.",
+        "anchor": "Leonardo.ai URL",
+        "domain_rating": 55
+      }
+    ]
+  }
+}

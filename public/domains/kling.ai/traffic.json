@@ -1,0 +1,145 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "kling.ai",
+  "measurement": "第三方域名级估算",
+  "data": {
+    "domain": "kling.ai",
+    "overview": {
+      "global_rank": 4223,
+      "country_rank": {
+        "country": "IN",
+        "rank": 1699
+      },
+      "visits": 11703445,
+      "bounce_rate": 0.35432228161972656,
+      "pages_per_visit": 4.907781980940185,
+      "time_on_site_seconds": 343.43043917199935,
+      "month": "2026-08"
+    },
+    "monthly_visits": [
+      {
+        "month": "2025-09",
+        "visits": 7275
+      },
+      {
+        "month": "2025-10",
+        "visits": 9802
+      },
+      {
+        "month": "2025-11",
+        "visits": 2975
+      },
+      {
+        "month": "2025-12",
+        "visits": 5162
+      },
+      {
+        "month": "2026-01",
+        "visits": 9597
+      },
+      {
+        "month": "2026-02",
+        "visits": 45920
+      },
+      {
+        "month": "2026-03",
+        "visits": 1935779
+      },
+      {
+        "month": "2026-04",
+        "visits": 10681715
+      },
+      {
+        "month": "2026-05",
+        "visits": 12155327
+      },
+      {
+        "month": "2026-06",
+        "visits": 12300434
+      },
+      {
+        "month": "2026-07",
+        "visits": 12510056
+      },
+      {
+        "month": "2026-08",
+        "visits": 11703445
+      }
+    ],
+    "traffic_sources": {
+      "direct": 0.4173,
+      "search": 0.4022,
+      "search_organic": 0.321,
+      "search_paid": 0.0812,
+      "social": 0.0504,
+      "social_organic": 0.048,
+      "social_paid": 0.0023,
+      "referrals": 0.0579,
+      "paid_referrals": 0.0188,
+      "mail": 0.0107,
+      "gen_ai": 0.041,
+      "affiliate": 0.0017,
+      "other": 0
+    },
+    "top_keywords": [
+      {
+        "name": "kling ai",
+        "volume": 1451150,
+        "cpc": 0.48,
+        "estimated_value": 1601440
+      },
+      {
+        "name": "kling",
+        "volume": 496310,
+        "cpc": 1.13,
+        "estimated_value": 370100
+      },
+      {
+        "name": "kling 3.0",
+        "volume": 102290,
+        "cpc": 1.68,
+        "estimated_value": 58130
+      },
+      {
+        "name": "klingai",
+        "volume": 55000,
+        "cpc": 0.84,
+        "estimated_value": 40630
+      },
+      {
+        "name": "king ai",
+        "volume": 37860,
+        "cpc": 0.33,
+        "estimated_value": 35290
+      }
+    ],
+    "top_regions": [
+      {
+        "country": "US",
+        "name": "United States",
+        "share": 0.1288
+      },
+      {
+        "country": "IN",
+        "name": "India",
+        "share": 0.1039
+      },
+      {
+        "country": "KR",
+        "name": "Korea, Republic of",
+        "share": 0.0696
+      },
+      {
+        "country": "BR",
+        "name": "Brazil",
+        "share": 0.0579
+      },
+      {
+        "country": "RU",
+        "name": "Russia",
+        "share": 0.0474
+      }
+    ]
+  }
+}

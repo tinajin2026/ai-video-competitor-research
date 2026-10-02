@@ -1,0 +1,371 @@
+{
+  "schema_version": 1,
+  "product": {
+    "id": "yoroll",
+    "name": "Yoroll",
+    "x_handle": "YorollAI",
+    "homepage": "https://yoroll.ai/",
+    "ads_priority": false,
+    "traffic_domain": "yoroll.ai",
+    "additional_domains": [],
+    "scope_note": "域名级流量估算，非付费用户、收入或模型调用量。",
+    "shared_scope": false,
+    "domain_data": {
+      "domain": "yoroll.ai",
+      "traffic": {
+        "domain": "yoroll.ai",
+        "overview": {
+          "global_rank": 2172904,
+          "country_rank": {
+            "country": "US",
+            "rank": 1081253
+          },
+          "visits": 7149,
+          "bounce_rate": 0.45066220503912174,
+          "pages_per_visit": 3.8263675241325137,
+          "time_on_site_seconds": 169.2513203911135,
+          "month": "2026-08"
+        },
+        "monthly_visits": [
+          {
+            "month": "2025-10",
+            "visits": 0
+          },
+          {
+            "month": "2025-11",
+            "visits": 0
+          },
+          {
+            "month": "2025-12",
+            "visits": 0
+          },
+          {
+            "month": "2026-01",
+            "visits": 0
+          },
+          {
+            "month": "2026-02",
+            "visits": 270
+          },
+          {
+            "month": "2026-03",
+            "visits": 0
+          },
+          {
+            "month": "2026-04",
+            "visits": 3975
+          },
+          {
+            "month": "2026-05",
+            "visits": 25113
+          },
+          {
+            "month": "2026-06",
+            "visits": 15983
+          },
+          {
+            "month": "2026-07",
+            "visits": 12074
+          },
+          {
+            "month": "2026-08",
+            "visits": 7149
+          }
+        ],
+        "traffic_sources": {
+          "direct": 0.4885,
+          "search": 0.3091,
+          "search_organic": 0.2992,
+          "search_paid": 0.0098,
+          "social": 0.0417,
+          "social_organic": 0.0371,
+          "social_paid": 0.0045,
+          "referrals": 0.0741,
+          "paid_referrals": 0.0213,
+          "mail": 0.0296,
+          "gen_ai": 0.0196,
+          "affiliate": 0.0161,
+          "other": 0
+        },
+        "top_keywords": [
+          {
+            "name": "yoroll",
+            "volume": 910,
+            "cpc": 0,
+            "estimated_value": 910
+          },
+          {
+            "name": "诡异广告调查事件",
+            "volume": 400,
+            "cpc": 0,
+            "estimated_value": 580
+          },
+          {
+            "name": "spectrum诡异广告调查",
+            "volume": 80,
+            "cpc": 0,
+            "estimated_value": 80
+          },
+          {
+            "name": "非自愿摄入",
+            "volume": 30,
+            "cpc": 0,
+            "estimated_value": 20
+          },
+          {
+            "name": "yoroll launches ai odyssey, an interactive ai film created on its ai-native video platform",
+            "volume": 840,
+            "cpc": 0,
+            "estimated_value": 10
+          }
+        ],
+        "top_regions": [
+          {
+            "country": "CN",
+            "name": "China",
+            "share": 0.4738
+          },
+          {
+            "country": "US",
+            "name": "United States",
+            "share": 0.3314
+          },
+          {
+            "country": "SG",
+            "name": "Singapore",
+            "share": 0.1896
+          },
+          {
+            "country": "JP",
+            "name": "Japan",
+            "share": 0.0052
+          }
+        ]
+      },
+      "traffic_evidence": "domains/yoroll.ai/traffic.json",
+      "traffic_status": "ok",
+      "registration_date": "2025-11-28T17:00:38.000Z",
+      "backlinks": {
+        "domain": "yoroll.ai",
+        "overview": {
+          "domain_rating": 39,
+          "backlinks": 1241,
+          "referring_domains": 497,
+          "dofollow_backlinks_pct": 56,
+          "dofollow_referring_domains_pct": 27
+        },
+        "backlinks": [
+          {
+            "from_url": "https://expo.gdconf.com/2026/",
+            "to_url": "https://yoroll.ai/",
+            "title": "Partners | GDC Festival of Gaming",
+            "anchor": "www.yoroll.ai",
+            "domain_rating": 80
+          },
+          {
+            "from_url": "https://www.aigc.cn/favorites/new-ai-tools",
+            "to_url": "https://app.yoroll.ai/zh",
+            "title": "新收录AI工具 - 最新收录全网AI工具大全 | AIGC工具导航",
+            "anchor": "Yoroll Yoroll AI原生互动视频游戏",
+            "domain_rating": 59
+          },
+          {
+            "from_url": "https://ai-bot.cn/sites/76648.html",
+            "to_url": "https://app.yoroll.ai/",
+            "title": "Yoroll - LinearGame 推出的 AI 原生互动视频游戏平台 | AI工具集",
+            "anchor": "访问官网",
+            "domain_rating": 71
+          },
+          {
+            "from_url": "https://prompt.cn/",
+            "to_url": "https://app.yoroll.ai/",
+            "title": "PROMPT | AI工具导航平台 - AI工具大全与人工智能应用资源库",
+            "anchor": "直达",
+            "domain_rating": 32
+          },
+          {
+            "from_url": "https://www.lineargame.ai/",
+            "to_url": "https://docs.yoroll.ai/yoroll-term-of-use",
+            "title": "Yoroll.ai - AI-Native Interactive Game Platform",
+            "anchor": "Terms of Service",
+            "domain_rating": 15
+          },
+          {
+            "from_url": "https://www.bensbites.com/p/ive-got-an-inkling",
+            "to_url": "https://yoroll.ai/",
+            "title": "I've got an Inkling - Ben's Bites",
+            "anchor": "Yoroll",
+            "domain_rating": 67
+          },
+          {
+            "from_url": "https://www.businesswire.com/news/home/20260203939367/en/The-World-Model-Revolution-How-Yoroll.ai-is-Building-the-First-Engine-less-Game-Platform",
+            "to_url": "https://yoroll.ai/",
+            "title": "The World Model Revolution: How Yoroll.ai is Building the First Engine-less Game Platform",
+            "anchor": "Yoroll.ai Logo",
+            "domain_rating": 92
+          },
+          {
+            "from_url": "https://www.eznewswire.com/newsroom/yoroll-ai-odyssey-interactive-film-platform",
+            "to_url": "https://app.yoroll.ai/feed/odyssey",
+            "title": "Yoroll Launches AI Odyssey, an Interactive AI Film Created on Its AI-Native Video Platform",
+            "anchor": "app.yoroll.ai/feed/odyssey",
+            "domain_rating": 49
+          },
+          {
+            "from_url": "https://askallai.net/",
+            "to_url": "https://app.yoroll.ai/",
+            "title": "AskAllAI - 对话所有AI - AI版知乎",
+            "anchor": "直达",
+            "domain_rating": 18
+          },
+          {
+            "from_url": "https://webcurios.co.uk/webcurios-17-04-26/",
+            "to_url": "https://yoroll.ai/",
+            "title": "Webcurios 17/04/26 – webcurios",
+            "anchor": "Yoroll",
+            "domain_rating": 45
+          },
+          {
+            "from_url": "https://quicklinkpro.shop/kanjl9b-how-hotel-groups-australia-new-zealand-split-25000-seo/",
+            "to_url": "https://yoroll.ai/",
+            "title": "Ranking in Asia-Pacific Is Not the Same Job as Ranking at Home: What Metrics-Driven Buyers Need to Change About Topical Authority Builds, DA Boost Packages and Log File Analysis: With the Tiering Structure Behind It — Quick Link Pro provides comprehensive resources for strategic backlink development, contextual linking, and authority-focused search optimization. Our coverage includes relevant backlink opportunities, natural link profiles, anchor text diversity, content placements, competitor link research, website authority signals, technical SEO, keyword relevance, internal linking, and content optimization strategies designed to help websites build stronger credibility and maintain sustainable visibility across competitive organic search markets.",
+            "anchor": "There is no mystery to how yoroll.ai works: clean internal linking and content refresh sprints for media buyers, priced for a first order or a standing one. Every campaign ships with a written scope for every order.",
+            "domain_rating": 0
+          },
+          {
+            "from_url": "https://ai-cluster.world/ro/category/ai-video/",
+            "to_url": "https://app.yoroll.ai/",
+            "title": "Instrumente IA video — 98 instrumente și linkuri oficiale | AI Cluster",
+            "anchor": "YorollLinearGame 推出的 AI 原生互动视频游戏平台",
+            "domain_rating": 0
+          },
+          {
+            "from_url": "https://chainwire.org/2026/05/15/yoroll-signed-creator-announces-viral-ai-short-zombie-scavenger-and-video-game/",
+            "to_url": "https://yoroll.ai/",
+            "title": "Yoroll-signed creator announces viral AI short Zombie Scavenger and video game - Chainwire",
+            "anchor": "Yoroll",
+            "domain_rating": 66
+          },
+          {
+            "from_url": "https://boldseohub.shop/kanjl9b-how-hotel-groups-australia-new-zealand-split-25000-seo/",
+            "to_url": "https://yoroll.ai/",
+            "title": "Ranking in Asia-Pacific Is Not the Same Job as Ranking at Home: What Metrics-Driven Buyers Need to Change About Topical Authority Builds, DA Boost Packages and Log File Analysis: With the Tiering Structure Behind It — Bold SEO Hub provides practical and detailed search engine optimization insights covering the technical, content, backlink, and authority factors involved in stronger organic performance. Our resources explore contextual links, backlink development, keyword visibility, technical improvements, competitor research, content relevance, site structure, internal linking, crawling, indexing, search intent, and website authority while focusing on sustainable optimization strategies for businesses operating across multiple industries and international search environments.",
+            "anchor": "There is no mystery to how yoroll.ai works: clean internal linking and content refresh sprints for media buyers, priced for a first order or a standing one. Every campaign ships with a written scope for every order.",
+            "domain_rating": 0
+          },
+          {
+            "from_url": "https://signalnewsbaltimore.com/press-releases/59860/10-seconds-of-video-in-4-seconds-yoroll-launches-h3-superfast-and-yolive/",
+            "to_url": "http://app.yoroll.ai/",
+            "title": "10 Seconds of Video in 4 Seconds: Yoroll Launches H3 Superfast and YoLive - SignalNews Baltimore",
+            "anchor": "Yoroll",
+            "domain_rating": 2
+          },
+          {
+            "from_url": "https://rankseotoolkit.shop/5ff711815-120-day-guest-posts-journey-insurance-page3-to-top3-rankings-advanced-growth-framework-authority-traffic-and-conversions-for-consistent-traffic-growth/",
+            "to_url": "https://yoroll.ai/",
+            "title": "Rank SEO Toolkit — Professional resources for ranking strategy, technical optimization and authority signals for competitive rankings and dependable organic discovery — From Position 80 to Position 1 in YMYL — The 45-Day Strategy Built Entirely on Contextual Backlinks — Supported by clear planning and execution details, realistic outcome expectations, and durable ranking strategies",
+            "anchor": "For yoroll.ai, we deliver contextual backlinks, premium guest posts, on-page SEO, local SEO, custom web development, SaaS tools plus automation tools — a noticeable DR/DA/TF rise across any niche. Results are supported by relevant placements, sensible link velocity, documented checks, competitor comparisons, and clear evidence of progress. · Rank SEO Toolkit — Professional resources for ...",
+            "domain_rating": 0
+          },
+          {
+            "from_url": "https://www.pipix.cc/sites/32552.html",
+            "to_url": "https://yoroll.ai/",
+            "title": "天工智码Skycode官网 - AI编程工具 - 皮皮虾导航",
+            "anchor": "直达",
+            "domain_rating": 4
+          },
+          {
+            "from_url": "https://crawllivo.shop/kanjl9b-how-hotel-groups-australia-new-zealand-split-25000-seo/",
+            "to_url": "https://yoroll.ai/",
+            "title": "Ranking in Asia-Pacific Is Not the Same Job as Ranking at Home: What Metrics-Driven Buyers Need to Change About Topical Authority Builds, DA Boost Packages and Log File Analysis: With the Tiering Structure Behind It — Crawl Livo provides detailed technical SEO resources centered on website crawling, indexing, content discovery, internal linking, search accessibility, and site architecture. Our coverage also includes sitemap optimization, canonicalization, redirects, technical performance, content relevance, backlink authority, website structure, and practical strategies that help search engines discover and understand important pages more efficiently while supporting sustainable organic visibility.",
+            "anchor": "There is no mystery to how yoroll.ai works: clean internal linking and content refresh sprints for media buyers, priced for a first order or a standing one. Every campaign ships with a written scope for every order.",
+            "domain_rating": 0
+          },
+          {
+            "from_url": "https://aiproducthub.cn/sites/teamo-agent.html",
+            "to_url": "https://app.yoroll.ai/zh",
+            "title": "Teamo | AI产品库官网 - AIProductHub",
+            "anchor": "Yoroll Yoroll Yoroll是AI原生互动视频游戏平台，通过一句话描述即可生成完整可玩的互动游戏，无需编程基础，大幅降低游戏开发门槛。",
+            "domain_rating": 34
+          },
+          {
+            "from_url": "https://lifestyle.childcarepartnerships.org/story/430231/10-seconds-of-video-in-4-seconds-yoroll-launches-h3-superfast-and-yolive/",
+            "to_url": "http://app.yoroll.ai/",
+            "title": "10 Seconds of Video in 4 Seconds: Yoroll Launches H3 Superfast and YoLive - lifestyle.childcarepartnerships.org",
+            "anchor": "Yoroll",
+            "domain_rating": 33
+          }
+        ]
+      },
+      "backlinks_evidence": "domains/yoroll.ai/backlinks.json"
+    },
+    "pages": [
+      {
+        "kind": "home",
+        "label": "首页",
+        "path": "products/yoroll/pages/home.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://yoroll.ai/",
+          "resolved_url": "https://yoroll.ai/",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Yoroll.ai - AI-Native Interactive Game Platform"
+        },
+        "content": "以 Featured Games 和 Prompt-Powered Creation 展示交互式视频游戏场景。"
+      }
+    ],
+    "searches": [],
+    "issues": [],
+    "screenshot": null,
+    "product_entry_links": [
+      "https://app.yoroll.ai/"
+    ]
+  },
+  "metrics": {
+    "visits": 7149,
+    "mom": -0.40790127546794763,
+    "change3": -0.7153267232110858,
+    "rolling3": 0.21032728272827272,
+    "recent_average": 11735.333333333334,
+    "prior_average": 9696.0,
+    "up_streak": 0,
+    "derived_channels": {
+      "search_paid_visits": 70.0602,
+      "social_paid_visits": 32.1705,
+      "search_organic_visits": 2138.9808000000003,
+      "social_organic_visits": 265.22790000000003,
+      "direct_visits": 3492.2864999999997
+    },
+    "scope": "site",
+    "profile": "首页定位为交互式视频游戏平台；不宜直接与广告成片工具比较获客效率。",
+    "profile_source": "products/yoroll/pages/home.json"
+  },
+  "editorial": {
+    "thesis": "交互式视频是需求较不同的观察对象，小规模流量波动不能替代产品验证。",
+    "focus": "Featured Games 和 Prompt-Powered Creation 将试玩和创作连接起来；关键词含作品标题，适合区分作品带来的消费流量与创作工具需求。",
+    "experiment": "为一个可试玩故事设计明确的二次创作入口，比较作品体验后与直接进入编辑器的激活表现。",
+    "measure": "试玩完成率、试玩到创作率、分支选择完成率与发布作品率。",
+    "watch": "新作品发布、创作者入口、作品词搜索及消费/创作路径变化。"
+  },
+  "activities": [
+    {
+      "product_id": "yoroll",
+      "type": "workflow",
+      "title": "交互游戏创作与试玩入口",
+      "detail": "以 Featured Games 和 Prompt-Powered Creation 展示交互式视频游戏场景。",
+      "anchors": [
+        "Featured Games",
+        "Prompt-Powered Creation"
+      ],
+      "source": "products/yoroll/pages/home.json",
+      "event_date": null,
+      "id": "activity-11",
+      "source_url": "https://yoroll.ai/",
+      "observed_at": "2026-10-02"
+    }
+  ],
+  "x_posts": []
+}

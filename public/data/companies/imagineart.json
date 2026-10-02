@@ -1,0 +1,424 @@
+{
+  "schema_version": 1,
+  "product": {
+    "id": "imagineart",
+    "name": "ImagineArt",
+    "x_handle": "ImagineArt_X",
+    "homepage": "https://www.imagine.art/",
+    "ads_priority": false,
+    "traffic_domain": "imagine.art",
+    "additional_domains": [],
+    "scope_note": "域名级流量估算，非付费用户、收入或模型调用量。",
+    "shared_scope": false,
+    "domain_data": {
+      "domain": "imagine.art",
+      "traffic": {
+        "domain": "imagine.art",
+        "overview": {
+          "global_rank": 19573,
+          "country_rank": {
+            "country": "IN",
+            "rank": 4508
+          },
+          "visits": 2431354,
+          "bounce_rate": 0.35532934676571065,
+          "pages_per_visit": 4.70343613276732,
+          "time_on_site_seconds": 199.92005531620993,
+          "month": "2026-08"
+        },
+        "monthly_visits": [
+          {
+            "month": "2025-09",
+            "visits": 1985712
+          },
+          {
+            "month": "2025-10",
+            "visits": 2601913
+          },
+          {
+            "month": "2025-11",
+            "visits": 2788439
+          },
+          {
+            "month": "2025-12",
+            "visits": 3691184
+          },
+          {
+            "month": "2026-01",
+            "visits": 3661695
+          },
+          {
+            "month": "2026-02",
+            "visits": 3253199
+          },
+          {
+            "month": "2026-03",
+            "visits": 3377277
+          },
+          {
+            "month": "2026-04",
+            "visits": 3326732
+          },
+          {
+            "month": "2026-05",
+            "visits": 2896825
+          },
+          {
+            "month": "2026-06",
+            "visits": 2708186
+          },
+          {
+            "month": "2026-07",
+            "visits": 2395340
+          },
+          {
+            "month": "2026-08",
+            "visits": 2431354
+          }
+        ],
+        "traffic_sources": {
+          "direct": 0.2414,
+          "search": 0.6267,
+          "search_organic": 0.2711,
+          "search_paid": 0.3556,
+          "social": 0.041,
+          "social_organic": 0.0359,
+          "social_paid": 0.0051,
+          "referrals": 0.0362,
+          "paid_referrals": 0.027,
+          "mail": 0.0082,
+          "gen_ai": 0.0149,
+          "affiliate": 0.0046,
+          "other": 0
+        },
+        "top_keywords": [
+          {
+            "name": "chatgpt",
+            "volume": 173210590,
+            "cpc": 0.15,
+            "estimated_value": 40000
+          },
+          {
+            "name": "midjourney",
+            "volume": 1485100,
+            "cpc": 0.92,
+            "estimated_value": 36270
+          },
+          {
+            "name": "kling ai",
+            "volume": 1451150,
+            "cpc": 0.48,
+            "estimated_value": 33250
+          },
+          {
+            "name": "imagineart",
+            "volume": 27900,
+            "cpc": 0.99,
+            "estimated_value": 27320
+          },
+          {
+            "name": "flow ai",
+            "volume": 2627840,
+            "cpc": 0.31,
+            "estimated_value": 26250
+          }
+        ],
+        "top_regions": [
+          {
+            "country": "IN",
+            "name": "India",
+            "share": 0.2783
+          },
+          {
+            "country": "US",
+            "name": "United States",
+            "share": 0.1422
+          },
+          {
+            "country": "PK",
+            "name": "Pakistan",
+            "share": 0.0768
+          },
+          {
+            "country": "ID",
+            "name": "Indonesia",
+            "share": 0.0239
+          },
+          {
+            "country": "BR",
+            "name": "Brazil",
+            "share": 0.0235
+          }
+        ]
+      },
+      "traffic_evidence": "domains/imagine.art/traffic.json",
+      "traffic_status": "ok",
+      "registration_date": "2023-04-24T17:17:50.000Z",
+      "backlinks": {
+        "domain": "imagine.art",
+        "overview": {
+          "domain_rating": 75,
+          "backlinks": 162344,
+          "referring_domains": 9165,
+          "dofollow_backlinks_pct": 38,
+          "dofollow_referring_domains_pct": 70
+        },
+        "backlinks": [
+          {
+            "from_url": "https://codimd.apps.education.fr/s/r1H5nglAY",
+            "to_url": "https://www.imagine.art/",
+            "title": "Une sélection d’IA génératives gratuites en ligne - CodiMD",
+            "anchor": "Imagine.art",
+            "domain_rating": 85
+          },
+          {
+            "from_url": "https://aitools.aiting.com/ja/ai/artbreeder",
+            "to_url": "https://www.imagine.art/",
+            "title": "Artbreeder AI：共同制作できる画像生成ツール｜キャラクター制作 | AiTing AI",
+            "anchor": "",
+            "domain_rating": 38
+          },
+          {
+            "from_url": "https://din-studio.com/layout-design-explained/",
+            "to_url": "https://www.imagine.art/ai-image-generator",
+            "title": "Layout Design Explained: Definition, Elements & Basic Principles - Din Studio",
+            "anchor": "AI image generator",
+            "domain_rating": 50
+          },
+          {
+            "from_url": "https://play.google.com/store/apps/details?id=com.vyroai.aiart&hl=en_IN",
+            "to_url": "https://www.imagine.art/",
+            "title": "ImagineArt: AI Image Generator – Apps on Google Play",
+            "anchor": "publicWebsite",
+            "domain_rating": 100
+          },
+          {
+            "from_url": "https://www.gartner.com/peer-community/post/some-best-ai-platforms-generating-images-complement-text",
+            "to_url": "https://www.imagine.art/ai-image-generator",
+            "title": "What are some of the best AI platforms for generating images that complement text? | Gartner Peer Community",
+            "anchor": "https://www.imagine.art/ai-image-generator",
+            "domain_rating": 92
+          },
+          {
+            "from_url": "https://ai4k.eu/content/free-ai-tools-online/",
+            "to_url": "https://www.imagine.art/",
+            "title": "Over 100 FREE AI Tools: 2025 Update » ai4k",
+            "anchor": "Imagine Art",
+            "domain_rating": 1
+          },
+          {
+            "from_url": "https://aimadesimple0.substack.com/p/i-tested-tons-of-ai-image-generators",
+            "to_url": "https://www.imagine.art/",
+            "title": "I Tested Tons of AI Image Generators - These 10 Are the Best by Far",
+            "anchor": "ImagineArt",
+            "domain_rating": 94
+          },
+          {
+            "from_url": "https://venngage.com/blog/presentation-ideas/",
+            "to_url": "https://www.imagine.art/ai-video-generator",
+            "title": "120+ Presentation Ideas, Topics & Example - Venngage Blog",
+            "anchor": "AI video generator",
+            "domain_rating": 84
+          },
+          {
+            "from_url": "https://chatlyai.app/blog/chatly-vs-arena-ai",
+            "to_url": "https://www.imagine.art/",
+            "title": "Chatly vs Arena AI",
+            "anchor": "ImagineArt",
+            "domain_rating": 53
+          },
+          {
+            "from_url": "https://www.falkonsms.com/post/enable-imessage-on-iphone-guide",
+            "to_url": "https://www.imagine.art/ai-video-generator",
+            "title": "How to Enable iMessage on Your iPhone: A Step-by-Step Guide",
+            "anchor": "AI video generator",
+            "domain_rating": 61
+          },
+          {
+            "from_url": "https://www.logoai.com/blog/tesla-logo-evolution",
+            "to_url": "https://www.imagine.art/ai-video-generator",
+            "title": "The Tesla Logo Evolution: What does the Tesla symbol mean? — LogoAI",
+            "anchor": "AI Video Generator",
+            "domain_rating": 74
+          },
+          {
+            "from_url": "https://recruiterflow.com/blog/social-media-recruiting/",
+            "to_url": "https://www.imagine.art/ai-video-generator",
+            "title": "Guide to Social Media Recruiting - Recruiterflow Blog",
+            "anchor": "AI Video Generator",
+            "domain_rating": 76
+          },
+          {
+            "from_url": "https://www.truedigitalacademy.com/blog/free-ai-infographic-tools",
+            "to_url": "https://www.imagine.art/blogs/nano-banana-pro-ai-infographics-guide",
+            "title": "5 AI ทำอินโฟกราฟิกฟรี 2026: สรุปข้อมูลซับซ้อนให้เข้าใจง่ายสำหรับผู้บริหาร - True Digital Academy",
+            "anchor": "https://www.imagine.art/blogs/nano-banana-pro-ai-infographics-guide",
+            "domain_rating": 32
+          },
+          {
+            "from_url": "https://insighto.ai/blog/character-ai/",
+            "to_url": "https://www.imagine.art/ai-image-generator",
+            "title": "What is Character AI: Features, Benefits, Uses & Top Alternatives",
+            "anchor": "AI Image Generator",
+            "domain_rating": 50
+          },
+          {
+            "from_url": "https://www.studiobinder.com/blog/best-storyboard-software-free-storyboard-templates/",
+            "to_url": "https://www.imagine.art/insights/how-to-create-a-film-storyboard",
+            "title": "25 Best Storyboard Software in 2026 [Ultimate Guide]",
+            "anchor": "Imagine.art",
+            "domain_rating": 78
+          },
+          {
+            "from_url": "https://www.designevo.com/blog/best-restaurant-logos.html",
+            "to_url": "https://www.imagine.art/ai-image-generator",
+            "title": "Best 41+ Restaurant Logos",
+            "anchor": "free AI image generator",
+            "domain_rating": 75
+          },
+          {
+            "from_url": "https://blog.hubspot.com/marketing/ai-video-generator",
+            "to_url": "https://www.imagine.art/ai-video-generator",
+            "title": "16 best AI video generators to use",
+            "anchor": "ImagineArt",
+            "domain_rating": 93
+          },
+          {
+            "from_url": "https://async.com/blog/how-to-edit-a-tiktok-video-after-posting/",
+            "to_url": "https://www.imagine.art/apps/video-object-removal",
+            "title": "How to Edit a TikTok Video After Posting (Yes, There's Hope)",
+            "anchor": "remove objects from video",
+            "domain_rating": 76
+          },
+          {
+            "from_url": "https://saasmarket.ru/categories/iskusstvennyj-intellekt/ii-dlja-raboty-s-izobrazeniem",
+            "to_url": "https://www.imagine.art/?ref=mthmywu",
+            "title": "ИИ генератор изображений | Создать картинку по описанию с помощью нейросети",
+            "anchor": "Перейти на сайт",
+            "domain_rating": 14
+          },
+          {
+            "from_url": "https://www.hostgator.bo/blog/herramientas-ia-crear-imagenes/",
+            "to_url": "https://www.imagine.art/",
+            "title": "Herramientas de IA para crear imágenes: las mejores opciones",
+            "anchor": "MidJourney",
+            "domain_rating": 1
+          }
+        ]
+      },
+      "backlinks_evidence": "domains/imagine.art/backlinks.json"
+    },
+    "pages": [
+      {
+        "kind": "home",
+        "label": "首页",
+        "path": "products/imagineart/pages/home.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://www.imagine.art/",
+          "resolved_url": "https://www.imagine.art/",
+          "http_status": 200
+        },
+        "page": {
+          "title": "ImagineArt - AI Creative Suite | Images, Videos, Voice"
+        },
+        "content": "首页提供主题赛事与月度创作者展示。\n首页直接宣传 ChatGPT Plugin 上线，发布日期未标注。"
+      },
+      {
+        "kind": "pricing",
+        "label": "定价资料",
+        "path": "products/imagineart/pages/pricing.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://www.imagine.art/subscription",
+          "resolved_url": "https://www.imagine.art/subscription",
+          "http_status": 200
+        },
+        "page": {
+          "title": "ImagineArt Pricing | AI Creative Suite for Everyone"
+        },
+        "content": "已保存官网来源；本公开版不转载页面全文。"
+      },
+      {
+        "kind": "docs",
+        "label": "文档",
+        "path": "products/imagineart/pages/docs.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://docs.imagine.art/",
+          "resolved_url": "https://docs.imagine.art/",
+          "http_status": 200
+        },
+        "page": {
+          "title": "ImagineArt Documentation Home - ImagineArt Help Center"
+        },
+        "content": "已保存官网来源；本公开版不转载页面全文。"
+      }
+    ],
+    "searches": [],
+    "issues": [],
+    "screenshot": null,
+    "product_entry_links": []
+  },
+  "metrics": {
+    "visits": 2431354,
+    "mom": 0.015035026342815616,
+    "change3": -0.16068316173741937,
+    "rolling3": -0.21518484748304156,
+    "recent_average": 2511626.6666666665,
+    "prior_average": 3200278.0,
+    "up_streak": 1,
+    "derived_channels": {
+      "search_paid_visits": 864589.4824000001,
+      "social_paid_visits": 12399.905400000001,
+      "search_organic_visits": 659140.0694,
+      "social_organic_visits": 87285.6086,
+      "direct_visits": 586928.8556
+    },
+    "scope": "site",
+    "profile": "综合 AI 创作套件，首页覆盖图像、视频、语音与对话入口。",
+    "profile_source": "products/imagineart/pages/home.json"
+  },
+  "editorial": {
+    "thesis": "主题赛事与外部 Agent 入口同时触达创作者，聚合模型词透露多种搜索意图。",
+    "focus": "关键词包含多个第三方产品，不能把其搜索量算成 ImagineArt 品牌贡献。活动作品与 Plugin 可分别追踪曝光和任务激活。",
+    "experiment": "用主题创作页连接一组模板与 Agent 调用入口，按来源分别记录任务完成。",
+    "measure": "参与到生成率、作品发布率、Agent 调用成功率及活动后重复创作。",
+    "watch": "赛事节奏、社区创作者、Plugin 能力和第三方模型词。"
+  },
+  "activities": [
+    {
+      "product_id": "imagineart",
+      "type": "community",
+      "title": "Fashion Studio Gala 与社区创作者",
+      "detail": "首页提供主题赛事与月度创作者展示。",
+      "anchors": [
+        "Fashion Studio Gala",
+        "Top Creators of the Month"
+      ],
+      "source": "products/imagineart/pages/home.json",
+      "event_date": null,
+      "id": "activity-40",
+      "source_url": "https://www.imagine.art/",
+      "observed_at": "2026-10-02"
+    },
+    {
+      "product_id": "imagineart",
+      "type": "developer",
+      "title": "ChatGPT Plugin 分发入口",
+      "detail": "首页直接宣传 ChatGPT Plugin 上线，发布日期未标注。",
+      "anchors": [
+        "ImagineArt ChatGPT Plugin is Live"
+      ],
+      "source": "products/imagineart/pages/home.json",
+      "event_date": null,
+      "id": "activity-41",
+      "source_url": "https://www.imagine.art/",
+      "observed_at": "2026-10-02"
+    }
+  ],
+  "x_posts": []
+}

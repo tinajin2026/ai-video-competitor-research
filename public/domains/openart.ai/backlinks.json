@@ -1,0 +1,158 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "openart.ai",
+  "measurement": "第三方外链样本",
+  "data": {
+    "domain": "openart.ai",
+    "overview": {
+      "domain_rating": 77,
+      "backlinks": 2233005,
+      "referring_domains": 12354,
+      "dofollow_backlinks_pct": 89,
+      "dofollow_referring_domains_pct": 65
+    },
+    "backlinks": [
+      {
+        "from_url": "https://fish.audio/",
+        "to_url": "https://openart.ai/",
+        "title": "Best AI Text To Speech & Free Voice Cloning | Fish Audio",
+        "anchor": "",
+        "domain_rating": 73
+      },
+      {
+        "from_url": "https://en.wikipedia.org/wiki/AI_art",
+        "to_url": "https://cdn.openart.ai/assets/Stable%20Diffusion%20Prompt%20Book%20From%20OpenArt%2011-13.pdf",
+        "title": "AI art",
+        "anchor": "\"Stable Diffusion Prompt Book\"",
+        "domain_rating": 97
+      },
+      {
+        "from_url": "https://www.techloy.com/top-10-seedance-2-5-use-cases-for-ai-video-creation/",
+        "to_url": "https://openart.ai/ai-model/seedance-2-5/",
+        "title": "Top 10 Seedance 2.5 Use Cases for AI Video Creation",
+        "anchor": "Seedance 2.5",
+        "domain_rating": 67
+      },
+      {
+        "from_url": "https://www.coursebox.ai/pt/blog/gerador-de-imagens-de-ia",
+        "to_url": "https://openart.ai/home",
+        "title": "Comparativo de 10 poderosos geradores de imagens com IA | Coursebox AI",
+        "anchor": "Difusão estável",
+        "domain_rating": 70
+      },
+      {
+        "from_url": "https://www.ifoto.ai/blog/fr/best-buzz-cut-filter/",
+        "to_url": "https://openart.ai/features/buzz-cut-hair-filter/",
+        "title": "À quoi ressemblerais-je avec un filtre Buzz Cut gratuit ? - Blog d'iFoto",
+        "anchor": "Art Ouvert",
+        "domain_rating": 42
+      },
+      {
+        "from_url": "https://seo.ai/blog/best-ai-image-generator",
+        "to_url": "https://openart.ai/",
+        "title": "The Best 9 AI Image Generators: New Reviews 2025",
+        "anchor": "https://openart.ai/",
+        "domain_rating": 77
+      },
+      {
+        "from_url": "https://www.toools.design/",
+        "to_url": "https://openart.ai/home",
+        "title": "Design Resources & Tools for Designers | TOOOLS.design",
+        "anchor": "OpenArtTurns imagination into visual stories—from idea to final frame.Freemium",
+        "domain_rating": 48
+      },
+      {
+        "from_url": "https://refto.one/tools/design-rails-free-ai-logo-generator-brand-builder--5d353e9d-c8e9-4292-97a9-6bb172cdd773",
+        "to_url": "https://openart.ai/?ref=refto.one",
+        "title": "Design Rails - Free AI Logo Generator & Brand Builder Tool Profile | Refto",
+        "anchor": "https://openart.ai",
+        "domain_rating": 9
+      },
+      {
+        "from_url": "https://www.creativepadmedia.com/the-best-free-alternatives-to-higgsfield-ai-full-demonstrations/",
+        "to_url": "https://openart.ai/",
+        "title": "The Best Free Alternatives to Higgsfield AI - With Full Demonstrations - Creative Pad Media",
+        "anchor": "OpenArt AI",
+        "domain_rating": 13
+      },
+      {
+        "from_url": "https://budgetpixel.com/",
+        "to_url": "https://openart.ai/blog/best-ai-generators/",
+        "title": "AI Image, Video and Music Generator | Design Studio & Canvas | BudgetPixel",
+        "anchor": "OpenArt, \"12 best AI image, video and audio generators (2026)\"",
+        "domain_rating": 36
+      },
+      {
+        "from_url": "https://github.com/mahseema/awesome-ai-tools",
+        "to_url": "https://openart.ai/",
+        "title": "GitHub - mahseema/awesome-ai-tools: A curated list of Artificial Intelligence Top Tools · GitHub",
+        "anchor": "OpenArt",
+        "domain_rating": 97
+      },
+      {
+        "from_url": "https://aitubo.ai/blog/post/ideogram-the-best-poster-generation-ai-tool/",
+        "to_url": "https://openart.ai/home",
+        "title": "AI Can Now Directly Generate Posters: Ideogram Emerges as the New King",
+        "anchor": "DALL·E 3",
+        "domain_rating": 51
+      },
+      {
+        "from_url": "https://topai.tools/s/completely-free-nudeify-ai",
+        "to_url": "https://openart.ai/?via=topaitools",
+        "title": "70 Completely Free Nudeify Ai - Free AI Tools",
+        "anchor": "",
+        "domain_rating": 64
+      },
+      {
+        "from_url": "https://jobs.ashbyhq.com/openart",
+        "to_url": "https://openart.ai/",
+        "title": "OpenArt AI Jobs",
+        "anchor": "OpenArt AI",
+        "domain_rating": 89
+      },
+      {
+        "from_url": "https://www.hububble.co/blog/best-ai-image-generator",
+        "to_url": "https://openart.ai/home",
+        "title": "14 個 AI 繪圖網站推薦！含 7 個 AI 生成圖免費網站！",
+        "anchor": "OpenArt 官網",
+        "domain_rating": 43
+      },
+      {
+        "from_url": "https://sacra.com/c/openart/",
+        "to_url": "https://www.openart.ai/",
+        "title": "OpenArt revenue, funding & news | Sacra",
+        "anchor": "openart.ai",
+        "domain_rating": 73
+      },
+      {
+        "from_url": "https://www.nexusai-tech.com/es/ai-apps/open-art-ai-image-generation-and-editing-platform",
+        "to_url": "https://openart.ai/",
+        "title": "OpenArt: Plataforma de generación y edición de imágenes con IA | NexusAi",
+        "anchor": "Visitar OpenArt",
+        "domain_rating": 21
+      },
+      {
+        "from_url": "https://ai4how.com/blog/ai-image-generator-no-restrictions/",
+        "to_url": "https://openart.ai/ai-image-generator/",
+        "title": "Top 5 Best AI Image Generator No Restrictions in 2026",
+        "anchor": "OpenArt’s AI image generator",
+        "domain_rating": 2
+      },
+      {
+        "from_url": "https://thimpress.com/best-free-ai-art-generators/",
+        "to_url": "https://openart.ai/",
+        "title": "8+ Best Free AI Art Generators for 2026 | ThimPress",
+        "anchor": "Learn More",
+        "domain_rating": 88
+      },
+      {
+        "from_url": "https://cyber.sports.ru/tech/blogs/3336037.html",
+        "to_url": "https://openart.ai/apps/remove-watermark",
+        "title": "Как убрать водяной знак с видео и фото: как удалить вотермарку онлайн бесплатно",
+        "anchor": "Сервис доступен по ссылке.",
+        "domain_rating": 76
+      }
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "makeugc.ai",
+  "measurement": "第三方域名级估算",
+  "data": {
+    "domain": "makeugc.ai",
+    "overview": {
+      "global_rank": 293313,
+      "country_rank": {
+        "country": "US",
+        "rank": 263974
+      },
+      "visits": 138129,
+      "bounce_rate": 0.42124283215027997,
+      "pages_per_visit": 2.359533958856944,
+      "time_on_site_seconds": 53.14876375631391,
+      "month": "2026-08"
+    },
+    "monthly_visits": [
+      {
+        "month": "2025-09",
+        "visits": 207631
+      },
+      {
+        "month": "2025-10",
+        "visits": 227132
+      },
+      {
+        "month": "2025-11",
+        "visits": 214474
+      },
+      {
+        "month": "2025-12",
+        "visits": 208498
+      },
+      {
+        "month": "2026-01",
+        "visits": 282780
+      },
+      {
+        "month": "2026-02",
+        "visits": 256440
+      },
+      {
+        "month": "2026-03",
+        "visits": 299812
+      },
+      {
+        "month": "2026-04",
+        "visits": 333521
+      },
+      {
+        "month": "2026-05",
+        "visits": 408230
+      },
+      {
+        "month": "2026-06",
+        "visits": 263815
+      },
+      {
+        "month": "2026-07",
+        "visits": 201823
+      },
+      {
+        "month": "2026-08",
+        "visits": 138129
+      }
+    ],
+    "traffic_sources": {
+      "direct": 0.3261,
+      "search": 0.3377,
+      "search_organic": 0.14,
+      "search_paid": 0.1977,
+      "social": 0.1728,
+      "social_organic": 0.0655,
+      "social_paid": 0.1073,
+      "referrals": 0.0236,
+      "paid_referrals": 0.1227,
+      "mail": 0.0045,
+      "gen_ai": 0.0127,
+      "affiliate": 0,
+      "other": 0
+    },
+    "top_keywords": [
+      {
+        "name": "makeugc",
+        "volume": 27620,
+        "cpc": 5.3,
+        "estimated_value": 20780
+      },
+      {
+        "name": "arcads",
+        "volume": 150960,
+        "cpc": 2.56,
+        "estimated_value": 6430
+      },
+      {
+        "name": "make ugc",
+        "volume": 5640,
+        "cpc": 5.42,
+        "estimated_value": 4380
+      },
+      {
+        "name": "makeugc ai",
+        "volume": 2030,
+        "cpc": 9.51,
+        "estimated_value": 1600
+      },
+      {
+        "name": "ai ugc",
+        "volume": 13510,
+        "cpc": 8.05,
+        "estimated_value": 1400
+      }
+    ],
+    "top_regions": [
+      {
+        "country": "US",
+        "name": "United States",
+        "share": 0.108
+      },
+      {
+        "country": "DE",
+        "name": "Germany",
+        "share": 0.1053
+      },
+      {
+        "country": "BR",
+        "name": "Brazil",
+        "share": 0.097
+      },
+      {
+        "country": "GB",
+        "name": "United Kingdom",
+        "share": 0.0859
+      },
+      {
+        "country": "VN",
+        "name": "Vietnam",
+        "share": 0.0551
+      }
+    ]
+  }
+}

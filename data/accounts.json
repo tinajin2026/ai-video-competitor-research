@@ -1,0 +1,187 @@
+{
+  "higgsfield": {
+    "handle": "higgsfield",
+    "verification": "user_supplied_unverified",
+    "note": "接入前核对官方主页与账号身份；公司级账号需逐帖验证产品相关性。"
+  },
+  "pollo": {
+    "handle": "itsPolloAI",
+    "verification": "user_supplied_unverified",
+    "note": "接入前核对官方主页与账号身份；公司级账号需逐帖验证产品相关性。"
+  },
+  "dreamina": {
+    "handle": "dreamina_ai",
+    "verification": "user_supplied_unverified",
+    "note": "接入前核对官方主页与账号身份；公司级账号需逐帖验证产品相关性。"
+  },
+  "seedance": {
+    "handle": null,
+    "verification": "unassigned",
+    "note": "接入前核对官方主页与账号身份；公司级账号需逐帖验证产品相关性。"
+  },
+  "minimax": {
+    "handle": "MiniMax_AI",
+    "verification": "user_supplied_unverified",
+    "note": "接入前核对官方主页与账号身份；公司级账号需逐帖验证产品相关性。"
+  },
+  "hailuo": {
+    "handle": "Hailuo_AI",
+    "verification": "user_supplied_unverified",
+    "note": "接入前核对官方主页与账号身份；公司级账号需逐帖验证产品相关性。"
+  },
+  "happyhorse": {
+    "handle": null,
+    "verification": "unassigned",
+    "note": "接入前核对官方主页与账号身份；公司级账号需逐帖验证产品相关性。"
+  },
+  "yoroll": {
+    "handle": "YorollAI",
+    "verification": "user_supplied_unverified",
+    "note": "接入前核对官方主页与账号身份；公司级账号需逐帖验证产品相关性。"
+  },
+  "runway": {
+    "handle": "runwayml",
+    "verification": "user_supplied_unverified",
+    "note": "接入前核对官方主页与账号身份；公司级账号需逐帖验证产品相关性。"
+  },
+  "kling": {
+    "handle": "Kling_ai",
+    "verification": "user_supplied_unverified",
+    "note": "接入前核对官方主页与账号身份；公司级账号需逐帖验证产品相关性。"
+  },
+  "pika": {
+    "handle": "pika_labs",
+    "verification": "user_supplied_unverified",
+    "note": "接入前核对官方主页与账号身份；公司级账号需逐帖验证产品相关性。"
+  },
+  "luma": {
+    "handle": "LumaLabsAI",
+    "verification": "user_supplied_unverified",
+    "note": "接入前核对官方主页与账号身份；公司级账号需逐帖验证产品相关性。"
+  },
+  "sora": {
+    "handle": "OpenAI",
+    "verification": "user_supplied_unverified",
+    "note": "接入前核对官方主页与账号身份；公司级账号需逐帖验证产品相关性。"
+  },
+  "veo": {
+    "handle": null,
+    "verification": "unassigned",
+    "note": "接入前核对官方主页与账号身份；公司级账号需逐帖验证产品相关性。"
+  },
+  "flow": {
+    "handle": null,
+    "verification": "unassigned",
+    "note": "接入前核对官方主页与账号身份；公司级账号需逐帖验证产品相关性。"
+  },
+  "wan": {
+    "handle": null,
+    "verification": "unassigned",
+    "note": "接入前核对官方主页与账号身份；公司级账号需逐帖验证产品相关性。"
+  },
+  "vidu": {
+    "handle": "ViduAI_official",
+    "verification": "user_supplied_unverified",
+    "note": "接入前核对官方主页与账号身份；公司级账号需逐帖验证产品相关性。"
+  },
+  "haiper": {
+    "handle": "HaiperGenAI",
+    "verification": "user_supplied_unverified",
+    "note": "接入前核对官方主页与账号身份；公司级账号需逐帖验证产品相关性。"
+  },
+  "krea": {
+    "handle": "krea_ai",
+    "verification": "user_supplied_unverified",
+    "note": "接入前核对官方主页与账号身份；公司级账号需逐帖验证产品相关性。"
+  },
+  "openart": {
+    "handle": "openart_ai",
+    "verification": "user_supplied_unverified",
+    "note": "接入前核对官方主页与账号身份；公司级账号需逐帖验证产品相关性。"
+  },
+  "fal": {
+    "handle": "fal",
+    "verification": "user_supplied_unverified",
+    "note": "接入前核对官方主页与账号身份；公司级账号需逐帖验证产品相关性。"
+  },
+  "leonardo": {
+    "handle": null,
+    "verification": "unassigned",
+    "note": "接入前核对官方主页与账号身份；公司级账号需逐帖验证产品相关性。"
+  },
+  "heygen": {
+    "handle": "HeyGen",
+    "verification": "user_supplied_unverified",
+    "note": "接入前核对官方主页与账号身份；公司级账号需逐帖验证产品相关性。"
+  },
+  "synthesia": {
+    "handle": null,
+    "verification": "unassigned",
+    "note": "接入前核对官方主页与账号身份；公司级账号需逐帖验证产品相关性。"
+  },
+  "invideo": {
+    "handle": null,
+    "verification": "unassigned",
+    "note": "接入前核对官方主页与账号身份；公司级账号需逐帖验证产品相关性。"
+  },
+  "capcut": {
+    "handle": null,
+    "verification": "unassigned",
+    "note": "接入前核对官方主页与账号身份；公司级账号需逐帖验证产品相关性。"
+  },
+  "topview": {
+    "handle": "TopviewAIhq",
+    "verification": "user_supplied_unverified",
+    "note": "接入前核对官方主页与账号身份；公司级账号需逐帖验证产品相关性。"
+  },
+  "creatify": {
+    "handle": "Creatify_AI",
+    "verification": "user_supplied_unverified",
+    "note": "接入前核对官方主页与账号身份；公司级账号需逐帖验证产品相关性。"
+  },
+  "arcads": {
+    "handle": "arcads_ai",
+    "verification": "user_supplied_unverified",
+    "note": "接入前核对官方主页与账号身份；公司级账号需逐帖验证产品相关性。"
+  },
+  "makeugc": {
+    "handle": "makeugc",
+    "verification": "user_supplied_unverified",
+    "note": "接入前核对官方主页与账号身份；公司级账号需逐帖验证产品相关性。"
+  },
+  "jogg": {
+    "handle": "Jogg_ai",
+    "verification": "user_supplied_unverified",
+    "note": "接入前核对官方主页与账号身份；公司级账号需逐帖验证产品相关性。"
+  },
+  "pixverse": {
+    "handle": "PixVerse",
+    "verification": "user_supplied_unverified",
+    "note": "接入前核对官方主页与账号身份；公司级账号需逐帖验证产品相关性。"
+  },
+  "imagineart": {
+    "handle": "ImagineArt_X",
+    "verification": "user_supplied_unverified",
+    "note": "接入前核对官方主页与账号身份；公司级账号需逐帖验证产品相关性。"
+  },
+  "skyreels": {
+    "handle": "SkyReels",
+    "verification": "user_supplied_unverified",
+    "note": "接入前核对官方主页与账号身份；公司级账号需逐帖验证产品相关性。"
+  },
+  "hedra": {
+    "handle": "hedra_labs",
+    "verification": "user_supplied_unverified",
+    "note": "接入前核对官方主页与账号身份；公司级账号需逐帖验证产品相关性。"
+  },
+  "magnific": {
+    "handle": "magnific",
+    "verification": "user_supplied_unverified",
+    "note": "接入前核对官方主页与账号身份；公司级账号需逐帖验证产品相关性。"
+  },
+  "grok": {
+    "handle": "xai",
+    "verification": "user_supplied_unverified",
+    "note": "接入前核对官方主页与账号身份；公司级账号需逐帖验证产品相关性。"
+  }
+}

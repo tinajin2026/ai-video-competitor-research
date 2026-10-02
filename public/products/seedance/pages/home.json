@@ -1,0 +1,8 @@
+{
+  "product_id": "seedance",
+  "observed_at": "2026-10-02",
+  "source_url": "https://seed.bytedance.com/en/seedance2_5",
+  "status": "ok",
+  "research_note": "官方模型页展示音视频联合生成、参考控制与编辑，并提供 API / 试用入口。",
+  "notice": "公开研究摘记；原始抓取保留在本地。"
+}

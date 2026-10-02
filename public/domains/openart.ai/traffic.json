@@ -1,0 +1,145 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "openart.ai",
+  "measurement": "第三方域名级估算",
+  "data": {
+    "domain": "openart.ai",
+    "overview": {
+      "global_rank": 5217,
+      "country_rank": {
+        "country": "US",
+        "rank": 4315
+      },
+      "visits": 8861371,
+      "bounce_rate": 0.37363862594148234,
+      "pages_per_visit": 5.5216410638665945,
+      "time_on_site_seconds": 327.1406501268644,
+      "month": "2026-08"
+    },
+    "monthly_visits": [
+      {
+        "month": "2025-09",
+        "visits": 8761279
+      },
+      {
+        "month": "2025-10",
+        "visits": 9118330
+      },
+      {
+        "month": "2025-11",
+        "visits": 8879879
+      },
+      {
+        "month": "2025-12",
+        "visits": 8723468
+      },
+      {
+        "month": "2026-01",
+        "visits": 10026718
+      },
+      {
+        "month": "2026-02",
+        "visits": 8892653
+      },
+      {
+        "month": "2026-03",
+        "visits": 9091257
+      },
+      {
+        "month": "2026-04",
+        "visits": 9137972
+      },
+      {
+        "month": "2026-05",
+        "visits": 10913009
+      },
+      {
+        "month": "2026-06",
+        "visits": 9275883
+      },
+      {
+        "month": "2026-07",
+        "visits": 8835724
+      },
+      {
+        "month": "2026-08",
+        "visits": 8861371
+      }
+    ],
+    "traffic_sources": {
+      "direct": 0.3641,
+      "search": 0.4438,
+      "search_organic": 0.2377,
+      "search_paid": 0.2061,
+      "social": 0.0794,
+      "social_organic": 0.0459,
+      "social_paid": 0.0334,
+      "referrals": 0.0319,
+      "paid_referrals": 0.0426,
+      "mail": 0.0105,
+      "gen_ai": 0.0207,
+      "affiliate": 0.0069,
+      "other": 0
+    },
+    "top_keywords": [
+      {
+        "name": "gemini ai",
+        "volume": 17213170,
+        "cpc": 0.25,
+        "estimated_value": 298900
+      },
+      {
+        "name": "openart",
+        "volume": 271990,
+        "cpc": 0.94,
+        "estimated_value": 257530
+      },
+      {
+        "name": "openart ai",
+        "volume": 146940,
+        "cpc": 0.72,
+        "estimated_value": 152460
+      },
+      {
+        "name": "kling ai",
+        "volume": 1451150,
+        "cpc": 0.48,
+        "estimated_value": 133880
+      },
+      {
+        "name": "open art",
+        "volume": 86060,
+        "cpc": 1.06,
+        "estimated_value": 80020
+      }
+    ],
+    "top_regions": [
+      {
+        "country": "US",
+        "name": "United States",
+        "share": 0.2808
+      },
+      {
+        "country": "IN",
+        "name": "India",
+        "share": 0.1048
+      },
+      {
+        "country": "CA",
+        "name": "Canada",
+        "share": 0.0369
+      },
+      {
+        "country": "GB",
+        "name": "United Kingdom",
+        "share": 0.0359
+      },
+      {
+        "country": "DE",
+        "name": "Germany",
+        "share": 0.0279
+      }
+    ]
+  }
+}

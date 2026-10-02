@@ -1,0 +1,498 @@
+{
+  "schema_version": 1,
+  "product": {
+    "id": "creatify",
+    "name": "Creatify",
+    "x_handle": "Creatify_AI",
+    "homepage": "https://creatify.ai/",
+    "ads_priority": false,
+    "traffic_domain": "creatify.ai",
+    "additional_domains": [],
+    "scope_note": "域名级流量估算，非付费用户、收入或模型调用量。",
+    "shared_scope": false,
+    "domain_data": {
+      "domain": "creatify.ai",
+      "traffic": {
+        "domain": "creatify.ai",
+        "overview": {
+          "global_rank": 49146,
+          "country_rank": {
+            "country": "US",
+            "rank": 56370
+          },
+          "visits": 821630,
+          "bounce_rate": 0.4006934691496079,
+          "pages_per_visit": 5.679808443009628,
+          "time_on_site_seconds": 292.4944097923606,
+          "month": "2026-08"
+        },
+        "monthly_visits": [
+          {
+            "month": "2025-09",
+            "visits": 1055330
+          },
+          {
+            "month": "2025-10",
+            "visits": 1026214
+          },
+          {
+            "month": "2025-11",
+            "visits": 924744
+          },
+          {
+            "month": "2025-12",
+            "visits": 904834
+          },
+          {
+            "month": "2026-01",
+            "visits": 1004955
+          },
+          {
+            "month": "2026-02",
+            "visits": 899696
+          },
+          {
+            "month": "2026-03",
+            "visits": 992132
+          },
+          {
+            "month": "2026-04",
+            "visits": 857523
+          },
+          {
+            "month": "2026-05",
+            "visits": 852569
+          },
+          {
+            "month": "2026-06",
+            "visits": 803708
+          },
+          {
+            "month": "2026-07",
+            "visits": 823362
+          },
+          {
+            "month": "2026-08",
+            "visits": 821630
+          }
+        ],
+        "traffic_sources": {
+          "direct": 0.328,
+          "search": 0.5038,
+          "search_organic": 0.3419,
+          "search_paid": 0.1619,
+          "social": 0.0564,
+          "social_organic": 0.0479,
+          "social_paid": 0.0085,
+          "referrals": 0.047,
+          "paid_referrals": 0.0237,
+          "mail": 0.0112,
+          "gen_ai": 0.0299,
+          "affiliate": 0,
+          "other": 0
+        },
+        "top_keywords": [
+          {
+            "name": "creatify",
+            "volume": 85020,
+            "cpc": 5.69,
+            "estimated_value": 55280
+          },
+          {
+            "name": "creatify ai",
+            "volume": 30560,
+            "cpc": 5.73,
+            "estimated_value": 28560
+          },
+          {
+            "name": "opus clip",
+            "volume": 365640,
+            "cpc": 0.36,
+            "estimated_value": 10890
+          },
+          {
+            "name": "instagram",
+            "volume": 79445230,
+            "cpc": 0.4,
+            "estimated_value": 10420
+          },
+          {
+            "name": "arcads",
+            "volume": 150960,
+            "cpc": 2.56,
+            "estimated_value": 10140
+          }
+        ],
+        "top_regions": [
+          {
+            "country": "US",
+            "name": "United States",
+            "share": 0.1917
+          },
+          {
+            "country": "PH",
+            "name": "Philippines",
+            "share": 0.0778
+          },
+          {
+            "country": "BR",
+            "name": "Brazil",
+            "share": 0.0684
+          },
+          {
+            "country": "IN",
+            "name": "India",
+            "share": 0.0615
+          },
+          {
+            "country": "GB",
+            "name": "United Kingdom",
+            "share": 0.0364
+          }
+        ]
+      },
+      "traffic_evidence": "domains/creatify.ai/traffic.json",
+      "traffic_status": "ok",
+      "registration_date": "2022-03-04T20:40:47.000Z",
+      "backlinks": {
+        "domain": "creatify.ai",
+        "overview": {
+          "domain_rating": 73,
+          "backlinks": 142408,
+          "referring_domains": 6430,
+          "dofollow_backlinks_pct": 64,
+          "dofollow_referring_domains_pct": 67
+        },
+        "backlinks": [
+          {
+            "from_url": "https://www.g2.com/sellers/creatify-labs-inc",
+            "to_url": "https://creatify.ai/",
+            "title": "Creatify Labs Inc Products | Read 1492 Reviews on G2",
+            "anchor": "creatify.ai",
+            "domain_rating": 91
+          },
+          {
+            "from_url": "https://www.nereo.io/blog/ezcreate-review",
+            "to_url": "https://creatify.ai/",
+            "title": "EZCreate Review: Is It Worth It in 2026?",
+            "anchor": "Creatify",
+            "domain_rating": 31
+          },
+          {
+            "from_url": "https://www.cometly.com/post/ai-marketing-video-generator",
+            "to_url": "https://creatify.ai/",
+            "title": "9 Best AI Marketing Video Generators for Ads in 2026",
+            "anchor": "Creatify",
+            "domain_rating": 71
+          },
+          {
+            "from_url": "https://chatgpt.fr/ia/productivite",
+            "to_url": "https://creatify.ai/studio",
+            "title": "IA Productivité - Les Meilleurs Outils | ChatGPT.fr",
+            "anchor": "",
+            "domain_rating": 15
+          },
+          {
+            "from_url": "https://bestaito.com/blog/long-video-to-short-video/",
+            "to_url": "https://creatify.ai/",
+            "title": "Top 15 AI-Powered Tools for Convert Long Video to Short Video",
+            "anchor": "Start for Free",
+            "domain_rating": 19
+          },
+          {
+            "from_url": "https://www.synthesia.io/post/best-ai-video-generators",
+            "to_url": "https://creatify.ai/",
+            "title": "The 12 Best AI Video Generators in 2026 (Tried & Tested)",
+            "anchor": "Try Creatify",
+            "domain_rating": 85
+          },
+          {
+            "from_url": "https://www.eesel.ai/blog/arcads-ai",
+            "to_url": "https://creatify.ai/review/arcads-ai",
+            "title": "Arcads AI review: Features, pricing, and limits | eesel AI",
+            "anchor": "not a video editor",
+            "domain_rating": 74
+          },
+          {
+            "from_url": "https://maxaeo.ai/ai-tools/tool/invideo-ai/",
+            "to_url": "https://creatify.ai/",
+            "title": "InVideo AI Review (2026): Pricing, Features & Alternatives",
+            "anchor": "Visit ↗",
+            "domain_rating": 45
+          },
+          {
+            "from_url": "https://www.so-mc.nl/de-beste-ai-tools/",
+            "to_url": "https://creatify.ai/",
+            "title": "De beste AI Tools van 2025: een compleet overzicht -",
+            "anchor": "Creatify.AI",
+            "domain_rating": 28
+          },
+          {
+            "from_url": "https://ecomposer.io/blogs/tool-software/ai-face-generator",
+            "to_url": "https://creatify.ai/tool/ai-face-generator",
+            "title": "10+ Best Hyper Realistic AI Face Generator 2026 (Free & Paid) – EComposer",
+            "anchor": "Creatify AI Face Generator",
+            "domain_rating": 79
+          },
+          {
+            "from_url": "https://www.youtube.com/watch?v=bdKa9ag74AU",
+            "to_url": "https://creatify.ai/?via=corbin",
+            "title": "NEVER Use Instagram Boost Post! (Do this Instead) - YouTube",
+            "anchor": "https://creatify.ai/?via=corbin",
+            "domain_rating": 99
+          },
+          {
+            "from_url": "https://zeely.ai/blog/creatify-ai-features/",
+            "to_url": "https://creatify.ai/",
+            "title": "Creatify AI review: Features, pricing, pros and cons",
+            "anchor": "Creatify",
+            "domain_rating": 57
+          },
+          {
+            "from_url": "https://tugan.ai/blog/pippit-ai-review",
+            "to_url": "https://creatify.ai/pricing",
+            "title": "Pippit AI Review 2026: Pricing, Legit or Not | Tugan.ai",
+            "anchor": "Creatify Pricing (official)",
+            "domain_rating": 39
+          },
+          {
+            "from_url": "https://www.brouseai.com/",
+            "to_url": "https://creatify.ai/?ref=brouseai",
+            "title": "BroUseAI - Explore incredible AI for your everyday life!",
+            "anchor": "creatify",
+            "domain_rating": 12
+          },
+          {
+            "from_url": "https://affiliate.watch/promos",
+            "to_url": "https://creatify.ai/?via=affiliatewatch",
+            "title": "Best Promo Codes September 2026 | Save Today - Affiliate.Watch",
+            "anchor": "Get Promo",
+            "domain_rating": 53
+          },
+          {
+            "from_url": "https://www.monkeyaitools.com/",
+            "to_url": "https://creatify.ai/?ref=monkeyai",
+            "title": "Monkey Ai Tools: Premier AI Tools Directory 2024 | Your Ultimate Home for AI",
+            "anchor": "open-icon",
+            "domain_rating": 15
+          },
+          {
+            "from_url": "https://ppc.io/blog/ai-tools-paid-ads",
+            "to_url": "https://creatify.ai/",
+            "title": "35+ AI Tools for Paid Ads in 2026 (Reviewed)",
+            "anchor": "Creatify.ai",
+            "domain_rating": 56
+          },
+          {
+            "from_url": "https://dodropshipping.com/best-dropshipping-ai-tools/",
+            "to_url": "https://creatify.ai/pricing",
+            "title": "Dropshipping AI Tools: 20 Best, Tested + Ranked (2026)",
+            "anchor": "uses a credit-based pricing model",
+            "domain_rating": 65
+          },
+          {
+            "from_url": "https://www.blendnow.com/blog/top-10-tools-to-create-your-e-commerce-listing",
+            "to_url": "https://creatify.ai/",
+            "title": "Top 10 Tools to Create Your E-Commerce Listing",
+            "anchor": "Creatify",
+            "domain_rating": 53
+          },
+          {
+            "from_url": "https://www.creator.ventures/",
+            "to_url": "https://www.creatify.ai/",
+            "title": "Creator Ventures",
+            "anchor": "Creatify AI",
+            "domain_rating": 24
+          }
+        ]
+      },
+      "backlinks_evidence": "domains/creatify.ai/backlinks.json"
+    },
+    "pages": [
+      {
+        "kind": "home",
+        "label": "首页",
+        "path": "products/creatify/pages/home.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://creatify.ai/",
+          "resolved_url": "https://creatify.ai/",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Creatify - The AI Ad Generator | Create Winning Ads with AI"
+        },
+        "content": "首页同时展示行业广告参考、生成格式、社交发布及效果管理。"
+      },
+      {
+        "kind": "pricing",
+        "label": "定价资料",
+        "path": "products/creatify/pages/pricing.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://creatify.ai/pricing",
+          "resolved_url": "https://creatify.ai/pricing",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Creatify | Pricing Plans for best AI Video Generator"
+        },
+        "content": "套餐中列出竞品广告追踪、发布与表现 Agent，比较范围已覆盖广告工作流，不止视频生成。"
+      },
+      {
+        "kind": "blog",
+        "label": "博客 / 新闻",
+        "path": "products/creatify/pages/blog.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://creatify.ai/blog",
+          "resolved_url": "https://creatify.ai/blog",
+          "http_status": 200
+        },
+        "page": {
+          "title": "AI Digital Marketing Strategies | Creatify Blog"
+        },
+        "content": "已保存官网来源；本公开版不转载页面全文。"
+      },
+      {
+        "kind": "features",
+        "label": "功能",
+        "path": "products/creatify/pages/features.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://creatify.ai/features",
+          "resolved_url": "https://creatify.ai/features",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Craft Video Ads on Autopilot with Creatify's AI Features"
+        },
+        "content": "已保存官网来源；本公开版不转载页面全文。"
+      },
+      {
+        "kind": "action-affiliate",
+        "label": "官方动态",
+        "path": "products/creatify/pages/action-affiliate.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://creatify.ai/affiliate",
+          "resolved_url": "https://creatify.ai/affiliate",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Creatify - The AI Ad Generator | Create Winning Ads with AI"
+        },
+        "content": "联盟页列出 25% 循环佣金、月销售超过 $5,000 的额外 5% 奖励及品牌大使合作。"
+      },
+      {
+        "kind": "action-content",
+        "label": "官方动态",
+        "path": "products/creatify/pages/action-content.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://creatify.ai/blog/b2b-video-marketing",
+          "resolved_url": "https://creatify.ai/blog/b2b-video-marketing",
+          "http_status": 200
+        },
+        "page": {
+          "title": "B2B Video Marketing: What Really Works (Not B2C in a Suit)"
+        },
+        "content": "围绕企业购买流程、不同角色内容和营销方案发布长篇指南。"
+      }
+    ],
+    "searches": [],
+    "issues": [],
+    "screenshot": null,
+    "product_entry_links": [
+      "https://app.creatify.ai/start",
+      "https://app.creatify.ai/inspiration",
+      "https://app.creatify.ai/tool/industry-insight?tab=all-ads",
+      "https://app.creatify.ai/home",
+      "https://app.creatify.ai/tool/link-to-video",
+      "https://app.creatify.ai/tool/creative-insights/brand",
+      "https://app.creatify.ai/tool/adflow-explorer",
+      "https://app.creatify.ai/tool/creative-testing/choose-launch"
+    ]
+  },
+  "metrics": {
+    "visits": 821630,
+    "mom": -0.002103570482971051,
+    "change3": -0.036289144925513384,
+    "rolling3": -0.09382049748651478,
+    "recent_average": 816233.3333333334,
+    "prior_average": 900741.3333333334,
+    "up_streak": 0,
+    "derived_channels": {
+      "search_paid_visits": 133021.897,
+      "social_paid_visits": 6983.8550000000005,
+      "search_organic_visits": 280915.29699999996,
+      "social_organic_visits": 39356.077,
+      "direct_visits": 269494.64
+    },
+    "scope": "site",
+    "profile": "首页与套餐覆盖广告生成、竞品广告追踪、发布和表现分析；能力为官网披露，未实测。",
+    "profile_source": "products/creatify/pages/home.json"
+  },
+  "editorial": {
+    "thesis": "广告追踪到发布分析的链路，比孤立生成器更接近营销人员的日常任务。",
+    "focus": "官网披露的能力覆盖广告参考、生成、发布和表现管理；尚未实测，不等于已证实提升 ROAS。联盟与 B2B 内容是两条可追踪分发线索。",
+    "experiment": "从一条已有广告拆解需求，生成多个变体并携带版本标识回收真实表现。",
+    "measure": "从参考到上线耗时、变体测试覆盖率与经真实广告账户核实的转化成本。",
+    "watch": "广告分析能力、B2B 内容主题、联盟条件与套餐权益。"
+  },
+  "activities": [
+    {
+      "product_id": "creatify",
+      "type": "workflow",
+      "title": "广告追踪、生成、发布和表现分析",
+      "detail": "首页同时展示行业广告参考、生成格式、社交发布及效果管理。",
+      "anchors": [
+        "Push live to social channels instantly",
+        "Track What Works"
+      ],
+      "source": "products/creatify/pages/home.json",
+      "event_date": null,
+      "id": "activity-33",
+      "source_url": "https://creatify.ai/",
+      "observed_at": "2026-10-02"
+    },
+    {
+      "product_id": "creatify",
+      "type": "affiliate",
+      "title": "25% 循环佣金与额外奖励",
+      "detail": "联盟页列出 25% 循环佣金、月销售超过 $5,000 的额外 5% 奖励及品牌大使合作。",
+      "anchors": [
+        "25% Recurring Commission",
+        "$5,000",
+        "extra 5%"
+      ],
+      "source": "products/creatify/pages/action-affiliate.json",
+      "event_date": null,
+      "id": "activity-55",
+      "source_url": "https://creatify.ai/affiliate",
+      "observed_at": "2026-10-02"
+    },
+    {
+      "product_id": "creatify",
+      "type": "content",
+      "title": "发布 B2B 视频营销指南",
+      "detail": "围绕企业购买流程、不同角色内容和营销方案发布长篇指南。",
+      "anchors": [
+        "September 25, 2026",
+        "B2B video"
+      ],
+      "source": "products/creatify/pages/action-content.json",
+      "event_date": "2026-09-25",
+      "id": "activity-57",
+      "source_url": "https://creatify.ai/blog/b2b-video-marketing",
+      "observed_at": "2026-10-02"
+    }
+  ],
+  "x_posts": []
+}

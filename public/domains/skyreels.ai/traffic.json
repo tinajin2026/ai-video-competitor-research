@@ -1,0 +1,145 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "skyreels.ai",
+  "measurement": "第三方域名级估算",
+  "data": {
+    "domain": "skyreels.ai",
+    "overview": {
+      "global_rank": 290366,
+      "country_rank": {
+        "country": "PK",
+        "rank": 10983
+      },
+      "visits": 161371,
+      "bounce_rate": 0.4572308570936343,
+      "pages_per_visit": 2.024052759042974,
+      "time_on_site_seconds": 51.89611768764216,
+      "month": "2026-08"
+    },
+    "monthly_visits": [
+      {
+        "month": "2025-09",
+        "visits": 291221
+      },
+      {
+        "month": "2025-10",
+        "visits": 268542
+      },
+      {
+        "month": "2025-11",
+        "visits": 378865
+      },
+      {
+        "month": "2025-12",
+        "visits": 298231
+      },
+      {
+        "month": "2026-01",
+        "visits": 296328
+      },
+      {
+        "month": "2026-02",
+        "visits": 231254
+      },
+      {
+        "month": "2026-03",
+        "visits": 253621
+      },
+      {
+        "month": "2026-04",
+        "visits": 190499
+      },
+      {
+        "month": "2026-05",
+        "visits": 132452
+      },
+      {
+        "month": "2026-06",
+        "visits": 114081
+      },
+      {
+        "month": "2026-07",
+        "visits": 122876
+      },
+      {
+        "month": "2026-08",
+        "visits": 161371
+      }
+    ],
+    "traffic_sources": {
+      "direct": 0.2113,
+      "search": 0.5465,
+      "search_organic": 0.5343,
+      "search_paid": 0.0122,
+      "social": 0.0108,
+      "social_organic": 0.0097,
+      "social_paid": 0.0011,
+      "referrals": 0.088,
+      "paid_referrals": 0.1171,
+      "mail": 0.0012,
+      "gen_ai": 0.0213,
+      "affiliate": 0.0038,
+      "other": 0
+    },
+    "top_keywords": [
+      {
+        "name": "skyreels",
+        "volume": 19130,
+        "cpc": 0.46,
+        "estimated_value": 29780
+      },
+      {
+        "name": "skyreels ai",
+        "volume": 7090,
+        "cpc": 0.12,
+        "estimated_value": 9460
+      },
+      {
+        "name": "skyreels v2",
+        "volume": 4390,
+        "cpc": 0.17,
+        "estimated_value": 3950
+      },
+      {
+        "name": "sky reels",
+        "volume": 1530,
+        "cpc": 0.17,
+        "estimated_value": 2270
+      },
+      {
+        "name": "skyreel",
+        "volume": 1050,
+        "cpc": 0.15,
+        "estimated_value": 980
+      }
+    ],
+    "top_regions": [
+      {
+        "country": "IN",
+        "name": "India",
+        "share": 0.239
+      },
+      {
+        "country": "US",
+        "name": "United States",
+        "share": 0.1535
+      },
+      {
+        "country": "PK",
+        "name": "Pakistan",
+        "share": 0.0842
+      },
+      {
+        "country": "ES",
+        "name": "Spain",
+        "share": 0.0505
+      },
+      {
+        "country": "NG",
+        "name": "Nigeria",
+        "share": 0.0494
+      }
+    ]
+  }
+}

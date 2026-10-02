@@ -1,0 +1,145 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "pixverse.ai",
+  "measurement": "第三方域名级估算",
+  "data": {
+    "domain": "pixverse.ai",
+    "overview": {
+      "global_rank": 6260,
+      "country_rank": {
+        "country": "IN",
+        "rank": 3125
+      },
+      "visits": 5550505,
+      "bounce_rate": 0.3131728099206656,
+      "pages_per_visit": 10.89000616117198,
+      "time_on_site_seconds": 479.3890323660858,
+      "month": "2026-08"
+    },
+    "monthly_visits": [
+      {
+        "month": "2025-09",
+        "visits": 8993556
+      },
+      {
+        "month": "2025-10",
+        "visits": 7243453
+      },
+      {
+        "month": "2025-11",
+        "visits": 6212775
+      },
+      {
+        "month": "2025-12",
+        "visits": 6776961
+      },
+      {
+        "month": "2026-01",
+        "visits": 6841274
+      },
+      {
+        "month": "2026-02",
+        "visits": 5419041
+      },
+      {
+        "month": "2026-03",
+        "visits": 6738559
+      },
+      {
+        "month": "2026-04",
+        "visits": 6617173
+      },
+      {
+        "month": "2026-05",
+        "visits": 6253914
+      },
+      {
+        "month": "2026-06",
+        "visits": 6858245
+      },
+      {
+        "month": "2026-07",
+        "visits": 6417906
+      },
+      {
+        "month": "2026-08",
+        "visits": 5550505
+      }
+    ],
+    "traffic_sources": {
+      "direct": 0.4783,
+      "search": 0.342,
+      "search_organic": 0.1719,
+      "search_paid": 0.1701,
+      "social": 0.0679,
+      "social_organic": 0.0596,
+      "social_paid": 0.0083,
+      "referrals": 0.0452,
+      "paid_referrals": 0.0277,
+      "mail": 0.0083,
+      "gen_ai": 0.0297,
+      "affiliate": 0.0009,
+      "other": 0
+    },
+    "top_keywords": [
+      {
+        "name": "pixverse",
+        "volume": 312390,
+        "cpc": 0.29,
+        "estimated_value": 652170
+      },
+      {
+        "name": "pixverse ai",
+        "volume": 125080,
+        "cpc": 0.2,
+        "estimated_value": 506510
+      },
+      {
+        "name": "kling ai",
+        "volume": 1451150,
+        "cpc": 0.48,
+        "estimated_value": 14630
+      },
+      {
+        "name": "pix verse",
+        "volume": 7030,
+        "cpc": 0.25,
+        "estimated_value": 14370
+      },
+      {
+        "name": "free ai video generator",
+        "volume": 248970,
+        "cpc": 0.75,
+        "estimated_value": 14340
+      }
+    ],
+    "top_regions": [
+      {
+        "country": "IN",
+        "name": "India",
+        "share": 0.0953
+      },
+      {
+        "country": "US",
+        "name": "United States",
+        "share": 0.0695
+      },
+      {
+        "country": "BR",
+        "name": "Brazil",
+        "share": 0.0663
+      },
+      {
+        "country": "PK",
+        "name": "Pakistan",
+        "share": 0.0586
+      },
+      {
+        "country": "RU",
+        "name": "Russia",
+        "share": 0.0568
+      }
+    ]
+  }
+}

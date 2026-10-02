@@ -1,0 +1,427 @@
+{
+  "schema_version": 1,
+  "product": {
+    "id": "synthesia",
+    "name": "Synthesia",
+    "x_handle": null,
+    "homepage": "https://www.synthesia.io/",
+    "ads_priority": false,
+    "traffic_domain": "synthesia.io",
+    "additional_domains": [],
+    "scope_note": "域名级流量估算，非付费用户、收入或模型调用量。",
+    "shared_scope": false,
+    "domain_data": {
+      "domain": "synthesia.io",
+      "traffic": {
+        "domain": "synthesia.io",
+        "overview": {
+          "global_rank": 19043,
+          "country_rank": {
+            "country": "US",
+            "rank": 16736
+          },
+          "visits": 1809313,
+          "bounce_rate": 0.4024284277066611,
+          "pages_per_visit": 9.335536036036238,
+          "time_on_site_seconds": 404.65700266815907,
+          "month": "2026-08"
+        },
+        "monthly_visits": [
+          {
+            "month": "2025-09",
+            "visits": 1883296
+          },
+          {
+            "month": "2025-10",
+            "visits": 2017198
+          },
+          {
+            "month": "2025-11",
+            "visits": 1921586
+          },
+          {
+            "month": "2025-12",
+            "visits": 2164555
+          },
+          {
+            "month": "2026-01",
+            "visits": 2029505
+          },
+          {
+            "month": "2026-02",
+            "visits": 1670303
+          },
+          {
+            "month": "2026-03",
+            "visits": 1762930
+          },
+          {
+            "month": "2026-04",
+            "visits": 1677217
+          },
+          {
+            "month": "2026-05",
+            "visits": 1853798
+          },
+          {
+            "month": "2026-06",
+            "visits": 1949507
+          },
+          {
+            "month": "2026-07",
+            "visits": 1817879
+          },
+          {
+            "month": "2026-08",
+            "visits": 1809313
+          }
+        ],
+        "traffic_sources": {
+          "direct": 0.3716,
+          "search": 0.4543,
+          "search_organic": 0.3676,
+          "search_paid": 0.0868,
+          "social": 0.0599,
+          "social_organic": 0.0385,
+          "social_paid": 0.0214,
+          "referrals": 0.0679,
+          "paid_referrals": 0.0085,
+          "mail": 0.0208,
+          "gen_ai": 0.0166,
+          "affiliate": 0.0004,
+          "other": 0
+        },
+        "top_keywords": [
+          {
+            "name": "synthesia",
+            "volume": 207920,
+            "cpc": 1.01,
+            "estimated_value": 176270
+          },
+          {
+            "name": "free ai video generator",
+            "volume": 248970,
+            "cpc": 0.75,
+            "estimated_value": 21870
+          },
+          {
+            "name": "ai video generator free",
+            "volume": 157070,
+            "cpc": 0.48,
+            "estimated_value": 13490
+          },
+          {
+            "name": "heygen",
+            "volume": 1672920,
+            "cpc": 0.63,
+            "estimated_value": 12940
+          },
+          {
+            "name": "synthesia ai",
+            "volume": 16470,
+            "cpc": 0.83,
+            "estimated_value": 11180
+          }
+        ],
+        "top_regions": [
+          {
+            "country": "US",
+            "name": "United States",
+            "share": 0.2273
+          },
+          {
+            "country": "IN",
+            "name": "India",
+            "share": 0.0957
+          },
+          {
+            "country": "GB",
+            "name": "United Kingdom",
+            "share": 0.0924
+          },
+          {
+            "country": "DE",
+            "name": "Germany",
+            "share": 0.0357
+          },
+          {
+            "country": "CA",
+            "name": "Canada",
+            "share": 0.0336
+          }
+        ]
+      },
+      "traffic_evidence": "domains/synthesia.io/traffic.json",
+      "traffic_status": "ok",
+      "registration_date": "2017-04-20T22:23:14.000Z",
+      "backlinks": {
+        "domain": "synthesia.io",
+        "overview": {
+          "domain_rating": 85,
+          "backlinks": 1026015,
+          "referring_domains": 36253,
+          "dofollow_backlinks_pct": 85,
+          "dofollow_referring_domains_pct": 80
+        },
+        "backlinks": [
+          {
+            "from_url": "https://blog.ithillel.ua/articles/what-is-chatgpt-and-how-to-use-it",
+            "to_url": "https://www.synthesia.io/",
+            "title": "ChatGPT: що це таке і як його використовувати",
+            "anchor": "Synthesia",
+            "domain_rating": 52
+          },
+          {
+            "from_url": "https://generativeai.net/",
+            "to_url": "https://www.synthesia.io/",
+            "title": "Generative AI",
+            "anchor": "Synthesia",
+            "domain_rating": 54
+          },
+          {
+            "from_url": "https://www.truefan.ai/blogs/ai-image-to-video-generator",
+            "to_url": "https://www.synthesia.io/",
+            "title": "Beyond Free Tools: Guide to AI Image to Video Generator",
+            "anchor": "Synthesia",
+            "domain_rating": 36
+          },
+          {
+            "from_url": "https://ausjournal.com/view_article.php?id=108",
+            "to_url": "https://www.synthesia.io/",
+            "title": "Top 10 AI video Generator Tools 2025 | ausjournal.com",
+            "anchor": "Visit Synthesia →",
+            "domain_rating": 17
+          },
+          {
+            "from_url": "https://www.elancer.co.kr/blog/detail/1028",
+            "to_url": "https://www.synthesia.io/?r=0",
+            "title": "딥페이크 사이트 TOP 5 추천, 합법적 사용 기준까지 정리해서 알려드립니다. I 이랜서 블로그",
+            "anchor": "Synthesia 홈페이지",
+            "domain_rating": 39
+          },
+          {
+            "from_url": "https://en.wikipedia.org/wiki/Speech_synthesis",
+            "to_url": "https://www.synthesia.io/text-to-speech",
+            "title": "Speech synthesis",
+            "anchor": "the original",
+            "domain_rating": 97
+          },
+          {
+            "from_url": "https://readyforjob.in/pages/ai.html",
+            "to_url": "https://www.synthesia.io/",
+            "title": "Free AI Tools 2026 — Complete List | No Credit Card",
+            "anchor": "Visit Tool",
+            "domain_rating": 0
+          },
+          {
+            "from_url": "https://www.datacamp.com/blog/free-ai-tools",
+            "to_url": "https://www.synthesia.io/",
+            "title": "The 40 Best Free AI Tools in 2026: A Complete Guide | DataCamp",
+            "anchor": "Synthesia",
+            "domain_rating": 85
+          },
+          {
+            "from_url": "https://www.mux.com/",
+            "to_url": "https://www.synthesia.io/",
+            "title": "Video API for developers | Mux",
+            "anchor": "Jake GillespieEngineering Manager, Synthesia Synthesia logo",
+            "domain_rating": 81
+          },
+          {
+            "from_url": "https://base.vn/blog/cong-cu-ai/",
+            "to_url": "https://www.synthesia.io/",
+            "title": "Top 20+ các công cụ AI miễn phí được sử dụng phổ biến nhất hiện nay",
+            "anchor": "https://www.synthesia.io",
+            "domain_rating": 66
+          },
+          {
+            "from_url": "https://blog.videorock.com/best-free-ai-video-generator",
+            "to_url": "https://www.synthesia.io/",
+            "title": "Discover the Best Free AI Video Generator",
+            "anchor": "https://www.synthesia.io/",
+            "domain_rating": 18
+          },
+          {
+            "from_url": "https://ai4k.eu/content/free-ai-tools-online/",
+            "to_url": "https://www.synthesia.io/",
+            "title": "Over 100 FREE AI Tools: 2025 Update » ai4k",
+            "anchor": "synthesia.io",
+            "domain_rating": 1
+          },
+          {
+            "from_url": "https://blog.aintellitech.com/best-free-ai-video-generators/",
+            "to_url": "https://www.synthesia.io/",
+            "title": "Best FREE AI Video Generators that you should never miss - Blogs AIntelliTech",
+            "anchor": "Synthesia",
+            "domain_rating": 0
+          },
+          {
+            "from_url": "https://www.ispring.ru/elearning-insights/dipfejk",
+            "to_url": "https://www.synthesia.io/post/internal-communication-videos",
+            "title": "Что такое дипфейк и почему это тренд в обучении",
+            "anchor": "Synthesia Create",
+            "domain_rating": 69
+          },
+          {
+            "from_url": "https://aitrovex.com/ko/tool/veed",
+            "to_url": "https://www.synthesia.io/?ref=aitrovex.com",
+            "title": "VEED: AI 온라인 동영상 편집기와 자동 자막",
+            "anchor": "열기 ↗",
+            "domain_rating": 42
+          },
+          {
+            "from_url": "https://www.juniorgolfscoreboard.com/",
+            "to_url": "https://share.synthesia.io/embeds/videos/76b7d555-5e63-4a00-885f-a282d55ff2b5",
+            "title": "Junior Golf Scoreboard Rankings and Tournaments",
+            "anchor": "",
+            "domain_rating": 48
+          },
+          {
+            "from_url": "https://newstyle-mag.com/chatgpt-neyroset-kotoraya-mozhet-vso/",
+            "to_url": "https://www.synthesia.io/",
+            "title": "ChatGPT. Нейросеть, которая может всё",
+            "anchor": "https://www.synthesia.io",
+            "domain_rating": 29
+          },
+          {
+            "from_url": "https://async.com/blog/best-free-ai-video-generators/",
+            "to_url": "https://www.synthesia.io/",
+            "title": "Best free AI generator that can make videos in 2026",
+            "anchor": "Synthesia",
+            "domain_rating": 76
+          },
+          {
+            "from_url": "https://swiftask.ai/blog/video-creator",
+            "to_url": "https://www.synthesia.io/",
+            "title": "Video creator: top 20 AI tools for your professional content",
+            "anchor": "Synthesia",
+            "domain_rating": 37
+          },
+          {
+            "from_url": "https://partnerkin.com/blog/articles/neiroseti-text-art-video-audio",
+            "to_url": "https://www.synthesia.io/",
+            "title": "101 нейросеть 🔥 список нейросетей для рисования, улучшения фото, видео и написания текстов",
+            "anchor": "Официальный сайт",
+            "domain_rating": 70
+          }
+        ]
+      },
+      "backlinks_evidence": "domains/synthesia.io/backlinks.json"
+    },
+    "pages": [
+      {
+        "kind": "home",
+        "label": "首页",
+        "path": "products/synthesia/pages/home.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://www.synthesia.io/",
+          "resolved_url": "https://www.synthesia.io/",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Synthesia: #1 AI Video Platform for Business"
+        },
+        "content": "官网涵盖文档转视频、多语言、SCORM 发布、分析及互动训练场景。"
+      },
+      {
+        "kind": "pricing",
+        "label": "定价资料",
+        "path": "products/synthesia/pages/pricing.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://www.synthesia.io/pricing",
+          "resolved_url": "https://www.synthesia.io/pricing",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Synthesia Pricing - Compare Free and Paid Plans"
+        },
+        "content": "已保存官网来源；本公开版不转载页面全文。"
+      },
+      {
+        "kind": "docs",
+        "label": "文档",
+        "path": "products/synthesia/pages/docs.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://docs.synthesia.io/docs/synthesia-integrations",
+          "resolved_url": "https://docs.synthesia.io/docs/synthesia-integrations",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Synthesia Integrations | Embed AI Video into LMS, CMS & More"
+        },
+        "content": "已保存官网来源；本公开版不转载页面全文。"
+      },
+      {
+        "kind": "features",
+        "label": "功能",
+        "path": "products/synthesia/pages/features.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://www.synthesia.io/video",
+          "resolved_url": "https://www.synthesia.io/video",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Discover Synthesia's AI Video Platform Features"
+        },
+        "content": "已保存官网来源；本公开版不转载页面全文。"
+      }
+    ],
+    "searches": [],
+    "issues": [],
+    "screenshot": null,
+    "product_entry_links": []
+  },
+  "metrics": {
+    "visits": 1809313,
+    "mom": -0.004712084797723115,
+    "change3": -0.02399668140757516,
+    "rolling3": 0.05341083067542263,
+    "recent_average": 1858899.6666666667,
+    "prior_average": 1764648.3333333333,
+    "up_streak": 0,
+    "derived_channels": {
+      "search_paid_visits": 157048.3684,
+      "social_paid_visits": 38719.2982,
+      "search_organic_visits": 665103.4588,
+      "social_organic_visits": 69658.5505,
+      "direct_visits": 672340.7108
+    },
+    "scope": "site",
+    "profile": "企业视频与数字人平台，首页强调文档转视频、翻译和发布治理。",
+    "profile_source": "products/synthesia/pages/home.json"
+  },
+  "editorial": {
+    "thesis": "企业发布治理和培训集成，让竞争从生成质量延伸到交付流程。",
+    "focus": "SCORM、多语言、分析和互动训练面向组织工作流。访问时长或跳出率不足以衡量其企业销售转化。",
+    "experiment": "对企业视频任务加入审核、版本和导出规范，比较是否缩短从生成到发布的时间。",
+    "measure": "审核周期、导出成功率、每企业活跃使用者与项目复用率。",
+    "watch": "培训集成、互动数字人、治理功能及企业套餐限制。"
+  },
+  "activities": [
+    {
+      "product_id": "synthesia",
+      "type": "enterprise",
+      "title": "企业工作流、发布治理与互动数字人",
+      "detail": "官网涵盖文档转视频、多语言、SCORM 发布、分析及互动训练场景。",
+      "anchors": [
+        "SCORM",
+        "Interactive Avatars",
+        "analytics"
+      ],
+      "source": "products/synthesia/pages/home.json",
+      "event_date": null,
+      "id": "activity-27",
+      "source_url": "https://www.synthesia.io/",
+      "observed_at": "2026-10-02"
+    }
+  ],
+  "x_posts": []
+}

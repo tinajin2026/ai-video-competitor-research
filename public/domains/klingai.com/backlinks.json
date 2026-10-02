@@ -1,0 +1,158 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "klingai.com",
+  "measurement": "第三方外链样本",
+  "data": {
+    "domain": "klingai.com",
+    "overview": {
+      "domain_rating": 79,
+      "backlinks": 447593,
+      "referring_domains": 18807,
+      "dofollow_backlinks_pct": 80,
+      "dofollow_referring_domains_pct": 75
+    },
+    "backlinks": [
+      {
+        "from_url": "https://kling.ai/",
+        "to_url": "https://p4-kling.klingai.com/kcdn/cdn-kcdn112452/kling-local-app/macos-arm-x64/1.3.2/KlingAI-v1.3.2-darwin-arm64.dmg",
+        "title": "Kling AI: Next-Gen AI Video & Image Generator",
+        "anchor": "Apple Silicon",
+        "domain_rating": 79
+      },
+      {
+        "from_url": "https://www.seaart.ai/",
+        "to_url": "https://app.klingai.com/global/ai-shorts-video/magical-suitcase-short-story-animation/746573060388175930",
+        "title": "AI Creativity Community for Art, Video, Chat & Tools | SeaArt AI",
+        "anchor": "logo-2",
+        "domain_rating": 70
+      },
+      {
+        "from_url": "https://zapier.com/blog/best-ai-image-generator/",
+        "to_url": "https://app.klingai.com/global/text-to-image/new",
+        "title": "The 8 best AI image generators in 2026 | Zapier",
+        "anchor": "KlingAI Image 3.0",
+        "domain_rating": 91
+      },
+      {
+        "from_url": "https://en.wikipedia.org/wiki/Kling_AI",
+        "to_url": "https://klingai.com/",
+        "title": "Kling AI",
+        "anchor": "Official website",
+        "domain_rating": 97
+      },
+      {
+        "from_url": "https://codimd.apps.education.fr/s/r1H5nglAY",
+        "to_url": "https://klingai.com/",
+        "title": "Une sélection d’IA génératives gratuites en ligne - CodiMD",
+        "anchor": "Klingai",
+        "domain_rating": 85
+      },
+      {
+        "from_url": "https://www.techno-edge.net/article/2025/01/30/4061.html",
+        "to_url": "https://klingai.com/",
+        "title": "生成AIグラビアをグラビアカメラマンが作るとどうなる？第41回：外部サービスの生成AI画像はどんな感じ！？　そしてFLUX.1 [schnell] の逆襲（西川和久） | テクノエッジ TechnoEdge",
+        "anchor": "https://klingai.com",
+        "domain_rating": 53
+      },
+      {
+        "from_url": "https://guardia.school/boite-a-outils/top-10-meilleures-ia-gratuites.html",
+        "to_url": "https://klingai.com/app/",
+        "title": "Top 10 des meilleures IA gratuites à découvrir en 2026",
+        "anchor": "Site officiel",
+        "domain_rating": 63
+      },
+      {
+        "from_url": "https://www.marketermilk.com/blog/ai-marketing-tools",
+        "to_url": "https://klingai.com/",
+        "title": "30 best AI marketing tools I'm using to get ahead in 2026 | Marketer Milk",
+        "anchor": "Kling AI",
+        "domain_rating": 67
+      },
+      {
+        "from_url": "https://readyforjob.in/pages/ai.html",
+        "to_url": "https://klingai.com/",
+        "title": "Free AI Tools 2026 — Complete List | No Credit Card",
+        "anchor": "Visit Tool",
+        "domain_rating": 0
+      },
+      {
+        "from_url": "https://www.datacamp.com/blog/free-ai-tools",
+        "to_url": "https://klingai.com/",
+        "title": "The 40 Best Free AI Tools in 2026: A Complete Guide | DataCamp",
+        "anchor": "Kling AI",
+        "domain_rating": 85
+      },
+      {
+        "from_url": "https://www.aigc.cn/sites/21855.html",
+        "to_url": "https://klingai.com/app",
+        "title": "拷贝漫画 - 免费漫画在线分享平台 | AIGC工具导航",
+        "anchor": "可灵AI电影级视频创作 可灵AI电影级视频创作",
+        "domain_rating": 59
+      },
+      {
+        "from_url": "https://1min.ai/",
+        "to_url": "https://klingai.com/",
+        "title": "1minAI | Free All-in-one AI App for Text, Image, Audio, Video",
+        "anchor": "Kling AI Kling AI",
+        "domain_rating": 60
+      },
+      {
+        "from_url": "https://medium.com/@fadimantium/why-pixverse-ai-is-the-best-video-generator-for-now-8d6df6297191",
+        "to_url": "https://app.klingai.com/cn/",
+        "title": "Why Pixverse.ai is the Best Video Generator (for now). | by Erik Fadiman | Medium",
+        "anchor": "Kling",
+        "domain_rating": 94
+      },
+      {
+        "from_url": "https://www.creativepadmedia.com/the-best-free-alternatives-to-higgsfield-ai-full-demonstrations/",
+        "to_url": "https://klingai.com/h5-app/invitation?code=7BXGS33P9K42",
+        "title": "The Best Free Alternatives to Higgsfield AI - With Full Demonstrations - Creative Pad Media",
+        "anchor": "Kling AI",
+        "domain_rating": 13
+      },
+      {
+        "from_url": "https://skillbox.ru/media/code/30-moshchnykh-neyrosetey-dlya-lyubykh-zadach/",
+        "to_url": "https://klingai.com/",
+        "title": "Топ-36 нейросетей на все случаи жизни / Skillbox Media / Skillbox Media",
+        "anchor": "Попробовать",
+        "domain_rating": 78
+      },
+      {
+        "from_url": "https://github.com/mahseema/awesome-ai-tools",
+        "to_url": "https://app.klingai.com/global/",
+        "title": "GitHub - mahseema/awesome-ai-tools: A curated list of Artificial Intelligence Top Tools · GitHub",
+        "anchor": "klingai",
+        "domain_rating": 97
+      },
+      {
+        "from_url": "https://digital-gorilla.co.jp/ai-lab/ai-video-generation-free/",
+        "to_url": "https://klingai.com/",
+        "title": "【2026年最新】ai動画生成 無料おすすめ10選｜使い方・商用利用・日本語対応を比較 – ゴリラのAI研究所",
+        "anchor": "Kling AI公式サイト",
+        "domain_rating": 27
+      },
+      {
+        "from_url": "https://aitoolsandplugins.com/video-and-audio/pika-labs/",
+        "to_url": "https://klingai.com/",
+        "title": "Pika Labs - AI Tools and Plugins",
+        "anchor": "Website",
+        "domain_rating": 0
+      },
+      {
+        "from_url": "https://phongvu.vn/cong-nghe/kling-ai-la-gi-huong-dan-su-dung-kling-ai-de-tao-anh-va-video/",
+        "to_url": "https://klingai.com/",
+        "title": "Kling AI là gì? Hướng dẫn sử dụng Kling AI để tạo ảnh và video",
+        "anchor": "https://klingai.com/",
+        "domain_rating": 72
+      },
+      {
+        "from_url": "https://a16z.com/100-gen-ai-apps-6/",
+        "to_url": "https://klingai.com/",
+        "title": "The Top 100 Gen AI Consumer Apps — 6th Edition | Andreessen Horowitz",
+        "anchor": "Kling AI",
+        "domain_rating": 87
+      }
+    ]
+  }
+}

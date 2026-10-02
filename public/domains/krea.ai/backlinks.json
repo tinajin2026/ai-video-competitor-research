@@ -1,0 +1,158 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "krea.ai",
+  "measurement": "第三方外链样本",
+  "data": {
+    "domain": "krea.ai",
+    "overview": {
+      "domain_rating": 76,
+      "backlinks": 567222,
+      "referring_domains": 13272,
+      "dofollow_backlinks_pct": 81,
+      "dofollow_referring_domains_pct": 76
+    },
+    "backlinks": [
+      {
+        "from_url": "https://codimd.apps.education.fr/s/r1H5nglAY",
+        "to_url": "https://www.krea.ai/",
+        "title": "Une sélection d’IA génératives gratuites en ligne - CodiMD",
+        "anchor": "Krea.ai",
+        "domain_rating": 85
+      },
+      {
+        "from_url": "https://www.byriwa.com/ai-image-generators/",
+        "to_url": "https://www.krea.ai/home",
+        "title": "9 Best AI Image Generators: Free and Paid Tools",
+        "anchor": "1. Krea (Free)",
+        "domain_rating": 2
+      },
+      {
+        "from_url": "https://www.baseten.co/resources/event/inference-insight-an-evening-with-baseten-protopia-ai/",
+        "to_url": "https://www.krea.ai/",
+        "title": "Inference & Insights: An Evening with Baseten & Protopia AI | Events",
+        "anchor": "Logo",
+        "domain_rating": 76
+      },
+      {
+        "from_url": "https://www.dixmilleheures.fr/comparateur/generateur-image-ia",
+        "to_url": "https://www.krea.ai/",
+        "title": "Les 13 meilleurs générateurs d'image IA en ligne pour entrepreneurs en 2026 | Comparatif & Avis",
+        "anchor": "Essayer",
+        "domain_rating": 33
+      },
+      {
+        "from_url": "https://note.com/synth_brain/n/nec455c0b8ee5",
+        "to_url": "https://www.krea.ai/docs/ja/user-guide/features/krea-2-turbo",
+        "title": "【KREA2の基本】世界が驚いた画質❗️８GBでもGGUF❗️（付録）ワークフローとプロンプト集❗️｜cue",
+        "anchor": "https://www.krea.ai/docs/ja/user-guide/features/krea-2-turbo",
+        "domain_rating": 92
+      },
+      {
+        "from_url": "https://pinggy.io/blog/best_free_open_source_ai_image_generators_to_self_host/",
+        "to_url": "https://www.krea.ai/blog/krea-2-technical-report",
+        "title": "Best Free & Open-Source AI Image Generators to Self-Host | Pinggy Blog",
+        "anchor": "Krea 2 Technical Report",
+        "domain_rating": 54
+      },
+      {
+        "from_url": "https://github.com/zebbern/no-cost-ai",
+        "to_url": "https://www.krea.ai/home",
+        "title": "GitHub - zebbern/no-cost-ai: 80+ free AI services for chat, image, video, voice & APIs (may sometimes include access to lead gen ai models for free) · GitHub",
+        "anchor": "krea.ai",
+        "domain_rating": 97
+      },
+      {
+        "from_url": "https://bananaproai.app/m/vheer",
+        "to_url": "https://www.krea.ai/features/ai-video-generator",
+        "title": "Vheer AI Video Generator | Banana Pro AI",
+        "anchor": "Krea video generator",
+        "domain_rating": 25
+      },
+      {
+        "from_url": "https://www.toools.design/",
+        "to_url": "https://www.krea.ai/",
+        "title": "Design Resources & Tools for Designers | TOOOLS.design",
+        "anchor": "KreaAn easy way to generate images, video and sound with AI.Freemium",
+        "domain_rating": 48
+      },
+      {
+        "from_url": "https://topapps.fr/apps/histovec",
+        "to_url": "https://www.krea.ai/home",
+        "title": "HistoVec : l'historique officiel d'un véhicule (gratuit) | TopApps",
+        "anchor": "Visiter le site",
+        "domain_rating": 5
+      },
+      {
+        "from_url": "https://www.da-vinci.com.tw/tw/blog/top10-ai-drawing-website-recommendation",
+        "to_url": "https://www.krea.ai/home",
+        "title": "10大 AI 生成圖片網站推薦：2026 免費工具與方案比較",
+        "anchor": "立即前往",
+        "domain_rating": 75
+      },
+      {
+        "from_url": "https://partnerkin.com/blog/articles/neiroseti-text-art-video-audio",
+        "to_url": "https://www.krea.ai/home",
+        "title": "101 нейросеть 🔥 список нейросетей для рисования, улучшения фото, видео и написания текстов",
+        "anchor": "Официальный сайт",
+        "domain_rating": 70
+      },
+      {
+        "from_url": "https://www.myarchitectai.com/architecture-generator",
+        "to_url": "https://www.krea.ai/apps/image/realtime",
+        "title": "Free AI Architecture Generator | No Login Required",
+        "anchor": "Krea AI",
+        "domain_rating": 47
+      },
+      {
+        "from_url": "https://www.gptuncensored.ai/blog/best-ai-image-generator-free",
+        "to_url": "https://krea.ai/",
+        "title": "10 Best AI Image Generator Free Tools for 2026 | GPT Uncensored Blog",
+        "anchor": "Krea AI",
+        "domain_rating": 26
+      },
+      {
+        "from_url": "https://www.fahimai.com/krea-ai",
+        "to_url": "https://www.krea.ai/",
+        "title": "Krea AI Review: Real-time AI Art Generator in 2025",
+        "anchor": "Try Krea AI for FREE",
+        "domain_rating": 56
+      },
+      {
+        "from_url": "https://www.vanityfair.fr/article/quels-sont-les-meilleurs-simulateurs-de-coupes-de-cheveux",
+        "to_url": "https://www.krea.ai/",
+        "title": "Quels sont les meilleurs simulateurs de coupes de cheveux ? | Vanity Fair",
+        "anchor": "Testez Krea",
+        "domain_rating": 75
+      },
+      {
+        "from_url": "https://www.ainauten.com/top-ki-tools-liste",
+        "to_url": "https://www.krea.ai/",
+        "title": "Beste KI Tools 2026: Die große Übersicht (handverlesen) | AINAUTEN",
+        "anchor": "Krea.ai",
+        "domain_rating": 29
+      },
+      {
+        "from_url": "https://skillbox.ru/media/code/top8-neyrosetey-kotorye-risuyut-redaktiruyut-i-dopolnyayut-izobrazheniya/",
+        "to_url": "https://www.krea.ai/app",
+        "title": "Топ-12 нейросетей для генерации изображений: лучшие бесплатные AI-сервисы для создания картинок по фото и словам / Skillbox Media",
+        "anchor": "Попробовать онлайн →",
+        "domain_rating": 78
+      },
+      {
+        "from_url": "https://pickaxe.co/post/top-ai-image-generators",
+        "to_url": "https://www.krea.ai/",
+        "title": "Top 16 AI Image Generators (Tested & Ranked) | Pickaxe Blog",
+        "anchor": "Try Krea AI",
+        "domain_rating": 70
+      },
+      {
+        "from_url": "https://research.contrary.com/company/krea",
+        "to_url": "https://www.krea.ai/apps/enhance",
+        "title": "Report: Krea Business Breakdown & Founding Story | Contrary Research",
+        "anchor": "Enhancer",
+        "domain_rating": 71
+      }
+    ]
+  }
+}

@@ -1,0 +1,394 @@
+{
+  "schema_version": 1,
+  "product": {
+    "id": "invideo",
+    "name": "invideo",
+    "x_handle": null,
+    "homepage": "https://invideo.io/",
+    "ads_priority": false,
+    "traffic_domain": "invideo.io",
+    "additional_domains": [],
+    "scope_note": "域名级流量估算，非付费用户、收入或模型调用量。",
+    "shared_scope": false,
+    "domain_data": {
+      "domain": "invideo.io",
+      "traffic": {
+        "domain": "invideo.io",
+        "overview": {
+          "global_rank": 6737,
+          "country_rank": {
+            "country": "IN",
+            "rank": 2515
+          },
+          "visits": 6490749,
+          "bounce_rate": 0.40910461910652085,
+          "pages_per_visit": 5.599705006265031,
+          "time_on_site_seconds": 151.4116809477217,
+          "month": "2026-08"
+        },
+        "monthly_visits": [
+          {
+            "month": "2025-09",
+            "visits": 6644250
+          },
+          {
+            "month": "2025-10",
+            "visits": 7565729
+          },
+          {
+            "month": "2025-11",
+            "visits": 7558271
+          },
+          {
+            "month": "2025-12",
+            "visits": 8920188
+          },
+          {
+            "month": "2026-01",
+            "visits": 9286784
+          },
+          {
+            "month": "2026-02",
+            "visits": 7583902
+          },
+          {
+            "month": "2026-03",
+            "visits": 7833475
+          },
+          {
+            "month": "2026-04",
+            "visits": 7734333
+          },
+          {
+            "month": "2026-05",
+            "visits": 7822846
+          },
+          {
+            "month": "2026-06",
+            "visits": 6976338
+          },
+          {
+            "month": "2026-07",
+            "visits": 6846906
+          },
+          {
+            "month": "2026-08",
+            "visits": 6490749
+          }
+        ],
+        "traffic_sources": {
+          "direct": 0.3322,
+          "search": 0.5472,
+          "search_organic": 0.5056,
+          "search_paid": 0.0416,
+          "social": 0.035,
+          "social_organic": 0.0327,
+          "social_paid": 0.0023,
+          "referrals": 0.0353,
+          "paid_referrals": 0.0061,
+          "mail": 0.0065,
+          "gen_ai": 0.0305,
+          "affiliate": 0.0071,
+          "other": 0
+        },
+        "top_keywords": [
+          {
+            "name": "invideo ai",
+            "volume": 337860,
+            "cpc": 0.48,
+            "estimated_value": 417970
+          },
+          {
+            "name": "ai video generator",
+            "volume": 468640,
+            "cpc": 0.79,
+            "estimated_value": 135630
+          },
+          {
+            "name": "invideo",
+            "volume": 122350,
+            "cpc": 0.72,
+            "estimated_value": 105020
+          },
+          {
+            "name": "elevenlabs",
+            "volume": 3401750,
+            "cpc": 0.21,
+            "estimated_value": 96130
+          },
+          {
+            "name": "free ai video generator",
+            "volume": 248970,
+            "cpc": 0.75,
+            "estimated_value": 63780
+          }
+        ],
+        "top_regions": [
+          {
+            "country": "US",
+            "name": "United States",
+            "share": 0.151
+          },
+          {
+            "country": "IN",
+            "name": "India",
+            "share": 0.1395
+          },
+          {
+            "country": "BR",
+            "name": "Brazil",
+            "share": 0.0571
+          },
+          {
+            "country": "PK",
+            "name": "Pakistan",
+            "share": 0.0307
+          },
+          {
+            "country": "PH",
+            "name": "Philippines",
+            "share": 0.0301
+          }
+        ]
+      },
+      "traffic_evidence": "domains/invideo.io/traffic.json",
+      "traffic_status": "ok",
+      "registration_date": "2017-05-17T10:30:22.000Z",
+      "backlinks": {
+        "domain": "invideo.io",
+        "overview": {
+          "domain_rating": 87,
+          "backlinks": 455313,
+          "referring_domains": 36241,
+          "dofollow_backlinks_pct": 81,
+          "dofollow_referring_domains_pct": 82
+        },
+        "backlinks": [
+          {
+            "from_url": "https://play.google.com/store/apps/details?id=io.invideo.ai&hl=en_IN",
+            "to_url": "https://invideo.io/privacy-policy/",
+            "title": "invideo AI: AI Video Generator – Apps on Google Play",
+            "anchor": "shieldPrivacy Policy",
+            "domain_rating": 100
+          },
+          {
+            "from_url": "https://codimd.apps.education.fr/s/r1H5nglAY",
+            "to_url": "https://invideo.io/",
+            "title": "Une sélection d’IA génératives gratuites en ligne - CodiMD",
+            "anchor": "Invideo",
+            "domain_rating": 85
+          },
+          {
+            "from_url": "https://openai.com/index/invideo-ai/",
+            "to_url": "https://invideo.io/",
+            "title": "Invideo AI enables anyone with an idea to produce high-quality videos | OpenAI",
+            "anchor": "Invideo AI⁠(opens in a new window)",
+            "domain_rating": 93
+          },
+          {
+            "from_url": "https://apps.apple.com/in/app/invideo-ai-ai-video-generator/id6471394316",
+            "to_url": "https://ai.invideo.io/",
+            "title": "‎invideo AI: AI Video Generator App - App Store",
+            "anchor": "Developer Website",
+            "domain_rating": 97
+          },
+          {
+            "from_url": "https://www.goodfirms.co/video-editing-software/",
+            "to_url": "https://invideo.io/",
+            "title": "Best Video Editing Software 2026 | Top Free Video Editors & Online Tools",
+            "anchor": "Vendor pricing page",
+            "domain_rating": 86
+          },
+          {
+            "from_url": "https://www.datacamp.com/blog/free-ai-tools",
+            "to_url": "https://invideo.io/",
+            "title": "The 40 Best Free AI Tools in 2026: A Complete Guide | DataCamp",
+            "anchor": "Invideo AI",
+            "domain_rating": 85
+          },
+          {
+            "from_url": "https://invideo-ai.en.uptodown.com/android",
+            "to_url": "https://ai.invideo.io/",
+            "title": "invideo AI for Android - Download the APK from Uptodown",
+            "anchor": "invideo AI",
+            "domain_rating": 83
+          },
+          {
+            "from_url": "https://www.tastyedits.com/best-online-video-editors/",
+            "to_url": "https://invideo.io/",
+            "title": "The Best Online Video Editors – Tasty Edits",
+            "anchor": "InVideo",
+            "domain_rating": 52
+          },
+          {
+            "from_url": "https://justdeleteme.xyz/",
+            "to_url": "https://help.invideo.io/articles/56692-how-do-i-delete-my-account",
+            "title": "Just Delete Me | A directory of direct links to delete your account from web services.",
+            "anchor": "InVideo URL",
+            "domain_rating": 55
+          },
+          {
+            "from_url": "https://www.nemovideo.com/ja-JP/blog/twitter-video-tools-ranking-2026",
+            "to_url": "https://invideo.io/jp/make/ai-video-generator/",
+            "title": "Twitterビデオツール おすすめランキング2026 | 無料・有料比較",
+            "anchor": "InVideo AI",
+            "domain_rating": 32
+          },
+          {
+            "from_url": "https://www.decktopus.com/blog/stunning-presentation",
+            "to_url": "https://invideo.io/make/slideshow-maker/",
+            "title": "How AI Can Help Create A Stunning Presentation In 2026 - Decktopus AI",
+            "anchor": "creating a slideshow",
+            "domain_rating": 73
+          },
+          {
+            "from_url": "https://blog.videorock.com/best-free-ai-video-generator",
+            "to_url": "https://invideo.io/",
+            "title": "Discover the Best Free AI Video Generator",
+            "anchor": "InVideo",
+            "domain_rating": 18
+          },
+          {
+            "from_url": "https://www.selecthub.com/p/ai-video-generator-software/invideo-ai/",
+            "to_url": "https://invideo.io/make/ai-video-generator/",
+            "title": "invideo AI Reviews 2026: Pricing, Features & More",
+            "anchor": "Request for Free",
+            "domain_rating": 74
+          },
+          {
+            "from_url": "https://videolab.tec.mx/es/como-disenar-una-infografia-en-6-pasos",
+            "to_url": "https://invideo.io/",
+            "title": "Cómo diseñar una infografía en 6 pasos | Videolab | Tecnológico de Monterrey",
+            "anchor": "InVideo",
+            "domain_rating": 80
+          },
+          {
+            "from_url": "https://www.veedyou.com/online-video-editing-tools/",
+            "to_url": "https://invideo.io/",
+            "title": "7 Online Video Editing & Creation Tools You Need To Try",
+            "anchor": "InVideo",
+            "domain_rating": 68
+          },
+          {
+            "from_url": "https://filmora.wondershare.fr/ai/ai-video-editing-tool-invideo-review.html",
+            "to_url": "https://invideo.io/",
+            "title": "InVideo AI : créer les meilleures vidéos YouTube grâce à l'IA",
+            "anchor": "InVideo for YouTube",
+            "domain_rating": 62
+          },
+          {
+            "from_url": "https://blog.aintellitech.com/best-free-ai-video-generators/",
+            "to_url": "https://invideo.io/",
+            "title": "Best FREE AI Video Generators that you should never miss - Blogs AIntelliTech",
+            "anchor": "InVideo",
+            "domain_rating": 0
+          },
+          {
+            "from_url": "https://tactiq.io/learn/funny-ms-teams-background",
+            "to_url": "https://invideo.io/make/ai-image-generator/",
+            "title": "Top 30+ Funny Backgrounds for Your MS Teams Meeting (2026 Edition)",
+            "anchor": "AI background generators",
+            "domain_rating": 72
+          },
+          {
+            "from_url": "https://swiftask.ai/blog/video-creator",
+            "to_url": "https://invideo.io/",
+            "title": "Video creator: top 20 AI tools for your professional content",
+            "anchor": "InVideo",
+            "domain_rating": 37
+          },
+          {
+            "from_url": "https://sendfame.com/blog/ai-video-generator-free",
+            "to_url": "https://invideo.io/",
+            "title": "The 12 Best AI Video Generator Free Tools of 2025",
+            "anchor": "https://invideo.io",
+            "domain_rating": 53
+          }
+        ]
+      },
+      "backlinks_evidence": "domains/invideo.io/backlinks.json"
+    },
+    "pages": [
+      {
+        "kind": "home",
+        "label": "首页",
+        "path": "products/invideo/pages/home.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://invideo.io/",
+          "resolved_url": "https://invideo.io/",
+          "http_status": 200
+        },
+        "page": {
+          "title": "invideo Editor - Create videos without limits"
+        },
+        "content": "首页将 Agent 编辑器、多人协作、分镜与自建 Agent 作为产品入口。"
+      },
+      {
+        "kind": "pricing",
+        "label": "定价资料",
+        "path": "products/invideo/pages/pricing.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://invideo.io/pricing/",
+          "resolved_url": "https://invideo.io/pricing/",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Pricing | invideo AI"
+        },
+        "content": "已保存官网来源；本公开版不转载页面全文。"
+      }
+    ],
+    "searches": [],
+    "issues": [],
+    "screenshot": null,
+    "product_entry_links": []
+  },
+  "metrics": {
+    "visits": 6490749,
+    "mom": -0.05201721770387968,
+    "change3": -0.1702829123825268,
+    "rolling3": -0.13153377413047107,
+    "recent_average": 6771331.0,
+    "prior_average": 7796884.666666667,
+    "up_streak": 0,
+    "derived_channels": {
+      "search_paid_visits": 270015.1584,
+      "social_paid_visits": 14928.7227,
+      "search_organic_visits": 3281722.6944000004,
+      "social_organic_visits": 212247.4923,
+      "direct_visits": 2156226.8178
+    },
+    "scope": "site",
+    "profile": "首页定位为 Agent 视频编辑器，展示多镜头编辑、协作和分镜。",
+    "profile_source": "products/invideo/pages/home.json"
+  },
+  "editorial": {
+    "thesis": "Agent、多镜头编辑与协作组成完整项目入口，获客要看任务承接是否连贯。",
+    "focus": "泛视频生成词出现在关键词样本中，但样本没有词级导流量。可以研究意图页面如何连接脚本、分镜和后续编辑。",
+    "experiment": "以一个具体广告任务页面承接搜索，直接填入脚本并进入分镜编辑。",
+    "measure": "搜索落地到项目创建率、编辑完成率、成片导出率与付费率。",
+    "watch": "Agent 编辑能力、自建 Agent 入口、协作与价格权益。"
+  },
+  "activities": [
+    {
+      "product_id": "invideo",
+      "type": "workflow",
+      "title": "多镜头编辑、协作和自建 Agent",
+      "detail": "首页将 Agent 编辑器、多人协作、分镜与自建 Agent 作为产品入口。",
+      "anchors": [
+        "Multiplayer mode",
+        "Build your own agents"
+      ],
+      "source": "products/invideo/pages/home.json",
+      "event_date": null,
+      "id": "activity-28",
+      "source_url": "https://invideo.io/",
+      "observed_at": "2026-10-02"
+    }
+  ],
+  "x_posts": []
+}

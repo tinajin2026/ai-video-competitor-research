@@ -1,0 +1,394 @@
+{
+  "schema_version": 1,
+  "product": {
+    "id": "magnific",
+    "name": "Magnific",
+    "x_handle": "magnific",
+    "homepage": "https://www.magnific.com/",
+    "ads_priority": false,
+    "traffic_domain": "magnific.com",
+    "additional_domains": [
+      "magnific.ai"
+    ],
+    "scope_note": "magnific.ai 首页重定向至 magnific.com；新站为原 Freepik 综合平台，不能将新旧域流量直接相加。",
+    "shared_scope": true,
+    "domain_data": {
+      "domain": "magnific.com",
+      "traffic": {
+        "domain": "magnific.com",
+        "overview": {
+          "global_rank": null,
+          "country_rank": null,
+          "visits": 82619033,
+          "bounce_rate": 0.29360400158361905,
+          "pages_per_visit": 8.76120574154183,
+          "time_on_site_seconds": 514.9989980887037,
+          "month": "2026-08"
+        },
+        "monthly_visits": [
+          {
+            "month": "2025-09",
+            "visits": 0
+          },
+          {
+            "month": "2025-10",
+            "visits": 73
+          },
+          {
+            "month": "2025-11",
+            "visits": 572
+          },
+          {
+            "month": "2025-12",
+            "visits": 0
+          },
+          {
+            "month": "2026-01",
+            "visits": 0
+          },
+          {
+            "month": "2026-02",
+            "visits": 0
+          },
+          {
+            "month": "2026-03",
+            "visits": 0
+          },
+          {
+            "month": "2026-04",
+            "visits": 9418112
+          },
+          {
+            "month": "2026-05",
+            "visits": 105081872
+          },
+          {
+            "month": "2026-06",
+            "visits": 97041114
+          },
+          {
+            "month": "2026-07",
+            "visits": 89963989
+          },
+          {
+            "month": "2026-08",
+            "visits": 82619033
+          }
+        ],
+        "traffic_sources": {
+          "direct": 0.4109,
+          "search": 0.4228,
+          "search_organic": 0.4034,
+          "search_paid": 0.0194,
+          "social": 0.0571,
+          "social_organic": 0.0567,
+          "social_paid": 0.0004,
+          "referrals": 0.0226,
+          "paid_referrals": 0.0619,
+          "mail": 0.0071,
+          "gen_ai": 0.0172,
+          "affiliate": 0.0003,
+          "other": 0
+        },
+        "top_keywords": [
+          {
+            "name": "freepik",
+            "volume": 3277080,
+            "cpc": 0.59,
+            "estimated_value": 3146150
+          },
+          {
+            "name": "magnific",
+            "volume": 898100,
+            "cpc": 0.79,
+            "estimated_value": 1081500
+          },
+          {
+            "name": "magnific ai",
+            "volume": 148710,
+            "cpc": 0.88,
+            "estimated_value": 130530
+          },
+          {
+            "name": "freepick",
+            "volume": 105070,
+            "cpc": 0.63,
+            "estimated_value": 96350
+          },
+          {
+            "name": "80",
+            "volume": 118680,
+            "cpc": 0.53,
+            "estimated_value": 72520
+          }
+        ],
+        "top_regions": [
+          {
+            "country": "IN",
+            "name": "India",
+            "share": 0.1288
+          },
+          {
+            "country": "BR",
+            "name": "Brazil",
+            "share": 0.1042
+          },
+          {
+            "country": "US",
+            "name": "United States",
+            "share": 0.0814
+          },
+          {
+            "country": "ID",
+            "name": "Indonesia",
+            "share": 0.0511
+          },
+          {
+            "country": "MX",
+            "name": "Mexico",
+            "share": 0.0399
+          }
+        ]
+      },
+      "traffic_evidence": "domains/magnific.com/traffic.json",
+      "traffic_status": "ok",
+      "registration_date": "2010-04-10T18:07:51Z",
+      "backlinks": {
+        "domain": "magnific.com",
+        "overview": {
+          "domain_rating": 92,
+          "backlinks": 214224056,
+          "referring_domains": 142915,
+          "dofollow_backlinks_pct": 93,
+          "dofollow_referring_domains_pct": 88
+        },
+        "backlinks": [
+          {
+            "from_url": "https://slidesgo.com/",
+            "to_url": "https://www.magnific.com/company/about-us",
+            "title": "Free Google Slides themes and Powerpoint templates | Slidesgo",
+            "anchor": "About us",
+            "domain_rating": 79
+          },
+          {
+            "from_url": "https://www.flaticon.com/",
+            "to_url": "https://www.magnific.com/legal/privacy",
+            "title": "Vector Icons and Stickers - PNG, SVG, EPS, PSD and CSS",
+            "anchor": "Privacy policy",
+            "domain_rating": 92
+          },
+          {
+            "from_url": "https://www.myinstants.com/en/index/us/",
+            "to_url": "https://www.magnific.com/",
+            "title": "Myinstants | The largest instant sound buttons website in United States!",
+            "anchor": "Freepik",
+            "domain_rating": 67
+          },
+          {
+            "from_url": "https://play.google.com/store/apps/dev?id=4939368531501527037&hl=en_SG",
+            "to_url": "https://www.magnific.com/",
+            "title": "Android Apps by Freepik Company on Google Play",
+            "anchor": "Visit website",
+            "domain_rating": 100
+          },
+          {
+            "from_url": "https://www.flaticon.es/",
+            "to_url": "https://www.magnific.com/es",
+            "title": "Iconos vectoriales y stickers - PNG, SVG, EPS, PSD y CSS",
+            "anchor": "Magnific Vectores, fotos y PSD gratuitos",
+            "domain_rating": 77
+          },
+          {
+            "from_url": "https://www.rainmeter.net/",
+            "to_url": "https://www.magnific.com/",
+            "title": "Rainmeter, desktop customization tool",
+            "anchor": "Freepik",
+            "domain_rating": 65
+          },
+          {
+            "from_url": "https://www.fuvest.br/",
+            "to_url": "https://www.magnific.com/br",
+            "title": "Fuvest – Fundação Universitária para o Vestibular",
+            "anchor": "Magnific",
+            "domain_rating": 61
+          },
+          {
+            "from_url": "https://elib.bapeten.go.id/index.php?p=show_detail&id=7915&keywords=",
+            "to_url": "https://www.magnific.com/",
+            "title": "INDONESIA – RADIATION DATA MONITORING SYSTEM (I-RDMS)-(PPT) | PERPUSTAKAAN BAPETEN",
+            "anchor": "Freepik",
+            "domain_rating": 51
+          },
+          {
+            "from_url": "https://hi-tech.mail.ru/news/145611-chto-segodnya-s-telegram/",
+            "to_url": "https://www.magnific.com/",
+            "title": "Сбой интернета МТС сегодня, 28 августа: что происходит и что делать",
+            "anchor": "Magnific",
+            "domain_rating": 92
+          },
+          {
+            "from_url": "https://foodsharing.de/",
+            "to_url": "https://www.magnific.com/de/psd-premium/laptop-mockup-design_11653801.htm",
+            "title": "foodsharing | Rette mit!",
+            "anchor": "Freepik, xvector",
+            "domain_rating": 74
+          },
+          {
+            "from_url": "https://www.freepik.com/",
+            "to_url": "https://www.magnific.com/",
+            "title": "",
+            "anchor": "",
+            "domain_rating": 93
+          },
+          {
+            "from_url": "https://codimd.apps.education.fr/s/r1H5nglAY",
+            "to_url": "https://www.magnific.com/fr",
+            "title": "Une sélection d’IA génératives gratuites en ligne - CodiMD",
+            "anchor": "Freepik",
+            "domain_rating": 85
+          },
+          {
+            "from_url": "https://replicate.com/home",
+            "to_url": "https://www.magnific.com/",
+            "title": "Replicate - Run AI with an API",
+            "anchor": "Magnific",
+            "domain_rating": 83
+          },
+          {
+            "from_url": "https://waqi.info/",
+            "to_url": "https://www.magnific.com/",
+            "title": "World's Air Pollution: Real-time Air Quality Index",
+            "anchor": "Freepik",
+            "domain_rating": 71
+          },
+          {
+            "from_url": "https://www.dumex.co.th/pregnancy/mom-nutrition-health/faq-pregnant-week-and-month.html",
+            "to_url": "https://www.magnific.com/",
+            "title": "ตารางเปรียบเทียบอายุครรภ์ เดือนและสัปดาห์",
+            "anchor": "ภาพจาก",
+            "domain_rating": 33
+          },
+          {
+            "from_url": "https://www.hifamilyclub.com/babynaming/english-name-son.html",
+            "to_url": "https://www.magnific.com/",
+            "title": "รวม 400 ชื่อภาษาอังกฤษ ผู้ชาย ที่มีความหมายดี และทันสมัย อัปเดตปี 2025",
+            "anchor": "Freepik",
+            "domain_rating": 31
+          },
+          {
+            "from_url": "https://juiceonline.com/public-holidays-2024/",
+            "to_url": "https://www.magnific.com/free-photo/woman-with-hat-sitting-chairs-beach-beautiful-tropical-beach-woman-relaxing-tropical-beach-koh-nangyuan-island_13250006.htm",
+            "title": "Public Holidays in Malaysia for the Year 2024",
+            "anchor": "freepik",
+            "domain_rating": 52
+          },
+          {
+            "from_url": "https://www.gamedle.wtf/",
+            "to_url": "https://www.magnific.com/",
+            "title": "Gamedle - Guess the Game from Covers, Characters & Clues",
+            "anchor": "Freepik",
+            "domain_rating": 32
+          },
+          {
+            "from_url": "https://www.toghigipaper.com/buonanotte-immagini-whatsapp/",
+            "to_url": "https://www.magnific.com/it",
+            "title": "Buonanotte immagini WhatsApp ⋆ Toghigi♥Paper",
+            "anchor": "Freepik",
+            "domain_rating": 3
+          },
+          {
+            "from_url": "https://graphicmama.com/blog/free-stock-photos-websites/",
+            "to_url": "https://www.magnific.com/",
+            "title": "The Best 55 Free Image Websites for Free Stock Photos | GM Blog",
+            "anchor": "Freepik.com",
+            "domain_rating": 66
+          }
+        ]
+      },
+      "backlinks_evidence": "domains/magnific.com/backlinks.json"
+    },
+    "pages": [
+      {
+        "kind": "home",
+        "label": "首页",
+        "path": "products/magnific/pages/home.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://www.magnific.com/",
+          "resolved_url": "https://www.magnific.com/",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Magnific (formerly Freepik) | The AI Creative Platform"
+        },
+        "content": "当前综合平台提供团队共享、企业功能、Agent 和素材库，已超出原放大工具范围。"
+      },
+      {
+        "kind": "pricing",
+        "label": "定价资料",
+        "path": "products/magnific/pages/pricing.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://www.magnific.com/pricing",
+          "resolved_url": "https://www.magnific.com/pricing",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Pricing plans | Magnific (formerly Freepik)"
+        },
+        "content": "已保存官网来源；本公开版不转载页面全文。"
+      }
+    ],
+    "searches": [],
+    "issues": [],
+    "screenshot": null,
+    "product_entry_links": []
+  },
+  "metrics": {
+    "visits": 82619033,
+    "mom": -0.08164328951665312,
+    "change3": -0.21376512021026806,
+    "rolling3": 1.3547962766527548,
+    "recent_average": 89874712.0,
+    "prior_average": 38166661.333333336,
+    "up_streak": 0,
+    "derived_channels": {
+      "search_paid_visits": 1602809.2402000001,
+      "social_paid_visits": 33047.6132,
+      "search_organic_visits": 33328517.9122,
+      "social_organic_visits": 4684499.1711,
+      "direct_visits": 33948160.6597
+    },
+    "scope": "mixed",
+    "profile": "当前首页为原 Freepik 的综合创意平台；不能沿用单一放大工具的流量解释。",
+    "profile_source": "products/magnific/pages/home.json"
+  },
+  "editorial": {
+    "thesis": "品牌和业务范围已经扩大，旧放大工具的解释框架不再适用于当前综合站点。",
+    "focus": "原 magnific.ai 转向包含 Freepik 业务的 magnific.com，团队、Agent 与素材库带来更广泛需求；当前大幅变化不是可直接归属的放大工具增长。",
+    "experiment": "以素材库到视频成片的真实项目研究跨工具复用，保留各步骤的独立使用记录。",
+    "measure": "素材复用率、跨工具项目完成率、团队资产节省时间和席位采用。",
+    "watch": "品牌迁移、域名重定向、素材授权与团队权益。"
+  },
+  "activities": [
+    {
+      "product_id": "magnific",
+      "type": "enterprise",
+      "title": "团队方案、Agent 与素材库一体化",
+      "detail": "当前综合平台提供团队共享、企业功能、Agent 和素材库，已超出原放大工具范围。",
+      "anchors": [
+        "Team plans",
+        "Design the agent",
+        "creative library"
+      ],
+      "source": "products/magnific/pages/home.json",
+      "event_date": null,
+      "id": "activity-44",
+      "source_url": "https://www.magnific.com/",
+      "observed_at": "2026-10-02"
+    }
+  ],
+  "x_posts": []
+}

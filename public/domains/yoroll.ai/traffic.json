@@ -1,0 +1,136 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "yoroll.ai",
+  "measurement": "第三方域名级估算",
+  "data": {
+    "domain": "yoroll.ai",
+    "overview": {
+      "global_rank": 2172904,
+      "country_rank": {
+        "country": "US",
+        "rank": 1081253
+      },
+      "visits": 7149,
+      "bounce_rate": 0.45066220503912174,
+      "pages_per_visit": 3.8263675241325137,
+      "time_on_site_seconds": 169.2513203911135,
+      "month": "2026-08"
+    },
+    "monthly_visits": [
+      {
+        "month": "2025-10",
+        "visits": 0
+      },
+      {
+        "month": "2025-11",
+        "visits": 0
+      },
+      {
+        "month": "2025-12",
+        "visits": 0
+      },
+      {
+        "month": "2026-01",
+        "visits": 0
+      },
+      {
+        "month": "2026-02",
+        "visits": 270
+      },
+      {
+        "month": "2026-03",
+        "visits": 0
+      },
+      {
+        "month": "2026-04",
+        "visits": 3975
+      },
+      {
+        "month": "2026-05",
+        "visits": 25113
+      },
+      {
+        "month": "2026-06",
+        "visits": 15983
+      },
+      {
+        "month": "2026-07",
+        "visits": 12074
+      },
+      {
+        "month": "2026-08",
+        "visits": 7149
+      }
+    ],
+    "traffic_sources": {
+      "direct": 0.4885,
+      "search": 0.3091,
+      "search_organic": 0.2992,
+      "search_paid": 0.0098,
+      "social": 0.0417,
+      "social_organic": 0.0371,
+      "social_paid": 0.0045,
+      "referrals": 0.0741,
+      "paid_referrals": 0.0213,
+      "mail": 0.0296,
+      "gen_ai": 0.0196,
+      "affiliate": 0.0161,
+      "other": 0
+    },
+    "top_keywords": [
+      {
+        "name": "yoroll",
+        "volume": 910,
+        "cpc": 0,
+        "estimated_value": 910
+      },
+      {
+        "name": "诡异广告调查事件",
+        "volume": 400,
+        "cpc": 0,
+        "estimated_value": 580
+      },
+      {
+        "name": "spectrum诡异广告调查",
+        "volume": 80,
+        "cpc": 0,
+        "estimated_value": 80
+      },
+      {
+        "name": "非自愿摄入",
+        "volume": 30,
+        "cpc": 0,
+        "estimated_value": 20
+      },
+      {
+        "name": "yoroll launches ai odyssey, an interactive ai film created on its ai-native video platform",
+        "volume": 840,
+        "cpc": 0,
+        "estimated_value": 10
+      }
+    ],
+    "top_regions": [
+      {
+        "country": "CN",
+        "name": "China",
+        "share": 0.4738
+      },
+      {
+        "country": "US",
+        "name": "United States",
+        "share": 0.3314
+      },
+      {
+        "country": "SG",
+        "name": "Singapore",
+        "share": 0.1896
+      },
+      {
+        "country": "JP",
+        "name": "Japan",
+        "share": 0.0052
+      }
+    ]
+  }
+}

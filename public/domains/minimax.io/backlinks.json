@@ -1,0 +1,158 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "minimax.io",
+  "measurement": "第三方外链样本",
+  "data": {
+    "domain": "minimax.io",
+    "overview": {
+      "domain_rating": 80,
+      "backlinks": 317624,
+      "referring_domains": 13723,
+      "dofollow_backlinks_pct": 78,
+      "dofollow_referring_domains_pct": 79
+    },
+    "backlinks": [
+      {
+        "from_url": "https://www.talkie-ai.com/",
+        "to_url": "https://www.minimax.io/",
+        "title": "Talkie | Free AI Character Chat",
+        "anchor": "Powered by MiniMax",
+        "domain_rating": 61
+      },
+      {
+        "from_url": "https://hailuoai.video/",
+        "to_url": "https://www.minimax.io/audio",
+        "title": "Hailuo AI: MiniMax H3 LIVE NOW. Top-Tier Quality, Versatile References",
+        "anchor": "",
+        "domain_rating": 74
+      },
+      {
+        "from_url": "https://github.com/nousresearch/hermes-agent",
+        "to_url": "https://www.minimax.io/",
+        "title": "GitHub - NousResearch/hermes-agent: The agent that grows with you · GitHub",
+        "anchor": "MiniMax",
+        "domain_rating": 97
+      },
+      {
+        "from_url": "https://codimd.apps.education.fr/s/r1H5nglAY",
+        "to_url": "https://www.minimax.io/audio",
+        "title": "Une sélection d’IA génératives gratuites en ligne - CodiMD",
+        "anchor": "Minimax.io",
+        "domain_rating": 85
+      },
+      {
+        "from_url": "https://minimax-ai.chat/",
+        "to_url": "https://platform.minimax.io/docs/pricing/overview",
+        "title": "MiniMax AI",
+        "anchor": "official pricing overview",
+        "domain_rating": 5
+      },
+      {
+        "from_url": "https://openlm.ai/chatbot-arena/",
+        "to_url": "https://www.minimax.io/news/minimaxm1",
+        "title": "Chatbot Arena + | OpenLM.ai",
+        "anchor": "Minimax-M1",
+        "domain_rating": 45
+      },
+      {
+        "from_url": "https://topapps.fr/apps/histovec",
+        "to_url": "https://agent.minimax.io/?utm_media_source=IG",
+        "title": "HistoVec : l'historique officiel d'un véhicule (gratuit) | TopApps",
+        "anchor": "Visiter le site",
+        "domain_rating": 5
+      },
+      {
+        "from_url": "https://en.wikipedia.org/wiki/MiniMax_Group",
+        "to_url": "https://www.minimax.io/models/text/m27",
+        "title": "MiniMax Group",
+        "anchor": "\"MiniMax M2.7 - Model Self-Improvement, Driving Productivity Innovation Through Technological Breakthroughs\"",
+        "domain_rating": 97
+      },
+      {
+        "from_url": "https://arena.ai/leaderboard/text",
+        "to_url": "https://www.minimax.io/news/minimaxm1",
+        "title": "LLM Leaderboard - Best Text & Chat AI Models Compared",
+        "anchor": "minimax-m1",
+        "domain_rating": 82
+      },
+      {
+        "from_url": "https://svglogos.dev/",
+        "to_url": "https://www.minimax.io/",
+        "title": "SVG Logos: Thousands of free brand logos & icons",
+        "anchor": "MiniMax",
+        "domain_rating": 45
+      },
+      {
+        "from_url": "https://hailuoai.com/audio/doc/landing-page.html",
+        "to_url": "https://www.minimax.io/audio/text-to-speech/spanish",
+        "title": "MiniMax Audio",
+        "anchor": "Spanish Text to Speech",
+        "domain_rating": 65
+      },
+      {
+        "from_url": "https://www.inventormiguel.com/tool/minimax-io",
+        "to_url": "https://www.minimax.io/",
+        "title": "Minimax — Inventor Miguel",
+        "anchor": "Access Tool",
+        "domain_rating": 9
+      },
+      {
+        "from_url": "https://zapier.com/blog/best-llm/",
+        "to_url": "https://www.minimax.io/news/minimax-m25",
+        "title": "The best large language models (LLMs) in 2026",
+        "anchor": "MiniMax M2.5",
+        "domain_rating": 91
+      },
+      {
+        "from_url": "https://www.whytryai.com/p/free-ai-voice-cloning-tools",
+        "to_url": "https://www.minimax.io/audio/voices-cloning",
+        "title": "10 Best Free AI Voice Cloning Tools: Tested",
+        "anchor": "MiniMax",
+        "domain_rating": 37
+      },
+      {
+        "from_url": "https://www.ibm.com/think/topics/large-language-models-list",
+        "to_url": "https://www.minimax.io/news/minimax-m27-en",
+        "title": "A List of Large Language Models | IBM",
+        "anchor": "“MiniMax M2.7: Early Echoes of Self-Evolution,”",
+        "domain_rating": 93
+      },
+      {
+        "from_url": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
+        "to_url": "https://platform.minimax.io/docs/guides/models-intro",
+        "title": "MiniMaxAI/MiniMax-M3 · Hugging Face",
+        "anchor": "MiniMax API",
+        "domain_rating": 92
+      },
+      {
+        "from_url": "https://iaempresa.com/6-ias-gratis-de-china",
+        "to_url": "https://www.minimax.io/news/minimax-hailuo-23",
+        "title": "7 IAs chinas gratis en español: comparativa 2026",
+        "anchor": "MiniMax: anuncio oficial de Hailuo 2.3",
+        "domain_rating": 0
+      },
+      {
+        "from_url": "https://www.techinasia.com/news/warner-music-partners-ai-music-startup-suno",
+        "to_url": "https://www.minimax.io/",
+        "title": "Warner Music partners with AI music startup Suno",
+        "anchor": "MiniMax",
+        "domain_rating": 83
+      },
+      {
+        "from_url": "https://www.speechmatics.com/company/articles-and-news/best-tts-apis-in-2025-top-12-text-to-speech-services-for-developers",
+        "to_url": "https://www.minimax.io/audio/text-to-speech",
+        "title": "Best TTS APIs in 2026: ElevenLabs, Google, AWS & 9 More Compared",
+        "anchor": "MiniMax",
+        "domain_rating": 73
+      },
+      {
+        "from_url": "https://play.google.com/store/apps/details?id=com.minimax.ai&hl=en",
+        "to_url": "https://chat.minimax.io/doc/privacy-policy.html",
+        "title": "MiniMax - Your AI Agent - Apps on Google Play",
+        "anchor": "shieldPrivacy Policy",
+        "domain_rating": 100
+      }
+    ]
+  }
+}

@@ -1,0 +1,443 @@
+{
+  "schema_version": 1,
+  "product": {
+    "id": "leonardo",
+    "name": "Leonardo",
+    "x_handle": null,
+    "homepage": "https://leonardo.ai/",
+    "ads_priority": false,
+    "traffic_domain": "leonardo.ai",
+    "additional_domains": [],
+    "scope_note": "域名级流量估算，非付费用户、收入或模型调用量。",
+    "shared_scope": false,
+    "domain_data": {
+      "domain": "leonardo.ai",
+      "traffic": {
+        "domain": "leonardo.ai",
+        "overview": {
+          "global_rank": 4341,
+          "country_rank": {
+            "country": "IN",
+            "rank": 2323
+          },
+          "visits": 7958541,
+          "bounce_rate": 0.31427658502435624,
+          "pages_per_visit": 10.398854064920174,
+          "time_on_site_seconds": 437.8061364263297,
+          "month": "2026-08"
+        },
+        "monthly_visits": [
+          {
+            "month": "2025-09",
+            "visits": 10703167
+          },
+          {
+            "month": "2025-10",
+            "visits": 10318144
+          },
+          {
+            "month": "2025-11",
+            "visits": 9113413
+          },
+          {
+            "month": "2025-12",
+            "visits": 10006860
+          },
+          {
+            "month": "2026-01",
+            "visits": 11161545
+          },
+          {
+            "month": "2026-02",
+            "visits": 9346422
+          },
+          {
+            "month": "2026-03",
+            "visits": 11270311
+          },
+          {
+            "month": "2026-04",
+            "visits": 10728034
+          },
+          {
+            "month": "2026-05",
+            "visits": 10906491
+          },
+          {
+            "month": "2026-06",
+            "visits": 9931072
+          },
+          {
+            "month": "2026-07",
+            "visits": 8828345
+          },
+          {
+            "month": "2026-08",
+            "visits": 7958541
+          }
+        ],
+        "traffic_sources": {
+          "direct": 0.4888,
+          "search": 0.3255,
+          "search_organic": 0.3241,
+          "search_paid": 0.0014,
+          "social": 0.0428,
+          "social_organic": 0.0427,
+          "social_paid": 0.0001,
+          "referrals": 0.0781,
+          "paid_referrals": 0.0052,
+          "mail": 0.0156,
+          "gen_ai": 0.0439,
+          "affiliate": 0.0001,
+          "other": 0
+        },
+        "top_keywords": [
+          {
+            "name": "leonardo ai",
+            "volume": 731610,
+            "cpc": 0.32,
+            "estimated_value": 947040
+          },
+          {
+            "name": "leonardo",
+            "volume": 155910,
+            "cpc": 0.61,
+            "estimated_value": 97600
+          },
+          {
+            "name": "leonardo ia",
+            "volume": 35970,
+            "cpc": 0.64,
+            "estimated_value": 40160
+          },
+          {
+            "name": "ai video generator",
+            "volume": 468640,
+            "cpc": 0.79,
+            "estimated_value": 30960
+          },
+          {
+            "name": "free ai image generator",
+            "volume": 116760,
+            "cpc": 1.38,
+            "estimated_value": 25140
+          }
+        ],
+        "top_regions": [
+          {
+            "country": "US",
+            "name": "United States",
+            "share": 0.1527
+          },
+          {
+            "country": "IN",
+            "name": "India",
+            "share": 0.0994
+          },
+          {
+            "country": "RU",
+            "name": "Russia",
+            "share": 0.0928
+          },
+          {
+            "country": "ID",
+            "name": "Indonesia",
+            "share": 0.0479
+          },
+          {
+            "country": "BR",
+            "name": "Brazil",
+            "share": 0.0356
+          }
+        ]
+      },
+      "traffic_evidence": "domains/leonardo.ai/traffic.json",
+      "traffic_status": "ok",
+      "registration_date": "2019-01-08T16:14:56Z",
+      "backlinks": {
+        "domain": "leonardo.ai",
+        "overview": {
+          "domain_rating": 82,
+          "backlinks": 517567,
+          "referring_domains": 24260,
+          "dofollow_backlinks_pct": 64,
+          "dofollow_referring_domains_pct": 77
+        },
+        "backlinks": [
+          {
+            "from_url": "https://li.ntou.edu.tw/p/404-1029-107995.php?Lang=en",
+            "to_url": "https://leonardo.ai/",
+            "title": "Leonardo.Ai",
+            "anchor": "https://leonardo.ai/",
+            "domain_rating": 69
+          },
+          {
+            "from_url": "https://zapier.com/blog/best-ai-image-generator/",
+            "to_url": "https://leonardo.ai/",
+            "title": "The 8 best AI image generators in 2026 | Zapier",
+            "anchor": "Leonardo.Ai",
+            "domain_rating": 91
+          },
+          {
+            "from_url": "https://www.remove.bg/f/batch-editing",
+            "to_url": "https://leonardo.ai/news/removebg-api-leonardo",
+            "title": "Remove backgrounds in bulk – remove.bg",
+            "anchor": "Go to Leonardo.Ai",
+            "domain_rating": 83
+          },
+          {
+            "from_url": "https://en.wikipedia.org/wiki/Leonardo.ai",
+            "to_url": "https://leonardo.ai/",
+            "title": "Leonardo.ai",
+            "anchor": "Official website",
+            "domain_rating": 97
+          },
+          {
+            "from_url": "https://codimd.apps.education.fr/s/r1H5nglAY",
+            "to_url": "https://leonardo.ai/",
+            "title": "Une sélection d’IA génératives gratuites en ligne - CodiMD",
+            "anchor": "Leonardo",
+            "domain_rating": 85
+          },
+          {
+            "from_url": "https://sitios.cl/",
+            "to_url": "https://leonardo.ai/",
+            "title": "sitios.cl - Portal de sitios en Chile",
+            "anchor": "Leonardo",
+            "domain_rating": 38
+          },
+          {
+            "from_url": "https://www.byriwa.com/ai-image-generators/",
+            "to_url": "https://app.leonardo.ai/",
+            "title": "9 Best AI Image Generators: Free and Paid Tools",
+            "anchor": "7. Leonardo (Free)",
+            "domain_rating": 2
+          },
+          {
+            "from_url": "https://www.ionos.mx/digitalguide/paginas-web/creacion-de-paginas-web/las-mejores-paginas-web-de-ia-para-imagenes/",
+            "to_url": "https://leonardo.ai/ai-art-generator/",
+            "title": "IA en imágenes| 10 generadores de imágenes con IA - IONOS México",
+            "anchor": "Leonardo",
+            "domain_rating": 71
+          },
+          {
+            "from_url": "https://www.canva.com/pt_br/logo-ia/",
+            "to_url": "https://leonardo.ai/terms-of-service",
+            "title": "Gerador de Logo com IA Grátis (2026) | Canva",
+            "anchor": "Termos de Serviço",
+            "domain_rating": 93
+          },
+          {
+            "from_url": "https://guardia.school/boite-a-outils/top-10-meilleures-ia-gratuites.html",
+            "to_url": "https://leonardo.ai/",
+            "title": "Top 10 des meilleures IA gratuites à découvrir en 2026",
+            "anchor": "Site officiel",
+            "domain_rating": 63
+          },
+          {
+            "from_url": "https://play.google.com/store/apps/details?id=ai.leonardo.leonardo&hl=en",
+            "to_url": "https://leonardo.ai/privacy-policy/",
+            "title": "Leonardo.Ai - Image Generator - Apps on Google Play",
+            "anchor": "shieldPrivacy Policy",
+            "domain_rating": 100
+          },
+          {
+            "from_url": "https://apps.make.com/leonardo-ai",
+            "to_url": "https://leonardo.ai/pricing",
+            "title": "Leonardo.Ai - Apps Documentation",
+            "anchor": "Leonardo.Ai pricing page",
+            "domain_rating": 90
+          },
+          {
+            "from_url": "https://readyforjob.in/pages/ai.html",
+            "to_url": "https://leonardo.ai/",
+            "title": "Free AI Tools 2026 — Complete List | No Credit Card",
+            "anchor": "Visit Tool",
+            "domain_rating": 0
+          },
+          {
+            "from_url": "https://www.datacamp.com/blog/free-ai-tools",
+            "to_url": "https://leonardo.ai/",
+            "title": "The 40 Best Free AI Tools in 2026: A Complete Guide | DataCamp",
+            "anchor": "Leonardo.Ai",
+            "domain_rating": 85
+          },
+          {
+            "from_url": "https://saitebi.info/",
+            "to_url": "https://leonardo.ai/",
+            "title": "Saitebi.INFO - საიტების კატალოგი | saitebi",
+            "anchor": "<b>Leonardo.Ai</b> არის მოწინავე ხელოვნური ინტელექტის პლატფორმა, რომელიც გამოიყენება <b>სურათების გენერაციისთვის</b>, განსაკუთრებით თამაშების დიზაინში, ...",
+            "domain_rating": 28
+          },
+          {
+            "from_url": "https://www.youtube.com/watch?v=PioLaHXmuQM",
+            "to_url": "https://leonardo.ai/",
+            "title": "The Best of Vivaldi 🎵 Timeless works of Classical Music ✨ - YouTube",
+            "anchor": "https://leonardo.ai",
+            "domain_rating": 99
+          },
+          {
+            "from_url": "https://www.dixmilleheures.fr/comparateur/generateur-image-ia",
+            "to_url": "https://www.leonardo.ai/",
+            "title": "Les 13 meilleurs générateurs d'image IA en ligne pour entrepreneurs en 2026 | Comparatif & Avis",
+            "anchor": "Essayer",
+            "domain_rating": 33
+          },
+          {
+            "from_url": "https://www.coursebox.ai/pt/blog/gerador-de-imagens-de-ia",
+            "to_url": "https://leonardo.ai/ai-image-generator",
+            "title": "Comparativo de 10 poderosos geradores de imagens com IA | Coursebox AI",
+            "anchor": "Leonardo",
+            "domain_rating": 70
+          },
+          {
+            "from_url": "https://www.upv.es/contenidos/adigital/leonardo-ai/",
+            "to_url": "https://leonardo.ai/",
+            "title": "Leonardo.ai | ADIGITAL | UPV",
+            "anchor": "leonardo.ai >>",
+            "domain_rating": 83
+          },
+          {
+            "from_url": "https://justdeleteme.xyz/",
+            "to_url": "https://leonardo.ai/contact-us",
+            "title": "Just Delete Me | A directory of direct links to delete your account from web services.",
+            "anchor": "Leonardo.ai URL",
+            "domain_rating": 55
+          }
+        ]
+      },
+      "backlinks_evidence": "domains/leonardo.ai/backlinks.json"
+    },
+    "pages": [
+      {
+        "kind": "home",
+        "label": "首页",
+        "path": "products/leonardo/pages/home.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://leonardo.ai/",
+          "resolved_url": "https://leonardo.ai/",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Leonardo.Ai - Generative AI Platform for Images, Art & Video"
+        },
+        "content": "首页内容入口覆盖教程、艺术家故事及商业项目案例。"
+      },
+      {
+        "kind": "pricing",
+        "label": "定价资料",
+        "path": "products/leonardo/pages/pricing.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://leonardo.ai/pricing",
+          "resolved_url": "https://leonardo.ai/pricing",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Leonardo.Ai Pricing: Individual, Team & API Plans | Leonardo.Ai"
+        },
+        "content": "已保存官网来源；本公开版不转载页面全文。"
+      },
+      {
+        "kind": "blog",
+        "label": "博客 / 新闻",
+        "path": "products/leonardo/pages/blog.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://leonardo.ai/news",
+          "resolved_url": "https://leonardo.ai/news",
+          "http_status": 200
+        },
+        "page": {
+          "title": "News"
+        },
+        "content": "已保存官网来源；本公开版不转载页面全文。"
+      },
+      {
+        "kind": "action-case",
+        "label": "官方动态",
+        "path": "products/leonardo/pages/action-case.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://leonardo.ai/news/from-static-assets-to-scalable-motion-how-springbok-used-ai-animation-as-a-creative-advantage",
+          "resolved_url": "https://leonardo.ai/news/from-static-assets-to-scalable-motion-how-springbok-used-ai-animation-as-a-creative-advantage",
+          "http_status": 200
+        },
+        "page": {
+          "title": "From static assets to scalable motion: How Springbok used AI animation as a creative advantage."
+        },
+        "content": "案例说明如何用品牌已有素材生成受控动效，面向机构展示商业工作流。"
+      }
+    ],
+    "searches": [],
+    "issues": [],
+    "screenshot": null,
+    "product_entry_links": [
+      "https://app.leonardo.ai/"
+    ]
+  },
+  "metrics": {
+    "visits": 7958541,
+    "mom": -0.09852401554311707,
+    "change3": -0.2702931676191729,
+    "rolling3": -0.18802336531931052,
+    "recent_average": 8905986.0,
+    "prior_average": 10968278.666666666,
+    "up_streak": 0,
+    "derived_channels": {
+      "search_paid_visits": 11141.9574,
+      "social_paid_visits": 795.8541,
+      "search_organic_visits": 2579363.1381,
+      "social_organic_visits": 339829.7007,
+      "direct_visits": 3890134.8408
+    },
+    "scope": "site",
+    "profile": "面向创作者的图像、视频、编辑及增强平台；业务范围包含图像创作。",
+    "profile_source": "products/leonardo/pages/home.json"
+  },
+  "editorial": {
+    "thesis": "教程和商业案例将创作能力连接到可交付的品牌项目。",
+    "focus": "Springbok 案例强调用既有品牌素材生成可控动效，是具体任务证据；不将案例自报效果推广到所有用户。",
+    "experiment": "建立品牌素材到可交付动效的教程页，提供输入规范和质量检查样例。",
+    "measure": "教程到任务启动率、品牌一致性通过率和交付返工次数。",
+    "watch": "新品牌案例、教程搜索词及图像/视频需求占比线索。"
+  },
+  "activities": [
+    {
+      "product_id": "leonardo",
+      "type": "content",
+      "title": "创作者故事、教程与品牌案例",
+      "detail": "首页内容入口覆盖教程、艺术家故事及商业项目案例。",
+      "anchors": [
+        "ArtistStories",
+        "storyboard-ai"
+      ],
+      "source": "products/leonardo/pages/home.json",
+      "event_date": null,
+      "id": "activity-25",
+      "source_url": "https://leonardo.ai/",
+      "observed_at": "2026-10-02"
+    },
+    {
+      "product_id": "leonardo",
+      "type": "content",
+      "title": "发布 Springbok 品牌动画案例",
+      "detail": "案例说明如何用品牌已有素材生成受控动效，面向机构展示商业工作流。",
+      "anchors": [
+        "Springbok",
+        "existing Brand Assets"
+      ],
+      "source": "products/leonardo/pages/action-case.json",
+      "event_date": null,
+      "id": "activity-54",
+      "source_url": "https://leonardo.ai/news/from-static-assets-to-scalable-motion-how-springbok-used-ai-animation-as-a-creative-advantage",
+      "observed_at": "2026-10-02"
+    }
+  ],
+  "x_posts": []
+}

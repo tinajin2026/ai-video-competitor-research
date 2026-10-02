@@ -1,0 +1,441 @@
+{
+  "schema_version": 1,
+  "product": {
+    "id": "heygen",
+    "name": "HeyGen",
+    "x_handle": "HeyGen",
+    "homepage": "https://www.heygen.com/",
+    "ads_priority": false,
+    "traffic_domain": "heygen.com",
+    "additional_domains": [],
+    "scope_note": "域名级流量估算，非付费用户、收入或模型调用量。",
+    "shared_scope": false,
+    "domain_data": {
+      "domain": "heygen.com",
+      "traffic": {
+        "domain": "heygen.com",
+        "overview": {
+          "global_rank": 3960,
+          "country_rank": {
+            "country": "IN",
+            "rank": 2187
+          },
+          "visits": 10038702,
+          "bounce_rate": 0.3833906481338325,
+          "pages_per_visit": 7.7763914224775,
+          "time_on_site_seconds": 415.5569121794298,
+          "month": "2026-08"
+        },
+        "monthly_visits": [
+          {
+            "month": "2025-09",
+            "visits": 7034332
+          },
+          {
+            "month": "2025-10",
+            "visits": 8640212
+          },
+          {
+            "month": "2025-11",
+            "visits": 9300652
+          },
+          {
+            "month": "2025-12",
+            "visits": 8693673
+          },
+          {
+            "month": "2026-01",
+            "visits": 10239103
+          },
+          {
+            "month": "2026-02",
+            "visits": 9125653
+          },
+          {
+            "month": "2026-03",
+            "visits": 10621345
+          },
+          {
+            "month": "2026-04",
+            "visits": 11246183
+          },
+          {
+            "month": "2026-05",
+            "visits": 10546982
+          },
+          {
+            "month": "2026-06",
+            "visits": 9612813
+          },
+          {
+            "month": "2026-07",
+            "visits": 10652352
+          },
+          {
+            "month": "2026-08",
+            "visits": 10038702
+          }
+        ],
+        "traffic_sources": {
+          "direct": 0.5156,
+          "search": 0.3465,
+          "search_organic": 0.2749,
+          "search_paid": 0.0716,
+          "social": 0.0449,
+          "social_organic": 0.0379,
+          "social_paid": 0.007,
+          "referrals": 0.0289,
+          "paid_referrals": 0.0152,
+          "mail": 0.0143,
+          "gen_ai": 0.0341,
+          "affiliate": 0.0005,
+          "other": 0
+        },
+        "top_keywords": [
+          {
+            "name": "heygen",
+            "volume": 1672920,
+            "cpc": 0.63,
+            "estimated_value": 1869390
+          },
+          {
+            "name": "heygen ai",
+            "volume": 79880,
+            "cpc": 0.39,
+            "estimated_value": 87760
+          },
+          {
+            "name": "hyperframes",
+            "volume": 140100,
+            "cpc": 1.18,
+            "estimated_value": 75830
+          },
+          {
+            "name": "hey gen",
+            "volume": 99620,
+            "cpc": 0.65,
+            "estimated_value": 67370
+          },
+          {
+            "name": "hygen",
+            "volume": 59730,
+            "cpc": 1.9,
+            "estimated_value": 60520
+          }
+        ],
+        "top_regions": [
+          {
+            "country": "US",
+            "name": "United States",
+            "share": 0.19
+          },
+          {
+            "country": "IN",
+            "name": "India",
+            "share": 0.0912
+          },
+          {
+            "country": "BR",
+            "name": "Brazil",
+            "share": 0.0816
+          },
+          {
+            "country": "IT",
+            "name": "Italy",
+            "share": 0.0317
+          },
+          {
+            "country": "MX",
+            "name": "Mexico",
+            "share": 0.0312
+          }
+        ]
+      },
+      "traffic_evidence": "domains/heygen.com/traffic.json",
+      "traffic_status": "ok",
+      "registration_date": "2015-10-19T18:22:03Z",
+      "backlinks": {
+        "domain": "heygen.com",
+        "overview": {
+          "domain_rating": 84,
+          "backlinks": 946022,
+          "referring_domains": 30850,
+          "dofollow_backlinks_pct": 81,
+          "dofollow_referring_domains_pct": 79
+        },
+        "backlinks": [
+          {
+            "from_url": "https://fish.audio/",
+            "to_url": "https://www.heygen.com/",
+            "title": "Best AI Text To Speech & Free Voice Cloning | Fish Audio",
+            "anchor": "",
+            "domain_rating": 73
+          },
+          {
+            "from_url": "https://www.canva.com/apps/AAFSMHx80yA/heygen-ai-avatars",
+            "to_url": "https://www.heygen.com/",
+            "title": "HeyGen AI Avatars - Canva Apps",
+            "anchor": "HeyGen",
+            "domain_rating": 93
+          },
+          {
+            "from_url": "https://communityone.io/servers/",
+            "to_url": "https://www.heygen.com/",
+            "title": "Discord Server List | Discover Top Discord Servers | CommunityOne",
+            "anchor": "Website",
+            "domain_rating": 43
+          },
+          {
+            "from_url": "https://genape.ai/ja/blog/heygen-ai",
+            "to_url": "https://app.heygen.com/home",
+            "title": "HeyGenとは？デジタルヒューマン動画の作り方・機能・料金を徹底解説",
+            "anchor": "HeyGen公式サイト",
+            "domain_rating": 35
+          },
+          {
+            "from_url": "https://codimd.apps.education.fr/s/r1H5nglAY",
+            "to_url": "https://www.heygen.com/",
+            "title": "Une sélection d’IA génératives gratuites en ligne - CodiMD",
+            "anchor": "Heygen",
+            "domain_rating": 85
+          },
+          {
+            "from_url": "https://ausjournal.com/view_article.php?id=108",
+            "to_url": "https://www.heygen.com/",
+            "title": "Top 10 AI video Generator Tools 2025 | ausjournal.com",
+            "anchor": "Visit HeyGen →",
+            "domain_rating": 17
+          },
+          {
+            "from_url": "https://en.wikipedia.org/wiki/HeyGen",
+            "to_url": "https://www.heygen.com/",
+            "title": "HeyGen",
+            "anchor": "Official website",
+            "domain_rating": 97
+          },
+          {
+            "from_url": "https://www.elancer.co.kr/blog/detail/1028",
+            "to_url": "https://www.heygen.com/?via=okeyey&gad_source=1&gad_campaignid=22832862475&gbraid=0AAAAA_4QCn4MhBrzQiymhEqqAxqX9FIQI&gclid=CjwKCAiAs4HMBhBJEiwACrfNZbTHGNjME8Qj6nWY51zK6JA_34n6wt1csa7ij_gOxZrF5OAW6lQLRhoCfCEQAvD_BwE",
+            "title": "딥페이크 사이트 TOP 5 추천, 합법적 사용 기준까지 정리해서 알려드립니다. I 이랜서 블로그",
+            "anchor": "HeyGen 홈페이지",
+            "domain_rating": 39
+          },
+          {
+            "from_url": "https://play.google.com/store/apps/details?id=com.heygen.app&hl=en_IN",
+            "to_url": "https://www.heygen.com/privacy",
+            "title": "HeyGen: AI Video Generator – Apps on Google Play",
+            "anchor": "shieldPrivacy Policy",
+            "domain_rating": 100
+          },
+          {
+            "from_url": "https://www.shortimize.com/tools/twitter-video-downloader",
+            "to_url": "https://www.heygen.com/",
+            "title": "Download Twitter Videos - Free Twitter Video Downloader",
+            "anchor": "logo",
+            "domain_rating": 49
+          },
+          {
+            "from_url": "https://www.baseten.co/resources/event/inference-insight-an-evening-with-baseten-protopia-ai/",
+            "to_url": "https://www.heygen.com/",
+            "title": "Inference & Insights: An Evening with Baseten & Protopia AI | Events",
+            "anchor": "Logo",
+            "domain_rating": 76
+          },
+          {
+            "from_url": "https://readyforjob.in/pages/ai.html",
+            "to_url": "https://www.heygen.com/",
+            "title": "Free AI Tools 2026 — Complete List | No Credit Card",
+            "anchor": "Visit Tool",
+            "domain_rating": 0
+          },
+          {
+            "from_url": "https://www.datacamp.com/blog/free-ai-tools",
+            "to_url": "https://www.heygen.com/",
+            "title": "The 40 Best Free AI Tools in 2026: A Complete Guide | DataCamp",
+            "anchor": "HeyGen",
+            "domain_rating": 85
+          },
+          {
+            "from_url": "https://www.aixploria.com/",
+            "to_url": "https://heygen.com/?via=aixploria",
+            "title": "Liste des Meilleures IA Gratuites & Top 10 par Catégorie | AIxploria",
+            "anchor": "HeyGen AI",
+            "domain_rating": 56
+          },
+          {
+            "from_url": "https://apps.apple.com/us/app/ai-avatar-generator-heygen/id6711356409",
+            "to_url": "https://www.heygen.com/",
+            "title": "‎AI Avatar Generator - HeyGen App - App Store",
+            "anchor": "Developer Website",
+            "domain_rating": 97
+          },
+          {
+            "from_url": "https://fliki.ai/blog/video-translator",
+            "to_url": "https://www.heygen.com/translate",
+            "title": "5 Best Video Translators of 2024 - Fliki",
+            "anchor": "Heygen Video Translator",
+            "domain_rating": 75
+          },
+          {
+            "from_url": "https://dripify.com/visual-prospecting/",
+            "to_url": "https://www.heygen.com/tool/text-to-video",
+            "title": "Visual Prospecting: Improve Your Outreach Strategy | Dripify.com",
+            "anchor": "text to video AI",
+            "domain_rating": 71
+          },
+          {
+            "from_url": "https://github.com/heygen-com/hyperframes",
+            "to_url": "https://hyperframes.heygen.com/catalog/blocks/data-chart",
+            "title": "GitHub - heygen-com/hyperframes: Write HTML. Render video. Built for agents. · GitHub",
+            "anchor": "hyperframes.heygen.com/catalog",
+            "domain_rating": 97
+          },
+          {
+            "from_url": "https://ai4k.eu/content/free-ai-tools-online/",
+            "to_url": "https://www.heygen.com/",
+            "title": "Over 100 FREE AI Tools: 2025 Update » ai4k",
+            "anchor": "HeyGen",
+            "domain_rating": 1
+          },
+          {
+            "from_url": "https://genies.com/blog/6-best-avatar-maker-online-tools-for-your-vibe",
+            "to_url": "https://www.heygen.com/avatars",
+            "title": "6 Best Avatar Maker Online Tools for Your Vibe - Genies",
+            "anchor": "high-quality rendering",
+            "domain_rating": 55
+          }
+        ]
+      },
+      "backlinks_evidence": "domains/heygen.com/backlinks.json"
+    },
+    "pages": [
+      {
+        "kind": "home",
+        "label": "首页",
+        "path": "products/heygen/pages/home.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://www.heygen.com/",
+          "resolved_url": "https://www.heygen.com/",
+          "http_status": 200
+        },
+        "page": {
+          "title": "HeyGen: Create Realistic AI Videos of Yourself in Minutes"
+        },
+        "content": "首页并列数字分身、视频翻译、PPT/PDF 转视频和社区。"
+      },
+      {
+        "kind": "pricing",
+        "label": "定价资料",
+        "path": "products/heygen/pages/pricing.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://www.heygen.com/pricing",
+          "resolved_url": "https://www.heygen.com/pricing",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Pricing Plans for Creators and Marketers | HeyGen"
+        },
+        "content": "已保存官网来源；本公开版不转载页面全文。"
+      },
+      {
+        "kind": "blog",
+        "label": "博客 / 新闻",
+        "path": "products/heygen/pages/blog.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://www.heygen.com/blog",
+          "resolved_url": "https://www.heygen.com/blog",
+          "http_status": 200
+        },
+        "page": {
+          "title": "HeyGen Blog: AI Video, Marketing & Tech Insights | HeyGen"
+        },
+        "content": "已保存官网来源；本公开版不转载页面全文。"
+      },
+      {
+        "kind": "action-growth",
+        "label": "官方动态",
+        "path": "products/heygen/pages/action-growth.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://www.heygen.com/blog/heygen-surpasses-200m-arr",
+          "resolved_url": "https://www.heygen.com/blog/heygen-surpasses-200m-arr",
+          "http_status": 200
+        },
+        "page": {
+          "title": "HeyGen Surpasses $200M ARR as AI Video Adoption Accelerates"
+        },
+        "content": "6 月 25 日公告自报 ARR 超过 2 亿美元，以数字分身、语言扩展与企业场景传播品牌；非审计财务值。"
+      }
+    ],
+    "searches": [],
+    "issues": [],
+    "screenshot": null,
+    "product_entry_links": []
+  },
+  "metrics": {
+    "visits": 10038702,
+    "mom": -0.05760699608875108,
+    "change3": -0.04819198515746026,
+    "rolling3": -0.06511414178403441,
+    "recent_average": 10101289.0,
+    "prior_average": 10804836.666666666,
+    "up_streak": 0,
+    "derived_channels": {
+      "search_paid_visits": 718771.0632,
+      "social_paid_visits": 70270.914,
+      "search_organic_visits": 2759639.1797999996,
+      "social_organic_visits": 380466.80580000003,
+      "direct_visits": 5175954.7512
+    },
+    "scope": "site",
+    "profile": "数字分身、头像视频与翻译产品；重点需求是人物表达和本地化。",
+    "profile_source": "products/heygen/pages/home.json"
+  },
+  "editorial": {
+    "thesis": "数字分身与多语言面向明确企业任务，官网营收声明需要与网站指标分开。",
+    "focus": "ARR 里程碑是企业自报，不能拿网站访问反推付费人数。数字分身、翻译、文档转视频和社区是可比较的获客及激活入口。",
+    "experiment": "以同一脚本的多语言广告版本为任务，测试翻译、形象一致与批量交付。",
+    "measure": "每新增语言版本的耗时、审核通过率、团队重复使用和续费。",
+    "watch": "身份视频定位、翻译能力、企业案例与价格变化。"
+  },
+  "activities": [
+    {
+      "product_id": "heygen",
+      "type": "community",
+      "title": "社区活动与创作工具入口",
+      "detail": "首页并列数字分身、视频翻译、PPT/PDF 转视频和社区。",
+      "anchors": [
+        "HeyGen Community",
+        "PPT/PDF to Video"
+      ],
+      "source": "products/heygen/pages/home.json",
+      "event_date": null,
+      "id": "activity-26",
+      "source_url": "https://www.heygen.com/",
+      "observed_at": "2026-10-02"
+    },
+    {
+      "product_id": "heygen",
+      "type": "content",
+      "title": "公布 ARR 里程碑与身份视频定位",
+      "detail": "6 月 25 日公告自报 ARR 超过 2 亿美元，以数字分身、语言扩展与企业场景传播品牌；非审计财务值。",
+      "anchors": [
+        "June 25, 2026",
+        "$200 million"
+      ],
+      "source": "products/heygen/pages/action-growth.json",
+      "event_date": "2026-06-25",
+      "id": "activity-53",
+      "source_url": "https://www.heygen.com/blog/heygen-surpasses-200m-arr",
+      "observed_at": "2026-10-02"
+    }
+  ],
+  "x_posts": []
+}

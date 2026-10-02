@@ -1,0 +1,145 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "hailuoai.video",
+  "measurement": "第三方域名级估算",
+  "data": {
+    "domain": "hailuoai.video",
+    "overview": {
+      "global_rank": 13861,
+      "country_rank": {
+        "country": "IN",
+        "rank": 4848
+      },
+      "visits": 2990838,
+      "bounce_rate": 0.37758849676156037,
+      "pages_per_visit": 7.154432218723516,
+      "time_on_site_seconds": 432.10888128515245,
+      "month": "2026-08"
+    },
+    "monthly_visits": [
+      {
+        "month": "2025-09",
+        "visits": 6001724
+      },
+      {
+        "month": "2025-10",
+        "visits": 6702106
+      },
+      {
+        "month": "2025-11",
+        "visits": 8640249
+      },
+      {
+        "month": "2025-12",
+        "visits": 7599849
+      },
+      {
+        "month": "2026-01",
+        "visits": 5190016
+      },
+      {
+        "month": "2026-02",
+        "visits": 2951045
+      },
+      {
+        "month": "2026-03",
+        "visits": 2641757
+      },
+      {
+        "month": "2026-04",
+        "visits": 2255779
+      },
+      {
+        "month": "2026-05",
+        "visits": 2550122
+      },
+      {
+        "month": "2026-06",
+        "visits": 2693721
+      },
+      {
+        "month": "2026-07",
+        "visits": 2866409
+      },
+      {
+        "month": "2026-08",
+        "visits": 2990838
+      }
+    ],
+    "traffic_sources": {
+      "direct": 0.5116,
+      "search": 0.3363,
+      "search_organic": 0.3271,
+      "search_paid": 0.0092,
+      "social": 0.0439,
+      "social_organic": 0.0394,
+      "social_paid": 0.0045,
+      "referrals": 0.0522,
+      "paid_referrals": 0.0021,
+      "mail": 0.0097,
+      "gen_ai": 0.0365,
+      "affiliate": 0.0078,
+      "other": 0
+    },
+    "top_keywords": [
+      {
+        "name": "hailuo ai",
+        "volume": 302770,
+        "cpc": 0.26,
+        "estimated_value": 630390
+      },
+      {
+        "name": "hailuo",
+        "volume": 77900,
+        "cpc": 0.57,
+        "estimated_value": 87290
+      },
+      {
+        "name": "hailou ai",
+        "volume": 26720,
+        "cpc": 0.39,
+        "estimated_value": 36920
+      },
+      {
+        "name": "hailuo ai (minimax)",
+        "volume": 21140,
+        "cpc": 0.3,
+        "estimated_value": 15370
+      },
+      {
+        "name": "minimax h3",
+        "volume": 926660,
+        "cpc": 0,
+        "estimated_value": 9060
+      }
+    ],
+    "top_regions": [
+      {
+        "country": "US",
+        "name": "United States",
+        "share": 0.1586
+      },
+      {
+        "country": "IN",
+        "name": "India",
+        "share": 0.096
+      },
+      {
+        "country": "KR",
+        "name": "Korea, Republic of",
+        "share": 0.0452
+      },
+      {
+        "country": "BR",
+        "name": "Brazil",
+        "share": 0.0411
+      },
+      {
+        "country": "IT",
+        "name": "Italy",
+        "share": 0.0395
+      }
+    ]
+  }
+}

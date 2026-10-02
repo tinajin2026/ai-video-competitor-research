@@ -1,0 +1,405 @@
+{
+  "schema_version": 1,
+  "product": {
+    "id": "flow",
+    "name": "Google Flow",
+    "x_handle": null,
+    "homepage": "https://flow.google.com/",
+    "ads_priority": false,
+    "traffic_domain": "google.com",
+    "additional_domains": [
+      "labs.google"
+    ],
+    "scope_note": "现入口 flow.google.com；流量接口仅支持注册域，google.com 是母域背景数据，不是 Flow 流量。labs.google 为历史入口所在域，同样非 Flow 独占。",
+    "shared_scope": true,
+    "domain_data": {
+      "domain": "google.com",
+      "traffic": {
+        "domain": "google.com",
+        "overview": {
+          "global_rank": 1,
+          "country_rank": {
+            "country": "US",
+            "rank": 1
+          },
+          "visits": 86589884275,
+          "bounce_rate": 0.2854679742286687,
+          "pages_per_visit": 8.704421225101038,
+          "time_on_site_seconds": 594.2675137425379,
+          "month": "2026-08"
+        },
+        "monthly_visits": [
+          {
+            "month": "2025-09",
+            "visits": 82550325867
+          },
+          {
+            "month": "2025-10",
+            "visits": 85326206196
+          },
+          {
+            "month": "2025-11",
+            "visits": 82284033110
+          },
+          {
+            "month": "2025-12",
+            "visits": 84172772881
+          },
+          {
+            "month": "2026-01",
+            "visits": 85756574615
+          },
+          {
+            "month": "2026-02",
+            "visits": 78229857909
+          },
+          {
+            "month": "2026-03",
+            "visits": 86850607710
+          },
+          {
+            "month": "2026-04",
+            "visits": 84751050692
+          },
+          {
+            "month": "2026-05",
+            "visits": 87502305979
+          },
+          {
+            "month": "2026-06",
+            "visits": 84940150026
+          },
+          {
+            "month": "2026-07",
+            "visits": 86958861491
+          },
+          {
+            "month": "2026-08",
+            "visits": 86589884275
+          }
+        ],
+        "traffic_sources": {
+          "direct": 0.9241,
+          "search": 0.0074,
+          "search_organic": 0.007,
+          "search_paid": 0.0004,
+          "social": 0.0295,
+          "social_organic": 0.0282,
+          "social_paid": 0.0013,
+          "referrals": 0.0174,
+          "paid_referrals": 0.0066,
+          "mail": 0.0091,
+          "gen_ai": 0.0055,
+          "affiliate": 0.0002,
+          "other": 0
+        },
+        "top_keywords": [
+          {
+            "name": "gemini",
+            "volume": 120293930,
+            "cpc": 0.3,
+            "estimated_value": 175565650
+          },
+          {
+            "name": "google maps",
+            "volume": 69192640,
+            "cpc": 0.39,
+            "estimated_value": 106258100
+          },
+          {
+            "name": "gmail",
+            "volume": 114798640,
+            "cpc": 1.65,
+            "estimated_value": 91715480
+          },
+          {
+            "name": "maps",
+            "volume": 48702820,
+            "cpc": 0.23,
+            "estimated_value": 52796090
+          },
+          {
+            "name": "google",
+            "volume": 38802190,
+            "cpc": 0.85,
+            "estimated_value": 50443160
+          }
+        ],
+        "top_regions": [
+          {
+            "country": "US",
+            "name": "United States",
+            "share": 0.241
+          },
+          {
+            "country": "JP",
+            "name": "Japan",
+            "share": 0.0596
+          },
+          {
+            "country": "IN",
+            "name": "India",
+            "share": 0.0572
+          },
+          {
+            "country": "BR",
+            "name": "Brazil",
+            "share": 0.0506
+          },
+          {
+            "country": "GB",
+            "name": "United Kingdom",
+            "share": 0.0356
+          }
+        ]
+      },
+      "traffic_evidence": "domains/google.com/traffic.json",
+      "traffic_status": "ok",
+      "registration_date": "1997-09-15T04:00:00Z",
+      "backlinks": {
+        "domain": "google.com",
+        "overview": {
+          "domain_rating": 100,
+          "backlinks": 0,
+          "referring_domains": 0,
+          "dofollow_backlinks_pct": 0,
+          "dofollow_referring_domains_pct": 0
+        },
+        "backlinks": [
+          {
+            "from_url": "https://wordcounter.net/",
+            "to_url": "https://accounts.google.com/o/oauth2/auth?client_id=&response_type=code&redirect_uri=https%3A%2F%2Fwordcounter.net%2Fuser%2Fsecurity%2Fauth%3Fauthclient%3Dgoogle&xoauth_displayname=WordCounter.net&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email",
+            "title": "WordCounter - Count Words & Correct Writing",
+            "anchor": "Google",
+            "domain_rating": 75
+          },
+          {
+            "from_url": "https://www.gsmarena.com/",
+            "to_url": "https://play.google.com/store/apps/details?id=com.gsmarena.android",
+            "title": "GSMArena.com - mobile phone reviews, news, specifications and more...",
+            "anchor": "Android app",
+            "domain_rating": 86
+          },
+          {
+            "from_url": "https://www.darty.com/",
+            "to_url": "https://play.google.com/store/apps/details?id=com.darty.catalogue&hl=en_US",
+            "title": "Electroménager, High tech le contrat de confiance - Darty",
+            "anchor": "Disponible sur Google Play (nouvelle fenêtre)",
+            "domain_rating": 77
+          },
+          {
+            "from_url": "https://www.alodokter.com/",
+            "to_url": "https://www.google.com/recaptcha/enterprise/anchor?ar=1&k=6Ldg7gQhAAAAAN8ebL4Gr-hTid51r0i9BpsdaEWE&co=aHR0cHM6Ly93d3cuYWxvZG9rdGVyLmNvbTo0NDM.&hl=en&v=kemdRjWFxNjgsGdhRslyEPwU&size=invisible&anchor-ms=20000&execute-ms=30000&cb=mjhmuwjck0ay",
+            "title": "Alodokter - Info Kesehatan, Booking dan Chat Dokter",
+            "anchor": "",
+            "domain_rating": 80
+          },
+          {
+            "from_url": "https://www.krone.at/",
+            "to_url": "https://play.google.com/store/apps/details?id=at.krone&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1",
+            "title": "Kronen Zeitung | Aktuelle Nachrichten | krone.at",
+            "anchor": "Jetzt bei Google Play",
+            "domain_rating": 81
+          },
+          {
+            "from_url": "https://www.tomsguide.com/news/what-is-todays-wordle-answer",
+            "to_url": "https://google.com/preferences/source?q=tomsguide.com",
+            "title": "Today’s Wordle hints and answer: September 30, 2026, solution #1,929 | Tom's Guide",
+            "anchor": "Add as a preferred source on Google",
+            "domain_rating": 87
+          },
+          {
+            "from_url": "https://www.nationalrail.co.uk/",
+            "to_url": "https://play.google.com/store/apps/details?id=uk.co.nationalrail.google&hl=en_GB",
+            "title": "The official source for trains in Great Britain | National Rail",
+            "anchor": "Download on the Play Store",
+            "domain_rating": 85
+          },
+          {
+            "from_url": "https://seller.flipkart.com/",
+            "to_url": "https://play.google.com/store/apps/details?id=com.flipkart.seller",
+            "title": "Become an Online Seller in India | Flipkart Seller Hub",
+            "anchor": "play store",
+            "domain_rating": 89
+          },
+          {
+            "from_url": "https://www.amateur.tv/",
+            "to_url": "https://google.com/",
+            "title": "LIVE SEX CAMS - Free Live Porn & Adult Webcams",
+            "anchor": "Leave the website",
+            "domain_rating": 61
+          },
+          {
+            "from_url": "https://www.nefisyemektarifleri.com/",
+            "to_url": "https://accounts.google.com/o/oauth2/v2/auth?response_type=code&access_type=online&client_id=555438839532-ap9be0vbn8g4dhh8n8bpavu1mcmbp1nd.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fwww.nefisyemektarifleri.com%2Fwp-login.php&state=eyJyZWRpcmVjdF90byI6IlwvIn0%3D&scope=email%20profile&approval_prompt=auto",
+            "title": "Nefis Yemek Tarifleri - Kolay ve Pratik Yemek Tarifleri",
+            "anchor": "Google ile Giriş Yap",
+            "domain_rating": 69
+          },
+          {
+            "from_url": "https://novaposhta.ua/",
+            "to_url": "https://play.google.com/store/apps/details?id=eu.novapost",
+            "title": "Нова пошта - доставка майбутнього",
+            "anchor": "Завантажуй в App Store.",
+            "domain_rating": 88
+          },
+          {
+            "from_url": "https://www.jdsports.fr/",
+            "to_url": "https://play.google.com/store/apps/details?id=com.jd.jdsports&hl=fr",
+            "title": "JD Sports France - Magasin de Sport en ligne - Chaussures et Vêtements",
+            "anchor": "Télécharger depuis Google Play",
+            "domain_rating": 51
+          },
+          {
+            "from_url": "https://musiclab.chromeexperiments.com/",
+            "to_url": "https://google.com/",
+            "title": "Chrome Music Lab",
+            "anchor": "",
+            "domain_rating": 79
+          },
+          {
+            "from_url": "https://soundbuttonsworld.com/",
+            "to_url": "https://play.google.com/store/apps/dev?id=4891521881808154923",
+            "title": "Sound Buttons: Large Collection of Sounds",
+            "anchor": "Get it on Google Play",
+            "domain_rating": 33
+          },
+          {
+            "from_url": "https://dedebet.com.tr/",
+            "to_url": "https://google.com/",
+            "title": "Dedebet, Dedebet Giriş, Dedebet Üyelik (Kesintisiz Erişim)",
+            "anchor": "Hayır, ben gidiyorum.",
+            "domain_rating": 0
+          },
+          {
+            "from_url": "https://www.trivago.co.uk/",
+            "to_url": "https://google.com/preferences/source?q=https%3A%2F%2Fwww.trivago.co.uk",
+            "title": "trivago.co.uk - Compare hotel prices worldwide",
+            "anchor": "",
+            "domain_rating": 70
+          },
+          {
+            "from_url": "https://www.macif.fr/",
+            "to_url": "https://play.google.com/store/apps/details?id=com.macif.mobile.application.android&hl=en_US",
+            "title": "MACIF : assurance en ligne pour particuliers, PRO et asso CSE",
+            "anchor": "Disponible sur Google Play (application Macif)",
+            "domain_rating": 77
+          },
+          {
+            "from_url": "https://as.com/meristation/betech/wordle-en-espanol-cientifico-y-tildes-para-el-reto-de-hoy-29-de-abril-pistas-y-solucion-n-2/",
+            "to_url": "https://google.com/preferences/source?q=https://as.com",
+            "title": "Wordle en español, científico y tildes para el reto de hoy 29 de abril: pistas y solución - Meristation",
+            "anchor": "Preferir AS en Google",
+            "domain_rating": 85
+          },
+          {
+            "from_url": "https://www.only.com/de-de",
+            "to_url": "https://play.google.com/store/apps/details?id=com.bestseller.only",
+            "title": "Damenbekleidung Online | ONLY DE®",
+            "anchor": "",
+            "domain_rating": 64
+          },
+          {
+            "from_url": "https://fstoppers.com/originals/i-shot-iphone-17-pro-max-nine-months-phone-handled-everything-i-threw-it-903706",
+            "to_url": "https://google.com/preferences/source?q=fstoppers.com",
+            "title": "iPhone 17 Pro Max After 9 Months: The Phone That Handles Everything | Fstoppers",
+            "anchor": "Add us as a preferred source on Google",
+            "domain_rating": 78
+          }
+        ]
+      },
+      "backlinks_evidence": "domains/google.com/backlinks.json"
+    },
+    "pages": [
+      {
+        "kind": "home",
+        "label": "首页",
+        "path": "products/flow/pages/home.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://flow.google.com/",
+          "resolved_url": "https://flow.google.com/about",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Google Flow - AI Creative Studio for Video, Images & Custom Tools"
+        },
+        "content": "Flow 首页按 Plan / Create / Refine 展示入口和 Storyboard Studio 等工具。"
+      },
+      {
+        "kind": "pricing",
+        "label": "定价资料",
+        "path": "products/flow/pages/pricing.json",
+        "status": "limited",
+        "reason": "正文较少，可能为动态页面；保留原始返回",
+        "source": {
+          "requested_url": "https://one.google.com/ai",
+          "resolved_url": "https://accounts.google.com/v3/signin/identifier?continue=https://one.google.com/ai&followup=https://one.google.com/ai&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1121825136:1790901192560973",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Sign in - Google Accounts"
+        },
+        "content": "已保存官网来源；本公开版不转载页面全文。"
+      }
+    ],
+    "searches": [],
+    "issues": [],
+    "screenshot": null,
+    "product_entry_links": [
+      "https://flow.google.com/#main-content",
+      "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://flow.google.com/&followup=https://flow.google.com/&ec=GAZA7QU",
+      "https://flow.google.com/shared/tool/075ead65-520a-4f5e-88bd-f150caa24dc4",
+      "https://flow.google.com/shared/tool/b78766c3-4cd7-4c1e-b597-769d4cfcf37a",
+      "https://flow.google.com/shared/tool/1b12bbd4-51d7-4c76-8b62-24ac2473e07e",
+      "https://flow.google.com/shared/tool/79c9d2e6-4ad6-4636-ad05-22022f8a5a74",
+      "https://flow.google.com/shared/tool/63ca3af5-0058-4c7f-b104-dfc417db2e22",
+      "https://flow.google.com/shared/tool/611fa902-797c-457d-92de-71a3dc714894"
+    ]
+  },
+  "metrics": {
+    "visits": 86589884275,
+    "mom": -0.004243123813645888,
+    "change3": -0.01042740181291879,
+    "rolling3": -0.002373829325496457,
+    "recent_average": 86162965264.0,
+    "prior_average": 86367988127.0,
+    "up_streak": 0,
+    "derived_channels": {
+      "search_paid_visits": 34635953.71,
+      "social_paid_visits": 112566849.55749999,
+      "search_organic_visits": 606129189.9250001,
+      "social_organic_visits": 2441834736.555,
+      "direct_visits": 80017712058.5275
+    },
+    "scope": "mixed",
+    "profile": "Google 创意工作室，覆盖视频与图像；google.com 流量不代表 Flow 产品。",
+    "profile_source": "products/flow/pages/home.json"
+  },
+  "editorial": {
+    "thesis": "Plan / Create / Refine 以制作阶段组织产品，值得研究任务接续而非 Google 母域规模。",
+    "focus": "Storyboard Studio 等入口覆盖创作前后步骤。google.com 的访问不能参与 Flow 规模或同行份额比较。",
+    "experiment": "把脚本、分镜、生成与精修连接成一次可恢复的项目流，记录用户在哪一步离开。",
+    "measure": "阶段转换率、项目完成率、回到旧项目继续创作的比例。",
+    "watch": "分镜与精修能力、模型选择和项目组织方式。"
+  },
+  "activities": [
+    {
+      "product_id": "flow",
+      "type": "workflow",
+      "title": "计划、创作、精修与工作流工具",
+      "detail": "Flow 首页按 Plan / Create / Refine 展示入口和 Storyboard Studio 等工具。",
+      "anchors": [
+        "Storyboard Studio",
+        "Refine"
+      ],
+      "source": "products/flow/pages/home.json",
+      "event_date": null,
+      "id": "activity-18",
+      "source_url": "https://flow.google.com/about",
+      "observed_at": "2026-10-02"
+    }
+  ],
+  "x_posts": []
+}

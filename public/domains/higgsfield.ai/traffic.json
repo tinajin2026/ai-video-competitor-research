@@ -1,0 +1,145 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "higgsfield.ai",
+  "measurement": "第三方域名级估算",
+  "data": {
+    "domain": "higgsfield.ai",
+    "overview": {
+      "global_rank": 1228,
+      "country_rank": {
+        "country": "US",
+        "rank": 1716
+      },
+      "visits": 32138314,
+      "bounce_rate": 0.3017019257274032,
+      "pages_per_visit": 7.060505502802447,
+      "time_on_site_seconds": 588.3365252791776,
+      "month": "2026-08"
+    },
+    "monthly_visits": [
+      {
+        "month": "2025-09",
+        "visits": 7774051
+      },
+      {
+        "month": "2025-10",
+        "visits": 11724841
+      },
+      {
+        "month": "2025-11",
+        "visits": 11706772
+      },
+      {
+        "month": "2025-12",
+        "visits": 17251171
+      },
+      {
+        "month": "2026-01",
+        "visits": 23555390
+      },
+      {
+        "month": "2026-02",
+        "visits": 27076120
+      },
+      {
+        "month": "2026-03",
+        "visits": 24714261
+      },
+      {
+        "month": "2026-04",
+        "visits": 25429359
+      },
+      {
+        "month": "2026-05",
+        "visits": 24244640
+      },
+      {
+        "month": "2026-06",
+        "visits": 26814672
+      },
+      {
+        "month": "2026-07",
+        "visits": 31318735
+      },
+      {
+        "month": "2026-08",
+        "visits": 32138314
+      }
+    ],
+    "traffic_sources": {
+      "direct": 0.5875,
+      "search": 0.2112,
+      "search_organic": 0.1928,
+      "search_paid": 0.0184,
+      "social": 0.0902,
+      "social_organic": 0.0593,
+      "social_paid": 0.0309,
+      "referrals": 0.0653,
+      "paid_referrals": 0.0072,
+      "mail": 0.0113,
+      "gen_ai": 0.0258,
+      "affiliate": 0.0014,
+      "other": 0
+    },
+    "top_keywords": [
+      {
+        "name": "higgsfield",
+        "volume": 3169500,
+        "cpc": 0.38,
+        "estimated_value": 4970070
+      },
+      {
+        "name": "higgsfield ai",
+        "volume": 604380,
+        "cpc": 0.29,
+        "estimated_value": 1357900
+      },
+      {
+        "name": "힉스필드",
+        "volume": 222240,
+        "cpc": 0.36,
+        "estimated_value": 248870
+      },
+      {
+        "name": "higsfield",
+        "volume": 178790,
+        "cpc": 0.55,
+        "estimated_value": 207910
+      },
+      {
+        "name": "higgsfield mcp",
+        "volume": 86160,
+        "cpc": 0.7,
+        "estimated_value": 99630
+      }
+    ],
+    "top_regions": [
+      {
+        "country": "US",
+        "name": "United States",
+        "share": 0.1824
+      },
+      {
+        "country": "IN",
+        "name": "India",
+        "share": 0.0915
+      },
+      {
+        "country": "KR",
+        "name": "Korea, Republic of",
+        "share": 0.0608
+      },
+      {
+        "country": "BR",
+        "name": "Brazil",
+        "share": 0.0365
+      },
+      {
+        "country": "DE",
+        "name": "Germany",
+        "share": 0.0363
+      }
+    ]
+  }
+}

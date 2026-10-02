@@ -1,0 +1,158 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "runwayml.com",
+  "measurement": "第三方外链样本",
+  "data": {
+    "domain": "runwayml.com",
+    "overview": {
+      "domain_rating": 86,
+      "backlinks": 1674828,
+      "referring_domains": 39879,
+      "dofollow_backlinks_pct": 70,
+      "dofollow_referring_domains_pct": 82
+    },
+    "backlinks": [
+      {
+        "from_url": "https://runway.com/",
+        "to_url": "https://gen48.runwayml.com/",
+        "title": "Runway | Building Real-World Intelligence",
+        "anchor": "Gen:48",
+        "domain_rating": 84
+      },
+      {
+        "from_url": "https://zapier.com/blog/best-ai-productivity-tools/",
+        "to_url": "https://runwayml.com/",
+        "title": "The best AI productivity tools in 2026 | Zapier",
+        "anchor": "Runway",
+        "domain_rating": 91
+      },
+      {
+        "from_url": "https://www.notta.ai/blog/free-ai-recommendations-and-selection-methods",
+        "to_url": "https://runwayml.com/",
+        "title": "2025年版：無料で使える生成AIおすすめと選び方",
+        "anchor": "Runway",
+        "domain_rating": 77
+      },
+      {
+        "from_url": "https://github.com/compvis/stable-diffusion",
+        "to_url": "https://runwayml.com/",
+        "title": "GitHub - CompVis/stable-diffusion: A latent text-to-image diffusion model · GitHub",
+        "anchor": "Runway",
+        "domain_rating": 97
+      },
+      {
+        "from_url": "https://codimd.apps.education.fr/s/r1H5nglAY",
+        "to_url": "https://app.runwayml.com/",
+        "title": "Une sélection d’IA génératives gratuites en ligne - CodiMD",
+        "anchor": "Runway",
+        "domain_rating": 85
+      },
+      {
+        "from_url": "https://comfyui.com/",
+        "to_url": "https://app.runwayml.com/",
+        "title": "ComfyUI",
+        "anchor": "Runway",
+        "domain_rating": 23
+      },
+      {
+        "from_url": "https://ausjournal.com/view_article.php?id=108",
+        "to_url": "https://runwayml.com/",
+        "title": "Top 10 AI video Generator Tools 2025 | ausjournal.com",
+        "anchor": "Visit Runway ML →",
+        "domain_rating": 17
+      },
+      {
+        "from_url": "https://base.aimindset.org/_Automation/ai-tools/tool-Runway",
+        "to_url": "https://docs.dev.runwayml.com/",
+        "title": "Runway — AI-платформа для генерации и редактирования видео — AI mindset knowledge base",
+        "anchor": "https://docs.dev.runwayml.com/",
+        "domain_rating": 17
+      },
+      {
+        "from_url": "https://guardia.school/boite-a-outils/top-10-meilleures-ia-gratuites.html",
+        "to_url": "https://runwayml.com/",
+        "title": "Top 10 des meilleures IA gratuites à découvrir en 2026",
+        "anchor": "Site officiel",
+        "domain_rating": 63
+      },
+      {
+        "from_url": "https://christytuckerlearning.com/comparing-ai-image-generation-tools/",
+        "to_url": "https://runwayml.com/",
+        "title": "Comparing AI Image Generation Tools - Experiencing Elearning",
+        "anchor": "Runway",
+        "domain_rating": 43
+      },
+      {
+        "from_url": "https://www.datacamp.com/blog/free-ai-tools",
+        "to_url": "https://runwayml.com/",
+        "title": "The 40 Best Free AI Tools in 2026: A Complete Guide | DataCamp",
+        "anchor": "Runway",
+        "domain_rating": 85
+      },
+      {
+        "from_url": "https://www.youtube.com/watch?v=PioLaHXmuQM",
+        "to_url": "https://runwayml.com/",
+        "title": "The Best of Vivaldi 🎵 Timeless works of Classical Music ✨ - YouTube",
+        "anchor": "https://runwayml.com",
+        "domain_rating": 99
+      },
+      {
+        "from_url": "https://en.wikipedia.org/wiki/Runway_(company)",
+        "to_url": "https://runwayml.com/",
+        "title": "Runway (company)",
+        "anchor": "Official website",
+        "domain_rating": 97
+      },
+      {
+        "from_url": "https://www.aixploria.com/",
+        "to_url": "https://runwayml.com/",
+        "title": "Liste des Meilleures IA Gratuites & Top 10 par Catégorie | AIxploria",
+        "anchor": "Runway ML",
+        "domain_rating": 56
+      },
+      {
+        "from_url": "https://builtin.com/artificial-intelligence/ai-apps",
+        "to_url": "https://runwayml.com/",
+        "title": "44 Top AI Apps to Know in [2026 | Built In",
+        "anchor": "Runway",
+        "domain_rating": 86
+      },
+      {
+        "from_url": "https://apps.apple.com/us/app/runway-ai-image-video/id1665024375",
+        "to_url": "https://runwayml.com/privacy-policy",
+        "title": "‎Runway: AI Image & Video App - App Store",
+        "anchor": "developer’s privacy policy",
+        "domain_rating": 97
+      },
+      {
+        "from_url": "https://promptessor.com/ai-video-prompt-generator",
+        "to_url": "https://help.runwayml.com/hc/en-us/articles/24224855969811-Gen-3-Alpha-Prompting-Guide",
+        "title": "Free AI Video Prompt Generator for Any Video Model | PrompTessor",
+        "anchor": "Runway prompting guide",
+        "domain_rating": 36
+      },
+      {
+        "from_url": "https://blog.videorock.com/best-free-ai-video-generator",
+        "to_url": "https://runwayml.com/",
+        "title": "Discover the Best Free AI Video Generator",
+        "anchor": "RunwayML",
+        "domain_rating": 18
+      },
+      {
+        "from_url": "https://medium.com/@fadimantium/why-pixverse-ai-is-the-best-video-generator-for-now-8d6df6297191",
+        "to_url": "https://runwayml.com/research/introducing-gen-3-alpha",
+        "title": "Why Pixverse.ai is the Best Video Generator (for now). | by Erik Fadiman | Medium",
+        "anchor": "RunwayML",
+        "domain_rating": 94
+      },
+      {
+        "from_url": "https://shunyanant.in/top-20-ai-tools-for-video-editing-complete-guide/",
+        "to_url": "https://runwayml.com/",
+        "title": "Top 20 AI Tools for Video Editing (Complete Guide) - Best Corporate Video Production Company in Delhi NCR | Shunyanant",
+        "anchor": "https://runwayml.com",
+        "domain_rating": 11
+      }
+    ]
+  }
+}

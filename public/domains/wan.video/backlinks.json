@@ -1,0 +1,158 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "wan.video",
+  "measurement": "第三方外链样本",
+  "data": {
+    "domain": "wan.video",
+    "overview": {
+      "domain_rating": 70,
+      "backlinks": 40021,
+      "referring_domains": 5420,
+      "dofollow_backlinks_pct": 67,
+      "dofollow_referring_domains_pct": 72
+    },
+    "backlinks": [
+      {
+        "from_url": "https://codimd.apps.education.fr/s/r1H5nglAY",
+        "to_url": "https://wan.video/",
+        "title": "Une sélection d’IA génératives gratuites en ligne - CodiMD",
+        "anchor": "Wan",
+        "domain_rating": 85
+      },
+      {
+        "from_url": "https://guardia.school/boite-a-outils/top-10-meilleures-ia-gratuites.html",
+        "to_url": "https://wan.video/",
+        "title": "Top 10 des meilleures IA gratuites à découvrir en 2026",
+        "anchor": "Site officiel",
+        "domain_rating": 63
+      },
+      {
+        "from_url": "https://www.datacamp.com/blog/free-ai-tools",
+        "to_url": "https://wan.video/",
+        "title": "The 40 Best Free AI Tools in 2026: A Complete Guide | DataCamp",
+        "anchor": "Wan",
+        "domain_rating": 85
+      },
+      {
+        "from_url": "https://play.google.com/store/apps/details?id=com.aliyun.wan.android&hl=id",
+        "to_url": "https://wan.video/policy/privacyPolicy",
+        "title": "Wan - Aplikasi di Google Play",
+        "anchor": "shieldKebijakan Privasi",
+        "domain_rating": 100
+      },
+      {
+        "from_url": "https://1min.ai/",
+        "to_url": "https://wan.video/",
+        "title": "1minAI | Free All-in-one AI App for Text, Image, Audio, Video",
+        "anchor": "Wan AI Wan AI",
+        "domain_rating": 60
+      },
+      {
+        "from_url": "https://huggingface.co/Wan-AI",
+        "to_url": "https://wan.video/",
+        "title": "Wan-AI (Wan-AI)",
+        "anchor": "https://wan.video",
+        "domain_rating": 92
+      },
+      {
+        "from_url": "https://github.com/Wan-Video/Wan2.1",
+        "to_url": "https://wan.video/?spm=a2ty_o02.30011076.0.0.6c9ee41eCcluqg",
+        "title": "GitHub - Wan-Video/Wan2.1: Wan: Open and Advanced Large-Scale Video Generative Models · GitHub",
+        "anchor": "Blog",
+        "domain_rating": 97
+      },
+      {
+        "from_url": "https://iavanzados.com/wan-ai/",
+        "to_url": "https://wan.video/",
+        "title": "Wan AI: Genera vídeos realistas con IA Open Source",
+        "anchor": "web oficial de Wan AI",
+        "domain_rating": 14
+      },
+      {
+        "from_url": "https://iaempresa.com/6-ias-gratis-de-china",
+        "to_url": "https://wan.video/",
+        "title": "7 IAs chinas gratis en español: comparativa 2026",
+        "anchor": "Abrir Wan",
+        "domain_rating": 0
+      },
+      {
+        "from_url": "https://webcatalog.io/de/apps/wan-video",
+        "to_url": "https://wan.video/",
+        "title": "Wan.Video - Desktop-App für Mac & Windows - WebCatalog",
+        "anchor": "wan.video",
+        "domain_rating": 58
+      },
+      {
+        "from_url": "https://cs.wikipedia.org/wiki/Velk%C3%BD_jazykov%C3%BD_model",
+        "to_url": "https://wan.video/",
+        "title": "Velký jazykový model",
+        "anchor": "Dostupné online",
+        "domain_rating": 97
+      },
+      {
+        "from_url": "https://www.alibabacloud.com/en/solutions/generative-ai?_p_lc=1",
+        "to_url": "https://wan.video/",
+        "title": "Alibaba Cloud for Generative AI - Alibaba Cloud",
+        "anchor": "Start Your AI Creation With Wan",
+        "domain_rating": 91
+      },
+      {
+        "from_url": "https://www.whytryai.com/p/free-ai-image-to-video-tools-tested",
+        "to_url": "https://wan.video/introduction/wan2.6",
+        "title": "20 Free Image-to-Video AI Models: Tested & Ranked",
+        "anchor": "upgraded from Wan 2.1 to 2.6",
+        "domain_rating": 37
+      },
+      {
+        "from_url": "https://www.synthesia.io/post/best-ai-video-generators",
+        "to_url": "https://wan.video/",
+        "title": "The 12 Best AI Video Generators in 2026 (Tried & Tested)",
+        "anchor": "Try Wan with daily free credits",
+        "domain_rating": 85
+      },
+      {
+        "from_url": "https://www.atlascloud.ai/zh-TW/blog/tips/10-best-ai-video-generators-free-no-subscription-in-2026",
+        "to_url": "https://wan.video/",
+        "title": "2026 年 10 大最佳 AI 影片產生器（免費、付費與免訂閱方案） - Atlas Cloud Blog",
+        "anchor": "wan 官網",
+        "domain_rating": 64
+      },
+      {
+        "from_url": "https://habr.com/ru/articles/987096/",
+        "to_url": "https://wan.video/",
+        "title": "ТОП-10 лучших нейросетей для видео в 2026 году / Хабр",
+        "anchor": "wan.video",
+        "domain_rating": 88
+      },
+      {
+        "from_url": "https://gauravtiwari.org/ai-video-generators/",
+        "to_url": "https://wan.video/",
+        "title": "Best AI Text to Video Generators in 2026: 20+ Tools by Job",
+        "anchor": "Try Wan",
+        "domain_rating": 60
+      },
+      {
+        "from_url": "https://haoyi-duan.github.io/WorldScore/",
+        "to_url": "https://wan.video/",
+        "title": "WorldScore",
+        "anchor": "Wan2.1",
+        "domain_rating": 94
+      },
+      {
+        "from_url": "https://wanaivideo.online/",
+        "to_url": "https://wan.video/features",
+        "title": "WanAI Video — AI Video & Image Generation (Wan · Qwen)",
+        "anchor": "Wan features »",
+        "domain_rating": 0
+      },
+      {
+        "from_url": "https://ai-rockstars.de/alibaba-wan-ai/",
+        "to_url": "https://wan.video/",
+        "title": "Alibaba definiert visuelle KI neu: Wan AI setzt Maßstäbe für Content-Kreativität - ai-rockstars.de",
+        "anchor": "Wan AI",
+        "domain_rating": 9
+      }
+    ]
+  }
+}

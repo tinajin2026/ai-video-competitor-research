@@ -1,0 +1,477 @@
+{
+  "schema_version": 1,
+  "product": {
+    "id": "runway",
+    "name": "Runway",
+    "x_handle": "runwayml",
+    "homepage": "https://runway.com/",
+    "ads_priority": false,
+    "traffic_domain": "runway.com",
+    "additional_domains": [
+      "runwayml.com"
+    ],
+    "scope_note": "官网为 runway.com；另存旧域及仍承载应用的 runwayml.com，两个域不直接相加。",
+    "shared_scope": false,
+    "domain_data": {
+      "domain": "runway.com",
+      "traffic": {
+        "domain": "runway.com",
+        "overview": {
+          "global_rank": 19489,
+          "country_rank": {
+            "country": "IN",
+            "rank": 5045
+          },
+          "visits": 4202554,
+          "bounce_rate": 0.6446114936120431,
+          "pages_per_visit": 1.4707848476998044,
+          "time_on_site_seconds": 72.62086975362307,
+          "month": "2026-08"
+        },
+        "monthly_visits": [
+          {
+            "month": "2025-09",
+            "visits": 204270
+          },
+          {
+            "month": "2025-10",
+            "visits": 197770
+          },
+          {
+            "month": "2025-11",
+            "visits": 160087
+          },
+          {
+            "month": "2025-12",
+            "visits": 193835
+          },
+          {
+            "month": "2026-01",
+            "visits": 203142
+          },
+          {
+            "month": "2026-02",
+            "visits": 185900
+          },
+          {
+            "month": "2026-03",
+            "visits": 173539
+          },
+          {
+            "month": "2026-04",
+            "visits": 145808
+          },
+          {
+            "month": "2026-05",
+            "visits": 145905
+          },
+          {
+            "month": "2026-06",
+            "visits": 162784
+          },
+          {
+            "month": "2026-07",
+            "visits": 978185
+          },
+          {
+            "month": "2026-08",
+            "visits": 4202554
+          }
+        ],
+        "traffic_sources": {
+          "direct": 0.2046,
+          "search": 0.6507,
+          "search_organic": 0.4195,
+          "search_paid": 0.2311,
+          "social": 0.0258,
+          "social_organic": 0.0155,
+          "social_paid": 0.0103,
+          "referrals": 0.0322,
+          "paid_referrals": 0.0174,
+          "mail": 0.0068,
+          "gen_ai": 0.0612,
+          "affiliate": 0.0014,
+          "other": 0
+        },
+        "top_keywords": [
+          {
+            "name": "runway",
+            "volume": 930380,
+            "cpc": 0.78,
+            "estimated_value": 853580
+          },
+          {
+            "name": "runway ai",
+            "volume": 98890,
+            "cpc": 1.21,
+            "estimated_value": 80010
+          },
+          {
+            "name": "pixverse ai",
+            "volume": 125080,
+            "cpc": 0.2,
+            "estimated_value": 50350
+          },
+          {
+            "name": "runway ml",
+            "volume": 69570,
+            "cpc": 0.7,
+            "estimated_value": 41180
+          },
+          {
+            "name": "seedance",
+            "volume": 984350,
+            "cpc": 1.5,
+            "estimated_value": 17480
+          }
+        ],
+        "top_regions": [
+          {
+            "country": "US",
+            "name": "United States",
+            "share": 0.2712
+          },
+          {
+            "country": "IN",
+            "name": "India",
+            "share": 0.1274
+          },
+          {
+            "country": "BR",
+            "name": "Brazil",
+            "share": 0.0411
+          },
+          {
+            "country": "FR",
+            "name": "France",
+            "share": 0.033
+          },
+          {
+            "country": "DE",
+            "name": "Germany",
+            "share": 0.0261
+          }
+        ]
+      },
+      "traffic_evidence": "domains/runway.com/traffic.json",
+      "traffic_status": "ok",
+      "registration_date": "1995-01-11T05:00:00Z",
+      "backlinks": {
+        "domain": "runway.com",
+        "overview": {
+          "domain_rating": 84,
+          "backlinks": 399701,
+          "referring_domains": 33754,
+          "dofollow_backlinks_pct": 67,
+          "dofollow_referring_domains_pct": 81
+        },
+        "backlinks": [
+          {
+            "from_url": "https://app.runwayml.com/",
+            "to_url": "https://runway.com/plugins/",
+            "title": "Home | Runway AI",
+            "anchor": "Runway PluginsInside Your EditorGenerate directly on your timeline in Premiere Pro, After Effects and Resolve.Get the Plugins",
+            "domain_rating": 86
+          },
+          {
+            "from_url": "https://www.notta.ai/blog/free-ai-recommendations-and-selection-methods",
+            "to_url": "https://runway.com/",
+            "title": "2025年版：無料で使える生成AIおすすめと選び方",
+            "anchor": "Runway",
+            "domain_rating": 77
+          },
+          {
+            "from_url": "https://tldr.tech/",
+            "to_url": "https://runway.com/praxis-1",
+            "title": "TLDR - A Byte Sized Daily Tech Newsletter",
+            "anchor": "Runway Research | Introducing Praxis-1",
+            "domain_rating": 71
+          },
+          {
+            "from_url": "https://base.aimindset.org/_Automation/ai-tools/tool-Runway",
+            "to_url": "https://runway.com/",
+            "title": "Runway — AI-платформа для генерации и редактирования видео — AI mindset knowledge base",
+            "anchor": "https://runwayml.com/",
+            "domain_rating": 17
+          },
+          {
+            "from_url": "https://guardia.school/boite-a-outils/top-10-meilleures-ia-gratuites.html",
+            "to_url": "https://runway.com/",
+            "title": "Top 10 des meilleures IA gratuites à découvrir en 2026",
+            "anchor": "Site officiel",
+            "domain_rating": 63
+          },
+          {
+            "from_url": "https://christytuckerlearning.com/comparing-ai-image-generation-tools/",
+            "to_url": "https://runway.com/",
+            "title": "Comparing AI Image Generation Tools - Experiencing Elearning",
+            "anchor": "Runway",
+            "domain_rating": 43
+          },
+          {
+            "from_url": "https://www.datacamp.com/blog/free-ai-tools",
+            "to_url": "https://runway.com/",
+            "title": "The 40 Best Free AI Tools in 2026: A Complete Guide | DataCamp",
+            "anchor": "Runway",
+            "domain_rating": 85
+          },
+          {
+            "from_url": "https://www.youtube.com/watch?v=PioLaHXmuQM",
+            "to_url": "https://runway.com/",
+            "title": "The Best of Vivaldi 🎵 Timeless works of Classical Music ✨ - YouTube",
+            "anchor": "https://runwayml.com",
+            "domain_rating": 99
+          },
+          {
+            "from_url": "https://en.wikipedia.org/wiki/Runway_(company)",
+            "to_url": "https://runway.com/educators",
+            "title": "Runway (company)",
+            "anchor": "Runway for Educators",
+            "domain_rating": 97
+          },
+          {
+            "from_url": "https://www.aixploria.com/",
+            "to_url": "https://runway.com/",
+            "title": "Liste des Meilleures IA Gratuites & Top 10 par Catégorie | AIxploria",
+            "anchor": "Runway ML",
+            "domain_rating": 56
+          },
+          {
+            "from_url": "https://builtin.com/artificial-intelligence/ai-apps",
+            "to_url": "https://runway.com/",
+            "title": "44 Top AI Apps to Know in [2026 | Built In",
+            "anchor": "Runway",
+            "domain_rating": 86
+          },
+          {
+            "from_url": "https://apps.apple.com/us/app/runway-ai-image-video/id1665024375",
+            "to_url": "https://runway.com/",
+            "title": "‎Runway: AI Image & Video App - App Store",
+            "anchor": "Developer Website",
+            "domain_rating": 97
+          },
+          {
+            "from_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a05e3b201788191be12b590b43e6ce3",
+            "to_url": "https://runway.com/privacy-policy",
+            "title": "ChatGPT - Runway",
+            "anchor": "privacy policy",
+            "domain_rating": 93
+          },
+          {
+            "from_url": "https://blog.videorock.com/best-free-ai-video-generator",
+            "to_url": "https://runway.com/",
+            "title": "Discover the Best Free AI Video Generator",
+            "anchor": "RunwayML",
+            "domain_rating": 18
+          },
+          {
+            "from_url": "https://shunyanant.in/top-20-ai-tools-for-video-editing-complete-guide/",
+            "to_url": "https://runway.com/",
+            "title": "Top 20 AI Tools for Video Editing (Complete Guide) - Best Corporate Video Production Company in Delhi NCR | Shunyanant",
+            "anchor": "https://runwayml.com",
+            "domain_rating": 11
+          },
+          {
+            "from_url": "https://pictory.ai/text-to-video",
+            "to_url": "https://runway.com/research/introducing-runway-gen-4",
+            "title": "AI Video Editor - Text To Video - Pictory",
+            "anchor": "Runway Gen-4 — RunwayML",
+            "domain_rating": 80
+          },
+          {
+            "from_url": "https://aggity.com/mejores-aplicaciones-gratuitas-de-inteligencia-artificial-2026/",
+            "to_url": "https://runway.com/",
+            "title": "Las 15 mejores aplicaciones gratuitas de inteligencia artificial para 2026 - aggity",
+            "anchor": "Runway",
+            "domain_rating": 35
+          },
+          {
+            "from_url": "https://sendfame.com/blog/ai-video-generator-free",
+            "to_url": "https://runway.com/",
+            "title": "The 12 Best AI Video Generator Free Tools of 2025",
+            "anchor": "https://runwayml.com",
+            "domain_rating": 53
+          },
+          {
+            "from_url": "https://www.creativepadmedia.com/the-best-free-alternatives-to-higgsfield-ai-full-demonstrations/",
+            "to_url": "https://runway.com/",
+            "title": "The Best Free Alternatives to Higgsfield AI - With Full Demonstrations - Creative Pad Media",
+            "anchor": "Runway AI",
+            "domain_rating": 13
+          },
+          {
+            "from_url": "https://www.futurepedia.io/",
+            "to_url": "https://runway.com/",
+            "title": "Find The Best AI Tools & Software, Futurepedia.io",
+            "anchor": "Visit",
+            "domain_rating": 72
+          }
+        ]
+      },
+      "backlinks_evidence": "domains/runway.com/backlinks.json"
+    },
+    "pages": [
+      {
+        "kind": "home",
+        "label": "首页",
+        "path": "products/runway/pages/home.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://runway.com/",
+          "resolved_url": "https://runway.com/",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Runway | Building Real-World Intelligence"
+        },
+        "content": "首页按 Creative / Dev / Robotics 分入口承接客户。"
+      },
+      {
+        "kind": "pricing",
+        "label": "定价资料",
+        "path": "products/runway/pages/pricing.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://runway.com/pricing",
+          "resolved_url": "https://runway.com/pricing",
+          "http_status": 200
+        },
+        "page": {
+          "title": "AI Image and Video Pricing from $12/month | Runway AI"
+        },
+        "content": "已保存官网来源；本公开版不转载页面全文。"
+      },
+      {
+        "kind": "docs",
+        "label": "文档",
+        "path": "products/runway/pages/docs.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://docs.dev.runwayml.com/",
+          "resolved_url": "https://docs.dev.runwayml.com/",
+          "http_status": 200
+        },
+        "page": {
+          "title": "API Documentation | Runway Dev"
+        },
+        "content": "已保存官网来源；本公开版不转载页面全文。"
+      },
+      {
+        "kind": "action-enterprise",
+        "label": "官方动态",
+        "path": "products/runway/pages/action-enterprise.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://runway.com/news/company-news/the-next-phase-of-enterprise-video-generation",
+          "resolved_url": "https://runway.com/news/company-news/the-next-phase-of-enterprise-video-generation",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Runway News | The Next Phase of Enterprise Video Generation"
+        },
+        "content": "企业负责人披露对模型所有权、数据主权、工作流和 Agent 集成的投入。"
+      },
+      {
+        "kind": "action-team",
+        "label": "官方动态",
+        "path": "products/runway/pages/action-team.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://runway.com/news/company-news/introducing-team-plan",
+          "resolved_url": "https://runway.com/news/company-news/introducing-team-plan",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Runway News | Introducing Team Plan"
+        },
+        "content": "2—9 席团队共享项目、额度和 Brand Kits；月付 $69 / 席，年付折月 $55 / 席。"
+      }
+    ],
+    "searches": [],
+    "issues": [],
+    "screenshot": null,
+    "product_entry_links": [
+      "https://app.runwayml.com/?ref_domain=www.google.com&channel=SEO+%28Google%29&channel_group=Organic+Search"
+    ]
+  },
+  "metrics": {
+    "visits": 4202554,
+    "mom": 3.296277289060863,
+    "change3": 27.80335834961105,
+    "rolling3": 10.485223061910535,
+    "recent_average": 1781174.3333333333,
+    "prior_average": 155084.0,
+    "up_streak": 4,
+    "derived_channels": {
+      "search_paid_visits": 971210.2294,
+      "social_paid_visits": 43286.3062,
+      "search_organic_visits": 1762971.403,
+      "social_organic_visits": 65139.587,
+      "direct_visits": 859842.5484
+    },
+    "scope": "migration",
+    "profile": "首页覆盖创作、开发与机器人三类平台；新旧域并存影响增长解释。",
+    "profile_source": "products/runway/pages/home.json"
+  },
+  "editorial": {
+    "thesis": "新旧域迁移影响增长读数，团队方案反映更明确的协作商业化方向。",
+    "focus": "Team 的 2—9 席、共享项目、额度和 Brand Kits 对应团队采购。runway.com 与仍承载应用的 runwayml.com 必须分别看，不能把迁移带来的新域涨幅当用户增长。",
+    "experiment": "围绕团队复用素材设计品牌库与共享项目，使用一个团队完成的真实多镜头任务检验价值。",
+    "measure": "邀请接受率、每团队活跃编辑数、共同项目完成率与席位续费率。",
+    "watch": "域名跳转、应用承载位置、Team 条件及企业工作流案例。"
+  },
+  "activities": [
+    {
+      "product_id": "runway",
+      "type": "enterprise",
+      "title": "创作、开发者、机器人三条产品线",
+      "detail": "首页按 Creative / Dev / Robotics 分入口承接客户。",
+      "anchors": [
+        "Runway Creative",
+        "Runway Robotics"
+      ],
+      "source": "products/runway/pages/home.json",
+      "event_date": null,
+      "id": "activity-12",
+      "source_url": "https://runway.com/",
+      "observed_at": "2026-10-02"
+    },
+    {
+      "product_id": "runway",
+      "type": "enterprise",
+      "title": "推出 Team 团队套餐",
+      "detail": "2—9 席团队共享项目、额度和 Brand Kits；月付 $69 / 席，年付折月 $55 / 席。",
+      "anchors": [
+        "$69",
+        "$55",
+        "2 to 9 seats"
+      ],
+      "source": "products/runway/pages/action-team.json",
+      "event_date": null,
+      "id": "activity-46",
+      "source_url": "https://runway.com/news/company-news/introducing-team-plan",
+      "observed_at": "2026-10-02"
+    },
+    {
+      "product_id": "runway",
+      "type": "enterprise",
+      "title": "企业方案强调工作流集成与自主执行",
+      "detail": "企业负责人披露对模型所有权、数据主权、工作流和 Agent 集成的投入。",
+      "anchors": [
+        "Data sovereignty",
+        "Autonomous execution"
+      ],
+      "source": "products/runway/pages/action-enterprise.json",
+      "event_date": null,
+      "id": "activity-47",
+      "source_url": "https://runway.com/news/company-news/the-next-phase-of-enterprise-video-generation",
+      "observed_at": "2026-10-02"
+    }
+  ],
+  "x_posts": []
+}

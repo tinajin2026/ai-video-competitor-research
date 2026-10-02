@@ -1,0 +1,374 @@
+{
+  "schema_version": 1,
+  "product": {
+    "id": "haiper",
+    "name": "Haiper",
+    "x_handle": "HaiperGenAI",
+    "homepage": "https://haiper.ai/",
+    "ads_priority": false,
+    "traffic_domain": "haiper.ai",
+    "additional_domains": [],
+    "scope_note": "域名级流量估算，非付费用户、收入或模型调用量。",
+    "shared_scope": false,
+    "domain_data": {
+      "domain": "haiper.ai",
+      "traffic": {
+        "domain": "haiper.ai",
+        "overview": {
+          "global_rank": 419228,
+          "country_rank": {
+            "country": "ID",
+            "rank": 57892
+          },
+          "visits": 103028,
+          "bounce_rate": 0.46329984077664027,
+          "pages_per_visit": 1.5732316069464625,
+          "time_on_site_seconds": 30.885524849044998,
+          "month": "2026-08"
+        },
+        "monthly_visits": [
+          {
+            "month": "2025-09",
+            "visits": 202344
+          },
+          {
+            "month": "2025-10",
+            "visits": 179043
+          },
+          {
+            "month": "2025-11",
+            "visits": 128499
+          },
+          {
+            "month": "2025-12",
+            "visits": 105802
+          },
+          {
+            "month": "2026-01",
+            "visits": 133852
+          },
+          {
+            "month": "2026-02",
+            "visits": 144614
+          },
+          {
+            "month": "2026-03",
+            "visits": 122403
+          },
+          {
+            "month": "2026-04",
+            "visits": 110091
+          },
+          {
+            "month": "2026-05",
+            "visits": 138461
+          },
+          {
+            "month": "2026-06",
+            "visits": 140818
+          },
+          {
+            "month": "2026-07",
+            "visits": 147005
+          },
+          {
+            "month": "2026-08",
+            "visits": 103028
+          }
+        ],
+        "traffic_sources": {
+          "direct": 0.3317,
+          "search": 0.5159,
+          "search_organic": 0.5095,
+          "search_paid": 0.0064,
+          "social": 0.0285,
+          "social_organic": 0.0284,
+          "social_paid": 0.0001,
+          "referrals": 0.0364,
+          "paid_referrals": 0.0043,
+          "mail": 0.0011,
+          "gen_ai": 0.0819,
+          "affiliate": 0.0002,
+          "other": 0
+        },
+        "top_keywords": [
+          {
+            "name": "haiper ai",
+            "volume": 15190,
+            "cpc": 0.39,
+            "estimated_value": 15620
+          },
+          {
+            "name": "haiper",
+            "volume": 3390,
+            "cpc": 0.17,
+            "estimated_value": 3110
+          },
+          {
+            "name": "hyper ai",
+            "volume": 2330,
+            "cpc": 0.11,
+            "estimated_value": 520
+          },
+          {
+            "name": "haiper ai video",
+            "volume": 150,
+            "cpc": 0,
+            "estimated_value": 340
+          },
+          {
+            "name": "haiper 2.0",
+            "volume": 320,
+            "cpc": 0,
+            "estimated_value": 300
+          }
+        ],
+        "top_regions": [
+          {
+            "country": "IN",
+            "name": "India",
+            "share": 0.1435
+          },
+          {
+            "country": "VN",
+            "name": "Vietnam",
+            "share": 0.1078
+          },
+          {
+            "country": "US",
+            "name": "United States",
+            "share": 0.1049
+          },
+          {
+            "country": "ES",
+            "name": "Spain",
+            "share": 0.0935
+          },
+          {
+            "country": "BR",
+            "name": "Brazil",
+            "share": 0.0596
+          }
+        ]
+      },
+      "traffic_evidence": "domains/haiper.ai/traffic.json",
+      "traffic_status": "ok",
+      "registration_date": "2021-07-15T18:54:15.000Z",
+      "backlinks": {
+        "domain": "haiper.ai",
+        "overview": {
+          "domain_rating": 64,
+          "backlinks": 16655,
+          "referring_domains": 4300,
+          "dofollow_backlinks_pct": 55,
+          "dofollow_referring_domains_pct": 72
+        },
+        "backlinks": [
+          {
+            "from_url": "https://www.thewindowsclub.com/best-free-ai-video-generators",
+            "to_url": "https://haiper.ai/",
+            "title": "Best Free AI Video Generators",
+            "anchor": "haiper.ai",
+            "domain_rating": 78
+          },
+          {
+            "from_url": "https://www.lummi.ai/blog/best-ai-video-generators",
+            "to_url": "https://haiper.ai/",
+            "title": "We tested out the 14 best AI video generators for creatives | Lummi",
+            "anchor": "Haiper AI",
+            "domain_rating": 75
+          },
+          {
+            "from_url": "https://www.media.io/comparison/haiper-ai-review.html",
+            "to_url": "https://docs.haiper.ai/introduction",
+            "title": "Haiper AI Review 2026: Text-to-Video, Credits & Exports",
+            "anchor": "Official source: Haiper AI introduction and usage documentation",
+            "domain_rating": 74
+          },
+          {
+            "from_url": "https://clideo.com/resources/best-ai-video-generators",
+            "to_url": "https://haiper.ai/",
+            "title": "Best AI Video Generators You Can Try for Free — Clideo",
+            "anchor": "Haiper.ai",
+            "domain_rating": 77
+          },
+          {
+            "from_url": "https://www.whytryai.com/p/free-ai-image-to-video-tools-tested",
+            "to_url": "https://haiper.ai/",
+            "title": "20 Free Image-to-Video AI Models: Tested & Ranked",
+            "anchor": "Haiper AI front page screenshot. AI video tool with image-to-video capabilities.",
+            "domain_rating": 37
+          },
+          {
+            "from_url": "https://curiousrefuge.com/blog/the-best-ai-video-generator",
+            "to_url": "https://haiper.ai/",
+            "title": "Which AI Video Generator is the Best? | A Breakdown of the Top AI Video Tools — Curious Refuge",
+            "anchor": "AI Video Generator | Haiper Landing Page",
+            "domain_rating": 54
+          },
+          {
+            "from_url": "https://www.encuentra-ia.com/",
+            "to_url": "https://haiper.ai/",
+            "title": "EncuentraIA | Descubre las mejores herramientas de Inteligencia Artificial",
+            "anchor": "🌐 Visitar página",
+            "domain_rating": 0
+          },
+          {
+            "from_url": "https://note.com/onemorevision/n/n0bcf27fa0b89",
+            "to_url": "https://haiper.ai/spotlight",
+            "title": "建築ビジュアルCG × AI活用法⑪｜動画生成AIが切り拓く未来のコンテンツ制作：Haiper、Runway Gen-2/Gen-3 Alpha、Soraで進化するリアル系動画生成AI｜One More Vision",
+            "anchor": "スポットライト",
+            "domain_rating": 92
+          },
+          {
+            "from_url": "https://www.awwwards.com/awwwards/collections/ai-tools-for-designers/",
+            "to_url": "https://haiper.ai/",
+            "title": "AI Tools For Designers - Awwwards",
+            "anchor": "",
+            "domain_rating": 89
+          },
+          {
+            "from_url": "https://gooodbro.com/cpa_news/fresh_news/lighten_photo_remove_background",
+            "to_url": "https://haiper.ai/home",
+            "title": "Осветлить фото и убрать фон онлайн. Простые и быстрые способы для ярких изображений | Gooodbro",
+            "anchor": "Haiper",
+            "domain_rating": 7
+          },
+          {
+            "from_url": "https://www.truefan.ai/blogs/genmo-ai-review-india-free",
+            "to_url": "https://book.haiper.ai/haiper-video-generator",
+            "title": "Genmo AI Review India Free: Best No-Cost Video Tools 2026",
+            "anchor": "Haiper AI Documentation",
+            "domain_rating": 36
+          },
+          {
+            "from_url": "https://pxz.ai/ko/blog/best-free-image-to-video-ai-tools",
+            "to_url": "https://haiper.ai/",
+            "title": "2025년 테스트 순위 선정, 무료 이미지 to 비디오 AI 도구 15선",
+            "anchor": "https://haiper.ai/",
+            "domain_rating": 38
+          },
+          {
+            "from_url": "https://www.toolify.ai/tool/ltx-studio",
+            "to_url": "https://haiper.ai/",
+            "title": "LTX Studio: AI-driven filmmaking platform for visual storytelling from concept to delivery.",
+            "anchor": "Open site",
+            "domain_rating": 73
+          },
+          {
+            "from_url": "https://medium.com/the-ai-entrepreneurs/unlocking-the-power-of-haiper-ai-your-ultimate-guide-to-video-generation-f33cb574f334",
+            "to_url": "https://haiper.ai/creation/66b62cb511b25e2a2b5b7966?source=post_page-----f33cb574f334---------------------------------------",
+            "title": "Unlocking the Power of Haiper AI: Your Ultimate Guide to Video Generation | The AI Entrepreneurs",
+            "anchor": "Haiper - AI Video Generatora nature documentary scene to capture the full migration of birds.haiper.ai",
+            "domain_rating": 94
+          },
+          {
+            "from_url": "https://fptshop.com.vn/tin-tuc/danh-gia/haiper-ai-la-gi-166159",
+            "to_url": "https://haiper.ai/",
+            "title": "Haiper AI là gì? Tính năng và hướng dẫn cách sử dụng chi tiết",
+            "anchor": "địa chỉ này",
+            "domain_rating": 76
+          },
+          {
+            "from_url": "https://heysoyselene.com/7-herramientas-ia-animar-imagenes-gratis/",
+            "to_url": "https://haiper.ai/",
+            "title": "7-herramientas-ia-animar-imagenes-gratis -",
+            "anchor": "1. Haiper",
+            "domain_rating": 6
+          },
+          {
+            "from_url": "https://www.tomsguide.com/features/5-best-ai-video-generators-tested-and-compared",
+            "to_url": "https://haiper.ai/creations",
+            "title": "I've spent 200 hours testing the best AI video generators — here's my top picks | Tom's Guide",
+            "anchor": "View at haiper.ai",
+            "domain_rating": 87
+          },
+          {
+            "from_url": "https://haiper-ai.en.softonic.com/web-apps",
+            "to_url": "https://haiper.ai/",
+            "title": "Haiper AI for AI Video generator & editor: review, features & use cases",
+            "anchor": "haiper",
+            "domain_rating": 86
+          },
+          {
+            "from_url": "https://prismindmedia.com/en-iyi-yapay-zeka-uygulamalari/",
+            "to_url": "https://haiper.ai/",
+            "title": "En İyi Yapay Zeka Araçları 2026: Ücretsiz +30 Araç!",
+            "anchor": "İncele",
+            "domain_rating": 30
+          },
+          {
+            "from_url": "https://jens.marketing/tool/haiper-fuer-ki-videos/",
+            "to_url": "https://haiper.ai/",
+            "title": "Haiper AI für KI-Videos — Tool-Test · jens.marketing",
+            "anchor": "Direkt zum Tool",
+            "domain_rating": 45
+          }
+        ]
+      },
+      "backlinks_evidence": "domains/haiper.ai/backlinks.json"
+    },
+    "pages": [
+      {
+        "kind": "home",
+        "label": "首页",
+        "path": "products/haiper/pages/home.json",
+        "status": "failed",
+        "reason": "An upstream data source failed. Please try again.",
+        "source": {},
+        "page": {
+          "title": null
+        },
+        "content": "已保存官网来源；本公开版不转载页面全文。"
+      },
+      {
+        "kind": "pricing",
+        "label": "定价资料",
+        "path": "products/haiper/pages/pricing.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://docs.haiper.ai/pricing",
+          "resolved_url": "https://docs.haiper.ai/pricing",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Pricing for Haiper Web App & iOS App - Haiper"
+        },
+        "content": "已保存官网来源；本公开版不转载页面全文。"
+      }
+    ],
+    "searches": [],
+    "issues": [],
+    "screenshot": null,
+    "product_entry_links": []
+  },
+  "metrics": {
+    "visits": 103028,
+    "mom": -0.29915309003095136,
+    "change3": -0.25590599518998125,
+    "rolling3": 0.05363453788195338,
+    "recent_average": 130283.66666666667,
+    "prior_average": 123651.66666666667,
+    "up_streak": 0,
+    "derived_channels": {
+      "search_paid_visits": 659.3792000000001,
+      "social_paid_visits": 10.302800000000001,
+      "search_organic_visits": 52492.765999999996,
+      "social_organic_visits": 2925.9952000000003,
+      "direct_visits": 34174.3876
+    },
+    "scope": "site",
+    "profile": "首页与截图采集失败；仅保留其他已取得数据，不据此补造产品定位。",
+    "profile_source": "products/haiper/pages/home.json"
+  },
+  "editorial": {
+    "thesis": "当前存在明显官网证据缺口，应先核实产品状态，再解释流量变化。",
+    "focus": "主页抓取失败不等于停服；现有域名趋势和其它资料可以保留，但不足以建立完整增长动作或当前套餐判断。",
+    "experiment": "重新验证官方入口与可访问定价页；取得可用产品后再做相同任务的成本测试。",
+    "measure": "可访问状态、官方版本与连续月度访问；不以零填充未知指标。",
+    "watch": "官网恢复、官方账号发布、文档和价格有效期。"
+  },
+  "activities": [],
+  "x_posts": []
+}

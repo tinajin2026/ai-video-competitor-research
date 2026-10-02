@@ -1,0 +1,158 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "arcads.ai",
+  "measurement": "第三方外链样本",
+  "data": {
+    "domain": "arcads.ai",
+    "overview": {
+      "domain_rating": 71,
+      "backlinks": 34525,
+      "referring_domains": 4282,
+      "dofollow_backlinks_pct": 50,
+      "dofollow_referring_domains_pct": 58
+    },
+    "backlinks": [
+      {
+        "from_url": "https://topapps.fr/apps/histovec",
+        "to_url": "https://arcads.ai/?via=tomguich",
+        "title": "HistoVec : l'historique officiel d'un véhicule (gratuit) | TopApps",
+        "anchor": "Visiter le site",
+        "domain_rating": 5
+      },
+      {
+        "from_url": "https://www.dixmilleheures.fr/comparateur/video-ia",
+        "to_url": "https://www.arcads.ai/",
+        "title": "Les 13 meilleurs générateurs de vidéo IA gratuits pour entrepreneurs en 2026 | Comparatif & Avis",
+        "anchor": "Essayer",
+        "domain_rating": 33
+      },
+      {
+        "from_url": "https://www.nereo.io/blog/ezcreate-review",
+        "to_url": "https://www.arcads.ai/",
+        "title": "EZCreate Review: Is It Worth It in 2026?",
+        "anchor": "Arcads",
+        "domain_rating": 30
+      },
+      {
+        "from_url": "https://www.marketermilk.com/blog/arcads-review",
+        "to_url": "https://get.arcads.ai/hook-generator",
+        "title": "Arcads review: My honest thoughts about this AI ad maker | Marketer Milk",
+        "anchor": "hook generator tool",
+        "domain_rating": 67
+      },
+      {
+        "from_url": "https://frontiervisionsmarketing.com/directory/arcads",
+        "to_url": "https://www.arcads.ai/",
+        "title": "Arcads review (2026) — Pricing, pros, cons, alternatives",
+        "anchor": "Official site (arcads.ai) ↗",
+        "domain_rating": 3
+      },
+      {
+        "from_url": "https://www.eesel.ai/blog/arcads-ai",
+        "to_url": "https://www.arcads.ai/",
+        "title": "Arcads AI review: Features, pricing, and limits | eesel AI",
+        "anchor": "Arcads AI",
+        "domain_rating": 74
+      },
+      {
+        "from_url": "https://www.youtube.com/watch?v=4RaxcH_f1Vs",
+        "to_url": "https://arcads.ai/?via=zoco",
+        "title": "How to Run Instagram Ads in 2026 (Step-By-Step for Beginners) - YouTube",
+        "anchor": "https://arcads.ai/?via=zoco",
+        "domain_rating": 99
+      },
+      {
+        "from_url": "https://www.kimaventures.com/portfolio",
+        "to_url": "https://arcads.ai/",
+        "title": "Kima Ventures - Our awesome family",
+        "anchor": "Arcads Helping growth teams craft winning ads",
+        "domain_rating": 57
+      },
+      {
+        "from_url": "https://www.mailsoar.com/",
+        "to_url": "https://www.arcads.ai/",
+        "title": "MailSoar | Email Deliverability Agency & Experts",
+        "anchor": "",
+        "domain_rating": 31
+      },
+      {
+        "from_url": "https://www.rplg.io/blog/ai-ugc",
+        "to_url": "https://www.arcads.ai/article/what-is-ai-ugc",
+        "title": "AI UGC Videos in App Marketing: Benefits, Challenges, and Best Practices",
+        "anchor": "brands should blend AI UGC",
+        "domain_rating": 48
+      },
+      {
+        "from_url": "https://ppc.io/blog/ai-tools-paid-ads",
+        "to_url": "https://www.arcads.ai/",
+        "title": "35+ AI Tools for Paid Ads in 2026 (Reviewed)",
+        "anchor": "Arcads.ai",
+        "domain_rating": 57
+      },
+      {
+        "from_url": "https://dodropshipping.com/best-dropshipping-ai-tools/",
+        "to_url": "https://www.arcads.ai/",
+        "title": "Dropshipping AI Tools: 20 Best, Tested + Ranked (2026)",
+        "anchor": "Arcads",
+        "domain_rating": 65
+      },
+      {
+        "from_url": "https://v4v.ai/blog/arcads-pricing-2026/",
+        "to_url": "https://www.arcads.ai/",
+        "title": "Arcads Pricing 2026: Plans, Credits and Cost per Ad | v4v.ai",
+        "anchor": "official Arcads site",
+        "domain_rating": 23
+      },
+      {
+        "from_url": "https://www.producthunt.com/products/arcads",
+        "to_url": "https://arcads.ai/?ref=producthunt",
+        "title": "Arcads: AI Video Ads | Product Hunt",
+        "anchor": "Visit website",
+        "domain_rating": 91
+      },
+      {
+        "from_url": "https://trycrush.ai/compare/crush-vs-arcads",
+        "to_url": "https://www.arcads.ai/terms",
+        "title": "Crush vs Arcads: AI UGC Videos or Managed Meta Ads",
+        "anchor": "Arcads terms (opens in a new tab)",
+        "domain_rating": 33
+      },
+      {
+        "from_url": "https://vivatech.com/news/top-100-rising-startups-of-2026",
+        "to_url": "https://www.arcads.ai/fr",
+        "title": "Top 100 Rising Startups of 2026",
+        "anchor": "Arcads",
+        "domain_rating": 78
+      },
+      {
+        "from_url": "https://www.airpost.ai/blog/arcads-features-pricing-and-alternatives",
+        "to_url": "https://www.arcads.ai/features/ai-video-generator",
+        "title": "Arcads Review",
+        "anchor": "",
+        "domain_rating": 17
+      },
+      {
+        "from_url": "https://www.codingem.com/i-tried-21-ugc-ai-ad-generators-this-one-is-the-best/",
+        "to_url": "https://www.arcads.ai/?via=artturi-jalli",
+        "title": "I Tried 21 UGC AI Ad Generators. This One Is The Best - codingem.com",
+        "anchor": "Try Arcads",
+        "domain_rating": 31
+      },
+      {
+        "from_url": "https://ugcfy.ai/review/arcads-ai",
+        "to_url": "https://www.arcads.ai/",
+        "title": "Arcads AI Review: Features, Pricing Checks & Alternative",
+        "anchor": "Arcads homepageUsed to verify Arcads positioning around AI ads, AI actors, avatars, ad presets, editing tools, and workflows.",
+        "domain_rating": 25
+      },
+      {
+        "from_url": "https://aifinderz.com/tool/arcads/",
+        "to_url": "https://www.arcads.ai/",
+        "title": "Arcads review: features, pricing & alternatives | AI Finderz",
+        "anchor": "Visit official site ↗",
+        "domain_rating": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "heygen.com",
+  "measurement": "第三方外链样本",
+  "data": {
+    "domain": "heygen.com",
+    "overview": {
+      "domain_rating": 84,
+      "backlinks": 946022,
+      "referring_domains": 30850,
+      "dofollow_backlinks_pct": 81,
+      "dofollow_referring_domains_pct": 79
+    },
+    "backlinks": [
+      {
+        "from_url": "https://fish.audio/",
+        "to_url": "https://www.heygen.com/",
+        "title": "Best AI Text To Speech & Free Voice Cloning | Fish Audio",
+        "anchor": "",
+        "domain_rating": 73
+      },
+      {
+        "from_url": "https://www.canva.com/apps/AAFSMHx80yA/heygen-ai-avatars",
+        "to_url": "https://www.heygen.com/",
+        "title": "HeyGen AI Avatars - Canva Apps",
+        "anchor": "HeyGen",
+        "domain_rating": 93
+      },
+      {
+        "from_url": "https://communityone.io/servers/",
+        "to_url": "https://www.heygen.com/",
+        "title": "Discord Server List | Discover Top Discord Servers | CommunityOne",
+        "anchor": "Website",
+        "domain_rating": 43
+      },
+      {
+        "from_url": "https://genape.ai/ja/blog/heygen-ai",
+        "to_url": "https://app.heygen.com/home",
+        "title": "HeyGenとは？デジタルヒューマン動画の作り方・機能・料金を徹底解説",
+        "anchor": "HeyGen公式サイト",
+        "domain_rating": 35
+      },
+      {
+        "from_url": "https://codimd.apps.education.fr/s/r1H5nglAY",
+        "to_url": "https://www.heygen.com/",
+        "title": "Une sélection d’IA génératives gratuites en ligne - CodiMD",
+        "anchor": "Heygen",
+        "domain_rating": 85
+      },
+      {
+        "from_url": "https://ausjournal.com/view_article.php?id=108",
+        "to_url": "https://www.heygen.com/",
+        "title": "Top 10 AI video Generator Tools 2025 | ausjournal.com",
+        "anchor": "Visit HeyGen →",
+        "domain_rating": 17
+      },
+      {
+        "from_url": "https://en.wikipedia.org/wiki/HeyGen",
+        "to_url": "https://www.heygen.com/",
+        "title": "HeyGen",
+        "anchor": "Official website",
+        "domain_rating": 97
+      },
+      {
+        "from_url": "https://www.elancer.co.kr/blog/detail/1028",
+        "to_url": "https://www.heygen.com/?via=okeyey&gad_source=1&gad_campaignid=22832862475&gbraid=0AAAAA_4QCn4MhBrzQiymhEqqAxqX9FIQI&gclid=CjwKCAiAs4HMBhBJEiwACrfNZbTHGNjME8Qj6nWY51zK6JA_34n6wt1csa7ij_gOxZrF5OAW6lQLRhoCfCEQAvD_BwE",
+        "title": "딥페이크 사이트 TOP 5 추천, 합법적 사용 기준까지 정리해서 알려드립니다. I 이랜서 블로그",
+        "anchor": "HeyGen 홈페이지",
+        "domain_rating": 39
+      },
+      {
+        "from_url": "https://play.google.com/store/apps/details?id=com.heygen.app&hl=en_IN",
+        "to_url": "https://www.heygen.com/privacy",
+        "title": "HeyGen: AI Video Generator – Apps on Google Play",
+        "anchor": "shieldPrivacy Policy",
+        "domain_rating": 100
+      },
+      {
+        "from_url": "https://www.shortimize.com/tools/twitter-video-downloader",
+        "to_url": "https://www.heygen.com/",
+        "title": "Download Twitter Videos - Free Twitter Video Downloader",
+        "anchor": "logo",
+        "domain_rating": 49
+      },
+      {
+        "from_url": "https://www.baseten.co/resources/event/inference-insight-an-evening-with-baseten-protopia-ai/",
+        "to_url": "https://www.heygen.com/",
+        "title": "Inference & Insights: An Evening with Baseten & Protopia AI | Events",
+        "anchor": "Logo",
+        "domain_rating": 76
+      },
+      {
+        "from_url": "https://readyforjob.in/pages/ai.html",
+        "to_url": "https://www.heygen.com/",
+        "title": "Free AI Tools 2026 — Complete List | No Credit Card",
+        "anchor": "Visit Tool",
+        "domain_rating": 0
+      },
+      {
+        "from_url": "https://www.datacamp.com/blog/free-ai-tools",
+        "to_url": "https://www.heygen.com/",
+        "title": "The 40 Best Free AI Tools in 2026: A Complete Guide | DataCamp",
+        "anchor": "HeyGen",
+        "domain_rating": 85
+      },
+      {
+        "from_url": "https://www.aixploria.com/",
+        "to_url": "https://heygen.com/?via=aixploria",
+        "title": "Liste des Meilleures IA Gratuites & Top 10 par Catégorie | AIxploria",
+        "anchor": "HeyGen AI",
+        "domain_rating": 56
+      },
+      {
+        "from_url": "https://apps.apple.com/us/app/ai-avatar-generator-heygen/id6711356409",
+        "to_url": "https://www.heygen.com/",
+        "title": "‎AI Avatar Generator - HeyGen App - App Store",
+        "anchor": "Developer Website",
+        "domain_rating": 97
+      },
+      {
+        "from_url": "https://fliki.ai/blog/video-translator",
+        "to_url": "https://www.heygen.com/translate",
+        "title": "5 Best Video Translators of 2024 - Fliki",
+        "anchor": "Heygen Video Translator",
+        "domain_rating": 75
+      },
+      {
+        "from_url": "https://dripify.com/visual-prospecting/",
+        "to_url": "https://www.heygen.com/tool/text-to-video",
+        "title": "Visual Prospecting: Improve Your Outreach Strategy | Dripify.com",
+        "anchor": "text to video AI",
+        "domain_rating": 71
+      },
+      {
+        "from_url": "https://github.com/heygen-com/hyperframes",
+        "to_url": "https://hyperframes.heygen.com/catalog/blocks/data-chart",
+        "title": "GitHub - heygen-com/hyperframes: Write HTML. Render video. Built for agents. · GitHub",
+        "anchor": "hyperframes.heygen.com/catalog",
+        "domain_rating": 97
+      },
+      {
+        "from_url": "https://ai4k.eu/content/free-ai-tools-online/",
+        "to_url": "https://www.heygen.com/",
+        "title": "Over 100 FREE AI Tools: 2025 Update » ai4k",
+        "anchor": "HeyGen",
+        "domain_rating": 1
+      },
+      {
+        "from_url": "https://genies.com/blog/6-best-avatar-maker-online-tools-for-your-vibe",
+        "to_url": "https://www.heygen.com/avatars",
+        "title": "6 Best Avatar Maker Online Tools for Your Vibe - Genies",
+        "anchor": "high-quality rendering",
+        "domain_rating": 55
+      }
+    ]
+  }
+}

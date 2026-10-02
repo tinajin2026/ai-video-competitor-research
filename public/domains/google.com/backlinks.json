@@ -1,0 +1,158 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "google.com",
+  "measurement": "第三方外链样本",
+  "data": {
+    "domain": "google.com",
+    "overview": {
+      "domain_rating": 100,
+      "backlinks": 0,
+      "referring_domains": 0,
+      "dofollow_backlinks_pct": 0,
+      "dofollow_referring_domains_pct": 0
+    },
+    "backlinks": [
+      {
+        "from_url": "https://wordcounter.net/",
+        "to_url": "https://accounts.google.com/o/oauth2/auth?client_id=&response_type=code&redirect_uri=https%3A%2F%2Fwordcounter.net%2Fuser%2Fsecurity%2Fauth%3Fauthclient%3Dgoogle&xoauth_displayname=WordCounter.net&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email",
+        "title": "WordCounter - Count Words & Correct Writing",
+        "anchor": "Google",
+        "domain_rating": 75
+      },
+      {
+        "from_url": "https://www.gsmarena.com/",
+        "to_url": "https://play.google.com/store/apps/details?id=com.gsmarena.android",
+        "title": "GSMArena.com - mobile phone reviews, news, specifications and more...",
+        "anchor": "Android app",
+        "domain_rating": 86
+      },
+      {
+        "from_url": "https://www.darty.com/",
+        "to_url": "https://play.google.com/store/apps/details?id=com.darty.catalogue&hl=en_US",
+        "title": "Electroménager, High tech le contrat de confiance - Darty",
+        "anchor": "Disponible sur Google Play (nouvelle fenêtre)",
+        "domain_rating": 77
+      },
+      {
+        "from_url": "https://www.alodokter.com/",
+        "to_url": "https://www.google.com/recaptcha/enterprise/anchor?ar=1&k=6Ldg7gQhAAAAAN8ebL4Gr-hTid51r0i9BpsdaEWE&co=aHR0cHM6Ly93d3cuYWxvZG9rdGVyLmNvbTo0NDM.&hl=en&v=kemdRjWFxNjgsGdhRslyEPwU&size=invisible&anchor-ms=20000&execute-ms=30000&cb=mjhmuwjck0ay",
+        "title": "Alodokter - Info Kesehatan, Booking dan Chat Dokter",
+        "anchor": "",
+        "domain_rating": 80
+      },
+      {
+        "from_url": "https://www.krone.at/",
+        "to_url": "https://play.google.com/store/apps/details?id=at.krone&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1",
+        "title": "Kronen Zeitung | Aktuelle Nachrichten | krone.at",
+        "anchor": "Jetzt bei Google Play",
+        "domain_rating": 81
+      },
+      {
+        "from_url": "https://www.tomsguide.com/news/what-is-todays-wordle-answer",
+        "to_url": "https://google.com/preferences/source?q=tomsguide.com",
+        "title": "Today’s Wordle hints and answer: September 30, 2026, solution #1,929 | Tom's Guide",
+        "anchor": "Add as a preferred source on Google",
+        "domain_rating": 87
+      },
+      {
+        "from_url": "https://www.nationalrail.co.uk/",
+        "to_url": "https://play.google.com/store/apps/details?id=uk.co.nationalrail.google&hl=en_GB",
+        "title": "The official source for trains in Great Britain | National Rail",
+        "anchor": "Download on the Play Store",
+        "domain_rating": 85
+      },
+      {
+        "from_url": "https://seller.flipkart.com/",
+        "to_url": "https://play.google.com/store/apps/details?id=com.flipkart.seller",
+        "title": "Become an Online Seller in India | Flipkart Seller Hub",
+        "anchor": "play store",
+        "domain_rating": 89
+      },
+      {
+        "from_url": "https://www.amateur.tv/",
+        "to_url": "https://google.com/",
+        "title": "LIVE SEX CAMS - Free Live Porn & Adult Webcams",
+        "anchor": "Leave the website",
+        "domain_rating": 61
+      },
+      {
+        "from_url": "https://www.nefisyemektarifleri.com/",
+        "to_url": "https://accounts.google.com/o/oauth2/v2/auth?response_type=code&access_type=online&client_id=555438839532-ap9be0vbn8g4dhh8n8bpavu1mcmbp1nd.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fwww.nefisyemektarifleri.com%2Fwp-login.php&state=eyJyZWRpcmVjdF90byI6IlwvIn0%3D&scope=email%20profile&approval_prompt=auto",
+        "title": "Nefis Yemek Tarifleri - Kolay ve Pratik Yemek Tarifleri",
+        "anchor": "Google ile Giriş Yap",
+        "domain_rating": 69
+      },
+      {
+        "from_url": "https://novaposhta.ua/",
+        "to_url": "https://play.google.com/store/apps/details?id=eu.novapost",
+        "title": "Нова пошта - доставка майбутнього",
+        "anchor": "Завантажуй в App Store.",
+        "domain_rating": 88
+      },
+      {
+        "from_url": "https://www.jdsports.fr/",
+        "to_url": "https://play.google.com/store/apps/details?id=com.jd.jdsports&hl=fr",
+        "title": "JD Sports France - Magasin de Sport en ligne - Chaussures et Vêtements",
+        "anchor": "Télécharger depuis Google Play",
+        "domain_rating": 51
+      },
+      {
+        "from_url": "https://musiclab.chromeexperiments.com/",
+        "to_url": "https://google.com/",
+        "title": "Chrome Music Lab",
+        "anchor": "",
+        "domain_rating": 79
+      },
+      {
+        "from_url": "https://soundbuttonsworld.com/",
+        "to_url": "https://play.google.com/store/apps/dev?id=4891521881808154923",
+        "title": "Sound Buttons: Large Collection of Sounds",
+        "anchor": "Get it on Google Play",
+        "domain_rating": 33
+      },
+      {
+        "from_url": "https://dedebet.com.tr/",
+        "to_url": "https://google.com/",
+        "title": "Dedebet, Dedebet Giriş, Dedebet Üyelik (Kesintisiz Erişim)",
+        "anchor": "Hayır, ben gidiyorum.",
+        "domain_rating": 0
+      },
+      {
+        "from_url": "https://www.trivago.co.uk/",
+        "to_url": "https://google.com/preferences/source?q=https%3A%2F%2Fwww.trivago.co.uk",
+        "title": "trivago.co.uk - Compare hotel prices worldwide",
+        "anchor": "",
+        "domain_rating": 70
+      },
+      {
+        "from_url": "https://www.macif.fr/",
+        "to_url": "https://play.google.com/store/apps/details?id=com.macif.mobile.application.android&hl=en_US",
+        "title": "MACIF : assurance en ligne pour particuliers, PRO et asso CSE",
+        "anchor": "Disponible sur Google Play (application Macif)",
+        "domain_rating": 77
+      },
+      {
+        "from_url": "https://as.com/meristation/betech/wordle-en-espanol-cientifico-y-tildes-para-el-reto-de-hoy-29-de-abril-pistas-y-solucion-n-2/",
+        "to_url": "https://google.com/preferences/source?q=https://as.com",
+        "title": "Wordle en español, científico y tildes para el reto de hoy 29 de abril: pistas y solución - Meristation",
+        "anchor": "Preferir AS en Google",
+        "domain_rating": 85
+      },
+      {
+        "from_url": "https://www.only.com/de-de",
+        "to_url": "https://play.google.com/store/apps/details?id=com.bestseller.only",
+        "title": "Damenbekleidung Online | ONLY DE®",
+        "anchor": "",
+        "domain_rating": 64
+      },
+      {
+        "from_url": "https://fstoppers.com/originals/i-shot-iphone-17-pro-max-nine-months-phone-handled-everything-i-threw-it-903706",
+        "to_url": "https://google.com/preferences/source?q=fstoppers.com",
+        "title": "iPhone 17 Pro Max After 9 Months: The Phone That Handles Everything | Fstoppers",
+        "anchor": "Add us as a preferred source on Google",
+        "domain_rating": 78
+      }
+    ]
+  }
+}

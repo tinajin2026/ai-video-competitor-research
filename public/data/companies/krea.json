@@ -1,0 +1,424 @@
+{
+  "schema_version": 1,
+  "product": {
+    "id": "krea",
+    "name": "Krea",
+    "x_handle": "krea_ai",
+    "homepage": "https://www.krea.ai/",
+    "ads_priority": false,
+    "traffic_domain": "krea.ai",
+    "additional_domains": [],
+    "scope_note": "域名级流量估算，非付费用户、收入或模型调用量。",
+    "shared_scope": false,
+    "domain_data": {
+      "domain": "krea.ai",
+      "traffic": {
+        "domain": "krea.ai",
+        "overview": {
+          "global_rank": 12768,
+          "country_rank": {
+            "country": "IN",
+            "rank": 5968
+          },
+          "visits": 4080389,
+          "bounce_rate": 0.41718284848877535,
+          "pages_per_visit": 4.467917546012893,
+          "time_on_site_seconds": 252.28520322782882,
+          "month": "2026-08"
+        },
+        "monthly_visits": [
+          {
+            "month": "2025-09",
+            "visits": 5335205
+          },
+          {
+            "month": "2025-10",
+            "visits": 6164348
+          },
+          {
+            "month": "2025-11",
+            "visits": 5570485
+          },
+          {
+            "month": "2025-12",
+            "visits": 5399041
+          },
+          {
+            "month": "2026-01",
+            "visits": 4693128
+          },
+          {
+            "month": "2026-02",
+            "visits": 4328851
+          },
+          {
+            "month": "2026-03",
+            "visits": 4411839
+          },
+          {
+            "month": "2026-04",
+            "visits": 4550178
+          },
+          {
+            "month": "2026-05",
+            "visits": 4922603
+          },
+          {
+            "month": "2026-06",
+            "visits": 4149640
+          },
+          {
+            "month": "2026-07",
+            "visits": 4220137
+          },
+          {
+            "month": "2026-08",
+            "visits": 4080389
+          }
+        ],
+        "traffic_sources": {
+          "direct": 0.4591,
+          "search": 0.3548,
+          "search_organic": 0.347,
+          "search_paid": 0.0078,
+          "social": 0.0737,
+          "social_organic": 0.0729,
+          "social_paid": 0.0008,
+          "referrals": 0.0591,
+          "paid_referrals": 0.0056,
+          "mail": 0.0121,
+          "gen_ai": 0.0355,
+          "affiliate": 0,
+          "other": 0
+        },
+        "top_keywords": [
+          {
+            "name": "krea ai",
+            "volume": 148630,
+            "cpc": 0.44,
+            "estimated_value": 414340
+          },
+          {
+            "name": "krea",
+            "volume": 131010,
+            "cpc": 0.56,
+            "estimated_value": 168820
+          },
+          {
+            "name": "krea 2",
+            "volume": 48670,
+            "cpc": 1.52,
+            "estimated_value": 35960
+          },
+          {
+            "name": "krea2",
+            "volume": 67520,
+            "cpc": 1.55,
+            "estimated_value": 21470
+          },
+          {
+            "name": "image enhancer",
+            "volume": 366090,
+            "cpc": 0.27,
+            "estimated_value": 16050
+          }
+        ],
+        "top_regions": [
+          {
+            "country": "US",
+            "name": "United States",
+            "share": 0.1389
+          },
+          {
+            "country": "RU",
+            "name": "Russia",
+            "share": 0.1363
+          },
+          {
+            "country": "IN",
+            "name": "India",
+            "share": 0.0809
+          },
+          {
+            "country": "BR",
+            "name": "Brazil",
+            "share": 0.0491
+          },
+          {
+            "country": "GB",
+            "name": "United Kingdom",
+            "share": 0.0392
+          }
+        ]
+      },
+      "traffic_evidence": "domains/krea.ai/traffic.json",
+      "traffic_status": "ok",
+      "registration_date": "2022-06-10T15:02:59Z",
+      "backlinks": {
+        "domain": "krea.ai",
+        "overview": {
+          "domain_rating": 76,
+          "backlinks": 567222,
+          "referring_domains": 13272,
+          "dofollow_backlinks_pct": 81,
+          "dofollow_referring_domains_pct": 76
+        },
+        "backlinks": [
+          {
+            "from_url": "https://codimd.apps.education.fr/s/r1H5nglAY",
+            "to_url": "https://www.krea.ai/",
+            "title": "Une sélection d’IA génératives gratuites en ligne - CodiMD",
+            "anchor": "Krea.ai",
+            "domain_rating": 85
+          },
+          {
+            "from_url": "https://www.byriwa.com/ai-image-generators/",
+            "to_url": "https://www.krea.ai/home",
+            "title": "9 Best AI Image Generators: Free and Paid Tools",
+            "anchor": "1. Krea (Free)",
+            "domain_rating": 2
+          },
+          {
+            "from_url": "https://www.baseten.co/resources/event/inference-insight-an-evening-with-baseten-protopia-ai/",
+            "to_url": "https://www.krea.ai/",
+            "title": "Inference & Insights: An Evening with Baseten & Protopia AI | Events",
+            "anchor": "Logo",
+            "domain_rating": 76
+          },
+          {
+            "from_url": "https://www.dixmilleheures.fr/comparateur/generateur-image-ia",
+            "to_url": "https://www.krea.ai/",
+            "title": "Les 13 meilleurs générateurs d'image IA en ligne pour entrepreneurs en 2026 | Comparatif & Avis",
+            "anchor": "Essayer",
+            "domain_rating": 33
+          },
+          {
+            "from_url": "https://note.com/synth_brain/n/nec455c0b8ee5",
+            "to_url": "https://www.krea.ai/docs/ja/user-guide/features/krea-2-turbo",
+            "title": "【KREA2の基本】世界が驚いた画質❗️８GBでもGGUF❗️（付録）ワークフローとプロンプト集❗️｜cue",
+            "anchor": "https://www.krea.ai/docs/ja/user-guide/features/krea-2-turbo",
+            "domain_rating": 92
+          },
+          {
+            "from_url": "https://pinggy.io/blog/best_free_open_source_ai_image_generators_to_self_host/",
+            "to_url": "https://www.krea.ai/blog/krea-2-technical-report",
+            "title": "Best Free & Open-Source AI Image Generators to Self-Host | Pinggy Blog",
+            "anchor": "Krea 2 Technical Report",
+            "domain_rating": 54
+          },
+          {
+            "from_url": "https://github.com/zebbern/no-cost-ai",
+            "to_url": "https://www.krea.ai/home",
+            "title": "GitHub - zebbern/no-cost-ai: 80+ free AI services for chat, image, video, voice & APIs (may sometimes include access to lead gen ai models for free) · GitHub",
+            "anchor": "krea.ai",
+            "domain_rating": 97
+          },
+          {
+            "from_url": "https://bananaproai.app/m/vheer",
+            "to_url": "https://www.krea.ai/features/ai-video-generator",
+            "title": "Vheer AI Video Generator | Banana Pro AI",
+            "anchor": "Krea video generator",
+            "domain_rating": 25
+          },
+          {
+            "from_url": "https://www.toools.design/",
+            "to_url": "https://www.krea.ai/",
+            "title": "Design Resources & Tools for Designers | TOOOLS.design",
+            "anchor": "KreaAn easy way to generate images, video and sound with AI.Freemium",
+            "domain_rating": 48
+          },
+          {
+            "from_url": "https://topapps.fr/apps/histovec",
+            "to_url": "https://www.krea.ai/home",
+            "title": "HistoVec : l'historique officiel d'un véhicule (gratuit) | TopApps",
+            "anchor": "Visiter le site",
+            "domain_rating": 5
+          },
+          {
+            "from_url": "https://www.da-vinci.com.tw/tw/blog/top10-ai-drawing-website-recommendation",
+            "to_url": "https://www.krea.ai/home",
+            "title": "10大 AI 生成圖片網站推薦：2026 免費工具與方案比較",
+            "anchor": "立即前往",
+            "domain_rating": 75
+          },
+          {
+            "from_url": "https://partnerkin.com/blog/articles/neiroseti-text-art-video-audio",
+            "to_url": "https://www.krea.ai/home",
+            "title": "101 нейросеть 🔥 список нейросетей для рисования, улучшения фото, видео и написания текстов",
+            "anchor": "Официальный сайт",
+            "domain_rating": 70
+          },
+          {
+            "from_url": "https://www.myarchitectai.com/architecture-generator",
+            "to_url": "https://www.krea.ai/apps/image/realtime",
+            "title": "Free AI Architecture Generator | No Login Required",
+            "anchor": "Krea AI",
+            "domain_rating": 47
+          },
+          {
+            "from_url": "https://www.gptuncensored.ai/blog/best-ai-image-generator-free",
+            "to_url": "https://krea.ai/",
+            "title": "10 Best AI Image Generator Free Tools for 2026 | GPT Uncensored Blog",
+            "anchor": "Krea AI",
+            "domain_rating": 26
+          },
+          {
+            "from_url": "https://www.fahimai.com/krea-ai",
+            "to_url": "https://www.krea.ai/",
+            "title": "Krea AI Review: Real-time AI Art Generator in 2025",
+            "anchor": "Try Krea AI for FREE",
+            "domain_rating": 56
+          },
+          {
+            "from_url": "https://www.vanityfair.fr/article/quels-sont-les-meilleurs-simulateurs-de-coupes-de-cheveux",
+            "to_url": "https://www.krea.ai/",
+            "title": "Quels sont les meilleurs simulateurs de coupes de cheveux ? | Vanity Fair",
+            "anchor": "Testez Krea",
+            "domain_rating": 75
+          },
+          {
+            "from_url": "https://www.ainauten.com/top-ki-tools-liste",
+            "to_url": "https://www.krea.ai/",
+            "title": "Beste KI Tools 2026: Die große Übersicht (handverlesen) | AINAUTEN",
+            "anchor": "Krea.ai",
+            "domain_rating": 29
+          },
+          {
+            "from_url": "https://skillbox.ru/media/code/top8-neyrosetey-kotorye-risuyut-redaktiruyut-i-dopolnyayut-izobrazheniya/",
+            "to_url": "https://www.krea.ai/app",
+            "title": "Топ-12 нейросетей для генерации изображений: лучшие бесплатные AI-сервисы для создания картинок по фото и словам / Skillbox Media",
+            "anchor": "Попробовать онлайн →",
+            "domain_rating": 78
+          },
+          {
+            "from_url": "https://pickaxe.co/post/top-ai-image-generators",
+            "to_url": "https://www.krea.ai/",
+            "title": "Top 16 AI Image Generators (Tested & Ranked) | Pickaxe Blog",
+            "anchor": "Try Krea AI",
+            "domain_rating": 70
+          },
+          {
+            "from_url": "https://research.contrary.com/company/krea",
+            "to_url": "https://www.krea.ai/apps/enhance",
+            "title": "Report: Krea Business Breakdown & Founding Story | Contrary Research",
+            "anchor": "Enhancer",
+            "domain_rating": 71
+          }
+        ]
+      },
+      "backlinks_evidence": "domains/krea.ai/backlinks.json"
+    },
+    "pages": [
+      {
+        "kind": "home",
+        "label": "首页",
+        "path": "products/krea/pages/home.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://www.krea.ai/",
+          "resolved_url": "https://www.krea.ai/",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Krea"
+        },
+        "content": "首页提供可直接运行的 Agent 模板以及图像、视频模型入口。\n首页引导将 Krea 连接到外部 Agent。"
+      },
+      {
+        "kind": "pricing",
+        "label": "定价资料",
+        "path": "products/krea/pages/pricing.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://www.krea.ai/pricing",
+          "resolved_url": "https://www.krea.ai/pricing",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Krea Pricing | AI Creative Tools for Everyone"
+        },
+        "content": "已保存官网来源；本公开版不转载页面全文。"
+      },
+      {
+        "kind": "docs",
+        "label": "文档",
+        "path": "products/krea/pages/docs.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://www.krea.ai/docs/user-guide/help-and-support/manage-subscriptions",
+          "resolved_url": "https://www.krea.ai/docs/user-guide/help-and-support/manage-subscriptions",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Manage Subscriptions - Krea"
+        },
+        "content": "已保存官网来源；本公开版不转载页面全文。"
+      }
+    ],
+    "searches": [],
+    "issues": [],
+    "screenshot": null,
+    "product_entry_links": []
+  },
+  "metrics": {
+    "visits": 4080389,
+    "mom": -0.03311456476412966,
+    "change3": -0.17109118895023634,
+    "rolling3": -0.10331244211220758,
+    "recent_average": 4150055.3333333335,
+    "prior_average": 4628206.666666667,
+    "up_streak": 0,
+    "derived_channels": {
+      "search_paid_visits": 31827.0342,
+      "social_paid_visits": 3264.3112,
+      "search_organic_visits": 1415894.983,
+      "social_organic_visits": 297460.3581,
+      "direct_visits": 1873306.5899
+    },
+    "scope": "site",
+    "profile": "创作平台覆盖 Agent、图像与视频模型；属于多种创作需求的综合站点。",
+    "profile_source": "products/krea/pages/home.json"
+  },
+  "editorial": {
+    "thesis": "Agent 模板与 MCP 同时承接人和外部 Agent 的任务入口。",
+    "focus": "综合图像/视频站点中，image enhancer 等词体现不同需求。模板是否形成重复使用价值，需要跟踪实际运行而非页面数量。",
+    "experiment": "把一个高频视频流程开放为模板及可调用工具，记录人手操作与 Agent 调用的共同任务标识。",
+    "measure": "模板首次运行率、工具调用成功率、7 日重复运行率及消耗。",
+    "watch": "模板目录、MCP 接口、模型更新与任务结果展示。"
+  },
+  "activities": [
+    {
+      "product_id": "krea",
+      "type": "workflow",
+      "title": "Agent 模板与模型聚合",
+      "detail": "首页提供可直接运行的 Agent 模板以及图像、视频模型入口。",
+      "anchors": [
+        "template workflows",
+        "Krea Agent"
+      ],
+      "source": "products/krea/pages/home.json",
+      "event_date": null,
+      "id": "activity-21",
+      "source_url": "https://www.krea.ai/",
+      "observed_at": "2026-10-02"
+    },
+    {
+      "product_id": "krea",
+      "type": "developer",
+      "title": "MCP 接入创作 Agent",
+      "detail": "首页引导将 Krea 连接到外部 Agent。",
+      "anchors": [
+        "Krea MCP"
+      ],
+      "source": "products/krea/pages/home.json",
+      "event_date": null,
+      "id": "activity-22",
+      "source_url": "https://www.krea.ai/",
+      "observed_at": "2026-10-02"
+    }
+  ],
+  "x_posts": []
+}

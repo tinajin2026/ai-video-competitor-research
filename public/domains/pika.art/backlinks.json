@@ -1,0 +1,158 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "pika.art",
+  "measurement": "第三方外链样本",
+  "data": {
+    "domain": "pika.art",
+    "overview": {
+      "domain_rating": 78,
+      "backlinks": 285960,
+      "referring_domains": 15412,
+      "dofollow_backlinks_pct": 88,
+      "dofollow_referring_domains_pct": 77
+    },
+    "backlinks": [
+      {
+        "from_url": "https://zapier.com/blog/best-ai-video-generator/",
+        "to_url": "https://pika.art/login",
+        "title": "The 17 best AI video generators in 2026 | Zapier",
+        "anchor": "Pika",
+        "domain_rating": 91
+      },
+      {
+        "from_url": "https://codimd.apps.education.fr/s/r1H5nglAY",
+        "to_url": "https://pika.art/",
+        "title": "Une sélection d’IA génératives gratuites en ligne - CodiMD",
+        "anchor": "Pika.art",
+        "domain_rating": 85
+      },
+      {
+        "from_url": "https://www.alura.com.br/podcast/105-openai-o3-chatgpt-gratis-no-whatsapp-meta-mata-os-tokens-a9610",
+        "to_url": "https://pika.art/login",
+        "title": "Podcast: 105: OpenAI o3, ChatGPT grátis no WhatsApp, Meta mata os tokens, | Alura",
+        "anchor": "Pika chega à versão 2.0",
+        "domain_rating": 75
+      },
+      {
+        "from_url": "https://readyforjob.in/pages/ai.html",
+        "to_url": "https://pika.art/",
+        "title": "Free AI Tools 2026 — Complete List | No Credit Card",
+        "anchor": "Visit Tool",
+        "domain_rating": 0
+      },
+      {
+        "from_url": "https://www.datacamp.com/blog/free-ai-tools",
+        "to_url": "https://pika.art/index",
+        "title": "The 40 Best Free AI Tools in 2026: A Complete Guide | DataCamp",
+        "anchor": "Pika",
+        "domain_rating": 85
+      },
+      {
+        "from_url": "https://www.eesel.ai/blog/pika-ai",
+        "to_url": "https://pika.art/",
+        "title": "What is Pika AI? A deep dive into the AI video generator | eesel AI",
+        "anchor": "Pika AI",
+        "domain_rating": 74
+      },
+      {
+        "from_url": "https://www.tomsguide.com/features/i-got-access-to-pika-labs-new-ai-video-tool-and-couldnt-believe-the-quality-of-the-videos-it-produced",
+        "to_url": "https://pika.art/",
+        "title": "I got access to Pika Labs new AI video tool and couldn't believe the quality of the videos it produced | Tom's Guide",
+        "anchor": "Pika 1.0",
+        "domain_rating": 87
+      },
+      {
+        "from_url": "https://github.com/zebbern/no-cost-ai",
+        "to_url": "https://pika.art/",
+        "title": "GitHub - zebbern/no-cost-ai: 80+ free AI services for chat, image, video, voice & APIs (may sometimes include access to lead gen ai models for free) · GitHub",
+        "anchor": "pika.art",
+        "domain_rating": 97
+      },
+      {
+        "from_url": "https://pictory.ai/text-to-video",
+        "to_url": "https://pika.art/",
+        "title": "AI Video Editor - Text To Video - Pictory",
+        "anchor": "Pika 2.2 — Pika Labs",
+        "domain_rating": 80
+      },
+      {
+        "from_url": "https://sendfame.com/blog/ai-video-generator-free",
+        "to_url": "https://pika.art/",
+        "title": "The 12 Best AI Video Generator Free Tools of 2025",
+        "anchor": "https://pika.art",
+        "domain_rating": 53
+      },
+      {
+        "from_url": "https://www.therundown.ai/articles/dario-amodei-logs-on-to-answer-the-critics",
+        "to_url": "https://experiment.pika.art/blog/pika-audio-models",
+        "title": "Dario Amodei logs on to answer the critics | The Rundown AI",
+        "anchor": "released",
+        "domain_rating": 71
+      },
+      {
+        "from_url": "https://www.creativepadmedia.com/the-best-free-alternatives-to-higgsfield-ai-full-demonstrations/",
+        "to_url": "https://pika.art/",
+        "title": "The Best Free Alternatives to Higgsfield AI - With Full Demonstrations - Creative Pad Media",
+        "anchor": "Pika AI",
+        "domain_rating": 13
+      },
+      {
+        "from_url": "https://pixverse.ai/en/blog/best-free-ai-video-generator",
+        "to_url": "https://pika.art/login",
+        "title": "Best Free AI Video Generator Online: 8 Tools Compared | PixVerse",
+        "anchor": "Pika pricing",
+        "domain_rating": 74
+      },
+      {
+        "from_url": "https://www.eweek.com/news/ai-pricing-cheat-sheet-2026/",
+        "to_url": "https://pika.art/pricing",
+        "title": "OpenAI Agent Accessed Australian Government Site: What Went Wrong",
+        "anchor": "Pricing snapshot",
+        "domain_rating": 83
+      },
+      {
+        "from_url": "https://skillbox.ru/media/design/live_photos/",
+        "to_url": "https://pika.art/login",
+        "title": "Нейросети для оживления фото: топ-7 бесплатных сервисов для анимации картинок / Skillbox Media",
+        "anchor": "Pika Labs",
+        "domain_rating": 78
+      },
+      {
+        "from_url": "https://digital-gorilla.co.jp/ai-lab/ai-video-generation-free/",
+        "to_url": "https://pika.art/pricing",
+        "title": "【2026年最新】ai動画生成 無料おすすめ10選｜使い方・商用利用・日本語対応を比較 – ゴリラのAI研究所",
+        "anchor": "Pika",
+        "domain_rating": 27
+      },
+      {
+        "from_url": "https://aitoolsandplugins.com/video-and-audio/pika-labs/",
+        "to_url": "https://pika.art/",
+        "title": "Pika Labs - AI Tools and Plugins",
+        "anchor": "Confirm at https://pika.art/ →",
+        "domain_rating": 0
+      },
+      {
+        "from_url": "https://t-j.ru/short/ai-for-all/",
+        "to_url": "https://pika.art/login",
+        "title": "Бесплатные нейросети онлайн: 50 лучших ИИ-сервисов",
+        "anchor": "Попробовать",
+        "domain_rating": 77
+      },
+      {
+        "from_url": "https://www.thewindowsclub.com/best-free-ai-video-generators",
+        "to_url": "https://pika.art/",
+        "title": "Best Free AI Video Generators",
+        "anchor": "pika.art",
+        "domain_rating": 78
+      },
+      {
+        "from_url": "https://research.contrary.com/company/krea",
+        "to_url": "https://pika.art/home",
+        "title": "Report: Krea Business Breakdown & Founding Story | Contrary Research",
+        "anchor": "Pika Labs",
+        "domain_rating": 71
+      }
+    ]
+  }
+}

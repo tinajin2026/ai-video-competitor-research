@@ -1,0 +1,145 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "heygen.com",
+  "measurement": "第三方域名级估算",
+  "data": {
+    "domain": "heygen.com",
+    "overview": {
+      "global_rank": 3960,
+      "country_rank": {
+        "country": "IN",
+        "rank": 2187
+      },
+      "visits": 10038702,
+      "bounce_rate": 0.3833906481338325,
+      "pages_per_visit": 7.7763914224775,
+      "time_on_site_seconds": 415.5569121794298,
+      "month": "2026-08"
+    },
+    "monthly_visits": [
+      {
+        "month": "2025-09",
+        "visits": 7034332
+      },
+      {
+        "month": "2025-10",
+        "visits": 8640212
+      },
+      {
+        "month": "2025-11",
+        "visits": 9300652
+      },
+      {
+        "month": "2025-12",
+        "visits": 8693673
+      },
+      {
+        "month": "2026-01",
+        "visits": 10239103
+      },
+      {
+        "month": "2026-02",
+        "visits": 9125653
+      },
+      {
+        "month": "2026-03",
+        "visits": 10621345
+      },
+      {
+        "month": "2026-04",
+        "visits": 11246183
+      },
+      {
+        "month": "2026-05",
+        "visits": 10546982
+      },
+      {
+        "month": "2026-06",
+        "visits": 9612813
+      },
+      {
+        "month": "2026-07",
+        "visits": 10652352
+      },
+      {
+        "month": "2026-08",
+        "visits": 10038702
+      }
+    ],
+    "traffic_sources": {
+      "direct": 0.5156,
+      "search": 0.3465,
+      "search_organic": 0.2749,
+      "search_paid": 0.0716,
+      "social": 0.0449,
+      "social_organic": 0.0379,
+      "social_paid": 0.007,
+      "referrals": 0.0289,
+      "paid_referrals": 0.0152,
+      "mail": 0.0143,
+      "gen_ai": 0.0341,
+      "affiliate": 0.0005,
+      "other": 0
+    },
+    "top_keywords": [
+      {
+        "name": "heygen",
+        "volume": 1672920,
+        "cpc": 0.63,
+        "estimated_value": 1869390
+      },
+      {
+        "name": "heygen ai",
+        "volume": 79880,
+        "cpc": 0.39,
+        "estimated_value": 87760
+      },
+      {
+        "name": "hyperframes",
+        "volume": 140100,
+        "cpc": 1.18,
+        "estimated_value": 75830
+      },
+      {
+        "name": "hey gen",
+        "volume": 99620,
+        "cpc": 0.65,
+        "estimated_value": 67370
+      },
+      {
+        "name": "hygen",
+        "volume": 59730,
+        "cpc": 1.9,
+        "estimated_value": 60520
+      }
+    ],
+    "top_regions": [
+      {
+        "country": "US",
+        "name": "United States",
+        "share": 0.19
+      },
+      {
+        "country": "IN",
+        "name": "India",
+        "share": 0.0912
+      },
+      {
+        "country": "BR",
+        "name": "Brazil",
+        "share": 0.0816
+      },
+      {
+        "country": "IT",
+        "name": "Italy",
+        "share": 0.0317
+      },
+      {
+        "country": "MX",
+        "name": "Mexico",
+        "share": 0.0312
+      }
+    ]
+  }
+}

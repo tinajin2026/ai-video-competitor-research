@@ -1,0 +1,145 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "minimax.io",
+  "measurement": "第三方域名级估算",
+  "data": {
+    "domain": "minimax.io",
+    "overview": {
+      "global_rank": 9090,
+      "country_rank": {
+        "country": "IN",
+        "rank": 3752
+      },
+      "visits": 6602945,
+      "bounce_rate": 0.4313708108503147,
+      "pages_per_visit": 4.167800860736288,
+      "time_on_site_seconds": 287.99149493741623,
+      "month": "2026-08"
+    },
+    "monthly_visits": [
+      {
+        "month": "2025-09",
+        "visits": 2607841
+      },
+      {
+        "month": "2025-10",
+        "visits": 3730792
+      },
+      {
+        "month": "2025-11",
+        "visits": 6966202
+      },
+      {
+        "month": "2025-12",
+        "visits": 5477261
+      },
+      {
+        "month": "2026-01",
+        "visits": 5500997
+      },
+      {
+        "month": "2026-02",
+        "visits": 6175167
+      },
+      {
+        "month": "2026-03",
+        "visits": 6959555
+      },
+      {
+        "month": "2026-04",
+        "visits": 6499174
+      },
+      {
+        "month": "2026-05",
+        "visits": 5251392
+      },
+      {
+        "month": "2026-06",
+        "visits": 6294024
+      },
+      {
+        "month": "2026-07",
+        "visits": 6211302
+      },
+      {
+        "month": "2026-08",
+        "visits": 6602945
+      }
+    ],
+    "traffic_sources": {
+      "direct": 0.5172,
+      "search": 0.3273,
+      "search_organic": 0.3125,
+      "search_paid": 0.0148,
+      "social": 0.0558,
+      "social_organic": 0.0548,
+      "social_paid": 0.001,
+      "referrals": 0.0621,
+      "paid_referrals": 0.0018,
+      "mail": 0.0068,
+      "gen_ai": 0.0282,
+      "affiliate": 0.0007,
+      "other": 0
+    },
+    "top_keywords": [
+      {
+        "name": "minimax",
+        "volume": 678510,
+        "cpc": 0.67,
+        "estimated_value": 653300
+      },
+      {
+        "name": "minimax h3",
+        "volume": 926660,
+        "cpc": 0,
+        "estimated_value": 276130
+      },
+      {
+        "name": "minimax audio",
+        "volume": 62040,
+        "cpc": 0.23,
+        "estimated_value": 168300
+      },
+      {
+        "name": "minimax ai",
+        "volume": 65420,
+        "cpc": 0.42,
+        "estimated_value": 122760
+      },
+      {
+        "name": "minimax m3",
+        "volume": 69370,
+        "cpc": 0.94,
+        "estimated_value": 40690
+      }
+    ],
+    "top_regions": [
+      {
+        "country": "US",
+        "name": "United States",
+        "share": 0.1219
+      },
+      {
+        "country": "IN",
+        "name": "India",
+        "share": 0.074
+      },
+      {
+        "country": "BR",
+        "name": "Brazil",
+        "share": 0.0678
+      },
+      {
+        "country": "VN",
+        "name": "Vietnam",
+        "share": 0.0675
+      },
+      {
+        "country": "CN",
+        "name": "China",
+        "share": 0.0567
+      }
+    ]
+  }
+}

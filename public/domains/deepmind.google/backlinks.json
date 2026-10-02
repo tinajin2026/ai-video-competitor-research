@@ -1,0 +1,158 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "deepmind.google",
+  "measurement": "第三方外链样本",
+  "data": {
+    "domain": "deepmind.google",
+    "overview": {
+      "domain_rating": 90,
+      "backlinks": 12808919,
+      "referring_domains": 66974,
+      "dofollow_backlinks_pct": 13,
+      "dofollow_referring_domains_pct": 85
+    },
+    "backlinks": [
+      {
+        "from_url": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+        "to_url": "https://deepmind.google/discover/blog/muzero-mastering-go-chess-shogi-and-atari-without-rules",
+        "title": "Artificial intelligence",
+        "anchor": "\"MuZero: Mastering Go, chess, shogi and Atari without rules\"",
+        "domain_rating": 97
+      },
+      {
+        "from_url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/google-gemini-ai-update-december-2024/",
+        "to_url": "https://deepmind.google/research/breakthroughs/alphago/",
+        "title": "Google introduces Gemini 2.0: A new AI model for the agentic era",
+        "anchor": "history",
+        "domain_rating": 92
+      },
+      {
+        "from_url": "https://openai.com/index/learning-to-reason-with-llms/",
+        "to_url": "https://deepmind.google/models/gemini/pro/",
+        "title": "Learning to reason with LLMs | OpenAI",
+        "anchor": "https://deepmind.google/technologies/gemini/pro⁠(opens in a new window)",
+        "domain_rating": 93
+      },
+      {
+        "from_url": "https://ai.google/",
+        "to_url": "https://deepmind.google/models/gemini/",
+        "title": "Google AI - How we're making AI helpful for everyone",
+        "anchor": "GeminiBuild intelligent agents",
+        "domain_rating": 86
+      },
+      {
+        "from_url": "https://gemini.google/overview/image-generation/",
+        "to_url": "https://deepmind.google/technologies/synthid/",
+        "title": "Nano Banana 2 - Gemini AI image generator & photo editor",
+        "anchor": "SynthID",
+        "domain_rating": 82
+      },
+      {
+        "from_url": "https://aistudio.google.com/models/nano-banana",
+        "to_url": "https://deepmind.google/models/synthid/",
+        "title": "Nano Banana | Google AI Studio",
+        "anchor": "docs Docs",
+        "domain_rating": 100
+      },
+      {
+        "from_url": "https://ai.google.dev/",
+        "to_url": "https://deepmind.google/gemini",
+        "title": "Gemini Developer API | Gemma open models | Google AI for Developers",
+        "anchor": "About",
+        "domain_rating": 90
+      },
+      {
+        "from_url": "https://lablab.ai/tech/google/gemini-ai",
+        "to_url": "https://deepmind.google/technologies/gemini/",
+        "title": "Introducing Gemini: The Future of AI",
+        "anchor": "Official Gemini Overview — Google DeepMind",
+        "domain_rating": 71
+      },
+      {
+        "from_url": "https://yoodli.ai/blog/what-is-chat-gpt-and-how-can-you-use-it",
+        "to_url": "https://deepmind.google/blog/building-safer-dialogue-agents",
+        "title": "What Is ChatGPT (And How Can You Use It)?",
+        "anchor": "Sparrow",
+        "domain_rating": 68
+      },
+      {
+        "from_url": "https://github.com/ggml-org/llama.cpp",
+        "to_url": "https://deepmind.google/models/gemma",
+        "title": "GitHub - ggml-org/llama.cpp: LLM inference in C/C++ · GitHub",
+        "anchor": "Gemma",
+        "domain_rating": 97
+      },
+      {
+        "from_url": "https://www.ibm.com/think/topics/google-gemini",
+        "to_url": "https://deepmind.google/models/gemini/",
+        "title": "What is Google Gemini? | IBM",
+        "anchor": "Gemini Models",
+        "domain_rating": 93
+      },
+      {
+        "from_url": "https://about.google/",
+        "to_url": "https://deepmind.google/models/?utm_content",
+        "title": "About Google: Our products, technology and company information - About Google",
+        "anchor": "A graphic representing AI models sits against a black background.",
+        "domain_rating": 91
+      },
+      {
+        "from_url": "https://developer.android.com/ai/gemini/developer-api?hl=ar",
+        "to_url": "https://deepmind.google/models/gemini-image/flash/?hl=ar",
+        "title": "Gemini Developer API | AI | Android Developers",
+        "anchor": "Gemini 3.1 Flash Image",
+        "domain_rating": 92
+      },
+      {
+        "from_url": "https://geminiwatermark.io/",
+        "to_url": "https://deepmind.google/models/synthid/",
+        "title": "Gemini Watermark Remover: Free, Video & Image",
+        "anchor": "Google DeepMind, SynthID",
+        "domain_rating": 10
+      },
+      {
+        "from_url": "https://hacktoberfest.com/",
+        "to_url": "https://deepmind.google/models/gemma",
+        "title": "Hacktoberfest 2026 | AI belongs to everyone",
+        "anchor": "",
+        "domain_rating": 78
+      },
+      {
+        "from_url": "https://experience-ai.org/en/",
+        "to_url": "https://deepmind.google/",
+        "title": "Experience AI",
+        "anchor": "Google DeepMind",
+        "domain_rating": 68
+      },
+      {
+        "from_url": "https://tldr.tech/",
+        "to_url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence",
+        "title": "TLDR - A Byte Sized Daily Tech Newsletter",
+        "anchor": "Gemini 4 Argon: our next era of frontier intelligence",
+        "domain_rating": 71
+      },
+      {
+        "from_url": "https://research.google/teams/cloud-ai-research/",
+        "to_url": "https://deepmind.google/about/",
+        "title": "Cloud AI Research",
+        "anchor": "About",
+        "domain_rating": 89
+      },
+      {
+        "from_url": "https://www.meshy.ai/free-3d-models",
+        "to_url": "https://deepmind.google/",
+        "title": "Download 580,000+ Free 3D Models — FBX, OBJ, GLB, STL | Meshy",
+        "anchor": "Google",
+        "domain_rating": 76
+      },
+      {
+        "from_url": "https://alphafold.ebi.ac.uk/",
+        "to_url": "https://deepmind.google/blog/putting-the-power-of-alphafold-into-the-worlds-hands/",
+        "title": "AlphaFold Protein Structure Database",
+        "anchor": "AlphaFold",
+        "domain_rating": 85
+      }
+    ]
+  }
+}

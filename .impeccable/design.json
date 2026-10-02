@@ -1,0 +1,266 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-02T03:30:33.093416+00:00",
+  "title": "Design System: AI VIDEO / 竞品研究站",
+  "extensions": {
+    "colorMeta": {
+      "bg": {
+        "role": "primary",
+        "displayName": "Obsidian Canvas",
+        "tonalRamp": [
+          "oklch(15.00% 0.00000 89.88)",
+          "oklch(26.43% 0.00000 89.88)",
+          "oklch(37.86% 0.00000 89.88)",
+          "oklch(49.29% 0.00000 89.88)",
+          "oklch(60.71% 0.00000 89.88)",
+          "oklch(72.14% 0.00000 89.88)",
+          "oklch(83.57% 0.00000 89.88)",
+          "oklch(95.00% 0.00000 89.88)"
+        ]
+      },
+      "lift": {
+        "role": "neutral",
+        "displayName": "Carbon Lift",
+        "tonalRamp": [
+          "oklch(15.00% 0.00609 56.05)",
+          "oklch(26.43% 0.00609 56.05)",
+          "oklch(37.86% 0.00609 56.05)",
+          "oklch(49.29% 0.00609 56.05)",
+          "oklch(60.71% 0.00609 56.05)",
+          "oklch(72.14% 0.00609 56.05)",
+          "oklch(83.57% 0.00609 56.05)",
+          "oklch(95.00% 0.00609 56.05)"
+        ]
+      },
+      "stroke": {
+        "role": "neutral",
+        "displayName": "Ash Stroke",
+        "tonalRamp": [
+          "oklch(15.00% 0.00453 39.43)",
+          "oklch(26.43% 0.00453 39.43)",
+          "oklch(37.86% 0.00453 39.43)",
+          "oklch(49.29% 0.00453 39.43)",
+          "oklch(60.71% 0.00453 39.43)",
+          "oklch(72.14% 0.00453 39.43)",
+          "oklch(83.57% 0.00453 39.43)",
+          "oklch(95.00% 0.00453 39.43)"
+        ]
+      },
+      "graphite": {
+        "role": "neutral",
+        "displayName": "Graphite",
+        "tonalRamp": [
+          "oklch(15.00% 0.00632 48.57)",
+          "oklch(26.43% 0.00632 48.57)",
+          "oklch(37.86% 0.00632 48.57)",
+          "oklch(49.29% 0.00632 48.57)",
+          "oklch(60.71% 0.00632 48.57)",
+          "oklch(72.14% 0.00632 48.57)",
+          "oklch(83.57% 0.00632 48.57)",
+          "oklch(95.00% 0.00632 48.57)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Pale Stone",
+        "tonalRamp": [
+          "oklch(15.00% 0.00712 53.42)",
+          "oklch(26.43% 0.00712 53.42)",
+          "oklch(37.86% 0.00712 53.42)",
+          "oklch(49.29% 0.00712 53.42)",
+          "oklch(60.71% 0.00712 53.42)",
+          "oklch(72.14% 0.00712 53.42)",
+          "oklch(83.57% 0.00712 53.42)",
+          "oklch(95.00% 0.00712 53.42)"
+        ]
+      },
+      "faint": {
+        "role": "neutral",
+        "displayName": "Warm Granite",
+        "tonalRamp": [
+          "oklch(15.00% 0.00961 44.83)",
+          "oklch(26.43% 0.00961 44.83)",
+          "oklch(37.86% 0.00961 44.83)",
+          "oklch(49.29% 0.00961 44.83)",
+          "oklch(60.71% 0.00961 44.83)",
+          "oklch(72.14% 0.00961 44.83)",
+          "oklch(83.57% 0.00961 44.83)",
+          "oklch(95.00% 0.00961 44.83)"
+        ]
+      },
+      "text": {
+        "role": "primary",
+        "displayName": "Bone",
+        "tonalRamp": [
+          "oklch(15.00% 0.00000 89.88)",
+          "oklch(26.43% 0.00000 89.88)",
+          "oklch(37.86% 0.00000 89.88)",
+          "oklch(49.29% 0.00000 89.88)",
+          "oklch(60.71% 0.00000 89.88)",
+          "oklch(72.14% 0.00000 89.88)",
+          "oklch(83.57% 0.00000 89.88)",
+          "oklch(95.00% 0.00000 89.88)"
+        ]
+      },
+      "orange": {
+        "role": "secondary",
+        "displayName": "Signal Orange",
+        "tonalRamp": [
+          "oklch(15.00% 0.19040 42.13)",
+          "oklch(26.43% 0.19040 42.13)",
+          "oklch(37.86% 0.19040 42.13)",
+          "oklch(49.29% 0.19040 42.13)",
+          "oklch(60.71% 0.19040 42.13)",
+          "oklch(72.14% 0.19040 42.13)",
+          "oklch(83.57% 0.19040 42.13)",
+          "oklch(95.00% 0.19040 42.13)"
+        ]
+      },
+      "green": {
+        "role": "secondary",
+        "displayName": "Metric Green",
+        "tonalRamp": [
+          "oklch(15.00% 0.08906 138.00)",
+          "oklch(26.43% 0.08906 138.00)",
+          "oklch(37.86% 0.08906 138.00)",
+          "oklch(49.29% 0.08906 138.00)",
+          "oklch(60.71% 0.08906 138.00)",
+          "oklch(72.14% 0.08906 138.00)",
+          "oklch(83.57% 0.08906 138.00)",
+          "oklch(95.00% 0.08906 138.00)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "company-title": {
+        "displayName": "Company title",
+        "purpose": "独立研究页身份；手机 32px。"
+      },
+      "research-thesis": {
+        "displayName": "Research thesis",
+        "purpose": "公司研究判断；手机 22px。"
+      },
+      "research-section": {
+        "displayName": "Research section",
+        "purpose": "研究章节；手机 20px。"
+      },
+      "research-prose": {
+        "displayName": "Research prose",
+        "purpose": "长文阅读；实验内容手机 14px。"
+      }
+    },
+    "shadows": [],
+    "motion": [],
+    "breakpoints": [
+      {
+        "name": "compact-desktop",
+        "value": "1100px"
+      },
+      {
+        "name": "mobile",
+        "value": "760px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "中性操作",
+      "kind": "button",
+      "description": "公司链接复制与常规操作。",
+      "html": "<button class=\"ds-neutral\">复制本页链接</button>",
+      "css": ".ds-neutral{font-family:var(--sans,Geist,'PingFang SC',system-ui,sans-serif);font-size:14px;line-height:1.5;min-height:34px;border:1px solid var(--stroke,#3d3a39);border-radius:4px;color:var(--text,#eee);background:var(--bg,#101010);padding:6px 10px;cursor:pointer}.ds-neutral:hover{background:var(--lift,#1d1a18)}.ds-neutral:focus-visible{outline:2px solid var(--green,#a0ca92);outline-offset:3px}.ds-neutral:disabled{opacity:.5;cursor:default}",
+      "refersTo": "button-neutral"
+    },
+    {
+      "name": "导出操作",
+      "kind": "button",
+      "description": "工作台高对比导出入口。",
+      "html": "<button class=\"ds-export\">导出 CSV</button>",
+      "css": ".ds-export{font-family:var(--sans,Geist,'PingFang SC',system-ui,sans-serif);font-size:12px;line-height:1.5;min-height:34px;border:1px solid var(--text,#eee);border-radius:4px;color:var(--bg,#101010);background:var(--text,#eee);padding:6px 10px;cursor:pointer}.ds-export:hover{background:#ccc}.ds-export:focus-visible{outline:2px solid var(--orange,#ee6018);outline-offset:3px}",
+      "refersTo": "button-export"
+    },
+    {
+      "name": "目录搜索",
+      "kind": "input",
+      "description": "可收缩输入框与不拆字的可见标签。",
+      "html": "<label class=\"ds-search-label\">搜索<input class=\"ds-search\" type=\"search\" placeholder=\"竞品、域名或研究主题\"></label>",
+      "css": ".ds-search-label{font-family:var(--sans,Geist,'PingFang SC',system-ui,sans-serif);display:flex;align-items:center;gap:8px;white-space:nowrap;color:var(--text,#eee);font-size:12px}.ds-search{font-family:var(--sans,Geist,'PingFang SC',system-ui,sans-serif);flex:1;min-width:0;min-height:36px;border:1px solid var(--stroke,#3d3a39);border-radius:4px;color:var(--text,#eee);background:var(--bg,#101010);padding:6px 10px;font-size:14px}.ds-search::placeholder{color:var(--muted,#b8b3b0)}.ds-search:focus-visible{outline:2px solid var(--green,#a0ca92);outline-offset:3px}",
+      "refersTo": "search"
+    },
+    {
+      "name": "研究站导航",
+      "kind": "nav",
+      "description": "独立页面导航与当前页细线。",
+      "html": "<nav class=\"ds-nav\" aria-label=\"主要导航\"><a href=\"#overview\">行业总览</a><a href=\"#research\" aria-current=\"page\">竞品研究</a><a href=\"#signals\">X 动态</a><a href=\"#method\">数据与方法</a></nav>",
+      "css": ".ds-nav{font-family:var(--sans,Geist,'PingFang SC',system-ui,sans-serif);display:flex;gap:26px;align-items:center;overflow:auto;background:var(--bg,#101010)}.ds-nav a{color:var(--muted,#b8b3b0);font-size:14px;padding:22px 0;text-decoration:none;white-space:nowrap}.ds-nav a[aria-current=page]{color:var(--text,#eee);border-bottom:1px solid var(--text,#eee)}.ds-nav a:focus-visible{outline:2px solid var(--green,#a0ca92);outline-offset:3px}@media(max-width:760px){.ds-nav{gap:22px}.ds-nav a{padding:8px 0 15px}}"
+    },
+    {
+      "name": "范围标签",
+      "kind": "chip",
+      "description": "非交互标签明确统计口径。",
+      "html": "<span class=\"ds-scope\">独立主域</span>",
+      "css": ".ds-scope{font-family:var(--sans,Geist,'PingFang SC',system-ui,sans-serif);display:inline-block;font-size:10px;line-height:1.5;padding:2px 5px;background:var(--lift,#1d1a18);color:var(--muted,#b8b3b0);white-space:nowrap}",
+      "refersTo": "scope-tag"
+    },
+    {
+      "name": "趋势面板",
+      "kind": "card",
+      "description": "细边框面板承载图表与局部控制。",
+      "html": "<section class=\"ds-surface\"><div class=\"ds-surface-title\"><h2>访问轨迹</h2><select aria-label=\"趋势时间范围\"><option>近 12 个月</option><option>近 6 个月</option></select></div><p>2026-08 · 精确读数随图表选择更新</p></section>",
+      "css": ".ds-surface{font-family:var(--sans,Geist,'PingFang SC',system-ui,sans-serif);background:var(--bg,#101010);color:var(--text,#eee);border:1px solid var(--stroke,#3d3a39);border-radius:6px;padding:20px;min-width:0}.ds-surface-title{display:flex;align-items:center;justify-content:space-between;gap:16px;margin-bottom:14px}.ds-surface h2{font-size:17px;font-weight:500;line-height:1.4;margin:0}.ds-surface p{font-family:var(--mono,\"Geist Mono\",ui-monospace,monospace);font-size:11px;color:var(--muted,#b8b3b0);margin:12px 0 0}.ds-surface select{font-family:var(--sans,Geist,'PingFang SC',system-ui,sans-serif);font-size:12px;min-height:34px;border:1px solid var(--stroke,#3d3a39);border-radius:4px;color:var(--text,#eee);background:var(--bg,#101010);padding:6px 10px}.ds-surface select:focus-visible{outline:2px solid var(--green,#a0ca92);outline-offset:3px}@media(max-width:760px){.ds-surface{padding:16px}.ds-surface h2{font-size:16px}}",
+      "refersTo": "surface"
+    },
+    {
+      "name": "动作记录",
+      "kind": "custom",
+      "description": "日期、动作、正文与依据形成可追溯阅读单元。",
+      "html": "<article class=\"ds-record\"><span class=\"ds-date\">2026-10-02 观察 · 发生日期未标注</span><h3>官网动作与产品信息</h3><p>观察事实与实验建议分别呈现，来源就在记录旁。</p><a href=\"#source\">官方来源</a></article>",
+      "css": ".ds-record{font-family:var(--sans,Geist,'PingFang SC',system-ui,sans-serif);background:var(--bg,#101010);color:var(--text,#eee);padding:25px 0;border-bottom:1px solid var(--stroke,#3d3a39)}.ds-date{font:12px \"Geist Mono\",monospace;color:var(--muted,#b8b3b0)}.ds-record h3{font-size:17px;line-height:1.55;font-weight:400;margin:14px 0 9px}.ds-record p{max-width:85ch;line-height:1.8;font-size:14px;margin:8px 0;overflow-wrap:anywhere}.ds-record a{color:inherit;font-size:12px;text-decoration:underline;text-underline-offset:3px}.ds-record a:focus-visible{outline:2px solid var(--green,#a0ca92);outline-offset:3px}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Factory 市场分析工作台",
+    "overview": "黑色画布、骨白文字与暖灰细线组织可操作的数据和可连续阅读的研究。Geist 承担正文与标题，Geist Mono 承担数字、日期和图表读数；橙绿用于变化、选择与状态。图表、表格、来源和文字分析构成页面的主要视觉材料。\n\n本记录延续已确认的 Factory 世界，描述 `src/dashboard.css` 与 `src/research.css` 的实际实现。工作台采用紧凑层级，独立研究页增加标题、段落行距与章节间距，以容纳较长的中文分析。两种密度共用颜色、字体、边框、控件与数字语言；研究页的阅读字号是现有身份的扩展。",
+    "keyCharacteristics": [
+      "黑色画布、暖灰细线与中性操作控件。",
+      "Geist 正文与 Geist Mono 数据，依靠字号与对齐组织层级。",
+      "工作台密集比较，独立研究页顺序阅读并保留操作入口。",
+      "桌面并列呈现，手机顺序阅读，宽表格在局部容器滚动。"
+    ],
+    "rules": [
+      {
+        "name": "The Data Color Rule",
+        "body": "操作底色保持中性；橙绿服务于变化、选择、警示和焦点，不承担大面积装饰。",
+        "section": "colors"
+      },
+      {
+        "name": "The Evidence Rule",
+        "body": "颜色与数值、文字或图例共同表达信息；未知值不可借颜色伪装成确定结果。",
+        "section": "colors"
+      },
+      {
+        "name": "The Quiet Hierarchy Rule",
+        "body": "通过字号、对比和对齐区分层级；研究标题可以放大，数字不承担装饰性英雄标题。",
+        "section": "typography"
+      },
+      {
+        "name": "The Flat Surface Rule",
+        "body": "数据容器默认与画布同色，用细边框和间距分组。",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "Do 使用黑色画布、暖灰分隔和骨白文字保持 Factory 的分析质感。",
+      "Do 让数值、统计月份、范围与来源互相可追溯。",
+      "Do 为连续研究正文保留较大的字号与足够行距。",
+      "Do 保留键盘焦点、精确值入口、筛选结果和操作反馈。",
+      "Do 在手机顺序排列长文与动作，宽表格保持局部滚动。"
+    ],
+    "donts": [
+      "Don't 将未知值呈现为零，或将估算写成后台实测。",
+      "Don't 用大面积强调色、投影或辉光替代数据层级。",
+      "Don't 将工作台的小型元信息字号推广成长正文默认字号。",
+      "Don't 把数据采集日期当作统计月份，或把空动态区表现成实时接入。"
+    ]
+  }
+}

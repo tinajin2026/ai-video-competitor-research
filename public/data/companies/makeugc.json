@@ -1,0 +1,415 @@
+{
+  "schema_version": 1,
+  "product": {
+    "id": "makeugc",
+    "name": "MakeUGC",
+    "x_handle": "makeugc",
+    "homepage": "https://www.makeugc.ai/",
+    "ads_priority": false,
+    "traffic_domain": "makeugc.ai",
+    "additional_domains": [],
+    "scope_note": "域名级流量估算，非付费用户、收入或模型调用量。",
+    "shared_scope": false,
+    "domain_data": {
+      "domain": "makeugc.ai",
+      "traffic": {
+        "domain": "makeugc.ai",
+        "overview": {
+          "global_rank": 293313,
+          "country_rank": {
+            "country": "US",
+            "rank": 263974
+          },
+          "visits": 138129,
+          "bounce_rate": 0.42124283215027997,
+          "pages_per_visit": 2.359533958856944,
+          "time_on_site_seconds": 53.14876375631391,
+          "month": "2026-08"
+        },
+        "monthly_visits": [
+          {
+            "month": "2025-09",
+            "visits": 207631
+          },
+          {
+            "month": "2025-10",
+            "visits": 227132
+          },
+          {
+            "month": "2025-11",
+            "visits": 214474
+          },
+          {
+            "month": "2025-12",
+            "visits": 208498
+          },
+          {
+            "month": "2026-01",
+            "visits": 282780
+          },
+          {
+            "month": "2026-02",
+            "visits": 256440
+          },
+          {
+            "month": "2026-03",
+            "visits": 299812
+          },
+          {
+            "month": "2026-04",
+            "visits": 333521
+          },
+          {
+            "month": "2026-05",
+            "visits": 408230
+          },
+          {
+            "month": "2026-06",
+            "visits": 263815
+          },
+          {
+            "month": "2026-07",
+            "visits": 201823
+          },
+          {
+            "month": "2026-08",
+            "visits": 138129
+          }
+        ],
+        "traffic_sources": {
+          "direct": 0.3261,
+          "search": 0.3377,
+          "search_organic": 0.14,
+          "search_paid": 0.1977,
+          "social": 0.1728,
+          "social_organic": 0.0655,
+          "social_paid": 0.1073,
+          "referrals": 0.0236,
+          "paid_referrals": 0.1227,
+          "mail": 0.0045,
+          "gen_ai": 0.0127,
+          "affiliate": 0,
+          "other": 0
+        },
+        "top_keywords": [
+          {
+            "name": "makeugc",
+            "volume": 27620,
+            "cpc": 5.3,
+            "estimated_value": 20780
+          },
+          {
+            "name": "arcads",
+            "volume": 150960,
+            "cpc": 2.56,
+            "estimated_value": 6430
+          },
+          {
+            "name": "make ugc",
+            "volume": 5640,
+            "cpc": 5.42,
+            "estimated_value": 4380
+          },
+          {
+            "name": "makeugc ai",
+            "volume": 2030,
+            "cpc": 9.51,
+            "estimated_value": 1600
+          },
+          {
+            "name": "ai ugc",
+            "volume": 13510,
+            "cpc": 8.05,
+            "estimated_value": 1400
+          }
+        ],
+        "top_regions": [
+          {
+            "country": "US",
+            "name": "United States",
+            "share": 0.108
+          },
+          {
+            "country": "DE",
+            "name": "Germany",
+            "share": 0.1053
+          },
+          {
+            "country": "BR",
+            "name": "Brazil",
+            "share": 0.097
+          },
+          {
+            "country": "GB",
+            "name": "United Kingdom",
+            "share": 0.0859
+          },
+          {
+            "country": "VN",
+            "name": "Vietnam",
+            "share": 0.0551
+          }
+        ]
+      },
+      "traffic_evidence": "domains/makeugc.ai/traffic.json",
+      "traffic_status": "ok",
+      "registration_date": "2024-03-20T13:09:04.000Z",
+      "backlinks": {
+        "domain": "makeugc.ai",
+        "overview": {
+          "domain_rating": 59,
+          "backlinks": 26417,
+          "referring_domains": 2511,
+          "dofollow_backlinks_pct": 44,
+          "dofollow_referring_domains_pct": 61
+        },
+        "backlinks": [
+          {
+            "from_url": "https://allturfmats.com/",
+            "to_url": "https://makeugc.ai/",
+            "title": "Golf Practice Mats, Baseball Hitting Mats & Softball Mats – All Turf Mats",
+            "anchor": "Powered by MakeUGC",
+            "domain_rating": 6
+          },
+          {
+            "from_url": "https://billo.app/blog/ugc-video-examples/",
+            "to_url": "https://makeugc.ai/features/top-5-ai-ugc-trends-for-2026",
+            "title": "15 UGC Video Examples That Ooze Authenticity - Billo",
+            "anchor": "A single studio shoot can cost around $3,000, while AI tools can deliver 75 videos for the same spend.",
+            "domain_rating": 75
+          },
+          {
+            "from_url": "https://medium.com/@jpelton722/stop-dropshipping-like-its-2020-here-is-the-2026-ai-blueprint-8-minute-setup-f52140fce810",
+            "to_url": "https://www.makeugc.ai/",
+            "title": "STOP Dropshipping Like It’s 2020. Here Is The 2026 AI Blueprint (8-Minute Setup) | by James Pelton | Medium",
+            "anchor": "https://makeugc.ai/",
+            "domain_rating": 94
+          },
+          {
+            "from_url": "https://www.youtube.com/watch?v=MlXQNGt_Tvk",
+            "to_url": "https://www.makeugc.ai/?ref=vilius",
+            "title": "Holo AI Review 2026: Is It Worth It? - YouTube",
+            "anchor": "https://marketingideas.io/makeugc",
+            "domain_rating": 99
+          },
+          {
+            "from_url": "https://www.vidguy.ai/articles/arcads-alternatives",
+            "to_url": "https://makeugc.ai/",
+            "title": "Best Arcads Alternatives for AI UGC (2026) | VidGuy",
+            "anchor": "makeugc.ai",
+            "domain_rating": 7
+          },
+          {
+            "from_url": "https://zeely.ai/blog/makeugc-ai-features/",
+            "to_url": "https://makeugc.ai/",
+            "title": "MakeUGC AI review",
+            "anchor": "MakeUGC",
+            "domain_rating": 57
+          },
+          {
+            "from_url": "https://novoads.ai/en/blog/best-ugc-creator-tools",
+            "to_url": "https://makeugc.ai/pricing",
+            "title": "Best UGC Tools in 2026: The Six Jobs and What Each One Costs | Novoads AI",
+            "anchor": "MakeUGC pricing",
+            "domain_rating": 15
+          },
+          {
+            "from_url": "https://inbeat.agency/blog/ai-ugc-ads",
+            "to_url": "https://www.makeugc.ai/",
+            "title": "AI UGC Ads: The Future of Content Creation in Advertising - inBeat Agency",
+            "anchor": "MakeUGC",
+            "domain_rating": 75
+          },
+          {
+            "from_url": "https://gptonline.ai/es/pollo-ai/",
+            "to_url": "https://makeugc.ai/",
+            "title": "Pollo AI:Tu herramienta definitiva para crear imágenes y vídeos con IA",
+            "anchor": "Vaya al Make UGC AI",
+            "domain_rating": 70
+          },
+          {
+            "from_url": "https://brformations.com/les-meilleurs-outils-pour-lancer-un-business-en-ligne-guide-complet/",
+            "to_url": "https://www.makeugc.ai/?ref=guyr1",
+            "title": "Les meilleurs outils pour lancer un business en ligne (guide complet) | Br formations",
+            "anchor": "Make UGC",
+            "domain_rating": 0
+          },
+          {
+            "from_url": "https://topai.tools/deals",
+            "to_url": "https://www.makeugc.ai/?via=topaitools",
+            "title": "Top AI tools deals - 2026",
+            "anchor": "Get Deal",
+            "domain_rating": 64
+          },
+          {
+            "from_url": "https://sociablelabs.com/stores/M",
+            "to_url": "https://app.makeugc.ai/auth/login",
+            "title": "SociableLabs | M Store Coupons, Promo Codes & Deals Directory",
+            "anchor": "makeugc.ai",
+            "domain_rating": 26
+          },
+          {
+            "from_url": "https://www.d2c.fyi/d2c-apps",
+            "to_url": "https://www.makeugc.ai/?via=mtsrd",
+            "title": "Software, Tools, and Apps to grow your D2C Brands | d2c.fyi",
+            "anchor": "",
+            "domain_rating": 53
+          },
+          {
+            "from_url": "https://www.toolify.ai/fr/tool/ugc-maker",
+            "to_url": "https://www.makeugc.ai/?red=toolifc2273c",
+            "title": "UGC Maker: UGC Maker : Générez des Vidéos Publicitaires UGC Authentiques en Quelques Minutes, Échelonnées par l'IA",
+            "anchor": "Ouvrir le site",
+            "domain_rating": 73
+          },
+          {
+            "from_url": "https://aimojo.io/tools/makeugc-ai/",
+            "to_url": "https://www.makeugc.ai/",
+            "title": "MakeUGC.ai Review, Pricing, Features and Alternatives",
+            "anchor": "Up to 30% OFF",
+            "domain_rating": 45
+          },
+          {
+            "from_url": "https://aicavo.com/tools/make-ugc-ai",
+            "to_url": "https://www.makeugc.ai/?via=aicavo",
+            "title": "Make UGC : Reviews, Price, Info & Alternatives Tools | AICavo",
+            "anchor": "Try Now",
+            "domain_rating": 31
+          },
+          {
+            "from_url": "https://guestinvest.com/best-propfirm-discount-codes/",
+            "to_url": "https://www.makeugc.ai/?ref=patrick",
+            "title": "Discount Codes – Find The Best Forex Prop Firm For You In Minutes Best Prop Firm Discounts 2025",
+            "anchor": "Get Codes",
+            "domain_rating": 37
+          },
+          {
+            "from_url": "https://aitools.aiting.com/ai/videotok",
+            "to_url": "https://www.makeugc.ai/",
+            "title": "Videotok AI: Automated video creation in one minute | AiTing AI",
+            "anchor": "",
+            "domain_rating": 38
+          },
+          {
+            "from_url": "https://pravda.org.pl/lekarze-ktorzy-nie-istnieja-siec-falszywych-ekspertow-sprzedaje-suplementy-na-calym-swiecie/",
+            "to_url": "https://www.makeugc.ai/?ref=pravda.org.pl",
+            "title": "Lekarze, którzy nie istnieją. Sieć fałszywych „ekspertów” sprzedaje suplementy na całym świecie",
+            "anchor": "narzędzia",
+            "domain_rating": 47
+          },
+          {
+            "from_url": "https://aigraviton.com/tools",
+            "to_url": "https://www.makeugc.ai/?via=aigraviton",
+            "title": "AI Tools Directory - Browse All AI Tools",
+            "anchor": "Visit Website",
+            "domain_rating": 1
+          }
+        ]
+      },
+      "backlinks_evidence": "domains/makeugc.ai/backlinks.json"
+    },
+    "pages": [
+      {
+        "kind": "home",
+        "label": "首页",
+        "path": "products/makeugc/pages/home.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://www.makeugc.ai/",
+          "resolved_url": "https://makeugc.ai/",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Create AI UGC Video Ads in Minutes | MakeUGC"
+        },
+        "content": "首页通过 Video Agent 与 Content Library 承接参考视频重建、编辑和复用。"
+      },
+      {
+        "kind": "pricing",
+        "label": "定价资料",
+        "path": "products/makeugc/pages/pricing.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://makeugc.ai/pricing",
+          "resolved_url": "https://makeugc.ai/pricing",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Pricing Plans | MakeUGC"
+        },
+        "content": "Pro 试用与正式续费价格分别展示；价格比较必须带上条件。\nPro 的 $1 是试用入口，页面明确续费为 $149；FAQ 说明不限量在试用结束后开始。"
+      }
+    ],
+    "searches": [],
+    "issues": [],
+    "screenshot": null,
+    "product_entry_links": [
+      "https://app.makeugc.ai/auth/signup",
+      "https://app.makeugc.ai/auth/login",
+      "https://app.makeugc.ai/auth/login?callbackUrl=https://app.makeugc.ai/subscription/first-time/trial72h-pro-149-m",
+      "https://app.makeugc.ai/auth/login?callbackUrl=https://app.makeugc.ai/subscription/first-time/trial72h-startup-59-m",
+      "https://app.makeugc.ai/auth/login?callbackUrl=https://app.makeugc.ai/subscription/first-time/trial72h-growth-79-m"
+    ]
+  },
+  "metrics": {
+    "visits": 138129,
+    "mom": -0.3155933664646745,
+    "change3": -0.6616392719790314,
+    "rolling3": -0.4203259908426087,
+    "recent_average": 201255.66666666666,
+    "prior_average": 347187.6666666667,
+    "up_streak": 0,
+    "derived_channels": {
+      "search_paid_visits": 27308.1033,
+      "social_paid_visits": 14821.2417,
+      "search_organic_visits": 19338.06,
+      "social_organic_visits": 9047.4495,
+      "direct_visits": 45043.8669
+    },
+    "scope": "site",
+    "profile": "以 AI UGC、产品手持、演员与编辑为主；套餐页存在试用价和正式续费价。",
+    "profile_source": "products/makeugc/pages/home.json"
+  },
+  "editorial": {
+    "thesis": "低价试用与正式续费的落差，是商业化分析中必须单独观察的环节。",
+    "focus": "$1 为试用，Pro 续费 $149；不能将试用价放进长期价格排名。Video Agent 与内容库指向参考复刻及内容复用任务。",
+    "experiment": "为参考视频复刻提供明确试用额度，展示实际续费条件并记录任务是否完成。",
+    "measure": "试用到合格片率、试用转正式付费率、退款率与素材复用率。",
+    "watch": "试用和续费条款、内容库、参考复刻功能与连续流量变化。"
+  },
+  "activities": [
+    {
+      "product_id": "makeugc",
+      "type": "promotion",
+      "title": "$1 试用与正式续费分开",
+      "detail": "Pro 试用与正式续费价格分别展示；价格比较必须带上条件。",
+      "anchors": [
+        "$1",
+        "$149"
+      ],
+      "source": "products/makeugc/pages/pricing.json",
+      "event_date": null,
+      "id": "activity-36",
+      "source_url": "https://makeugc.ai/pricing",
+      "observed_at": "2026-10-02"
+    },
+    {
+      "product_id": "makeugc",
+      "type": "workflow",
+      "title": "参考视频复刻与内容库",
+      "detail": "首页通过 Video Agent 与 Content Library 承接参考视频重建、编辑和复用。",
+      "anchors": [
+        "Meet Video Agent",
+        "Meet Content Library"
+      ],
+      "source": "products/makeugc/pages/home.json",
+      "event_date": null,
+      "id": "activity-37",
+      "source_url": "https://makeugc.ai/",
+      "observed_at": "2026-10-02"
+    }
+  ],
+  "x_posts": []
+}

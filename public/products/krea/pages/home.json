@@ -1,0 +1,8 @@
+{
+  "product_id": "krea",
+  "observed_at": "2026-10-02",
+  "source_url": "https://www.krea.ai/",
+  "status": "ok",
+  "research_note": "首页提供可直接运行的 Agent 模板以及图像、视频模型入口。\n首页引导将 Krea 连接到外部 Agent。",
+  "notice": "公开研究摘记；原始抓取保留在本地。"
+}

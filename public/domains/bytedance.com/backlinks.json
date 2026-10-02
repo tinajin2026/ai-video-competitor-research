@@ -1,0 +1,158 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "bytedance.com",
+  "measurement": "第三方外链样本",
+  "data": {
+    "domain": "bytedance.com",
+    "overview": {
+      "domain_rating": 84,
+      "backlinks": 7564639,
+      "referring_domains": 23067,
+      "dofollow_backlinks_pct": 13,
+      "dofollow_referring_domains_pct": 79
+    },
+    "backlinks": [
+      {
+        "from_url": "https://capcut.en.softonic.com/",
+        "to_url": "https://www.bytedance.com/en",
+        "title": "CapCut - Download",
+        "anchor": "Bytedance Pte. Ltd.",
+        "domain_rating": 86
+      },
+      {
+        "from_url": "https://ar.wikipedia.org/wiki/%D8%AA%D9%8A%D9%83_%D8%AA%D9%88%D9%83",
+        "to_url": "https://www.bytedance.com/en/",
+        "title": "تيك توك",
+        "anchor": "",
+        "domain_rating": 97
+      },
+      {
+        "from_url": "https://www.uoc.edu/es/news/2019/009-tiktok",
+        "to_url": "https://www.bytedance.com/articles/3/",
+        "title": "Tik Tok, la primera red social china que triunfa en Occidente | UOC",
+        "anchor": "Music.ly, la famosa aplicación musical de adolescentes por un precio de 800 millones de dólares",
+        "domain_rating": 80
+      },
+      {
+        "from_url": "https://zapier.com/blog/best-ai-image-generator/",
+        "to_url": "https://seed.bytedance.com/en/seedream5_0_lite",
+        "title": "The 8 best AI image generators in 2026 | Zapier",
+        "anchor": "ByteDance SeedDream 5.0",
+        "domain_rating": 91
+      },
+      {
+        "from_url": "https://ads.tiktok.com/business/en/goals/increase-views",
+        "to_url": "https://www.bytedance.com/en/",
+        "title": "How to Get More Views with TikTok Ads | TikTok For Business",
+        "anchor": "ByteDance.com",
+        "domain_rating": 97
+      },
+      {
+        "from_url": "https://ia.acs.org.au/article/2026/canva-cracks-down-on-ai-credit-fraud.html",
+        "to_url": "https://seed.bytedance.com/en/seedance2_0",
+        "title": "Canva cracks down on AI credit fraud | Information Age | ACS",
+        "anchor": "SeeDance",
+        "domain_rating": 77
+      },
+      {
+        "from_url": "https://www.feishu.cn/content/how-feishu-helps-online-forms",
+        "to_url": "https://ngcc.bytedance.com/im-linkchat/midway?env=online&apiType=onlineApi&bid=7010577&bname=%E9%A3%9E%E4%B9%A6%E5%94%AE%E5%90%8E&secret-str=%40f2jxbnNhbz%2F1daViPPv1X6BAbNbnvnWlQFxhFVIH50BZw2k%2FmMFqUSVs0k2ryVft&timestamp=1790353058075&referenceUserId=%40f2jxbnNhbz%2F1daViPPv1X6BAbNbnvnWlQFxhFVIH50BZw2k%2FmMFqUSVs0k2ryVft&referenceUserType=1&channel=1&channelId=60&ivub=1&lang=zh&hideHeader=1&linkchatPreload=1&contentWidth=380px&contentHeight=calc(100vh%20-%2060px)&isDarkMode=",
+        "title": "探秘在线表单：飞书多维表格、文档、问卷功能及案例解析 - 飞书官网",
+        "anchor": "",
+        "domain_rating": 90
+      },
+      {
+        "from_url": "https://capcutproapkap.com/",
+        "to_url": "https://www.bytedance.com/en/",
+        "title": "CapCut APK Download For Android Latest 2026 [Full Pro]",
+        "anchor": "ByteDance",
+        "domain_rating": 25
+      },
+      {
+        "from_url": "https://www.larksuite.com/en_sg/",
+        "to_url": "https://jobs.bytedance.com/en/position?keywords=lark",
+        "title": "Lark | Productivity Superapp for Chat, Meetings, Docs & Projects",
+        "anchor": "Careers",
+        "domain_rating": 83
+      },
+      {
+        "from_url": "https://www.volcengine.com/",
+        "to_url": "https://speakup.bytedance.com/",
+        "title": "火山引擎-你的AI云",
+        "anchor": "廉洁舞弊举报",
+        "domain_rating": 84
+      },
+      {
+        "from_url": "https://docs.byteplus.com/en/docs/effects/docs-product-overview",
+        "to_url": "https://seed.bytedance.com/en/",
+        "title": "Product Overview--BytePlus Effects-Byteplus",
+        "anchor": "ByteDance SeedFrontier model research and foundational AI work",
+        "domain_rating": 76
+      },
+      {
+        "from_url": "https://github.com/verl-project/verl",
+        "to_url": "https://seed.bytedance.com/en/",
+        "title": "GitHub - verl-project/verl: verl/HybridFlow: A Flexible and Efficient RL Post-Training Framework · GitHub",
+        "anchor": "ByteDance Seed Team",
+        "domain_rating": 97
+      },
+      {
+        "from_url": "https://www.scrapingdog.com/",
+        "to_url": "https://www.bytedance.com/",
+        "title": "Scalable Web Scraping API for Data Extraction | Scrapingdog",
+        "anchor": "ByteDance",
+        "domain_rating": 60
+      },
+      {
+        "from_url": "https://brandemia.org/logo-tik-tok",
+        "to_url": "https://www.bytedance.com/",
+        "title": "La historia del logo de TikTok, su origen y evolución",
+        "anchor": "ByteDance",
+        "domain_rating": 59
+      },
+      {
+        "from_url": "https://openlm.ai/chatbot-arena/",
+        "to_url": "https://seed.bytedance.com/en/seed2",
+        "title": "Chatbot Arena + | OpenLM.ai",
+        "anchor": "Seed2.0 Pro",
+        "domain_rating": 45
+      },
+      {
+        "from_url": "https://joinbytedance.com/",
+        "to_url": "https://www.bytedance.com/en",
+        "title": "ByteDance Careers",
+        "anchor": "Learn more about ByteDance",
+        "domain_rating": 56
+      },
+      {
+        "from_url": "https://initial.inc/companies/A-27182",
+        "to_url": "https://www.bytedance.com/ja",
+        "title": "Bytedance株式会社｜スピーダ スタートアップ情報リサーチ",
+        "anchor": "https://www.bytedance.com/ja",
+        "domain_rating": 56
+      },
+      {
+        "from_url": "https://influencermarketinghub.com/what-is-tiktok/",
+        "to_url": "https://www.bytedance.com/en/",
+        "title": "What Is TikTok? A Complete Guide for Users, Creators, and Brands",
+        "anchor": "ByteDance",
+        "domain_rating": 88
+      },
+      {
+        "from_url": "https://www.baixaki.com.br/apps/video/capcut/ios",
+        "to_url": "https://www.bytedance.com/en/",
+        "title": "Download CapCut | Baixaki",
+        "anchor": "Acessar site",
+        "domain_rating": 71
+      },
+      {
+        "from_url": "https://notice.co/c/bytedance",
+        "to_url": "https://bytedance.com/",
+        "title": "Bytedance (TikTok) Stock $307.93 | How to Buy, Valuation, Stock Price, IPO, Revenue | Notice.co",
+        "anchor": "bytedance.com",
+        "domain_rating": 34
+      }
+    ]
+  }
+}

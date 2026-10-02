@@ -1,0 +1,487 @@
+{
+  "schema_version": 1,
+  "product": {
+    "id": "topview",
+    "name": "Topview",
+    "x_handle": "TopviewAIhq",
+    "homepage": "https://www.topview.ai/",
+    "ads_priority": true,
+    "traffic_domain": "topview.ai",
+    "additional_domains": [],
+    "scope_note": "域名级流量估算，非付费用户、收入或模型调用量。",
+    "shared_scope": false,
+    "domain_data": {
+      "domain": "topview.ai",
+      "traffic": {
+        "domain": "topview.ai",
+        "overview": {
+          "global_rank": 28077,
+          "country_rank": {
+            "country": "US",
+            "rank": 29979
+          },
+          "visits": 1573519,
+          "bounce_rate": 0.3348886242137392,
+          "pages_per_visit": 6.390256502632467,
+          "time_on_site_seconds": 411.0840782357143,
+          "month": "2026-08"
+        },
+        "monthly_visits": [
+          {
+            "month": "2025-09",
+            "visits": 904335
+          },
+          {
+            "month": "2025-10",
+            "visits": 857038
+          },
+          {
+            "month": "2025-11",
+            "visits": 892627
+          },
+          {
+            "month": "2025-12",
+            "visits": 833922
+          },
+          {
+            "month": "2026-01",
+            "visits": 636130
+          },
+          {
+            "month": "2026-02",
+            "visits": 623615
+          },
+          {
+            "month": "2026-03",
+            "visits": 810655
+          },
+          {
+            "month": "2026-04",
+            "visits": 981501
+          },
+          {
+            "month": "2026-05",
+            "visits": 1065867
+          },
+          {
+            "month": "2026-06",
+            "visits": 1131557
+          },
+          {
+            "month": "2026-07",
+            "visits": 1242411
+          },
+          {
+            "month": "2026-08",
+            "visits": 1573519
+          }
+        ],
+        "traffic_sources": {
+          "direct": 0.4747,
+          "search": 0.2472,
+          "search_organic": 0.1336,
+          "search_paid": 0.1135,
+          "social": 0.1817,
+          "social_organic": 0.1191,
+          "social_paid": 0.0626,
+          "referrals": 0.03,
+          "paid_referrals": 0.0356,
+          "mail": 0.0103,
+          "gen_ai": 0.02,
+          "affiliate": 0.0006,
+          "other": 0
+        },
+        "top_keywords": [
+          {
+            "name": "topview ai",
+            "volume": 81290,
+            "cpc": 1.58,
+            "estimated_value": 99000
+          },
+          {
+            "name": "topview",
+            "volume": 64500,
+            "cpc": 1.23,
+            "estimated_value": 61590
+          },
+          {
+            "name": "seedance 2.5",
+            "volume": 833370,
+            "cpc": 2.91,
+            "estimated_value": 21340
+          },
+          {
+            "name": "top view",
+            "volume": 11460,
+            "cpc": 1.05,
+            "estimated_value": 9340
+          },
+          {
+            "name": "minimax h3",
+            "volume": 926660,
+            "cpc": 0,
+            "estimated_value": 4700
+          }
+        ],
+        "top_regions": [
+          {
+            "country": "US",
+            "name": "United States",
+            "share": 0.1714
+          },
+          {
+            "country": "BR",
+            "name": "Brazil",
+            "share": 0.083
+          },
+          {
+            "country": "KR",
+            "name": "Korea, Republic of",
+            "share": 0.0649
+          },
+          {
+            "country": "MY",
+            "name": "Malaysia",
+            "share": 0.0648
+          },
+          {
+            "country": "IN",
+            "name": "India",
+            "share": 0.0616
+          }
+        ]
+      },
+      "traffic_evidence": "domains/topview.ai/traffic.json",
+      "traffic_status": "ok",
+      "registration_date": "2023-08-12T16:05:55Z",
+      "backlinks": {
+        "domain": "topview.ai",
+        "overview": {
+          "domain_rating": 67,
+          "backlinks": 290773,
+          "referring_domains": 5805,
+          "dofollow_backlinks_pct": 75,
+          "dofollow_referring_domains_pct": 63
+        },
+        "backlinks": [
+          {
+            "from_url": "https://play.google.com/store/apps/details?id=com.topview.aigc&hl=en_IN",
+            "to_url": "https://www.topview.ai/",
+            "title": "Topview: Marketing Video Agent – Apps on Google Play",
+            "anchor": "publicWebsite",
+            "domain_rating": 100
+          },
+          {
+            "from_url": "https://aiagentstore.ai/ai-agent/topview-ai",
+            "to_url": "https://www.topview.ai/",
+            "title": "TopView AI - AI Agent | Pricing, Reviews & Alternatives",
+            "anchor": "AI Video Agent for Short Films & Marketing Videos | Topview",
+            "domain_rating": 55
+          },
+          {
+            "from_url": "https://topaitools.com/tools/topview",
+            "to_url": "https://www.topview.ai/",
+            "title": "Topview AI - Create Viral Product Videos with AI & Sora 2",
+            "anchor": "Try for free",
+            "domain_rating": 25
+          },
+          {
+            "from_url": "https://finance.yahoo.com/news/topview-ai-unveils-worlds-first-080600087.html",
+            "to_url": "https://topview.ai/",
+            "title": "Topview AI Unveils the World's First AI Avatar That Can Wear, Sit On, and Showcase Any Product -- Not Just Hold It.",
+            "anchor": "https://topview.ai",
+            "domain_rating": 94
+          },
+          {
+            "from_url": "https://www.vidmetoo.com/topview-ai-review/",
+            "to_url": "https://www.topview.ai/",
+            "title": "Topview AI Review 2026: Features, Performance & Alternatives",
+            "anchor": "Stop Editing, Start Selling – Create Your First Ad in 3 Minutes",
+            "domain_rating": 21
+          },
+          {
+            "from_url": "https://www.eesel.ai/blog/kaiber-overview",
+            "to_url": "https://www.topview.ai/blog/the-hidden-truth-about-kaiber-ai-before-you-buy1",
+            "title": "A complete Kaiber overview for 2026: Features, pricing, and limitations | eesel AI",
+            "anchor": "animations can miss important details",
+            "domain_rating": 74
+          },
+          {
+            "from_url": "https://www.producthunt.com/products/topview-ai",
+            "to_url": "https://www.topview.ai/?ref=producthunt",
+            "title": "Topview: The Agent OS for Marketing and Filmmaking | Product Hunt",
+            "anchor": "Visit website",
+            "domain_rating": 91
+          },
+          {
+            "from_url": "https://congdongai.vn/threads/huong-dan-su-dung-topview-ai-tao-video-trong-nhay-mat.405/",
+            "to_url": "https://topview.ai/",
+            "title": "Hướng dẫn sử dụng TopView.AI tạo video trong nháy mắt | Cộng đồng người yêu thích A.I tại Việt Nam",
+            "anchor": "https://topview.ai",
+            "domain_rating": 3
+          },
+          {
+            "from_url": "https://www.prnewswire.com/kr/news-releases/u0074u006Fu0070u0076u0069u0065u0077u002Du0061u0069u002Cu002DuC81CuD488uC744u002DuB2E8uC21CuD788u002DuB4E4u002DuBFD0uB9CCu002DuC544uB2C8uB77C-302498727.html",
+            "to_url": "https://www.topview.ai/",
+            "title": "Topview AI, 제품을 단순히 들 뿐만 아니라 착용하고, 앉고, 전시할 수 있는 세계 최초의 AI 아바타 공개",
+            "anchor": "https://topview.ai",
+            "domain_rating": 92
+          },
+          {
+            "from_url": "https://www.youtube.com/watch?v=iJImdJfhQn8",
+            "to_url": "https://www.topview.ai/?via=Arabianaischool",
+            "title": "أخيرا ذكاء اصطناعي مجاني بيصمم بالعربي؟ منافس Nano Banana وGPT Image - YouTube",
+            "anchor": "https://www.topview.ai/?via=Arabianaischool",
+            "domain_rating": 99
+          },
+          {
+            "from_url": "https://www.tkfff.com/",
+            "to_url": "https://www.topview.ai/",
+            "title": "TKFFF首页 | TIKTOK卖家门户网TK导航网【做TK就要TK发发发!】",
+            "anchor": "TopviewAI制作海外营销视频；输入链接/图片一键生成营销视频",
+            "domain_rating": 36
+          },
+          {
+            "from_url": "https://webcatalog.io/fr/apps/topview-ai",
+            "to_url": "https://www.topview.ai/",
+            "title": "TopView AI - Application de bureau pour Mac et Windows - WebCatalog",
+            "anchor": "Site web",
+            "domain_rating": 58
+          },
+          {
+            "from_url": "https://www.datahackers.news/p/como-usar-o-vidgenie-ai-de-gra-a-guia-completo-para-iniciantes-0b96",
+            "to_url": "https://www.topview.ai/",
+            "title": "Como usar o Vidgenie AI de graça: guia completo para iniciantes",
+            "anchor": "TopView.ai",
+            "domain_rating": 26
+          },
+          {
+            "from_url": "https://www.theceo.in/blogs/sandeep-maheshwari-complete-biography-and-life-journey",
+            "to_url": "https://www.topview.ai/wan-3",
+            "title": "Sandeep Maheshwari Biography and Life Journey",
+            "anchor": "Wan 3.0",
+            "domain_rating": 66
+          },
+          {
+            "from_url": "https://filmora.wondershare.kr/video-editor-review/topview-ai-review.html",
+            "to_url": "https://www.topview.ai/pricing",
+            "title": "Topview AI 인공지능 리뷰: 정말 가치 있을까? 과대평가된 서비스인가?",
+            "anchor": "Topview AI 요금제",
+            "domain_rating": 50
+          },
+          {
+            "from_url": "https://www.innospira.fr/index.php/2025/05/23/creer-des-videos-ugc-en-quelques-clics/",
+            "to_url": "https://www.topview.ai/?via=innospira",
+            "title": "Créer des vidéos UGC en quelques clics",
+            "anchor": "J’y vais !",
+            "domain_rating": 12
+          },
+          {
+            "from_url": "https://urltovideo.ai/blog/best-ai-influencer-generator-tools",
+            "to_url": "https://www.topview.ai/",
+            "title": "7 Best AI Influencer Generator Tools in 2026 (Free & Paid) | URL To Video",
+            "anchor": "Topview",
+            "domain_rating": 24
+          },
+          {
+            "from_url": "https://aitools.aiting.com/ai/topview",
+            "to_url": "https://www.topview.ai/account/signin?callbackUrl=%2Fhome",
+            "title": "Topview AI: One‑Click AI Video Editor for Scripts, Clips & Voice | AiTing AI",
+            "anchor": "Open Website",
+            "domain_rating": 38
+          },
+          {
+            "from_url": "https://www.unite.ai/vi/topview-ai-review/",
+            "to_url": "https://www.topview.ai/ai-avatar",
+            "title": "Đánh Giá Topview AI: Video 5 Phút Chuyển Đổi Thật Sự – Unite.AI",
+            "anchor": "Hình Đại Diện AI",
+            "domain_rating": 79
+          },
+          {
+            "from_url": "https://www.tabcut.com/",
+            "to_url": "https://www.topview.ai/ai-marketer",
+            "title": "TikTok Shop Analytics: Driving Shop Success Through Data Insights",
+            "anchor": "",
+            "domain_rating": 41
+          }
+        ]
+      },
+      "backlinks_evidence": "domains/topview.ai/backlinks.json"
+    },
+    "pages": [
+      {
+        "kind": "home",
+        "label": "首页",
+        "path": "products/topview/pages/home.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://www.topview.ai/",
+          "resolved_url": "https://www.topview.ai/",
+          "http_status": 200
+        },
+        "page": {
+          "title": "AI Video Agent for Short Films & Marketing Videos | Topview"
+        },
+        "content": "首页为挑战和不同类型作品提供社区入口。\n官网展示 Canvas、Drama Studio、Board 和团队资产协作。\n首页同时覆盖广告、短片、短剧、Canvas 与团队协作，不能再把全站访问等同于 UGC 广告工具访问。"
+      },
+      {
+        "kind": "pricing",
+        "label": "定价资料",
+        "path": "products/topview/pages/pricing.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://www.topview.ai/pricing",
+          "resolved_url": "https://www.topview.ai/pricing",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Topview AI | Budget - friendly Pricing for the Best AI Video Generator"
+        },
+        "content": "Basic 展示年付 $80、折月约 $6.7、每月 50 credits。Ultra 与 Team 的 API 不使用套餐内 credits。"
+      },
+      {
+        "kind": "docs",
+        "label": "文档",
+        "path": "products/topview/pages/docs.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://www.topview.ai/guides/topview-official-guide",
+          "resolved_url": "https://www.topview.ai/guides/topview-official-guide",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Topview Official Guide | TopView Guides"
+        },
+        "content": "已保存官网来源；本公开版不转载页面全文。"
+      },
+      {
+        "kind": "affiliate",
+        "label": "联盟计划",
+        "path": "products/topview/pages/affiliate.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://www.topview.ai/affiliate-program",
+          "resolved_url": "https://www.topview.ai/affiliate-program",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Topview Affiliate Program  - Topview.ai"
+        },
+        "content": "联盟页披露 25% 佣金、30 天 cookie；合作期限条款仍有歧义。\n页面披露 25% 佣金和 30 天归因 cookie；首屏写首年，FAQ 又写在用户持续付费期间，期限表述不完全一致。"
+      },
+      {
+        "kind": "creator",
+        "label": "创作者合作",
+        "path": "products/topview/pages/creator.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://www.topview.ai/en/creator-partner-program",
+          "resolved_url": "https://www.topview.ai/creator-partner-program",
+          "http_status": 200
+        },
+        "page": {
+          "title": "TOPVIEW Creator Partner Program — Build the next chapter of AI video"
+        },
+        "content": "官方招募评测、教程、活动和联合制作，提供创作额度、付费套餐访问及商业活动机会。"
+      },
+      {
+        "kind": "marketing",
+        "label": "营销工作流",
+        "path": "products/topview/pages/marketing.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://www.topview.ai/use-cases/advertising",
+          "resolved_url": "https://www.topview.ai/use-cases/advertising",
+          "http_status": 200
+        },
+        "page": {
+          "title": "AI Video Advertising Platform: Create Winning Ads | Topview"
+        },
+        "content": "页面围绕多平台广告格式及素材生成场景组织内容，可用于拆解落地页卖点与使用路径。"
+      }
+    ],
+    "searches": [],
+    "issues": [],
+    "screenshot": null,
+    "product_entry_links": []
+  },
+  "metrics": {
+    "visits": 1573519,
+    "mom": 0.2665044015225235,
+    "change3": 0.4762808117710746,
+    "rolling3": 0.3811949728886017,
+    "recent_average": 1315829.0,
+    "prior_average": 952674.3333333334,
+    "up_streak": 6,
+    "derived_channels": {
+      "search_paid_visits": 178594.4065,
+      "social_paid_visits": 98502.28940000001,
+      "search_organic_visits": 210222.1384,
+      "social_organic_visits": 187406.1129,
+      "direct_visits": 746949.4693
+    },
+    "scope": "site",
+    "profile": "首页包含 Canvas、Drama Studio 与产品广告工作流；广告只是其当前业务的一部分。",
+    "profile_source": "products/topview/pages/home.json"
+  },
+  "editorial": {
+    "thesis": "连续增长值得优先复盘，社区、短剧与联盟提供了可逐项核查的增长线索。",
+    "focus": "Canvas、Drama Studio 和团队资产已超出单一 UGC 工具。联盟页面的合作期限存在歧义；同名 TikTok TopView 广告位不能作为 Topview 自身投放证据。",
+    "experiment": "选择一个 30 秒广告或短剧任务，配套作品挑战、可复用模板和创作者推荐入口。",
+    "measure": "作品观看到模板启动率、成功成片率、推荐付费率及佣金回收周期。",
+    "watch": "挑战新作品、联盟期限、真正品牌广告素材与付费社交量。"
+  },
+  "activities": [
+    {
+      "product_id": "topview",
+      "type": "community",
+      "title": "Wan3 / 30 秒挑战与社区作品",
+      "detail": "首页为挑战和不同类型作品提供社区入口。",
+      "anchors": [
+        "Wan3 Challenge",
+        "30s Challenge"
+      ],
+      "source": "products/topview/pages/home.json",
+      "event_date": null,
+      "id": "activity-30",
+      "source_url": "https://www.topview.ai/",
+      "observed_at": "2026-10-02"
+    },
+    {
+      "product_id": "topview",
+      "type": "workflow",
+      "title": "Canvas、短剧与团队协作",
+      "detail": "官网展示 Canvas、Drama Studio、Board 和团队资产协作。",
+      "anchors": [
+        "Drama Studio",
+        "Manage Team Credits"
+      ],
+      "source": "products/topview/pages/home.json",
+      "event_date": null,
+      "id": "activity-31",
+      "source_url": "https://www.topview.ai/",
+      "observed_at": "2026-10-02"
+    },
+    {
+      "product_id": "topview",
+      "type": "affiliate",
+      "title": "联盟与创作者合作计划",
+      "detail": "联盟页披露 25% 佣金、30 天 cookie；合作期限条款仍有歧义。",
+      "anchors": [
+        "25%"
+      ],
+      "source": "products/topview/pages/affiliate.json",
+      "event_date": null,
+      "id": "activity-32",
+      "source_url": "https://www.topview.ai/affiliate-program",
+      "observed_at": "2026-10-02"
+    }
+  ],
+  "x_posts": []
+}

@@ -1,0 +1,158 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "labs.google",
+  "measurement": "第三方外链样本",
+  "data": {
+    "domain": "labs.google",
+    "overview": {
+      "domain_rating": 82,
+      "backlinks": 387077,
+      "referring_domains": 20020,
+      "dofollow_backlinks_pct": 82,
+      "dofollow_referring_domains_pct": 79
+    },
+    "backlinks": [
+      {
+        "from_url": "https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/",
+        "to_url": "https://labs.google/science",
+        "title": "Gemini Deep Think: Redefining the Future of Scientific Research — Google DeepMind",
+        "anchor": "Experimental Tools",
+        "domain_rating": 90
+      },
+      {
+        "from_url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/google-gemini-ai-update-december-2024/",
+        "to_url": "http://labs.google/",
+        "title": "Google introduces Gemini 2.0: A new AI model for the agentic era",
+        "anchor": "labs.google",
+        "domain_rating": 92
+      },
+      {
+        "from_url": "https://ai.google/",
+        "to_url": "https://labs.google/",
+        "title": "Google AI - How we're making AI helpful for everyone",
+        "anchor": "Google Labs Try our AI experiments",
+        "domain_rating": 86
+      },
+      {
+        "from_url": "https://www.autodraw.com/",
+        "to_url": "https://labs.google/",
+        "title": "AutoDraw",
+        "anchor": "Google AI Experiments logo",
+        "domain_rating": 74
+      },
+      {
+        "from_url": "https://quickdraw.withgoogle.com/",
+        "to_url": "https://labs.google/",
+        "title": "Quick, Draw!",
+        "anchor": "",
+        "domain_rating": 91
+      },
+      {
+        "from_url": "https://www.gumloop.com/blog/best-ai-apps",
+        "to_url": "https://labs.google/",
+        "title": "15 best AI apps I can't live without in 2026 (free + paid)",
+        "anchor": "Google Labs",
+        "domain_rating": 75
+      },
+      {
+        "from_url": "https://about.google/",
+        "to_url": "https://labs.google/",
+        "title": "About Google: Our products, technology and company information - About Google",
+        "anchor": "Google Labs",
+        "domain_rating": 91
+      },
+      {
+        "from_url": "https://zapier.com/blog/best-ai-video-generator/",
+        "to_url": "https://labs.google/fx/tools/flow",
+        "title": "The 17 best AI video generators in 2026 | Zapier",
+        "anchor": "Google Veo",
+        "domain_rating": 91
+      },
+      {
+        "from_url": "https://codimd.apps.education.fr/s/r1H5nglAY",
+        "to_url": "https://labs.google/fx/fr/tools/image-fx",
+        "title": "Une sélection d’IA génératives gratuites en ligne - CodiMD",
+        "anchor": "ImageFX",
+        "domain_rating": 85
+      },
+      {
+        "from_url": "https://www.techno-edge.net/article/2025/01/30/4061.html",
+        "to_url": "https://labs.google/fx/tools/image-fx",
+        "title": "生成AIグラビアをグラビアカメラマンが作るとどうなる？第41回：外部サービスの生成AI画像はどんな感じ！？　そしてFLUX.1 [schnell] の逆襲（西川和久） | テクノエッジ TechnoEdge",
+        "anchor": "https://labs.google/fx/ja/tools/image-fx",
+        "domain_rating": 53
+      },
+      {
+        "from_url": "https://research.google/teams/cloud-ai-research/",
+        "to_url": "https://labs.google/",
+        "title": "Cloud AI Research",
+        "anchor": "Stay connected",
+        "domain_rating": 89
+      },
+      {
+        "from_url": "https://support.google.com/flow/?hl=en",
+        "to_url": "https://labs.google/fx/tools/flow",
+        "title": "Google Flow Help",
+        "anchor": "Google Flow",
+        "domain_rating": 100
+      },
+      {
+        "from_url": "https://www.pcmag.com/how-to/can-google-flow-turn-your-prompts-into-movie-magic-i-had-to-find-out",
+        "to_url": "https://labs.google/fx/tools/flow",
+        "title": "Can Google Flow Really Turn Your Prompts Into Movie Magic? I Had to Find Out | PCMag",
+        "anchor": "Flow website",
+        "domain_rating": 91
+      },
+      {
+        "from_url": "https://flowaifx.com/",
+        "to_url": "https://labs.google/fx/tools/flow",
+        "title": "Flow AI - Google Labs AI Video and Image Studio",
+        "anchor": "open it here",
+        "domain_rating": 0
+      },
+      {
+        "from_url": "https://neiro.unisender.com/rezhim-ii-v-google-chto-eto-kak-vklyuchit-i-ispolzovat/",
+        "to_url": "https://labs.google/",
+        "title": "Поиск с ИИ в Google: как работает режим и как его включить",
+        "anchor": "Google AI Labs",
+        "domain_rating": 78
+      },
+      {
+        "from_url": "https://www.marketermilk.com/blog/ai-marketing-tools",
+        "to_url": "https://labs.google/",
+        "title": "30 best AI marketing tools I'm using to get ahead in 2026 | Marketer Milk",
+        "anchor": "Google Labs",
+        "domain_rating": 67
+      },
+      {
+        "from_url": "https://whiskailabs.org/",
+        "to_url": "https://labs.google/fx/tools/whisk",
+        "title": "Whisk AI - Experience the Future of Image Generation",
+        "anchor": "Google Labs",
+        "domain_rating": 0
+      },
+      {
+        "from_url": "https://readyforjob.in/pages/ai.html",
+        "to_url": "https://labs.google/fx/tools/flow",
+        "title": "Free AI Tools 2026 — Complete List | No Credit Card",
+        "anchor": "Visit Tool",
+        "domain_rating": 0
+      },
+      {
+        "from_url": "https://killedbygoogle.com/",
+        "to_url": "https://labs.google/doppl",
+        "title": "Google Graveyard - Killed by Google",
+        "anchor": "Doppl",
+        "domain_rating": 75
+      },
+      {
+        "from_url": "https://www.datacamp.com/blog/free-ai-tools",
+        "to_url": "https://labs.google/fx/tools/flow/about",
+        "title": "The 40 Best Free AI Tools in 2026: A Complete Guide | DataCamp",
+        "anchor": "Google Flow",
+        "domain_rating": 85
+      }
+    ]
+  }
+}

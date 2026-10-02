@@ -1,0 +1,145 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "imagine.art",
+  "measurement": "第三方域名级估算",
+  "data": {
+    "domain": "imagine.art",
+    "overview": {
+      "global_rank": 19573,
+      "country_rank": {
+        "country": "IN",
+        "rank": 4508
+      },
+      "visits": 2431354,
+      "bounce_rate": 0.35532934676571065,
+      "pages_per_visit": 4.70343613276732,
+      "time_on_site_seconds": 199.92005531620993,
+      "month": "2026-08"
+    },
+    "monthly_visits": [
+      {
+        "month": "2025-09",
+        "visits": 1985712
+      },
+      {
+        "month": "2025-10",
+        "visits": 2601913
+      },
+      {
+        "month": "2025-11",
+        "visits": 2788439
+      },
+      {
+        "month": "2025-12",
+        "visits": 3691184
+      },
+      {
+        "month": "2026-01",
+        "visits": 3661695
+      },
+      {
+        "month": "2026-02",
+        "visits": 3253199
+      },
+      {
+        "month": "2026-03",
+        "visits": 3377277
+      },
+      {
+        "month": "2026-04",
+        "visits": 3326732
+      },
+      {
+        "month": "2026-05",
+        "visits": 2896825
+      },
+      {
+        "month": "2026-06",
+        "visits": 2708186
+      },
+      {
+        "month": "2026-07",
+        "visits": 2395340
+      },
+      {
+        "month": "2026-08",
+        "visits": 2431354
+      }
+    ],
+    "traffic_sources": {
+      "direct": 0.2414,
+      "search": 0.6267,
+      "search_organic": 0.2711,
+      "search_paid": 0.3556,
+      "social": 0.041,
+      "social_organic": 0.0359,
+      "social_paid": 0.0051,
+      "referrals": 0.0362,
+      "paid_referrals": 0.027,
+      "mail": 0.0082,
+      "gen_ai": 0.0149,
+      "affiliate": 0.0046,
+      "other": 0
+    },
+    "top_keywords": [
+      {
+        "name": "chatgpt",
+        "volume": 173210590,
+        "cpc": 0.15,
+        "estimated_value": 40000
+      },
+      {
+        "name": "midjourney",
+        "volume": 1485100,
+        "cpc": 0.92,
+        "estimated_value": 36270
+      },
+      {
+        "name": "kling ai",
+        "volume": 1451150,
+        "cpc": 0.48,
+        "estimated_value": 33250
+      },
+      {
+        "name": "imagineart",
+        "volume": 27900,
+        "cpc": 0.99,
+        "estimated_value": 27320
+      },
+      {
+        "name": "flow ai",
+        "volume": 2627840,
+        "cpc": 0.31,
+        "estimated_value": 26250
+      }
+    ],
+    "top_regions": [
+      {
+        "country": "IN",
+        "name": "India",
+        "share": 0.2783
+      },
+      {
+        "country": "US",
+        "name": "United States",
+        "share": 0.1422
+      },
+      {
+        "country": "PK",
+        "name": "Pakistan",
+        "share": 0.0768
+      },
+      {
+        "country": "ID",
+        "name": "Indonesia",
+        "share": 0.0239
+      },
+      {
+        "country": "BR",
+        "name": "Brazil",
+        "share": 0.0235
+      }
+    ]
+  }
+}

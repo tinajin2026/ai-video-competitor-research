@@ -1,0 +1,145 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "invideo.io",
+  "measurement": "第三方域名级估算",
+  "data": {
+    "domain": "invideo.io",
+    "overview": {
+      "global_rank": 6737,
+      "country_rank": {
+        "country": "IN",
+        "rank": 2515
+      },
+      "visits": 6490749,
+      "bounce_rate": 0.40910461910652085,
+      "pages_per_visit": 5.599705006265031,
+      "time_on_site_seconds": 151.4116809477217,
+      "month": "2026-08"
+    },
+    "monthly_visits": [
+      {
+        "month": "2025-09",
+        "visits": 6644250
+      },
+      {
+        "month": "2025-10",
+        "visits": 7565729
+      },
+      {
+        "month": "2025-11",
+        "visits": 7558271
+      },
+      {
+        "month": "2025-12",
+        "visits": 8920188
+      },
+      {
+        "month": "2026-01",
+        "visits": 9286784
+      },
+      {
+        "month": "2026-02",
+        "visits": 7583902
+      },
+      {
+        "month": "2026-03",
+        "visits": 7833475
+      },
+      {
+        "month": "2026-04",
+        "visits": 7734333
+      },
+      {
+        "month": "2026-05",
+        "visits": 7822846
+      },
+      {
+        "month": "2026-06",
+        "visits": 6976338
+      },
+      {
+        "month": "2026-07",
+        "visits": 6846906
+      },
+      {
+        "month": "2026-08",
+        "visits": 6490749
+      }
+    ],
+    "traffic_sources": {
+      "direct": 0.3322,
+      "search": 0.5472,
+      "search_organic": 0.5056,
+      "search_paid": 0.0416,
+      "social": 0.035,
+      "social_organic": 0.0327,
+      "social_paid": 0.0023,
+      "referrals": 0.0353,
+      "paid_referrals": 0.0061,
+      "mail": 0.0065,
+      "gen_ai": 0.0305,
+      "affiliate": 0.0071,
+      "other": 0
+    },
+    "top_keywords": [
+      {
+        "name": "invideo ai",
+        "volume": 337860,
+        "cpc": 0.48,
+        "estimated_value": 417970
+      },
+      {
+        "name": "ai video generator",
+        "volume": 468640,
+        "cpc": 0.79,
+        "estimated_value": 135630
+      },
+      {
+        "name": "invideo",
+        "volume": 122350,
+        "cpc": 0.72,
+        "estimated_value": 105020
+      },
+      {
+        "name": "elevenlabs",
+        "volume": 3401750,
+        "cpc": 0.21,
+        "estimated_value": 96130
+      },
+      {
+        "name": "free ai video generator",
+        "volume": 248970,
+        "cpc": 0.75,
+        "estimated_value": 63780
+      }
+    ],
+    "top_regions": [
+      {
+        "country": "US",
+        "name": "United States",
+        "share": 0.151
+      },
+      {
+        "country": "IN",
+        "name": "India",
+        "share": 0.1395
+      },
+      {
+        "country": "BR",
+        "name": "Brazil",
+        "share": 0.0571
+      },
+      {
+        "country": "PK",
+        "name": "Pakistan",
+        "share": 0.0307
+      },
+      {
+        "country": "PH",
+        "name": "Philippines",
+        "share": 0.0301
+      }
+    ]
+  }
+}

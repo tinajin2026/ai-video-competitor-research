@@ -1,0 +1,121 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "labs.google",
+  "measurement": "第三方域名级估算",
+  "data": {
+    "domain": "labs.google",
+    "overview": {
+      "global_rank": 253,
+      "country_rank": {
+        "country": "IN",
+        "rank": 167
+      },
+      "visits": 86395575,
+      "bounce_rate": 0.2041195677063037,
+      "pages_per_visit": 17.895416528392786,
+      "time_on_site_seconds": 994.0371483868811,
+      "month": "2026-08"
+    },
+    "monthly_visits": [
+      {
+        "month": "2026-03",
+        "visits": 55328329
+      },
+      {
+        "month": "2026-04",
+        "visits": 61976254
+      },
+      {
+        "month": "2026-05",
+        "visits": 68025947
+      },
+      {
+        "month": "2026-06",
+        "visits": 68330745
+      },
+      {
+        "month": "2026-07",
+        "visits": 76113403
+      },
+      {
+        "month": "2026-08",
+        "visits": 86395575
+      }
+    ],
+    "traffic_sources": {
+      "direct": 0.4636,
+      "search": 0.2969,
+      "search_organic": 0.2725,
+      "search_paid": 0.0243,
+      "social": 0.0828,
+      "social_organic": 0.082,
+      "social_paid": 0.0008,
+      "referrals": 0.1093,
+      "paid_referrals": 0.0085,
+      "mail": 0.0076,
+      "gen_ai": 0.0313,
+      "affiliate": 0,
+      "other": 0
+    },
+    "top_keywords": [
+      {
+        "name": "google flow",
+        "volume": 7792060,
+        "cpc": 0.35,
+        "estimated_value": 15773560
+      },
+      {
+        "name": "flow",
+        "volume": 6682500,
+        "cpc": 0.39,
+        "estimated_value": 11010870
+      },
+      {
+        "name": "flow ai",
+        "volume": 2627840,
+        "cpc": 0.31,
+        "estimated_value": 5137940
+      },
+      {
+        "name": "google flow ai",
+        "volume": 773210,
+        "cpc": 0.31,
+        "estimated_value": 1676120
+      },
+      {
+        "name": "flow google",
+        "volume": 463790,
+        "cpc": 0.34,
+        "estimated_value": 705090
+      }
+    ],
+    "top_regions": [
+      {
+        "country": "IN",
+        "name": "India",
+        "share": 0.1817
+      },
+      {
+        "country": "US",
+        "name": "United States",
+        "share": 0.0991
+      },
+      {
+        "country": "BR",
+        "name": "Brazil",
+        "share": 0.0926
+      },
+      {
+        "country": "PK",
+        "name": "Pakistan",
+        "share": 0.0661
+      },
+      {
+        "country": "KR",
+        "name": "Korea, Republic of",
+        "share": 0.0377
+      }
+    ]
+  }
+}

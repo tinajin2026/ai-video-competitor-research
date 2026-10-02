@@ -1,0 +1,121 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "deepmind.google",
+  "measurement": "第三方域名级估算",
+  "data": {
+    "domain": "deepmind.google",
+    "overview": {
+      "global_rank": 19828,
+      "country_rank": {
+        "country": "US",
+        "rank": 19107
+      },
+      "visits": 3995721,
+      "bounce_rate": 0.6704427071913144,
+      "pages_per_visit": 1.5995567154888048,
+      "time_on_site_seconds": 74.26450902465069,
+      "month": "2026-08"
+    },
+    "monthly_visits": [
+      {
+        "month": "2026-03",
+        "visits": 4704834
+      },
+      {
+        "month": "2026-04",
+        "visits": 6668969
+      },
+      {
+        "month": "2026-05",
+        "visits": 6137498
+      },
+      {
+        "month": "2026-06",
+        "visits": 5128551
+      },
+      {
+        "month": "2026-07",
+        "visits": 4444838
+      },
+      {
+        "month": "2026-08",
+        "visits": 3995721
+      }
+    ],
+    "traffic_sources": {
+      "direct": 0.2013,
+      "search": 0.587,
+      "search_organic": 0.5865,
+      "search_paid": 0.0005,
+      "social": 0.0415,
+      "social_organic": 0.0381,
+      "social_paid": 0.0034,
+      "referrals": 0.1177,
+      "paid_referrals": 0.0038,
+      "mail": 0.0085,
+      "gen_ai": 0.0402,
+      "affiliate": 0,
+      "other": 0
+    },
+    "top_keywords": [
+      {
+        "name": "gemini",
+        "volume": 120293930,
+        "cpc": 0.3,
+        "estimated_value": 4822210
+      },
+      {
+        "name": "google gemini",
+        "volume": 8692630,
+        "cpc": 0.27,
+        "estimated_value": 893200
+      },
+      {
+        "name": "gemini ai",
+        "volume": 17213170,
+        "cpc": 0.25,
+        "estimated_value": 732100
+      },
+      {
+        "name": "gimini",
+        "volume": 1582110,
+        "cpc": 0.26,
+        "estimated_value": 69920
+      },
+      {
+        "name": "google deepmind",
+        "volume": 81500,
+        "cpc": 1.62,
+        "estimated_value": 65150
+      }
+    ],
+    "top_regions": [
+      {
+        "country": "US",
+        "name": "United States",
+        "share": 0.2126
+      },
+      {
+        "country": "IN",
+        "name": "India",
+        "share": 0.1369
+      },
+      {
+        "country": "CN",
+        "name": "China",
+        "share": 0.0574
+      },
+      {
+        "country": "GB",
+        "name": "United Kingdom",
+        "share": 0.0385
+      },
+      {
+        "country": "DE",
+        "name": "Germany",
+        "share": 0.0312
+      }
+    ]
+  }
+}

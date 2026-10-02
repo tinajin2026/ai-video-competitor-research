@@ -1,0 +1,158 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "lumalabs.ai",
+  "measurement": "第三方外链样本",
+  "data": {
+    "domain": "lumalabs.ai",
+    "overview": {
+      "domain_rating": 80,
+      "backlinks": 720146,
+      "referring_domains": 16633,
+      "dofollow_backlinks_pct": 43,
+      "dofollow_referring_domains_pct": 74
+    },
+    "backlinks": [
+      {
+        "from_url": "https://zapier.com/blog/best-ai-image-generator/",
+        "to_url": "https://lumalabs.ai/dream-machine",
+        "title": "The 8 best AI image generators in 2026 | Zapier",
+        "anchor": "Dream Machine",
+        "domain_rating": 91
+      },
+      {
+        "from_url": "https://threejs.org/",
+        "to_url": "https://lumalabs.ai/luma-web-library/",
+        "title": "Three.js – JavaScript 3D Library",
+        "anchor": "",
+        "domain_rating": 85
+      },
+      {
+        "from_url": "https://codimd.apps.education.fr/s/r1H5nglAY",
+        "to_url": "https://lumalabs.ai/app",
+        "title": "Une sélection d’IA génératives gratuites en ligne - CodiMD",
+        "anchor": "LumaLabs Genie",
+        "domain_rating": 85
+      },
+      {
+        "from_url": "https://aihub.promptpack.net/tool/luma-ai",
+        "to_url": "https://lumalabs.ai/dream-machine",
+        "title": "Luma AI - AI Productivity Tools | AI Productivity Tools",
+        "anchor": "Visit Website",
+        "domain_rating": 4
+      },
+      {
+        "from_url": "https://apps.apple.com/us/app/luma-dream-machine/id6478852867",
+        "to_url": "https://lumalabs.ai/legal/privacy",
+        "title": "‎Luma Dream Machine App - App Store",
+        "anchor": "developer’s privacy policy",
+        "domain_rating": 97
+      },
+      {
+        "from_url": "https://readyforjob.in/pages/ai.html",
+        "to_url": "https://lumalabs.ai/dream-machine",
+        "title": "Free AI Tools 2026 — Complete List | No Credit Card",
+        "anchor": "Visit Tool",
+        "domain_rating": 0
+      },
+      {
+        "from_url": "https://www.aixploria.com/",
+        "to_url": "https://lumalabs.ai/app",
+        "title": "Liste des Meilleures IA Gratuites & Top 10 par Catégorie | AIxploria",
+        "anchor": "Luma Dream Machine",
+        "domain_rating": 56
+      },
+      {
+        "from_url": "https://en.wikipedia.org/wiki/Dream_Machine_(text-to-video_model)",
+        "to_url": "https://lumalabs.ai/app",
+        "title": "Dream Machine (text-to-video model)",
+        "anchor": "Official website",
+        "domain_rating": 97
+      },
+      {
+        "from_url": "https://thefactoryschool.com/blog/10-mejores-ia-para-crear-imagenes/",
+        "to_url": "https://lumalabs.ai/photon",
+        "title": "10 mejores IA para crear imágenes en 2026 | The Factory School",
+        "anchor": "Luma Photon",
+        "domain_rating": 40
+      },
+      {
+        "from_url": "https://1min.ai/",
+        "to_url": "https://lumalabs.ai/",
+        "title": "1minAI | Free All-in-one AI App for Text, Image, Audio, Video",
+        "anchor": "Luma AI Luma AI",
+        "domain_rating": 60
+      },
+      {
+        "from_url": "https://medium.com/@fadimantium/why-pixverse-ai-is-the-best-video-generator-for-now-8d6df6297191",
+        "to_url": "https://lumalabs.ai/app",
+        "title": "Why Pixverse.ai is the Best Video Generator (for now). | by Erik Fadiman | Medium",
+        "anchor": "Dream Machine",
+        "domain_rating": 94
+      },
+      {
+        "from_url": "https://www.selecthub.com/p/ai-video-generator-software/luma-dream-machine/",
+        "to_url": "https://lumalabs.ai/dream-machine",
+        "title": "Luma Dream Machine Reviews 2026: Pricing, Features & More",
+        "anchor": "Request for Free",
+        "domain_rating": 74
+      },
+      {
+        "from_url": "https://pictory.ai/text-to-video",
+        "to_url": "https://lumalabs.ai/dream-machine",
+        "title": "AI Video Editor - Text To Video - Pictory",
+        "anchor": "Luma Dream Machine",
+        "domain_rating": 80
+      },
+      {
+        "from_url": "https://sendfame.com/blog/ai-video-generator-free",
+        "to_url": "https://lumalabs.ai/",
+        "title": "The 12 Best AI Video Generator Free Tools of 2025",
+        "anchor": "https://lumalabs.ai",
+        "domain_rating": 53
+      },
+      {
+        "from_url": "https://axiom.co/",
+        "to_url": "https://lumalabs.ai/",
+        "title": "Axiom - The modern machine data platform",
+        "anchor": "",
+        "domain_rating": 72
+      },
+      {
+        "from_url": "https://apps.make.com/luma-labs-ai-dbgg76",
+        "to_url": "https://lumalabs.ai/contact-sales",
+        "title": "LumaLabs AI by Maxmel Tech - Apps Documentation",
+        "anchor": "LumaLabs AI",
+        "domain_rating": 90
+      },
+      {
+        "from_url": "https://www.eweek.com/news/ai-pricing-cheat-sheet-2026/",
+        "to_url": "https://lumalabs.ai/pricing",
+        "title": "OpenAI Agent Accessed Australian Government Site: What Went Wrong",
+        "anchor": "Pricing snapshot",
+        "domain_rating": 83
+      },
+      {
+        "from_url": "https://digital-gorilla.co.jp/ai-lab/ai-video-generation-free/",
+        "to_url": "https://lumalabs.ai/app",
+        "title": "【2026年最新】ai動画生成 無料おすすめ10選｜使い方・商用利用・日本語対応を比較 – ゴリラのAI研究所",
+        "anchor": "Luma AI公式サイト",
+        "domain_rating": 27
+      },
+      {
+        "from_url": "https://iamakasi.substack.com/p/claude-reunit-le-chat-cowork-et-ses",
+        "to_url": "https://lumalabs.ai/app",
+        "title": "Claude réunit le chat, Cowork et ses outils créatifs",
+        "anchor": "Luma Dream Machine",
+        "domain_rating": 94
+      },
+      {
+        "from_url": "https://aitoolsandplugins.com/video-and-audio/pika-labs/",
+        "to_url": "https://lumalabs.ai/dream-machine",
+        "title": "Pika Labs - AI Tools and Plugins",
+        "anchor": "Website",
+        "domain_rating": 0
+      }
+    ]
+  }
+}

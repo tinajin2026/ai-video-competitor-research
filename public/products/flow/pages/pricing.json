@@ -1,0 +1,8 @@
+{
+  "product_id": "flow",
+  "observed_at": "2026-10-02",
+  "source_url": "https://accounts.google.com/v3/signin/identifier?continue=https://one.google.com/ai&followup=https://one.google.com/ai&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1121825136:1790901192560973",
+  "status": "limited",
+  "research_note": "已保存官网来源；本公开版不转载页面全文。",
+  "notice": "公开研究摘记；原始抓取保留在本地。"
+}

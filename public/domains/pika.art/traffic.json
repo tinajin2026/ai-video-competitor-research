@@ -1,0 +1,145 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "pika.art",
+  "measurement": "第三方域名级估算",
+  "data": {
+    "domain": "pika.art",
+    "overview": {
+      "global_rank": 25753,
+      "country_rank": {
+        "country": "IN",
+        "rank": 11030
+      },
+      "visits": 1637698,
+      "bounce_rate": 0.33594756164202233,
+      "pages_per_visit": 5.752632760276142,
+      "time_on_site_seconds": 332.6562498801785,
+      "month": "2026-08"
+    },
+    "monthly_visits": [
+      {
+        "month": "2025-09",
+        "visits": 1791997
+      },
+      {
+        "month": "2025-10",
+        "visits": 2022511
+      },
+      {
+        "month": "2025-11",
+        "visits": 1771308
+      },
+      {
+        "month": "2025-12",
+        "visits": 1716501
+      },
+      {
+        "month": "2026-01",
+        "visits": 2154377
+      },
+      {
+        "month": "2026-02",
+        "visits": 1750411
+      },
+      {
+        "month": "2026-03",
+        "visits": 1822058
+      },
+      {
+        "month": "2026-04",
+        "visits": 1873554
+      },
+      {
+        "month": "2026-05",
+        "visits": 2241267
+      },
+      {
+        "month": "2026-06",
+        "visits": 2025188
+      },
+      {
+        "month": "2026-07",
+        "visits": 1809280
+      },
+      {
+        "month": "2026-08",
+        "visits": 1637698
+      }
+    ],
+    "traffic_sources": {
+      "direct": 0.3918,
+      "search": 0.3746,
+      "search_organic": 0.3745,
+      "search_paid": 0,
+      "social": 0.0397,
+      "social_organic": 0.0368,
+      "social_paid": 0.0029,
+      "referrals": 0.0936,
+      "paid_referrals": 0.0122,
+      "mail": 0.0121,
+      "gen_ai": 0.0762,
+      "affiliate": 0,
+      "other": 0
+    },
+    "top_keywords": [
+      {
+        "name": "pika",
+        "volume": 274880,
+        "cpc": 0.8,
+        "estimated_value": 207050
+      },
+      {
+        "name": "pika ai",
+        "volume": 66870,
+        "cpc": 0.53,
+        "estimated_value": 64870
+      },
+      {
+        "name": "pika labs",
+        "volume": 58320,
+        "cpc": 0.44,
+        "estimated_value": 50330
+      },
+      {
+        "name": "pika art",
+        "volume": 6420,
+        "cpc": 0.33,
+        "estimated_value": 7120
+      },
+      {
+        "name": "pika ai video generator",
+        "volume": 3880,
+        "cpc": 0.07,
+        "estimated_value": 3720
+      }
+    ],
+    "top_regions": [
+      {
+        "country": "IN",
+        "name": "India",
+        "share": 0.1368
+      },
+      {
+        "country": "US",
+        "name": "United States",
+        "share": 0.104
+      },
+      {
+        "country": "RU",
+        "name": "Russia",
+        "share": 0.0518
+      },
+      {
+        "country": "MX",
+        "name": "Mexico",
+        "share": 0.0365
+      },
+      {
+        "country": "SE",
+        "name": "Sweden",
+        "share": 0.0356
+      }
+    ]
+  }
+}

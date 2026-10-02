@@ -1,0 +1,395 @@
+{
+  "schema_version": 1,
+  "product": {
+    "id": "wan",
+    "name": "Wan Alibaba",
+    "x_handle": null,
+    "homepage": "https://wan.video/",
+    "ads_priority": false,
+    "traffic_domain": "wan.video",
+    "additional_domains": [],
+    "scope_note": "域名级流量估算，非付费用户、收入或模型调用量。",
+    "shared_scope": false,
+    "domain_data": {
+      "domain": "wan.video",
+      "traffic": {
+        "domain": "wan.video",
+        "overview": {
+          "global_rank": 27932,
+          "country_rank": {
+            "country": "IN",
+            "rank": 8773
+          },
+          "visits": 1736088,
+          "bounce_rate": 0.3651806959122793,
+          "pages_per_visit": 5.0004372059609565,
+          "time_on_site_seconds": 327.9722247215117,
+          "month": "2026-08"
+        },
+        "monthly_visits": [
+          {
+            "month": "2025-09",
+            "visits": 3944103
+          },
+          {
+            "month": "2025-10",
+            "visits": 5459569
+          },
+          {
+            "month": "2025-11",
+            "visits": 3648779
+          },
+          {
+            "month": "2025-12",
+            "visits": 3044508
+          },
+          {
+            "month": "2026-01",
+            "visits": 3703558
+          },
+          {
+            "month": "2026-02",
+            "visits": 3114393
+          },
+          {
+            "month": "2026-03",
+            "visits": 2711760
+          },
+          {
+            "month": "2026-04",
+            "visits": 3091953
+          },
+          {
+            "month": "2026-05",
+            "visits": 3059292
+          },
+          {
+            "month": "2026-06",
+            "visits": 2368499
+          },
+          {
+            "month": "2026-07",
+            "visits": 2182344
+          },
+          {
+            "month": "2026-08",
+            "visits": 1736088
+          }
+        ],
+        "traffic_sources": {
+          "direct": 0.5217,
+          "search": 0.2374,
+          "search_organic": 0.2374,
+          "search_paid": 0,
+          "social": 0.0679,
+          "social_organic": 0.0673,
+          "social_paid": 0.0005,
+          "referrals": 0.1341,
+          "paid_referrals": 0.0057,
+          "mail": 0.0092,
+          "gen_ai": 0.024,
+          "affiliate": 0,
+          "other": 0
+        },
+        "top_keywords": [
+          {
+            "name": "wan ai",
+            "volume": 66340,
+            "cpc": 0.32,
+            "estimated_value": 132720
+          },
+          {
+            "name": "wan",
+            "volume": 102270,
+            "cpc": 0.73,
+            "estimated_value": 57720
+          },
+          {
+            "name": "wan 2.2",
+            "volume": 54190,
+            "cpc": 0.56,
+            "estimated_value": 36290
+          },
+          {
+            "name": "wan video",
+            "volume": 12890,
+            "cpc": 0.23,
+            "estimated_value": 20290
+          },
+          {
+            "name": "wan 2.5",
+            "volume": 13660,
+            "cpc": 0.09,
+            "estimated_value": 15240
+          }
+        ],
+        "top_regions": [
+          {
+            "country": "US",
+            "name": "United States",
+            "share": 0.1435
+          },
+          {
+            "country": "IN",
+            "name": "India",
+            "share": 0.124
+          },
+          {
+            "country": "RU",
+            "name": "Russia",
+            "share": 0.0564
+          },
+          {
+            "country": "BR",
+            "name": "Brazil",
+            "share": 0.0534
+          },
+          {
+            "country": "DE",
+            "name": "Germany",
+            "share": 0.0506
+          }
+        ]
+      },
+      "traffic_evidence": "domains/wan.video/traffic.json",
+      "traffic_status": "ok",
+      "registration_date": "2025-02-24T13:54:33.095Z",
+      "backlinks": {
+        "domain": "wan.video",
+        "overview": {
+          "domain_rating": 70,
+          "backlinks": 40021,
+          "referring_domains": 5420,
+          "dofollow_backlinks_pct": 67,
+          "dofollow_referring_domains_pct": 72
+        },
+        "backlinks": [
+          {
+            "from_url": "https://codimd.apps.education.fr/s/r1H5nglAY",
+            "to_url": "https://wan.video/",
+            "title": "Une sélection d’IA génératives gratuites en ligne - CodiMD",
+            "anchor": "Wan",
+            "domain_rating": 85
+          },
+          {
+            "from_url": "https://guardia.school/boite-a-outils/top-10-meilleures-ia-gratuites.html",
+            "to_url": "https://wan.video/",
+            "title": "Top 10 des meilleures IA gratuites à découvrir en 2026",
+            "anchor": "Site officiel",
+            "domain_rating": 63
+          },
+          {
+            "from_url": "https://www.datacamp.com/blog/free-ai-tools",
+            "to_url": "https://wan.video/",
+            "title": "The 40 Best Free AI Tools in 2026: A Complete Guide | DataCamp",
+            "anchor": "Wan",
+            "domain_rating": 85
+          },
+          {
+            "from_url": "https://play.google.com/store/apps/details?id=com.aliyun.wan.android&hl=id",
+            "to_url": "https://wan.video/policy/privacyPolicy",
+            "title": "Wan - Aplikasi di Google Play",
+            "anchor": "shieldKebijakan Privasi",
+            "domain_rating": 100
+          },
+          {
+            "from_url": "https://1min.ai/",
+            "to_url": "https://wan.video/",
+            "title": "1minAI | Free All-in-one AI App for Text, Image, Audio, Video",
+            "anchor": "Wan AI Wan AI",
+            "domain_rating": 60
+          },
+          {
+            "from_url": "https://huggingface.co/Wan-AI",
+            "to_url": "https://wan.video/",
+            "title": "Wan-AI (Wan-AI)",
+            "anchor": "https://wan.video",
+            "domain_rating": 92
+          },
+          {
+            "from_url": "https://github.com/Wan-Video/Wan2.1",
+            "to_url": "https://wan.video/?spm=a2ty_o02.30011076.0.0.6c9ee41eCcluqg",
+            "title": "GitHub - Wan-Video/Wan2.1: Wan: Open and Advanced Large-Scale Video Generative Models · GitHub",
+            "anchor": "Blog",
+            "domain_rating": 97
+          },
+          {
+            "from_url": "https://iavanzados.com/wan-ai/",
+            "to_url": "https://wan.video/",
+            "title": "Wan AI: Genera vídeos realistas con IA Open Source",
+            "anchor": "web oficial de Wan AI",
+            "domain_rating": 14
+          },
+          {
+            "from_url": "https://iaempresa.com/6-ias-gratis-de-china",
+            "to_url": "https://wan.video/",
+            "title": "7 IAs chinas gratis en español: comparativa 2026",
+            "anchor": "Abrir Wan",
+            "domain_rating": 0
+          },
+          {
+            "from_url": "https://webcatalog.io/de/apps/wan-video",
+            "to_url": "https://wan.video/",
+            "title": "Wan.Video - Desktop-App für Mac & Windows - WebCatalog",
+            "anchor": "wan.video",
+            "domain_rating": 58
+          },
+          {
+            "from_url": "https://cs.wikipedia.org/wiki/Velk%C3%BD_jazykov%C3%BD_model",
+            "to_url": "https://wan.video/",
+            "title": "Velký jazykový model",
+            "anchor": "Dostupné online",
+            "domain_rating": 97
+          },
+          {
+            "from_url": "https://www.alibabacloud.com/en/solutions/generative-ai?_p_lc=1",
+            "to_url": "https://wan.video/",
+            "title": "Alibaba Cloud for Generative AI - Alibaba Cloud",
+            "anchor": "Start Your AI Creation With Wan",
+            "domain_rating": 91
+          },
+          {
+            "from_url": "https://www.whytryai.com/p/free-ai-image-to-video-tools-tested",
+            "to_url": "https://wan.video/introduction/wan2.6",
+            "title": "20 Free Image-to-Video AI Models: Tested & Ranked",
+            "anchor": "upgraded from Wan 2.1 to 2.6",
+            "domain_rating": 37
+          },
+          {
+            "from_url": "https://www.synthesia.io/post/best-ai-video-generators",
+            "to_url": "https://wan.video/",
+            "title": "The 12 Best AI Video Generators in 2026 (Tried & Tested)",
+            "anchor": "Try Wan with daily free credits",
+            "domain_rating": 85
+          },
+          {
+            "from_url": "https://www.atlascloud.ai/zh-TW/blog/tips/10-best-ai-video-generators-free-no-subscription-in-2026",
+            "to_url": "https://wan.video/",
+            "title": "2026 年 10 大最佳 AI 影片產生器（免費、付費與免訂閱方案） - Atlas Cloud Blog",
+            "anchor": "wan 官網",
+            "domain_rating": 64
+          },
+          {
+            "from_url": "https://habr.com/ru/articles/987096/",
+            "to_url": "https://wan.video/",
+            "title": "ТОП-10 лучших нейросетей для видео в 2026 году / Хабр",
+            "anchor": "wan.video",
+            "domain_rating": 88
+          },
+          {
+            "from_url": "https://gauravtiwari.org/ai-video-generators/",
+            "to_url": "https://wan.video/",
+            "title": "Best AI Text to Video Generators in 2026: 20+ Tools by Job",
+            "anchor": "Try Wan",
+            "domain_rating": 60
+          },
+          {
+            "from_url": "https://haoyi-duan.github.io/WorldScore/",
+            "to_url": "https://wan.video/",
+            "title": "WorldScore",
+            "anchor": "Wan2.1",
+            "domain_rating": 94
+          },
+          {
+            "from_url": "https://wanaivideo.online/",
+            "to_url": "https://wan.video/features",
+            "title": "WanAI Video — AI Video & Image Generation (Wan · Qwen)",
+            "anchor": "Wan features »",
+            "domain_rating": 0
+          },
+          {
+            "from_url": "https://ai-rockstars.de/alibaba-wan-ai/",
+            "to_url": "https://wan.video/",
+            "title": "Alibaba definiert visuelle KI neu: Wan AI setzt Maßstäbe für Content-Kreativität - ai-rockstars.de",
+            "anchor": "Wan AI",
+            "domain_rating": 9
+          }
+        ]
+      },
+      "backlinks_evidence": "domains/wan.video/backlinks.json"
+    },
+    "pages": [
+      {
+        "kind": "home",
+        "label": "首页",
+        "path": "products/wan/pages/home.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://wan.video/",
+          "resolved_url": "https://wan.video/",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Wan AI: Leading AI Video Generation Model"
+        },
+        "content": "官网同时提供生成试用、移动端、开源和 API 平台入口。"
+      },
+      {
+        "kind": "pricing",
+        "label": "定价资料",
+        "path": "products/wan/pages/pricing.json",
+        "status": "limited",
+        "reason": "正文被上游截断",
+        "source": {
+          "requested_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+          "resolved_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Alibaba Cloud Model Studio model pricing - Alibaba Cloud Model Studio - Alibaba Cloud Documentation Center"
+        },
+        "content": "已保存官网来源；本公开版不转载页面全文。"
+      }
+    ],
+    "searches": [],
+    "issues": [],
+    "screenshot": null,
+    "product_entry_links": []
+  },
+  "metrics": {
+    "visits": 1736088,
+    "mom": -0.20448471918267697,
+    "change3": -0.432519681024237,
+    "rolling3": -0.29065469330097415,
+    "recent_average": 2095643.6666666667,
+    "prior_average": 2954335.0,
+    "up_streak": 0,
+    "derived_channels": {
+      "search_paid_visits": 0,
+      "social_paid_visits": 868.044,
+      "search_organic_visits": 412147.2912,
+      "social_organic_visits": 116838.7224,
+      "direct_visits": 905717.1096000001
+    },
+    "scope": "site",
+    "profile": "视频生成模型及产品入口；官网与模型计价资料分别保存。",
+    "profile_source": "products/wan/pages/home.json"
+  },
+  "editorial": {
+    "thesis": "网页、移动端、开源与 API 四类入口覆盖不同用户，单一站点不足以量化模型采用。",
+    "focus": "官网公开各入口，但站点访问不能覆盖开源下载、本地部署和第三方 API。需要分别追踪终端创作与开发者采用。",
+    "experiment": "为一个模型任务同时提供网页示例、API 样例和可复用参数，保持输出规格一致。",
+    "measure": "示例到 API 首次成功调用率、重复调用率与每次合格输出成本。",
+    "watch": "开源版本、API 入口、移动端入口与时长/参考控制能力。"
+  },
+  "activities": [
+    {
+      "product_id": "wan",
+      "type": "developer",
+      "title": "网页、移动 App、开源与 API 多入口",
+      "detail": "官网同时提供生成试用、移动端、开源和 API 平台入口。",
+      "anchors": [
+        "Open Source",
+        "API Platform",
+        "Download Wan"
+      ],
+      "source": "products/wan/pages/home.json",
+      "event_date": null,
+      "id": "activity-19",
+      "source_url": "https://wan.video/",
+      "observed_at": "2026-10-02"
+    }
+  ],
+  "x_posts": []
+}

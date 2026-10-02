@@ -1,0 +1,158 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "invideo.io",
+  "measurement": "第三方外链样本",
+  "data": {
+    "domain": "invideo.io",
+    "overview": {
+      "domain_rating": 87,
+      "backlinks": 455313,
+      "referring_domains": 36241,
+      "dofollow_backlinks_pct": 81,
+      "dofollow_referring_domains_pct": 82
+    },
+    "backlinks": [
+      {
+        "from_url": "https://play.google.com/store/apps/details?id=io.invideo.ai&hl=en_IN",
+        "to_url": "https://invideo.io/privacy-policy/",
+        "title": "invideo AI: AI Video Generator – Apps on Google Play",
+        "anchor": "shieldPrivacy Policy",
+        "domain_rating": 100
+      },
+      {
+        "from_url": "https://codimd.apps.education.fr/s/r1H5nglAY",
+        "to_url": "https://invideo.io/",
+        "title": "Une sélection d’IA génératives gratuites en ligne - CodiMD",
+        "anchor": "Invideo",
+        "domain_rating": 85
+      },
+      {
+        "from_url": "https://openai.com/index/invideo-ai/",
+        "to_url": "https://invideo.io/",
+        "title": "Invideo AI enables anyone with an idea to produce high-quality videos | OpenAI",
+        "anchor": "Invideo AI⁠(opens in a new window)",
+        "domain_rating": 93
+      },
+      {
+        "from_url": "https://apps.apple.com/in/app/invideo-ai-ai-video-generator/id6471394316",
+        "to_url": "https://ai.invideo.io/",
+        "title": "‎invideo AI: AI Video Generator App - App Store",
+        "anchor": "Developer Website",
+        "domain_rating": 97
+      },
+      {
+        "from_url": "https://www.goodfirms.co/video-editing-software/",
+        "to_url": "https://invideo.io/",
+        "title": "Best Video Editing Software 2026 | Top Free Video Editors & Online Tools",
+        "anchor": "Vendor pricing page",
+        "domain_rating": 86
+      },
+      {
+        "from_url": "https://www.datacamp.com/blog/free-ai-tools",
+        "to_url": "https://invideo.io/",
+        "title": "The 40 Best Free AI Tools in 2026: A Complete Guide | DataCamp",
+        "anchor": "Invideo AI",
+        "domain_rating": 85
+      },
+      {
+        "from_url": "https://invideo-ai.en.uptodown.com/android",
+        "to_url": "https://ai.invideo.io/",
+        "title": "invideo AI for Android - Download the APK from Uptodown",
+        "anchor": "invideo AI",
+        "domain_rating": 83
+      },
+      {
+        "from_url": "https://www.tastyedits.com/best-online-video-editors/",
+        "to_url": "https://invideo.io/",
+        "title": "The Best Online Video Editors – Tasty Edits",
+        "anchor": "InVideo",
+        "domain_rating": 52
+      },
+      {
+        "from_url": "https://justdeleteme.xyz/",
+        "to_url": "https://help.invideo.io/articles/56692-how-do-i-delete-my-account",
+        "title": "Just Delete Me | A directory of direct links to delete your account from web services.",
+        "anchor": "InVideo URL",
+        "domain_rating": 55
+      },
+      {
+        "from_url": "https://www.nemovideo.com/ja-JP/blog/twitter-video-tools-ranking-2026",
+        "to_url": "https://invideo.io/jp/make/ai-video-generator/",
+        "title": "Twitterビデオツール おすすめランキング2026 | 無料・有料比較",
+        "anchor": "InVideo AI",
+        "domain_rating": 32
+      },
+      {
+        "from_url": "https://www.decktopus.com/blog/stunning-presentation",
+        "to_url": "https://invideo.io/make/slideshow-maker/",
+        "title": "How AI Can Help Create A Stunning Presentation In 2026 - Decktopus AI",
+        "anchor": "creating a slideshow",
+        "domain_rating": 73
+      },
+      {
+        "from_url": "https://blog.videorock.com/best-free-ai-video-generator",
+        "to_url": "https://invideo.io/",
+        "title": "Discover the Best Free AI Video Generator",
+        "anchor": "InVideo",
+        "domain_rating": 18
+      },
+      {
+        "from_url": "https://www.selecthub.com/p/ai-video-generator-software/invideo-ai/",
+        "to_url": "https://invideo.io/make/ai-video-generator/",
+        "title": "invideo AI Reviews 2026: Pricing, Features & More",
+        "anchor": "Request for Free",
+        "domain_rating": 74
+      },
+      {
+        "from_url": "https://videolab.tec.mx/es/como-disenar-una-infografia-en-6-pasos",
+        "to_url": "https://invideo.io/",
+        "title": "Cómo diseñar una infografía en 6 pasos | Videolab | Tecnológico de Monterrey",
+        "anchor": "InVideo",
+        "domain_rating": 80
+      },
+      {
+        "from_url": "https://www.veedyou.com/online-video-editing-tools/",
+        "to_url": "https://invideo.io/",
+        "title": "7 Online Video Editing & Creation Tools You Need To Try",
+        "anchor": "InVideo",
+        "domain_rating": 68
+      },
+      {
+        "from_url": "https://filmora.wondershare.fr/ai/ai-video-editing-tool-invideo-review.html",
+        "to_url": "https://invideo.io/",
+        "title": "InVideo AI : créer les meilleures vidéos YouTube grâce à l'IA",
+        "anchor": "InVideo for YouTube",
+        "domain_rating": 62
+      },
+      {
+        "from_url": "https://blog.aintellitech.com/best-free-ai-video-generators/",
+        "to_url": "https://invideo.io/",
+        "title": "Best FREE AI Video Generators that you should never miss - Blogs AIntelliTech",
+        "anchor": "InVideo",
+        "domain_rating": 0
+      },
+      {
+        "from_url": "https://tactiq.io/learn/funny-ms-teams-background",
+        "to_url": "https://invideo.io/make/ai-image-generator/",
+        "title": "Top 30+ Funny Backgrounds for Your MS Teams Meeting (2026 Edition)",
+        "anchor": "AI background generators",
+        "domain_rating": 72
+      },
+      {
+        "from_url": "https://swiftask.ai/blog/video-creator",
+        "to_url": "https://invideo.io/",
+        "title": "Video creator: top 20 AI tools for your professional content",
+        "anchor": "InVideo",
+        "domain_rating": 37
+      },
+      {
+        "from_url": "https://sendfame.com/blog/ai-video-generator-free",
+        "to_url": "https://invideo.io/",
+        "title": "The 12 Best AI Video Generator Free Tools of 2025",
+        "anchor": "https://invideo.io",
+        "domain_rating": 53
+      }
+    ]
+  }
+}

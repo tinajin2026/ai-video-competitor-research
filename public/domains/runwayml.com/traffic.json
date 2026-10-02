@@ -1,0 +1,145 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "runwayml.com",
+  "measurement": "第三方域名级估算",
+  "data": {
+    "domain": "runwayml.com",
+    "overview": {
+      "global_rank": 7435,
+      "country_rank": {
+        "country": "US",
+        "rank": 7197
+      },
+      "visits": 5615718,
+      "bounce_rate": 0.30579912212194305,
+      "pages_per_visit": 7.558232049148925,
+      "time_on_site_seconds": 395.5657733476931,
+      "month": "2026-08"
+    },
+    "monthly_visits": [
+      {
+        "month": "2025-09",
+        "visits": 6302883
+      },
+      {
+        "month": "2025-10",
+        "visits": 8280072
+      },
+      {
+        "month": "2025-11",
+        "visits": 6120334
+      },
+      {
+        "month": "2025-12",
+        "visits": 5889418
+      },
+      {
+        "month": "2026-01",
+        "visits": 5722456
+      },
+      {
+        "month": "2026-02",
+        "visits": 5031280
+      },
+      {
+        "month": "2026-03",
+        "visits": 6184481
+      },
+      {
+        "month": "2026-04",
+        "visits": 6723168
+      },
+      {
+        "month": "2026-05",
+        "visits": 8196825
+      },
+      {
+        "month": "2026-06",
+        "visits": 6515100
+      },
+      {
+        "month": "2026-07",
+        "visits": 6105539
+      },
+      {
+        "month": "2026-08",
+        "visits": 5615718
+      }
+    ],
+    "traffic_sources": {
+      "direct": 0.4114,
+      "search": 0.1798,
+      "search_organic": 0.1496,
+      "search_paid": 0.0302,
+      "social": 0.0591,
+      "social_organic": 0.0561,
+      "social_paid": 0.003,
+      "referrals": 0.1749,
+      "paid_referrals": 0.0974,
+      "mail": 0.0141,
+      "gen_ai": 0.0628,
+      "affiliate": 0.0006,
+      "other": 0
+    },
+    "top_keywords": [
+      {
+        "name": "runway",
+        "volume": 930380,
+        "cpc": 0.78,
+        "estimated_value": 151520
+      },
+      {
+        "name": "runwayml",
+        "volume": 45890,
+        "cpc": 0.55,
+        "estimated_value": 49220
+      },
+      {
+        "name": "runway ml",
+        "volume": 69570,
+        "cpc": 0.7,
+        "estimated_value": 42800
+      },
+      {
+        "name": "runway ai",
+        "volume": 98890,
+        "cpc": 1.21,
+        "estimated_value": 28680
+      },
+      {
+        "name": "runaway",
+        "volume": 96250,
+        "cpc": 1.02,
+        "estimated_value": 10920
+      }
+    ],
+    "top_regions": [
+      {
+        "country": "US",
+        "name": "United States",
+        "share": 0.2313
+      },
+      {
+        "country": "IN",
+        "name": "India",
+        "share": 0.0835
+      },
+      {
+        "country": "DE",
+        "name": "Germany",
+        "share": 0.0585
+      },
+      {
+        "country": "KR",
+        "name": "Korea, Republic of",
+        "share": 0.0427
+      },
+      {
+        "country": "FR",
+        "name": "France",
+        "share": 0.0373
+      }
+    ]
+  }
+}

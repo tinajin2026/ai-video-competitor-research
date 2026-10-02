@@ -1,0 +1,142 @@
+{
+  "provider": "TabAPI",
+  "observed_at": "2026-10-02",
+  "domain": "magnific.com",
+  "measurement": "第三方域名级估算",
+  "data": {
+    "domain": "magnific.com",
+    "overview": {
+      "global_rank": null,
+      "country_rank": null,
+      "visits": 82619033,
+      "bounce_rate": 0.29360400158361905,
+      "pages_per_visit": 8.76120574154183,
+      "time_on_site_seconds": 514.9989980887037,
+      "month": "2026-08"
+    },
+    "monthly_visits": [
+      {
+        "month": "2025-09",
+        "visits": 0
+      },
+      {
+        "month": "2025-10",
+        "visits": 73
+      },
+      {
+        "month": "2025-11",
+        "visits": 572
+      },
+      {
+        "month": "2025-12",
+        "visits": 0
+      },
+      {
+        "month": "2026-01",
+        "visits": 0
+      },
+      {
+        "month": "2026-02",
+        "visits": 0
+      },
+      {
+        "month": "2026-03",
+        "visits": 0
+      },
+      {
+        "month": "2026-04",
+        "visits": 9418112
+      },
+      {
+        "month": "2026-05",
+        "visits": 105081872
+      },
+      {
+        "month": "2026-06",
+        "visits": 97041114
+      },
+      {
+        "month": "2026-07",
+        "visits": 89963989
+      },
+      {
+        "month": "2026-08",
+        "visits": 82619033
+      }
+    ],
+    "traffic_sources": {
+      "direct": 0.4109,
+      "search": 0.4228,
+      "search_organic": 0.4034,
+      "search_paid": 0.0194,
+      "social": 0.0571,
+      "social_organic": 0.0567,
+      "social_paid": 0.0004,
+      "referrals": 0.0226,
+      "paid_referrals": 0.0619,
+      "mail": 0.0071,
+      "gen_ai": 0.0172,
+      "affiliate": 0.0003,
+      "other": 0
+    },
+    "top_keywords": [
+      {
+        "name": "freepik",
+        "volume": 3277080,
+        "cpc": 0.59,
+        "estimated_value": 3146150
+      },
+      {
+        "name": "magnific",
+        "volume": 898100,
+        "cpc": 0.79,
+        "estimated_value": 1081500
+      },
+      {
+        "name": "magnific ai",
+        "volume": 148710,
+        "cpc": 0.88,
+        "estimated_value": 130530
+      },
+      {
+        "name": "freepick",
+        "volume": 105070,
+        "cpc": 0.63,
+        "estimated_value": 96350
+      },
+      {
+        "name": "80",
+        "volume": 118680,
+        "cpc": 0.53,
+        "estimated_value": 72520
+      }
+    ],
+    "top_regions": [
+      {
+        "country": "IN",
+        "name": "India",
+        "share": 0.1288
+      },
+      {
+        "country": "BR",
+        "name": "Brazil",
+        "share": 0.1042
+      },
+      {
+        "country": "US",
+        "name": "United States",
+        "share": 0.0814
+      },
+      {
+        "country": "ID",
+        "name": "Indonesia",
+        "share": 0.0511
+      },
+      {
+        "country": "MX",
+        "name": "Mexico",
+        "share": 0.0399
+      }
+    ]
+  }
+}

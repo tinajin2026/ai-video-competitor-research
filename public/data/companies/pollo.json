@@ -1,0 +1,409 @@
+{
+  "schema_version": 1,
+  "product": {
+    "id": "pollo",
+    "name": "Pollo.ai",
+    "x_handle": "itsPolloAI",
+    "homepage": "https://pollo.ai/",
+    "ads_priority": false,
+    "traffic_domain": "pollo.ai",
+    "additional_domains": [],
+    "scope_note": "域名级流量估算，非付费用户、收入或模型调用量。",
+    "shared_scope": false,
+    "domain_data": {
+      "domain": "pollo.ai",
+      "traffic": {
+        "domain": "pollo.ai",
+        "overview": {
+          "global_rank": 5857,
+          "country_rank": {
+            "country": "ID",
+            "rank": 894
+          },
+          "visits": 8285652,
+          "bounce_rate": 0.16972058999642742,
+          "pages_per_visit": 10.533684494593787,
+          "time_on_site_seconds": 340.14523780941494,
+          "month": "2026-08"
+        },
+        "monthly_visits": [
+          {
+            "month": "2025-09",
+            "visits": 6285459
+          },
+          {
+            "month": "2025-10",
+            "visits": 6817698
+          },
+          {
+            "month": "2025-11",
+            "visits": 6237239
+          },
+          {
+            "month": "2025-12",
+            "visits": 6403746
+          },
+          {
+            "month": "2026-01",
+            "visits": 6480122
+          },
+          {
+            "month": "2026-02",
+            "visits": 7010317
+          },
+          {
+            "month": "2026-03",
+            "visits": 9505164
+          },
+          {
+            "month": "2026-04",
+            "visits": 6648475
+          },
+          {
+            "month": "2026-05",
+            "visits": 7703727
+          },
+          {
+            "month": "2026-06",
+            "visits": 8427694
+          },
+          {
+            "month": "2026-07",
+            "visits": 8132935
+          },
+          {
+            "month": "2026-08",
+            "visits": 8285652
+          }
+        ],
+        "traffic_sources": {
+          "direct": 0.4509,
+          "search": 0.3882,
+          "search_organic": 0.1563,
+          "search_paid": 0.2319,
+          "social": 0.0487,
+          "social_organic": 0.0359,
+          "social_paid": 0.0128,
+          "referrals": 0.0444,
+          "paid_referrals": 0.0519,
+          "mail": 0.0039,
+          "gen_ai": 0.0117,
+          "affiliate": 0.0004,
+          "other": 0
+        },
+        "top_keywords": [
+          {
+            "name": "pollo ai",
+            "volume": 128560,
+            "cpc": 0.4,
+            "estimated_value": 236050
+          },
+          {
+            "name": "pixverse ai",
+            "volume": 125080,
+            "cpc": 0.2,
+            "estimated_value": 56370
+          },
+          {
+            "name": "google flow",
+            "volume": 7792060,
+            "cpc": 0.35,
+            "estimated_value": 23760
+          },
+          {
+            "name": "hailuo ai",
+            "volume": 302770,
+            "cpc": 0.26,
+            "estimated_value": 21440
+          },
+          {
+            "name": "grok",
+            "volume": 10071720,
+            "cpc": 0.82,
+            "estimated_value": 21020
+          }
+        ],
+        "top_regions": [
+          {
+            "country": "JP",
+            "name": "Japan",
+            "share": 0.2468
+          },
+          {
+            "country": "US",
+            "name": "United States",
+            "share": 0.0839
+          },
+          {
+            "country": "DE",
+            "name": "Germany",
+            "share": 0.0479
+          },
+          {
+            "country": "RU",
+            "name": "Russia",
+            "share": 0.0476
+          },
+          {
+            "country": "IN",
+            "name": "India",
+            "share": 0.0466
+          }
+        ]
+      },
+      "traffic_evidence": "domains/pollo.ai/traffic.json",
+      "traffic_status": "ok",
+      "registration_date": "2023-11-22T05:45:21Z",
+      "backlinks": {
+        "domain": "pollo.ai",
+        "overview": {
+          "domain_rating": 76,
+          "backlinks": 689486,
+          "referring_domains": 10824,
+          "dofollow_backlinks_pct": 69,
+          "dofollow_referring_domains_pct": 73
+        },
+        "backlinks": [
+          {
+            "from_url": "https://codimd.apps.education.fr/s/r1H5nglAY",
+            "to_url": "https://pollo.ai/",
+            "title": "Une sélection d’IA génératives gratuites en ligne - CodiMD",
+            "anchor": "Pollo.ai",
+            "domain_rating": 85
+          },
+          {
+            "from_url": "https://www.eesel.ai/blog/pika-ai",
+            "to_url": "https://pollo.ai/m/pika-ai",
+            "title": "What is Pika AI? A deep dive into the AI video generator | eesel AI",
+            "anchor": "surprisingly decent tools",
+            "domain_rating": 74
+          },
+          {
+            "from_url": "https://bigjpg.ai/",
+            "to_url": "https://pollo.ai/",
+            "title": "BigJpg AI",
+            "anchor": "🍌 AI Generate · Retouch · Video — All-in-One. No limits. IYKYK→",
+            "domain_rating": 17
+          },
+          {
+            "from_url": "https://higgsfield.cc/",
+            "to_url": "https://pollo.ai/",
+            "title": "Higgsfield - Transform Video Creation with AI",
+            "anchor": "Try Free",
+            "domain_rating": 6
+          },
+          {
+            "from_url": "https://topapps.fr/apps/histovec",
+            "to_url": "https://pollo.ai/?ref=oti5zjn",
+            "title": "HistoVec : l'historique officiel d'un véhicule (gratuit) | TopApps",
+            "anchor": "Visiter le site",
+            "domain_rating": 5
+          },
+          {
+            "from_url": "https://ai-gaido.com/best-free-ai-caricature-makers/",
+            "to_url": "https://pollo.ai/ja/photo-effects/ai-caricature-maker?ref=nwq0nmm",
+            "title": "👤 【2025年最新】似顔絵メーカー無料おすすめ12選！AI写真変換で簡単に似顔絵作成する方法徹底解説 - AIガイド",
+            "anchor": "AIがあなたの似顔絵を描く 🎨 今すぐ無料体験→",
+            "domain_rating": 8
+          },
+          {
+            "from_url": "https://manaosoftware.com/ai-image-generation-tools-ux-ui-workflows-2026/",
+            "to_url": "https://pollo.ai/app/ai-image?language=en&campaignid=570517857&adgroupid=1173180869022033&keyword=leonardo%20ai.com&device=c",
+            "title": "Best AI Image Generation Tools for UX/UI Designers in 2026",
+            "anchor": "Leonardo AI",
+            "domain_rating": 27
+          },
+          {
+            "from_url": "https://comfyuiweb.com/",
+            "to_url": "https://pollo.ai/",
+            "title": "AI Video & Image Generator Online Free | ComfyUI Web",
+            "anchor": "Pollo AI",
+            "domain_rating": 21
+          },
+          {
+            "from_url": "https://aimadesimple0.substack.com/p/i-tested-tons-of-ai-image-generators",
+            "to_url": "https://pollo.ai/",
+            "title": "I Tested Tons of AI Image Generators - These 10 Are the Best by Far",
+            "anchor": "Image generated by Pollo AI",
+            "domain_rating": 94
+          },
+          {
+            "from_url": "https://beverlyboy.com/blog/uncrop-review-a-free-ai-image-extender-that-transforms-your-photos/",
+            "to_url": "https://pollo.ai/uncrop",
+            "title": "Uncrop Review: A Free AI Image Extender That Transforms Your Photos",
+            "anchor": "Uncrop.org",
+            "domain_rating": 52
+          },
+          {
+            "from_url": "https://usesuno.com/tools/downloader/",
+            "to_url": "https://pollo.ai/?ref=odk3njk&tap_s=10484435-d36c39&tm_source=tools",
+            "title": "Suno Downloader — Download Suno Songs as MP3 & MP4",
+            "anchor": "Affiliate Partner · Pollo AI Give your song a music video. Upload your song · AI storyboard · Synced lyrics Make my music video →",
+            "domain_rating": 12
+          },
+          {
+            "from_url": "https://happyaddons.com/free-ai-tools-to-generate-images/",
+            "to_url": "https://pollo.ai/ai-image-generator",
+            "title": "10 Free AI Tools to Generate Images and Web Design Elements",
+            "anchor": "Midjourney",
+            "domain_rating": 74
+          },
+          {
+            "from_url": "https://www.ilounge.com/articles/faceswap-review-is-it-the-ultimate-face-swap-ai-tool",
+            "to_url": "https://pollo.ai/photo-face-swap",
+            "title": "FaceSwap Review: Is It the Ultimate Face Swap AI Tool? | iLounge",
+            "anchor": "FaceSwap",
+            "domain_rating": 71
+          },
+          {
+            "from_url": "https://www.magazinevideo.com/actu/5-generateurs-d-images-ia-gratuits-qui-offrent-une-qualite-impressionnante/48076.htm",
+            "to_url": "https://pollo.ai/fr/ai-image-generator",
+            "title": "5 Générateurs dimages IA gratuits qui offrent une qualité impressionnante - MAGAZINEVIDEO",
+            "anchor": "Midjourney",
+            "domain_rating": 32
+          },
+          {
+            "from_url": "https://aitools.aiting.com/fr/ai/pollo",
+            "to_url": "https://pollo.ai/",
+            "title": "Pollo AI : Générateur vidéo et image tout‑en‑un pour créatifs et équipes | AiTing AI",
+            "anchor": "Site web ouvert",
+            "domain_rating": 38
+          },
+          {
+            "from_url": "https://play.google.com/store/apps/details?id=ai.pollo.ai&hl=en",
+            "to_url": "https://pollo.ai/privacy-policy",
+            "title": "Pollo AI-Image&Video Generator - Apps on Google Play",
+            "anchor": "shieldPrivacy Policy",
+            "domain_rating": 100
+          },
+          {
+            "from_url": "https://www.lovequotesking.com/category/tech/",
+            "to_url": "https://pollo.ai/ai-image-generator",
+            "title": "Tech - Love Quotes King",
+            "anchor": "AI image generator",
+            "domain_rating": 59
+          },
+          {
+            "from_url": "https://wa2.ai/ai-it-tools/pollo-ai",
+            "to_url": "https://pollo.ai/ja/api-platform/pricing",
+            "title": "Pollo AI",
+            "anchor": "詳細はこちら",
+            "domain_rating": 11
+          },
+          {
+            "from_url": "https://morsecodee.com/ru/morse-code",
+            "to_url": "https://pollo.ai/",
+            "title": "Изучите Азбука Морзе Переводчик, Алфавит, Буквы, Цифры",
+            "anchor": "Your One-Stop AI Image & Video Creation Platform Your One-Stop AI Image & Video Creation Platform",
+            "domain_rating": 4
+          },
+          {
+            "from_url": "https://ponydiffusion.com/",
+            "to_url": "https://pollo.ai/",
+            "title": "Try Pony Diffusion V6 XL online for free | Pony Diffusion",
+            "anchor": "Pollo Logo Pollo AI: Transform your ideas into high-resolution, high-quality images and videosTry for Free",
+            "domain_rating": 20
+          }
+        ]
+      },
+      "backlinks_evidence": "domains/pollo.ai/backlinks.json"
+    },
+    "pages": [
+      {
+        "kind": "home",
+        "label": "首页",
+        "path": "products/pollo/pages/home.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://pollo.ai/",
+          "resolved_url": "https://pollo.ai/",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Pollo AI: The Ultimate AI Creative Suite for Creators & Marketers"
+        },
+        "content": "首页按创作者、营销、电商、机构组织工作流入口。\n首页提供 Pollo MCP 和移动 App 入口。"
+      },
+      {
+        "kind": "pricing",
+        "label": "定价资料",
+        "path": "products/pollo/pages/pricing.json",
+        "status": "ok",
+        "reason": "",
+        "source": {
+          "requested_url": "https://pollo.ai/pricing",
+          "resolved_url": "https://pollo.ai/pricing",
+          "http_status": 200
+        },
+        "page": {
+          "title": "Plans & Pricing | Pollo AI"
+        },
+        "content": "同一保存页面的顶部套餐与下方对照表价格不同。保留原文，暂不确定统一的最终付费价格。"
+      }
+    ],
+    "searches": [],
+    "issues": [],
+    "screenshot": null,
+    "product_entry_links": []
+  },
+  "metrics": {
+    "visits": 8285652,
+    "mom": 0.01877759996852313,
+    "change3": 0.0755381129159951,
+    "rolling3": 0.04145113924144006,
+    "recent_average": 8282093.666666667,
+    "prior_average": 7952455.333333333,
+    "up_streak": 1,
+    "derived_channels": {
+      "search_paid_visits": 1921442.6988,
+      "social_paid_visits": 106056.3456,
+      "search_organic_visits": 1295047.4076,
+      "social_organic_visits": 297454.9068,
+      "direct_visits": 3736000.4868
+    },
+    "scope": "site",
+    "profile": "面向创作者与营销人员的综合创作套件，覆盖图片、视频、声音和角色。",
+    "profile_source": "products/pollo/pages/home.json"
+  },
+  "editorial": {
+    "thesis": "多模型聚合之外，按营销任务组织入口是更直接的产品差异。",
+    "focus": "关键词样本同时出现 Pollo 与其他模型/产品名称，说明样本包含第三方模型需求；不能将它们统一记为自己的品牌词。MCP 与移动端是独立分发入口。",
+    "experiment": "为同一营销任务建立跨模型对比和默认工作流，跟踪从模型词页面进入的用户是否完成任务。",
+    "measure": "模型词页面到首次输出率、默认模型采用率、跨模型重试次数及每个成功成片的成本。",
+    "watch": "Workflow Apps 新增任务、第三方模型词变化及移动端承接入口。"
+  },
+  "activities": [
+    {
+      "product_id": "pollo",
+      "type": "workflow",
+      "title": "按营销任务组织 Workflow Apps",
+      "detail": "首页按创作者、营销、电商、机构组织工作流入口。",
+      "anchors": [
+        "workflow",
+        "E-commerce teams"
+      ],
+      "source": "products/pollo/pages/home.json",
+      "event_date": null,
+      "id": "activity-4",
+      "source_url": "https://pollo.ai/",
+      "observed_at": "2026-10-02"
+    },
+    {
+      "product_id": "pollo",
+      "type": "developer",
+      "title": "MCP 与移动端分发",
+      "detail": "首页提供 Pollo MCP 和移动 App 入口。",
+      "anchors": [
+        "POLLO MCP",
+        "Pollo app"
+      ],
+      "source": "products/pollo/pages/home.json",
+      "event_date": null,
+      "id": "activity-5",
+      "source_url": "https://pollo.ai/",
+      "observed_at": "2026-10-02"
+    }
+  ],
+  "x_posts": []
+}
