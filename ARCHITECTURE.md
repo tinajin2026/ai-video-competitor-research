@@ -18,4 +18,4 @@ build.py 确定性生成 public；test_site.py 校验覆盖、数值、引用、
 
 ## Sites 发布目录
 
-本地与 GitHub Pages 的构建目录为 `public/`。Sites 托管协议只接受其指定目录，因此发布归档将该目录逐文件映射为 `dist/`，并使用 `.openai/hosting.json` 的 `static: "dist"`。这仅改变归档路径，不改变页面内容或链接；无需在仓库维护第二份构建产物。
+本地与 GitHub Pages 的构建目录为 `public/`。Sites 托管协议只接受其指定目录，因此发布归档将该目录逐文件映射为 `dist/`，并使用 `.openai/hosting.json` 的 `static.directory: "dist"`。这仅改变归档路径，不改变页面内容或链接；无需在仓库维护第二份构建产物。
