@@ -122,7 +122,7 @@ components:
 - 工作台密集比较，独立研究页顺序阅读并保留操作入口。
 - 桌面并列呈现，手机顺序阅读，宽表格在局部容器滚动。
 
-实现依据：`src/dashboard.css`、`src/research.css`、`scripts/company_page.py`、`scripts/html_parts.py`、`scripts/build.py`；生成结果见 `public/index.html`、`public/companies/index.html`、`public/competitors/higgsfield/index.html`、`public/signals/index.html` 与 `public/methodology/index.html`。视觉核验材料位于 `../work/public-site-qa/` 的 `company-desktop.jpg`、`company-mobile.jpg`、`directory-desktop.jpg`、`directory-mobile.jpg`、`macro-desktop.jpg`；截图记录特定时刻，后续修正以源样式和重新构建结果为准。产品范围与数据约束由 `PRODUCT.md` 管理。
+实现依据：`src/dashboard.css`、`src/research.css`、`scripts/company_page.py`、`scripts/html_parts.py`、`scripts/build.py`；生成结果见 `public/index.html`、`public/companies/index.html`、`public/competitors/higgsfield/index.html`、`public/signals/index.html` 与 `public/methodology/index.html`。视觉核验材料位于 `../work/public-site-qa/` 的 `company-desktop.jpg`、`company-mobile.jpg`、`directory-desktop.jpg`、`directory-mobile.jpg`、`macro-desktop.jpg`，以及下方章节的 `company-acquisition.jpg`、`company-actions.jpg`、`company-experiments.jpg`、`acquisition-mobile.jpg`、`product-mobile.jpg` 与 `company-experiments-mobile.png`；截图记录特定时刻，后续修正以源样式和重新构建结果为准。产品范围与数据约束由 `PRODUCT.md` 管理。
 
 ## Colors
 
